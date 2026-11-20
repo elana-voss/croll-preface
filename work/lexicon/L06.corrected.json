@@ -1,0 +1,153 @@
+{"entries": [
+ {"headword": "philosophy", "spellings": ["Phylosophy", "Philosophy"], "senses": [
+  {"sense": "The knowledge of earth and water, as Astronomy is of the firmament and air (or fire and air); with Astronomy it makes a perfect philosopher of the great and the little world.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "CH1.4", "quote": "Phylosophy and Astronomy make up an internall and perfect Phylosopher"},
+   {"ref": "CH5.9", "quote": "Phylosophy teacheth the vertues and qualityes of the Earth and Water, as Astronomy doth of the fire and Ayre"}]},
+  {"sense": "A practical medicine that helps the physician to his remedies; called the mother of physicians.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "CH5.12", "quote": "For Phylosophy is a practicall Physicke helping the Physitian to any medicine in a readynesse"},
+   {"ref": "N202", "quote": "Phylosophy is the mother of Physitians"}]},
+  {"sense": "True philosophy: the mind's right knowledge of itself, grounded on Scripture and Christ and returning into God; at its end, knowing God and passing into him so as to be made, as it were, a God; it goes together with godliness and theology.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.1", "quote": "the most excellent Phylosophy is that which enlightens the mind to the right knowledge of it selfe"},
+   {"ref": "MICRO.8", "quote": "All true Phylosophy should be grounded on the Scriptures and so return into God"},
+   {"ref": "MICRO.8", "quote": "True Phylosophy must be grounded on Christ the corner stone"},
+   {"ref": "CH5.13", "quote": "this is true Theologicall Phylosophy"},
+   {"ref": "CH5.19", "quote": "Without Phylosophy it is impossible to be absolutely godly"},
+   {"ref": "CH6.66", "quote": "To know GOD himselfe the maker of all things, and passe into him with a full image of his likenesse"},
+   {"ref": "CH6.66", "quote": "this at last will prove the True and sollid Phylosophy"}]},
+  {"sense": "The philosophy of the Heathen: called polluted and corrupt, the spring of error, not to rule Christians.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.8", "quote": "because their Phylosophy and other abilities were polluted and corrupt"},
+   {"ref": "N089", "quote": "Christians should not be ruled by Heathen Phylosophy."},
+   {"ref": "CH5.12", "quote": "much lesse our Students of Heathenish Phylosophy from whence all errour springeth"}]}]},
+ {"headword": "heathen", "spellings": ["Heathen"], "senses": [
+  {"sense": "Those, set against Christians, who wrote on Nature: their writing is for the most part false, their philosophy corrupt, the light of truth not yet risen to them; they lack the Regeneration by which Christians truly know.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.8", "quote": "what the Heathen wrote concerning Nature is for the most part false, because their Phylosophy and other abilities were polluted and corrupt"},
+   {"ref": "MICRO.8", "quote": "the Light of Truth not yet risen to them, nor the Light of Nature as yet kindled by the holy Spirit"},
+   {"ref": "MICRO.8", "quote": "by the means of Regeneration which the Heathen have not"},
+   {"ref": "CH5.13", "quote": "not after the manner of the Heathen in hollow empty language and temporaneous Arts"}]},
+  {"sense": "Their loathsome errors are said to have been wiped away by men of greater wisdom who came after them.", "use": "plain", "reading": "Stated", "voice": "UNCLEAR", "evidence": [
+   {"ref": "CH5.4", "quote": "many loathsome errours of the Heathen have been as by a second song"},
+   {"ref": "CH5.4", "quote": "wip'd away by men of greater wisdome coming after them"}]}]},
+ {"headword": "treasury", "spellings": ["Treasury"], "senses": [
+  {"sense": "The knowledge of God, called the store in which all things are laid up.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.9", "quote": "the knowledge of God is the Treasury of the whole world wherein all things are laid up"}]},
+  {"sense": "The Light of Nature, called the Treasury of God confirmed in the Scriptures.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "CH5.19", "quote": "The Light of Nature, which is the Treasury of God confirmed in the Scriptures, maketh a true Phylosopher"}]},
+  {"sense": "A store hidden and shut up within a man, to be fetched out by daily piety rather than sought outside. Interpreted (this reading's own inference): the narrowest reading is the things the same paragraph says men seek in vain without them, by books, masters and journeys, which they might possess within themselves; MICRO.1 speaks likewise of a treasure hid in man's earthen vessel.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "evidence": [
+   {"ref": "CH5.20", "quote": "fetch out that huge Talent and Treasury which is hid and shut up within themselvs"},
+   {"ref": "CH5.20", "quote": "should in vaine seek those things without them by many books, mortall masters, long journeys"},
+   {"ref": "CH5.20", "quote": "which yet inwardly they might possesse abundantly within themselves"},
+   {"ref": "MICRO.1", "quote": "who considerest not the Treasure that is hid in thy earthen vessell, and may thereout be digged"}]},
+  {"sense": "The author's heart as the inmost store from which he imparted what he learned.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "CH6.76", "quote": "imparted candidly from the intimate and inmost Armory or Treasury of my Heart"}]}]},
+ {"headword": "nothing", "spellings": ["Nothing", "Nothingnesse"], "senses": [
+  {"sense": "Man's own Nothing: what man comes to by turning from God to himself, joined with his own evil; a margin note says whatever is not God is Nothing.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.10", "quote": "learned by experience what his own proper Evill and Nothing was to his voluntary damage and perdition"},
+   {"ref": "CH5.22", "quote": "we should slide into our selves or the Creatures as claiming to our selves the property both of them and of our selves"},
+   {"ref": "CH5.22", "quote": "fall back into that vaine, wicked or our own Nothing"},
+   {"ref": "N299", "quote": "Whatsoever is not God, is Nothing, and ought to be esteemed as nothing."}]},
+  {"sense": "The most beautiful Nothing: the shadow and region of darkness and death, to be cast behind on returning to the Being of Beings.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "CH6.68", "quote": "till we have cast behind us the most beautifull Nothing (that is, the shadow and region of Darknesse and Death)"}]},
+  {"sense": "A Sea of Nothingness into which the friends of God cast themselves from divine love, with the fountain of the Abyss. Interpreted (this reading's own inference): a nothingness sought, not fled.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "evidence": [
+   {"ref": "CH6.68", "quote": "cast themselves headlong into the fountaine of the Abysse and into the Sea of Nihilitude or Nothingnesse"}]}]},
+ {"headword": "mean", "spellings": ["mean", "Mean"], "senses": [
+  {"sense": "A middle thing that shares in two extremes and joins them: the astral body, in which the intellectual soul and the earthly body are united into one man.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.17", "quote": "wherein the Intellectuall Soul and earthy Body like two Extreams are knit, glued and confederate together"},
+   {"ref": "MICRO.17", "quote": "in this third mean which partaketh of the other two they are coupled and united into one intire man"}]},
+  {"sense": "Our Saviour as the Mean by which alone God and man are united, sharing both natures.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "tags": ["note-only"], "evidence": [
+   {"ref": "N109", "quote": "Thus God and Man cannot be united but by a Mean, even our Saviour who partaketh of two Natures"}]},
+  {"sense": "The mean that fallen man turned from, to himself as the extreme. Several readings: (1) the middle place man was set in, between Time and Eternity, in the midst of the Paradise of this world (MICRO.10); (2) the unity man departed from, as a margin note puts the Fall as a going from Unity to Alterity (N212).", "use": "veiled", "reading": "several", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.10", "quote": "turning from the mean to (the extreame) himselfe"},
+   {"ref": "MICRO.10", "quote": "being set between Time and Eternity"},
+   {"ref": "MICRO.10", "quote": "that being set in the midst of the Paradice of this world"},
+   {"ref": "N212", "quote": "The Fall of Man and our great evill is to depart from Unity to Alterity."}]}]},
+ {"headword": "quintessence", "spellings": ["Quintessence", "Quint-Essence"], "senses": [
+  {"sense": "What God took out of all created things to make man; and man is called the Quintessence of the greater world, who may rule Heaven, not only imitate it.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.12", "quote": "took the Quintessence out of all things created and thereof fashioned and composed Man as the Prince and End of all these"},
+   {"ref": "MICRO.36", "quote": "whereas Man is the Quintessence of the greater world, it follows that Man may not onely imitate Heaven, but rule it also"}]},
+  {"sense": "In medicine: the soul that dwells in a medicine, its super-elemental mystery and the true inner balsam of our bodies, separated by art and fire from its body, husks and dregs.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "CH3.14", "quote": "from the Soul the Inhabitant thereof, the Super-elementall mystery the Quint-Essence, which is the true Internall, sutable, freindly and correspondent Balsom of our bodyes"},
+   {"ref": "N171", "quote": "so doth Fire the good from the bad, the Quint-Essence from the body"}]},
+  {"sense": "The Quint-Essence of Gold: a medicine that renews the whole body.", "use": "veiled", "reading": "Stated", "voice": "UNCLEAR", "evidence": [
+   {"ref": "CH5.36", "quote": "onely by the Quint-Essence of Gold which reneweth the whole body"}]}]},
+ {"headword": "Limus Terrae", "spellings": ["Limus Terrae", "Limo Terrae", "LIMO TERRAE", "limo terrae"], "senses": [
+  {"sense": "The slime, clay or dust of the earth out of which man was taken, which the text explains as the frame of the whole world, the great world, man's mortal father; it is two-fold, visible and invisible, and called a hidden secret thing.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.11", "quote": "drawn or taken (è limo terrae) out of the slime of the Earth or visible frame of the whole consisting of Heaven or Heavenly Sphaeres and the Earth"},
+   {"ref": "MICRO.22", "quote": "Man was created è Limo Terrae, out of the clay or dust of the Earth"},
+   {"ref": "MICRO.31", "quote": "ex LIMO TERRAE, out of the dust of the ground or great world as to the mortall Body which is visible and invisible"},
+   {"ref": "MICRO.17", "quote": "a Mortall one, which is the whole world with all the creatures, that is, that Limus Terrae, that slime of the earth, or hidden Secret thing"},
+   {"ref": "MICRO.23", "quote": "The Limus Terrae, or dust of the Earth, is two-fold, visible and invisible"}]},
+  {"sense": "Man himself, named with the Microcosm, as made up of all bodies and created things.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.12", "quote": "the Microcosm or Limus Terrae, Man is compacted of all bodies and created things"}]},
+  {"sense": "The earthly mind, set against the image or inspiration of the most High, after which the friends of God do not live.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "CH6.68", "quote": "who live after the Image or inspiration of the most High, and not after the Limus Terrae the Eearthy Mind"}]}]},
+ {"headword": "archetype", "spellings": ["Archetype"], "senses": [
+  {"sense": "The original copy and first pattern of the world, which the text says is the immortal Wisdom of God; called the true Archetype, from whom virtue is drawn by holiness.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.12", "quote": "he bears the Image of the Archetype or originall copy and patterne of the world, that is, of the immortall Wisdome of God himselfe"},
+   {"ref": "MICRO.17", "quote": "to some measure and number in the Archetype or first pattern"},
+   {"ref": "MICRO.36", "quote": "when by holinesse we draw vertue from him who is the true Archetype"}]},
+  {"sense": "The first of the three worlds man partakes of: the God-like world in God.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.24", "quote": "of the Archetype or God-like world in God"}]}]},
+ {"headword": "circle", "spellings": ["Circle", "Circles", "circle"], "senses": [
+  {"sense": "God as the Circle of all things he brought out of himself: he encloses and holds them all, as he is their Centre in that all flow from him.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.12", "quote": "God is the Center and Circle of all things that he brought out of himselfe"},
+   {"ref": "MICRO.12", "quote": "He is the Circle, because like an all-capacious Tabernacle he concludeth and comprehendeth all things"}]},
+  {"sense": "Man as the Circle of the creatures, in imitation of his Creator: he contains all things in himself and leads them back to their source.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.13", "quote": "Thus Man in imitation of his Creator is the Centre of the Creatures, and the Circle of them all"},
+   {"ref": "MICRO.13", "quote": "Man is said to be the Circle in that he containeth all things in himselfe, and with himselfe leadeth back all things that gushed out of that Summum Bonum"}]},
+  {"sense": "The circle as the many around one centre: man made out of the centre of all circles; the sciences recalled from the compass of the whole circle to the one centre. Interpreted (this reading's own inference): circle stands for the spread-out many, centre for the one they come from.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.11", "quote": "out of the Center of all Circles"},
+   {"ref": "CH5.14", "quote": "by a kind of divine copulation from the compasse of the whole circle unto the one only Centre"}]}]},
+ {"headword": "cottage", "spellings": ["cottage", "Cottage"], "senses": [
+  {"sense": "A body as the dwelling of what lives in it: the visible body as cottage of the soul and of life; the invisible sydereal body as cottage of the spirit's life.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.17", "quote": "Man hath a visible body from the Elements as a fit garment and sutable cottage for the Soul"},
+   {"ref": "MICRO.23", "quote": "He hath his Body or cottage from the Earth and Water; but the life that dwells therein is from the Aire and Firmament of Fire"},
+   {"ref": "MICRO.31", "quote": "the Invisible, Insensible, Sydereall body (which is the house or cottage of the Spirits life) is from the Astra's of the Firmament"}]},
+  {"sense": "The immortal soul as the dwelling of God, or of his Image or holy Spirit, in man.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.14", "quote": "an immortall Soule, which is the cottage of the Image of God or of the holy Spirit in Man"},
+   {"ref": "MICRO.24", "quote": "the house is the habitation of the Soule, the Soule is the habitation and cottage of God"}]},
+  {"sense": "The outer coat of a medicine, with its husks and dregs, to be separated from the soul that dwells in it.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "CH3.14", "quote": "the Coate aed Cottage of Physick which are enemyes to mans body from the Soul the Inhabitant thereof"}]}]},
+ {"headword": "Limbus", "spellings": ["Limbus"], "senses": [
+  {"sense": "Paracelsus' name for the First Matter, the seed of all things to be created, whose Earth was the Word of the Lord.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.17", "quote": "So the First Matter (which Paracelsus calleth the Limbus, whose Earth was the WORD of the Lord) was the seed of all things that were to be created"}]},
+  {"sense": "The greater world, from which man's first spirit comes.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "tags": ["note-only"], "evidence": [
+   {"ref": "N101", "quote": "The first Spirit is from the Limbus or greater world; the second from the word Fiat."}]},
+  {"sense": "The body of the Limbus, to be joined with the spiracle, called the Spirit of life, as in one marriage.", "use": "veiled", "reading": "Stated", "voice": "UNCLEAR", "tags": ["note-only"], "evidence": [
+   {"ref": "N122", "quote": "The Spirit of life is the Spiracle or breathing hole."},
+   {"ref": "N122", "quote": "The body of the Limbus & spiracle ought to make one Marriage"}]}]},
+ {"headword": "mind", "spellings": ["Mind", "MIND", "mind", "Minde"], "senses": [
+  {"sense": "The part of man from God, by which he is united with God: steersman of the soul; the soul turned into it draws near God, sees all things and needs no outward teaching; the man who lives in it alone is as an angel; held as the Image of Divinity, it brings blessedness.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.24", "quote": "He hath a Spirit or Mind from God; for what else is the Spirit of Man which God breathed into him but God himselfe dwelling in us?"},
+   {"ref": "MICRO.25", "quote": "The mind raised up into the most High God and united with him converseth with God, and doth the same works"},
+   {"ref": "N117", "quote": "Stern-man of the Soul or Rationall Spirit, & like the eternall God concludeth all Beings, Times and Places"},
+   {"ref": "MICRO.9", "quote": "Man whose mind by Christ is united to God, possesseth the true wisdome of all things"},
+   {"ref": "CH5.23", "quote": "If the Soule run back within it selfe and be converted into the Mind it draweth near to God, seeth all things, and hath no need of outward teaching"},
+   {"ref": "CH6.68", "quote": "the Man that liveth in nothing but the Mind, is as an Angel"},
+   {"ref": "CH6.68", "quote": "embracing its Image of Divinity or MIND united to GOD by Christ, we enjoy actuall Blessednesse"}]},
+  {"sense": "One MIND above every mind, in which all minds shall at last be one thing. Several readings: (1) God, since the same passage hastens to that which is one and perfect and goes on to call it the intimate vision of God; (2) only a oneness of all minds, the passage naming it no further.", "use": "veiled", "reading": "several", "voice": "CROLL", "evidence": [
+   {"ref": "CH6.68", "quote": "all minds, by an unanimous friendship, after an unutterable manner, shall be altogether but one thing, in one MIND which is above every MIND"},
+   {"ref": "CH6.68", "quote": "they hasten from the imperfect to that which is one and perfect"},
+   {"ref": "CH6.68", "quote": "It is the intimate vision of GOD, and the Intuitive knowledge of GOD"}]},
+  {"sense": "The earthly mind, named with Limus Terrae, after which the friends of God do not live.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "CH6.68", "quote": "not after the Limus Terrae the Eearthy Mind"}]}]},
+ {"headword": "magician", "spellings": ["Magician"], "senses": [
+  {"sense": "The true Magician, glossed as the wise man: one who alone can discern physic as a spirit, can draw the operation of the stars, stones and metals into the imagination, and is not below the angels in magical operation.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "CH4.6", "quote": "Physick is a Spirit (not a body) which the Magician or wise man only can discerne"},
+   {"ref": "MICRO.37", "quote": "the true Magician or wise Man can attract the operation of the Astra's, stones, mettalls, &c. into the Imagination"},
+   {"ref": "MICRO.24", "quote": "And if he be a true Magician, he is not inferiour to the Angells in all Magicall operation"}]}]},
+ {"headword": "Astral Man", "spellings": ["Astrall Man", "Astralick man"], "senses": [
+  {"sense": "The invisible astral body or sydereal spirit received from the firmament and stars, called the true man, since flesh and blood are not the man; it moves, guides and performs all skilful matters, is mortal, and is what Paracelsus is praised for having written of.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+   {"ref": "MICRO.27", "quote": "He participateth with the Firmament and Stars of whom he received that Astrall body or Syderiall Spirit, which is the true Astrall Man"},
+   {"ref": "MICRO.27", "quote": "for flesh and blood is not the Man, but the Spirit contained in them"},
+   {"ref": "MICRO.27", "quote": "This Spirit is mortall"},
+   {"ref": "MICRO.31", "quote": "an incorporeall Astralick man which moveth, guideth, and performeth all skilfull matters"},
+   {"ref": "CH5.12", "quote": "who alone since Noe's time hath written of the Internall Astrall Man"},
+   {"ref": "CH3.40", "quote": "nor know any thing of the Creation and composition of the internall Astrall Man"}]}]},
+ {"headword": "inner Man", "spellings": ["inner Man"], "senses": [
+  {"sense": "The inward man, said to be Heaven itself or all the stars, and to ascend the inward Heaven. Interpreted (this reading's own inference): the notes stand beside the passages on the sydereal or astral man, which MICRO.24 also calls the true internal man.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "tags": ["note-only"], "evidence": [
+   {"ref": "N124", "quote": "The inner Man is Heaven it selfe or all the Astras."},
+   {"ref": "N122", "quote": "The inner Man ascendeth the inward Heaven."},
+   {"ref": "MICRO.24", "quote": "The invisible Body or true Internall Man consisting of Reason and an Astrall Spirit, agreeth with the Angells"}]}]}
+],
+ "skipped": [],
+ "sections_read": ["OPEN", "CH1", "MICRO", "CH3", "CH4", "CH5", "CH6"], "end_marker": "END OF OUTPUT"}
