@@ -1,0 +1,103 @@
+# That One Only Chief Medicine of the Most Ancient Philosophers in Plain Language
+
+This page retells in everyday words what the author's preface says about one medicine: the single chief medicine he says the most ancient philosophers had. His list of topics gives it the sixth place, he sets it apart in his opening, the fifth chapter names its limit, and the sixth chapter treats it up to the close of the preface. The page titled [That One Only Chief Medicine of the Most Ancient Philosophers in Plain Terms](U2.md) gives the evidence for each point.
+
+## Is it made by a course of work?
+
+The study that divided the book into units found that the book marks a course of work, and that this medicine is the second of its two units: a medicine made by skill. It stands apart from the other healing art, which the book calls the True Physick, because it yields something different: one medicine that heals all diseases of what the book calls the humours. For this unit the study rests on a moist way of working, a joining of two things that the true philosophers require, a note about gold, and a road the book calls the King's Highway. It records that the steps of this course are told only in covered words.
+
+## In short
+
+The author ranks this medicine above all he offers himself; the most ancient philosophers had it from the beginning of the world. It does nothing once a person's set time to die has come. He never read of a greater gift of wisdom given to man, and by it all things may be done. God gives it to whom he will, and almost no one finds it. Those who knew it swore never to write it plainly. The true philosophers hold that it is reached only when two things, the fat or blood of the sun and the dew of the Lunary, are joined into one body, if God pleases. One drop of it brought a dying man to full health in one night. It heals all diseases of the humours, except at the set time of death or where God sends the disease as punishment. All the powers of creation are heaped together into one mass by skill. The philosophers of the school of Hermes say it may be the Fifth Essence, and the author says God created this Fifth Essence as the root of life. Holy men used it before the Flood, and Adam had it. At the close the author says it is not yet fully known and may be restored.
+
+## Above the author's own medicines
+
+The author says nothing in nature is choicer or more effective than the medicines he offers, except the universal medicine the most ancient philosophers had from the beginning of the world. His list of topics says many praise it but very few own, see or believe in it. Our reading is that this is a ranking: his own medicines are not this one, and he puts this one above them.
+
+## Its limit: the set time of death
+
+The book says no medicine keeps the body from death, the wages and punishment of sin. Yet one thing holds off decay, renews youth and lengthens life, as with the patriarchs. Against the fixed end of life even the universal medicine does nothing, since no skill can keep life and death joined forever.
+
+Two readings of that one thing are open. It may be this medicine, since the sixth chapter says holy men used it before the Flood. Or it may be something else, since the same passage names the universal medicine separately.
+
+The book also says weak natural heat in the body must be strengthened by the heat of sun and moon in the great world, if that could be had: a very simple matter God made from the spirit of the world. Our reading is that this matter is this medicine, since the sixth chapter says nearly the same of it, and that the doubt about having it means it is hard to come by.
+
+## The greatest gift of wisdom
+
+The author never read of a greater gift of wisdom given to man. It is the most secret of secrets, by which all things may be done. A margin note alone calls it a priceless jewel.
+
+It works first on what the book calls the planets of the lower astronomy, making their flaws and dross vanish, and it clears foreign and impure earthy matter from metal and human bodies. Second, it restores failing and lost health by its fiery strength. Our reading is that those lower planets are a covered name for metals, since the passage speaks of metal bodies and the chapter elsewhere of changing metals.
+
+A third use, magical and above the heavens, the author passes over. It comes when the beams of sun and moon have worked and the fourth turn is finished upon its native earth. Our reading is that this fourth turn is a stage, with more than one turn before it. As witnesses he gives the agreement of learned men, what many in his time have seen with their own eyes, and their writings, woven of picture-writing and of magical and mathematical coverings.
+
+## Who finds it
+
+Among thousands who seek, the book says, not one finds the doors of nature unlocked, for God gives and withholds his gifts as he will. A margin note says the one true way to all secrets is to turn to God.
+
+The book speaks of men who seek the Kingdom of God and study to find the heavenly stone in the last place. Two readings are open. The heavenly stone may be this medicine, to be sought last, after the Kingdom of God; a note says the whole nature of things shines in this stone. Or men put both last, and that is why none finds the doors unlocked. A later note, on its own, gives the same name to a beam or ray by which all impurity is cleared away.
+
+## The sworn secret
+
+The book calls this medicine a secret stored in mind and memory. The more hidden philosophers swore never to write it plainly, and told it only to those who understood speech in figures. As lords of things, it says, they may give names as they please. Our reading is that this warns the reader not to take the names of the medicine or its matter at face value.
+
+## What must be joined
+
+The true philosophers say no one reaches the goal until two things, which they call the fat or blood of the sun and the dew of the Lunary, are joined into one body. This is done by the circling wheel of the elements, by skill and nature together, in a six-sided form, and never unless God pleases. They set aside particular things, which lack the power the book calls tincturing unless they come from the first source. Our reading, the narrowest, is just that: two things joined into one by skill and nature, and particular things lacking that power unless they come from the first source.
+
+A margin note alone says the whole business turns on this, as gold brought to life by the salt of nature is the chief subject of the metal medicines of the philosophers. Three readings are open. It may name the chief subject of this medicine. It may speak of a class of metal medicines, this being one. Or its gold may be a plain name, or one given at the pleasure of the philosophers; this last turns on the single English word gold.
+
+## The wonder: one drop
+
+The book tells of the greatest wonder of nature worked by skill, among the many changes of the lower astronomy made in the cold, by the moist way of the ancients, not yet raised to what it calls the eye of the basilisk. One drop of a liquid, in which the scattered powers of all heavenly and earthly bodies were gathered and the whole world was centred, restored a man at the point of death to full health in one night.
+
+Our reading is that the moist way, worked cold and not yet raised, marks the course of making, with a further raising still to come. A note speaks of a basilisk that, like lightning, burns up any imperfect metal, and the book says the medicine works like lightning and the basilisk's eye. So that eye may name the medicine at full strength.
+
+The book calls it the kingly medicine and empress of all others, which raises bodies at once from any desperate disease, unless God has decreed otherwise. As a whole world made new, it can renew man, the small old world, until the death set for mortals for their sin. Our reading is that it holds the whole world in small, like the liquid in which the world was centred.
+
+## Every disease of the humours
+
+This medicine heals all diseases that come from corruption of what the book calls the humours, however hard to cure. The exceptions: when the sick person has reached the last term God set, or when God sends the disease, beyond nature, as punishment.
+
+## The maker and God
+
+The author agrees with what a philosopher he calls Lullius concluded: the maker and God, the first cause, must agree without conflict. He warns that two philosophers of his own time, from different nations, misused God's gifts and came to a miserable end.
+
+A margin note names the origin of what the book calls the Philosophical Magistery. Two readings are open, both resting on that note. It may be the first silence kept about it, which most now break by boasting. Or it may be its source, God moving the maker's mind.
+
+## The road and the one mass
+
+Many have been persuaded, the book says, that it is reached only when all the powers of creation flow together into one mass, on a road it calls the King's Highway; whose persuasion this is stays unclear. Those powers, heaped together by skill like a small world, bring knowledge of all natural and heavenly secrets and a perfect working. A margin note says skill must make up for what nature lacks. Our reading, taken with the liquid whose powers were gathered in a heap, is that the making gathers all powers into one mass by skill, where nature falls short.
+
+## The reason given by the school of Hermes
+
+The philosophers of the school of Hermes kept the secret in silence, yet gave a reason. In their words, the greatest medicine, made by skill with nature's help, should be, or is, the life and enlightening light. It may be the essence of our life: a fifth thing made from the four elements and holding them all, which the book calls the Fifth Essence. It stands to the body's four qualities as the heaven, which does not decay, stands to the four elements. Our reading is that the hedging words, should be or is and may be, are theirs, not the author's doubt.
+
+## What it is and what it is called
+
+The author says God created this fifth thing as the root of life in nature, to keep the body's four qualities, as he made the heaven to keep the universe. He calls it the mirror of God's mysteries, the wonder of all nature, the fifth essence of the whole frame of the world, the whole world made new, and the son of the sun and moon, who by rising to heaven and coming down to earth gained power over all things above and below.
+
+The passage then calls it the spirit of life that passes through all spirits, says a balm of life must be sought from outside to restore what is within, and says the doctors of his time knew nothing of it. From here on it is unclear whether the author speaks or still gives the reason of that school.
+
+Our reading is that the son of the sun and moon is the child of the two things joined, the fat or blood of the sun and the dew of the Lunary. Margin notes alone add names: one calls the tincture the fifth essence of the small world, and says Paracelsus calls it the guard against old age, the universal remedy that consumes all diseases like an unseen fire. Our reading, resting on a margin note, is that the stone, the tincture, the fifth essence, the Magistery and the universal medicine name one thing.
+
+## Long life, up to the set time
+
+The author speaks as a philosopher of natural death, the using-up of the body's moisture and heat, like a lamp burning out, not as a theologian of the fixed end God sets for each person. God made this medicine to keep life. It drives off every disease that causes natural death, until the last death, the most terrible of all terrible things. Many holy men used it before the Flood, and Adam had it in his household, as Lactantius testifies. A margin note alone, beside the name of a writing on elixirs and in a voice that is unclear, says it keeps the body from all chance decay.
+
+The fifth chapter denies any help against the fixed end; the sixth says this medicine keeps life. Our reading is that they agree once the two deaths are kept apart: it holds off natural death up to the fixed end, and does nothing against that end.
+
+## Not yet fully known
+
+The author has shared only as much as was lawful and God allowed. He hopes the ancient, true philosophical medicine, not yet fully known, may soon be restored to its old splendour with heaven's help. A margin note says much more remains to be said. Our reading is that these closing words concern this medicine, since they echo the chapter's title: lost to his age, still to be restored.
+
+## What the book leaves open
+
+- Whether the heavenly stone men seek in the last place is this medicine.
+- Whether the one thing that lengthens life, as with the patriarchs, is this medicine.
+- What the sun's fat or blood, the dew of the Lunary, the circling wheel and the six-sided form stand for.
+- Whether the note on gold speaks of this medicine or of metal medicines in general.
+- What the fourth turn and the magical use are.
+- What the moist way is, what its further raising adds, and who saw the one drop at work.
+- Whose persuasion the King's Highway is.
+- Whether the origin of the Magistery is the first silence or its source in God.
+- Who speaks from the words about the spirit of life onward.
