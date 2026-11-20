@@ -46,6 +46,11 @@ class ProblemsTest(unittest.TestCase):
                                  'S: no plural for: seed'])
         self.assertEqual(st_world.key_problems('S', ['seed', 'seeds', 'physic'], no_plural=['physic']), [])
 
+    def test_an_open_key_may_hold_a_gated_shorter_key(self):
+        keys, no_plural = ['word', 'word of god'], ['word', 'word of god']
+        self.assertEqual(st_world.key_problems('S', keys, no_plural), ['S: key holds a shorter key: word of god'])
+        self.assertEqual(st_world.key_problems('S', keys, no_plural, open_keys=['Word of God']), [])
+
     def test_keys_ending_in_s_empty_keys_and_keys_of_several_words(self):
         self.assertEqual(st_world.key_problems('S', ['glass', 'basis', 'medicines', '', 'prime matter']),
                          ['S: empty key', 'S: no plural for: glass', 'S: no plural for: basis'])

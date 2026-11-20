@@ -2,7 +2,7 @@
 clean content written per batch from the checked word list, the JSON with its failure checks, and the trigger test.
 
   python lorebook.py index | rules | review | check_rules | batches | writer N | checker N | check FILE
-                     | build [--placeholder] | lines | fire
+                     | build [--placeholder] | lines | fire | accept
 """
 import argparse
 import glob
@@ -106,7 +106,7 @@ def check_rules(rules, headwords):
             problems.append(f'{name}: tier')
         if e.get('gated') and not _secondary(rules, e):
             problems.append(f'{name}: gated, but nothing gates it')
-        problems += st_world.key_problems(name, e['keys'], rules.get('no_plural', []))
+        problems += st_world.key_problems(name, e['keys'], rules.get('no_plural', []), rules.get('open_keys', []))
         for k in e['keys']:
             keys.setdefault(k.lower(), []).append(name)
     gated = {k.lower() for e in rules['entries'] if e.get('gated') for k in e['keys']}
@@ -257,6 +257,15 @@ def build(placeholder=False):
                       f"{sum(e['selective'] for e in entries)} gated, {sum(words):,} words")
 
 
+def accept_bundle():
+    """The settled rules, the trigger lines and report, and every corrected text, for the reviewer's acceptance."""
+    texts = sorted(glob.glob(path('content_[0-9][0-9].corrected.md')))
+    paths.write(path('content_all.md'), '\n'.join(outputs.read(t) for t in texts))
+    return _build_bundle('lorebook_accept', [prompt('lorebook_rules.md'), prompt('lorebook_accept.md')],
+                         [('SETTLED RULES', RULES), ('TRIGGER LINES', path('trigger_lines.txt')),
+                          ('TRIGGER REPORT', path('fire_report.txt')), ('CONTENT', path('content_all.md'))], FABLE)
+
+
 def lines_bundle():
     entries = outputs.load_json(RULES)['entries']
     groups = [(title, [e['name'] for e in entries if e['tier'] == t])
@@ -303,7 +312,7 @@ def trigger_test(built):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('step', choices=['index', 'rules', 'review', 'check_rules', 'batches', 'writer', 'checker',
-                                         'check', 'build', 'lines', 'fire'])
+                                         'check', 'build', 'lines', 'fire', 'accept'])
     parser.add_argument('arg', nargs='?')
     parser.add_argument('--placeholder', action='store_true', help='build or fire with names for content')
     args = parser.parse_args()
@@ -318,7 +327,7 @@ def main():
             found, summary = build(args.placeholder) if args.step == 'build' else trigger_test(built)
             return outputs.report(found + [summary] if found else [], summary)
         done = {'index': index, 'rules': rules_bundle, 'review': review_bundle, 'batches': batches,
-                'lines': lines_bundle, 'writer': lambda: writer(int(args.arg)),
+                'lines': lines_bundle, 'accept': accept_bundle, 'writer': lambda: writer(int(args.arg)),
                 'checker': lambda: checker(int(args.arg))}[args.step]()
     except bundle.BundleError as error:
         return outputs.report([str(error)], '')

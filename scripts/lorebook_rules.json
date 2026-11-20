@@ -439,7 +439,8 @@
     "Mercury"
    ],
    "keys": [
-    "mercury"
+    "mercury",
+    "quicksilver"
    ],
    "tier": 1,
    "gated": true
@@ -476,7 +477,8 @@
    ],
    "keys": [
     "mummy",
-    "mummies"
+    "mummies",
+    "mumia"
    ],
    "tier": 2,
    "gated": true
@@ -874,7 +876,8 @@
     "Word"
    ],
    "keys": [
-    "word"
+    "word",
+    "word of god"
    ],
    "tier": 1,
    "gated": true
@@ -956,7 +959,9 @@
   "chymistry",
   "chymist",
   "chymists",
-  "magick"
+  "magick",
+  "mumia",
+  "word of god"
  ],
  "no_plural": [
   "paracelsus",
@@ -1003,7 +1008,10 @@
   "secrets of nature",
   "astras",
   "separating",
-  "resolving"
+  "resolving",
+  "quicksilver",
+  "mumia",
+  "word of god"
  ],
  "end_marker": "END OF OUTPUT"
 }

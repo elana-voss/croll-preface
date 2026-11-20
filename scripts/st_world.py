@@ -71,15 +71,17 @@ def _plural(key):
     return ' '.join(words[:-1] + [last])
 
 
-def key_problems(name, keys, no_plural=()):
-    """One entry's keys against LOREBOOK.md; the plural is asked only of keys that pass the rest."""
-    problems, lowered = [], {k.lower() for k in no_plural}
+def key_problems(name, keys, no_plural=(), open_keys=()):
+    """One entry's keys against LOREBOOK.md; the plural is asked only of keys that pass the rest. An open key may
+    hold a shorter key that is not open: it opens a gated subject that the shorter key alone does not."""
+    problems, lowered, opened = [], {k.lower() for k in no_plural}, {k.lower() for k in open_keys}
     problems += [f'{name}: empty key' for k in keys if not k.strip()]
     for k in (k for k in keys if k.strip() and not is_regex(k)):
         found = [f'{name}: {text}: {k}' for text, bad in (
             ('key starts with an article', ARTICLE.match(k)), ('comma in key', ',' in k),
             ('key over four words', len(k.split()) > 4),
-            ('key holds a shorter key', any(len(s) < len(k) and st_match(s, k) for s in keys if s != k))) if bad]
+            ('key holds a shorter key', any(len(s) < len(k) and st_match(s, k) for s in keys
+                                            if s != k and (k.lower() not in opened or s.lower() in opened)))) if bad]
         plural = _plural(k)
         if not found and k.lower() not in lowered and plural and not any(st_match(s, plural) for s in keys):
             found.append(f'{name}: no plural for: {k}')
