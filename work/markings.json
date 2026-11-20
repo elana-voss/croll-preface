@@ -256,5 +256,2039 @@
   "what": "an Epilogue or Conclusion",
   "voice": "CROLL",
   "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.0",
+  "quote": "CHAP. I. Of the True Physick.",
+  "what": "the True Physick",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.1",
+  "quote": "THE true Physick whereof by the Devine assistance I intend here to treat",
+  "what": "THE true Physick",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.4",
+  "quote": "Astronomy and Philosophy, which explaine those two Globes, the superiour and inferiour",
+  "what": "those two Globes, the superiour and inferiour",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "N039",
+  "quote": "What the Light of Nature is.",
+  "what": "the Light of Nature",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.6",
+  "quote": "Thus in all things there is Fire, Aire, Earthy Water.",
+  "what": "Fire, Aire, Earthy Water",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.6",
+  "quote": "There are also four kinds of Mercury, and four sorts of Mettalls, a fourfold Snow, four sorts of Ametheists and precious stones",
+  "what": "four kinds of Mercury, and four sorts of Mettalls",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.6",
+  "quote": "There are Foure of every thing, one in the Firmament or Heavenly Element",
+  "what": "Foure of every thing",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.6",
+  "quote": "So there is a fourfold Man",
+  "what": "a fourfold Man",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.7",
+  "quote": "which should be the four kind of Inhabitants of the Elements, who differ from Men created after the Image of God, in understanding, wisdome, arts, operations, and habitations",
+  "what": "the four kind of Inhabitants of the Elements",
+  "voice": "QUOTED: Paracelsus",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.8",
+  "quote": "To the Water there belong Nimphs, Undens, Melosyns, whose Monsters or bastards are the Syrens that swim upon the water.",
+  "what": "Nimphs, Undens, Melosyns; Syrens",
+  "voice": "UNCLEAR",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.9",
+  "quote": "To the Earth doe belong Gnoms, Lemurs, Sylphs, Montans, Zonnets, whose Monsters are the Pigmyes.",
+  "what": "Gnoms, Lemurs, Sylphs, Montans, Zonnets; Pigmyes",
+  "voice": "UNCLEAR",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.10",
+  "quote": "Satyrs, whose Monsters are the Gyants",
+  "what": "Umbratils, Satyrs; Gyants",
+  "voice": "UNCLEAR",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.11",
+  "quote": "To the Fire or the Firmament doe belong the Vulcanals, Pennats, Salamanders, Superi, whose Monsters are Zundell",
+  "what": "Vulcanals, Pennats, Salamanders, Superi; Zundell",
+  "voice": "UNCLEAR",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.12",
+  "quote": "Thus also there is a fourfold Medicine",
+  "what": "a fourfold Medicine",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.12",
+  "quote": "every malady and medicine is of the same Physiognomy, Chyromancy and Anotomy; He that knows not this Fundamentall cannot be a good Phisitian",
+  "what": "this Fundamentall",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.14",
+  "quote": "There is a twofold Heaven",
+  "what": "a twofold Heaven",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.19",
+  "quote": "there are THREE Principles of all things which are found in every compound body",
+  "what": "THREE Principles",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.21",
+  "quote": "thus Sulphur or brimstone may answer to Fire, Salt to the earth, Mercury to Water, Spirit to Aire",
+  "what": "Sulphur, Salt, Mercury, Spirit",
+  "voice": "QUOTED: Some Theophrastaeans",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.22",
+  "quote": "seeing we have entred into a Discourse of the Elements",
+  "what": "a Discourse of the Elements",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.22",
+  "quote": "These (places) are divided into two Globes, viz. the superiour Fire, or the Firmament, and Aire, much like the shell and white of an egge; the inferiour, Water and the Earth, like the yolk of an egge",
+  "what": "two Globes",
+  "voice": "QUOTED: Severinus",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.25",
+  "quote": "There are to us four Elementated Elements, viz. Fire or the Firmament, Aire, Water, Earth",
+  "what": "four Elementated Elements",
+  "voice": "QUOTED: Severinus",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.26",
+  "quote": "the four Elements or those four Pillars of the World",
+  "what": "those four Pillars of the World",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.26",
+  "quote": "From the Outward he finds the frame of the Inward, viz. the true Anotomy of the great and little World",
+  "what": "the true Anotomy of the great and little World",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "N059",
+  "quote": "These are the wombs of all things.",
+  "what": "the wombs of all things",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "N062",
+  "quote": "This Rule both Divines and Physicians make use of.",
+  "what": "This Rule",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.34",
+  "quote": "the seven Rulers of the world are nothing else but the fruits of Fire",
+  "what": "the seven Rulers of the world",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.37",
+  "quote": "the Physicall body of Man, which is nourished from the Earth, and Sydereall body which liveth by the Firmament",
+  "what": "the Physicall body of Man; Sydereall body",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "N071",
+  "quote": "The cause & subject of diseases.",
+  "what": "The cause & subject of diseases",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.40",
+  "quote": "There are other diseases whereof the most part are Astrall or Firmamentall",
+  "what": "Astrall or Firmamentall diseases",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.43",
+  "quote": "Of this sort are the Fift Essences, Magisteryes, and the like.",
+  "what": "the Fift Essences, Magisteryes",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.0",
+  "quote": "the Generation, Dignity, & Excelency OF THE MICROCOSM, Or Little World MAN",
+  "what": "the Generation, Dignity, & Excelency OF THE MICROCOSM, Or Little World MAN",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.1",
+  "quote": "we can learn more in the whole course of our life then that Divine lesson that God hath set us, KNOW THY SELFE.",
+  "what": "that Divine lesson that God hath set us, KNOW THY SELFE",
+  "voice": "CROLL",
+  "tags": [
+   "wording-dependent"
+  ]
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.4",
+  "quote": "When we therefore know our selves aright according to both kinds of Light.",
+  "what": "both kinds of Light",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.4",
+  "quote": "(1) according to the Spirit and Nature",
+  "what": "(1) according to the Spirit and Nature",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.4",
+  "quote": "the knowledge of him who IS",
+  "what": "him who IS",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.8",
+  "quote": "we suffer not the Philosophicall errours of the Heathen to beare down or dominiere over the rules of Christian Phylosophy",
+  "what": "Christian Phylosophy",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.9",
+  "quote": "For Faith, Hope and Love, follow knowledge, Adhaesion or cleaving to followeth Love, Union follows Adhaesion, in Union is Blessednesse and Wisdome.",
+  "what": "knowledge, Faith, Hope and Love, Adhaesion, Union",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.11",
+  "quote": "Man, the bond or buckle of the world, the last wonderfull and honourable living creature",
+  "what": "the bond or buckle of the world",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.11",
+  "quote": "fashioned by the great Spacyrus into a bodily shape, made to supply the place of the fallen Angells",
+  "what": "the great Spacyrus",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.12",
+  "quote": "Man is the tye, bond, knot, joynt",
+  "what": "the tye, bond, knot, joynt, packet or bundle of all the Creatures",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.12",
+  "quote": "God is the Center and Circle of all things that he brought out of himselfe",
+  "what": "the Center and Circle of all things",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "N097",
+  "quote": "God the Centre and Circle of all things.",
+  "what": "God the Centre and Circle of all things",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.14",
+  "quote": "so also the little world man is twofold, visible in respect of his Body, invisible in respect of his Spirit",
+  "what": "the little world man is twofold",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.14",
+  "quote": "one a syderiall Spirit from the Firmament, the other from the breath of life",
+  "what": "two Spirits in Man",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.14",
+  "quote": "Man hath three parts, a mortall Body with a Syderiall Spirit, and an immortall Soule",
+  "what": "three parts",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "N102",
+  "quote": "Angelicall according to which he is to live, and Animall which is not to be regarded",
+  "what": "a two-fold wisdom in Man",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.17",
+  "quote": "Man hath two Fathers, an Eternall whose Image he beareth, and a Mortall one, which is the whole world with all the creatures",
+  "what": "two Fathers",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.17",
+  "quote": "Aetheriall and Astrall Body or chariot and vehicle of the Soule, wherein the Intellectuall Soul and earthy Body like two Extreams are knit, glued and confederate together",
+  "what": "chariot and vehicle of the Soule",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "N108",
+  "quote": "The perfection and dignity of Man.",
+  "what": "The perfection and dignity of Man",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "N111",
+  "quote": "The MIND.",
+  "what": "The MIND",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.23",
+  "quote": "The Limus Terrae, or dust of the Earth, is two-fold, visible and invisible",
+  "what": "The Limus Terrae",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.24",
+  "quote": "it followeth that there are three worlds or Heavens in Man",
+  "what": "three worlds or Heavens in Man",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.24",
+  "quote": "So that he partaketh of a threefold world, of the Archetype or God-like world in God, of the Intellible or Angellicall, of the sensible Elementall or corporall world",
+  "what": "a threefold world",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.25",
+  "quote": "He communicateth with God in his Soule or Mind, because by the breath of life he was made after his image",
+  "what": "1.",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.26",
+  "quote": "He hath a semblance with the Angells in respect of the invisible Body and Rationall Soul",
+  "what": "2.",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.27",
+  "quote": "He participateth with the Firmament and Stars of whom he received that Astrall body or Syderiall Spirit, which is the true Astrall Man",
+  "what": "3.",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.28",
+  "quote": "He partaketh of the Elements, for from these he had his mortall Physicall Earthy body",
+  "what": "4.",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.28",
+  "quote": "hath in it the four Elementary Spirits of the four inhabitants of the world, as also the fift kind of Flages of a thousand sorts",
+  "what": "the fift kind of Flages",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.29",
+  "quote": "He partaketh of all Elemented Animalls, Vegetables and Mineralls",
+  "what": "5.",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.30",
+  "quote": "most admirable Extract & kernell of the four Elements",
+  "what": "Extract & kernell of the four Elements",
+  "voice": "CROLL",
+  "tags": [
+   "wording-dependent"
+  ]
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "MICRO.31",
+  "quote": "it is requisite that wee treat here a little more largly of the Syderyall or invisible man, to wit, of his Originall and power",
+  "what": "the Syderyall or invisible man",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "MICRO.32",
+  "quote": "the Spectrum, ghost, or fantasie, the Light of Nature",
+  "what": "the Spectrum, ghost, or fantasie, the Light of Nature",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "MICRO.35",
+  "quote": "This fourth kind of Naturall Magick called Gamahaea doth all things invisibly and spiritually, by the help of Art",
+  "what": "fourth kind of Naturall Magick called Gamahaea",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "MICRO.37",
+  "quote": "This part of Magick is called Gabalisticall, and is supported with three Pillars.",
+  "what": "This part of Magick is called Gabalisticall",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "MICRO.38",
+  "quote": "First, with TRUE PRAYERS made in Spirit and Truth",
+  "what": "TRUE PRAYERS",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "MICRO.39",
+  "quote": "Secondly, by NATURALL FAITH, or in-born Wisdome",
+  "what": "NATURALL FAITH, or in-born Wisdome",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "MICRO.40",
+  "quote": "Thirdly, by a strongly exalted IMAGINATION",
+  "what": "a strongly exalted IMAGINATION",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "MICRO.44",
+  "quote": "The Sum of all is, that we worship God devoutly in honesty and holinesse",
+  "what": "The Sum of all",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "MICRO.44",
+  "quote": "they require a larger narration then can be made of them at this time. To returne therefore to our purpose.",
+  "what": "a larger narration",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.0",
+  "quote": "CHAP. II. Where that True Physick is to be Found.",
+  "what": "True Physick",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.2",
+  "quote": "those three Families of Nature, the Vegetable, Animall, and Minerall",
+  "what": "three Families of Nature, the Vegetable, Animall, and Minerall",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.3",
+  "quote": "the mecanick sciences of the Three principles",
+  "what": "the Three principles",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.4",
+  "quote": "this Symmetricall concord and Physicall anagoge",
+  "what": "Symmetricall concord and Physicall anagoge",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.4",
+  "quote": "those three shops of Cures",
+  "what": "three shops of Cures",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "N134",
+  "quote": "All the whole inferiour Nature is divided into three principall parts, i. e. Vegetable, Animall, and Minerall.",
+  "what": "three principall parts, i. e. Vegetable, Animall, and Minerall",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.6",
+  "quote": "Amongst Vegetables there is Saffron, Rue, Balme, Scordium, Celandine, Mace, Ocymum, with six hundred of the like.",
+  "what": "Vegetables",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.7",
+  "quote": "Amongst Animalls there is Hart's horn, Unicorns horn, the Bone in Staggs hearts",
+  "what": "Animalls",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.7",
+  "quote": "The same may be sayd of the other six principall members and parts of mans body",
+  "what": "the other six principall members and parts of mans body",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "N139",
+  "quote": "There are two sorts of Physitians, one cure miraculously, the other naturally by means.",
+  "what": "two sorts of Physitians",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "N139",
+  "quote": "there are two originalls of every disease, the one naturall, the other caelestiall",
+  "what": "two originalls of every disease",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.14",
+  "quote": "Physick is two-fold in the Earth",
+  "what": "Physick two-fold: Visible and Invisible",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.17",
+  "quote": "Concerning Characteristicalll Cure which affecteth Naturall operations by words pronounced, written, carved and hanged about the neck",
+  "what": "Characteristicalll Cure",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "N154",
+  "quote": "in Hearbs Stones and Words there are great vertues.",
+  "what": "a common saving",
+  "voice": "UNCLEAR",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.22",
+  "quote": "the very GATE of miracles in that Only Divine Name ISHUH in which all things are reckoned up and contained",
+  "what": "Only Divine Name ISHUH",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.22",
+  "quote": "For in these Three principall Poynts also consisteth the whole Foundation of the Magicall and Cabalisticall Art",
+  "what": "Three principall Poynts",
+  "voice": "QUOTED: Paracelsus",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.25",
+  "quote": "First, because God worketh and doth his own will by him as by his Minister, when he sleepeth and knoweth it not",
+  "what": "First",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.26",
+  "quote": "Secondly, because (Health being the greatest Good to men) he ought to excell all mortalls in the search and knowledge of Nature and the Light thereof",
+  "what": "Secondly",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.27",
+  "quote": "Thirdly, because he alone manifesteth to all, the wonderfull works of God both in the great and little world",
+  "what": "Thirdly",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.0",
+  "quote": "How the True Physick, which is covered bark and rind, is to be got out, and rightly prepared by Fire",
+  "what": "the True Physick",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.4",
+  "quote": "writeth in his Key",
+  "what": "his Key",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "N165",
+  "quote": "The cause of Simpathy and Antipathy.",
+  "what": "The cause of Simpathy and Antipathy",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.7",
+  "quote": "not that which Mountebanks use to paint Faces with to make them White and Red",
+  "what": "Chymistry",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.7",
+  "quote": "that pure and Christiline matter may be administred to our bodies",
+  "what": "that pure and Christiline matter",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.8",
+  "quote": "this true Analysis and vitall Anatomy of bodies",
+  "what": "this true Analysis and vitall Anatomy of bodies",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.11",
+  "quote": "the transgression and fall from unity to alterity",
+  "what": "fall from unity to alterity",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.12",
+  "quote": "in this LAND of LABOUR to attain the fruits of Terrene and Caelestiall Wisdome",
+  "what": "this LAND of LABOUR",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.14",
+  "quote": "But to passe from Food let us come to Physick",
+  "what": "Physick",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.14",
+  "quote": "this Separatory art which teacheth rightly to discerne and seperate the Good from the Bad, the Profitable from the Unprofitable",
+  "what": "this Separatory art",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.16",
+  "quote": "Hence many advantages follow.",
+  "what": "many advantages",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "N172",
+  "quote": "Reasons why the Spagyrick Physick duely prepared is to be preferd before other Hetroclite mixtures in the shops.",
+  "what": "the Spagyrick Physick duely prepared",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.27",
+  "quote": "This also by the way is to be observed",
+  "what": "an observation by the way",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.28",
+  "quote": "man partaketh of those Three first",
+  "what": "those Three first",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.29",
+  "quote": "to be distributed into three principall kinds, Animall Vegetable, and Minerall",
+  "what": "three principall kinds, Animall Vegetable, and Minerall",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.30",
+  "quote": "This is the set Order for the government of the sublunary Family",
+  "what": "the set Order for the government of the sublunary Family",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.32",
+  "quote": "the three Families of Nature",
+  "what": "the three Families of Nature",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.33",
+  "quote": "the Hermetick Phylosophy",
+  "what": "the Hermetick Phylosophy",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.33",
+  "quote": "these are not so much astonyed at the sports of Nature",
+  "what": "the sports of Nature",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.36",
+  "quote": "Morienes that excellent Phylosopher, the most skilfull and expert Chymiologer",
+  "what": "Chymiologer",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.36",
+  "quote": "King Calid who inquired after the matter of the Elixer",
+  "what": "the matter of the Elixer",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.40",
+  "quote": "to separate the three first (qualities) in vineger",
+  "what": "the three first (qualities) in vineger",
+  "voice": "CROLL",
+  "tags": [
+   "wording-dependent"
+  ]
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.40",
+  "quote": "to learn the preparations of those high Magisteryes and Elixirs",
+  "what": "those high Magisteryes and Elixirs",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.40",
+  "quote": "the Creation and composition of the internall Astrall Man, much lesse of the Mechanick Spirits of diseases",
+  "what": "the internall Astrall Man; the Mechanick Spirits of diseases",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "N185",
+  "quote": "There are four Pillars of Physick, Phylosophy, Alchymistry, Astronomy, and the Physicall vertue or medicine.",
+  "what": "four Pillars of Physick",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.45",
+  "quote": "this Divine Spagyrie, the most wonderfull and approved Art",
+  "what": "this Divine Spagyrie",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.46",
+  "quote": "the time of Revocation and Regeneration drawing nigh",
+  "what": "the time of Revocation and Regeneration",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.0",
+  "quote": "How, and with what Vertue, Physick worketh upon Mans body and cureth his Diseases",
+  "what": "CHAP. IV. How, and with what Vertue, Physick worketh upon Mans body and cureth his Diseases",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.1",
+  "quote": "THat which Physitians commonly dispute and contend for",
+  "what": "That which Physitians commonly dispute and contend for",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.6",
+  "quote": "This is the true and lively Anatomy.",
+  "what": "the true and lively Anatomy",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.7",
+  "quote": "he called them Sulphurean diseases, such are all Inflamations and Feavers",
+  "what": "Sulphurean diseases",
+  "voice": "QUOTED: Paracelsus",
+  "tags": []
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.7",
+  "quote": "Those that proceed from moysture he Mercuriall.",
+  "what": "Mercuriall",
+  "voice": "QUOTED: Paracelsus",
+  "tags": []
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.8",
+  "quote": "Mercury may three manner of wayes be exalted above the Naturall degree",
+  "what": "three manner of wayes",
+  "voice": "UNCLEAR",
+  "tags": []
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.8",
+  "quote": "those diseases that are bred of Salt, he calleh Saline and Nitrons",
+  "what": "Saline and Nitrons",
+  "voice": "QUOTED: Paracelsus",
+  "tags": []
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.8",
+  "quote": "Salt destroyeth health 4 wayes, by Resolution, Calcination, (loosing its liquid and humid Temperament) Reverbertion. Alcalization",
+  "what": "4 wayes",
+  "voice": "UNCLEAR",
+  "tags": []
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.8",
+  "quote": "as Sulphur of Vitriol, Niter, common Salt, and such like",
+  "what": "Sulphur of Vitriol, Niter, common Salt, and such like",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.10",
+  "quote": "As there are Three from which all Physick proceedeth, Mercury, Sulphur, Salt; so likewise there are three sorts of diseases, Mercuriall, Sulphurean, Saline",
+  "what": "Three from which all Physick proceedeth",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.13",
+  "quote": "As was seen in the New City at Prague, Anno 1602. in a certaine rustick or countryman of Bohemia, whose name was Mathew, about 36 years of age",
+  "what": "As was seen in the New City at Prague, Anno 1602.",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "N195",
+  "quote": "A stupendious and true Story.",
+  "what": "A stupendious and true Story",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.14",
+  "quote": "in the year 1606. at Prague a certaine Silesian to get mony did in the presence of many swallow six and forty white flints which he gathered at banck side, weighing almost three Physick pounds",
+  "what": "in the year 1606. at Prague",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.0",
+  "quote": "The Duty of Natures Minister, the Physitian.",
+  "what": "The Duty of Natures Minister, the Physitian",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.3",
+  "quote": "that most noble and wise Picus Mirandula the Phaenix of Phylosophers",
+  "what": "the Phaenix of Phylosophers",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.7",
+  "quote": "some after the Vulgar manner will be looking below the Moon after the Elementary Nature of things",
+  "what": "Phylosophers after the Vulgar manner",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.7",
+  "quote": "A Physitian is compleated by 3 things",
+  "what": "3 things by which a Physitian is compleated",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.8",
+  "quote": "But first, as Paracelsus saith, let him be the legetimate INTERPRETER of NATURE",
+  "what": "the legetimate INTERPRETER of NATURE",
+  "voice": "QUOTED: Paracelsus",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.10",
+  "quote": "Theophrasteans contemplate and admire the workmanship of Nature throughout this mighty frame of the whole Creation",
+  "what": "Theophrasteans",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.12",
+  "quote": "Secondly, a Physitian must be a good SPAGIRUS",
+  "what": "a good SPAGIRUS",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.12",
+  "quote": "the true Monarch of Physicke, and first Physitian of man",
+  "what": "the true Monarch of Physicke, and first Physitian of man",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.14",
+  "quote": "For that noble Pyronomicall Art hath been most ancient",
+  "what": "that noble Pyronomicall Art",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.14",
+  "quote": "which of late hath not been a little improved by that Monarch of Mysteryes Paracelsus",
+  "what": "that Monarch of Mysteryes Paracelsus",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.17",
+  "quote": "just as it befell Pet. Ramus from his malicious populer adversaries, because he stopt the current of youthfull studies in the silly, common, and corruptible Phylosophy",
+  "what": "what befell Pet. Ramus",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.18",
+  "quote": "that invincible united Fundamentall of Theologicall and Phylosophicall Truth and perfect Piety",
+  "what": "that invincible united Fundamentall of Theologicall and Phylosophicall Truth and perfect Piety",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "N209",
+  "quote": "By meditating or contemplating we know, by knowing we are delighted, by delighting we adhere, by adhearing we possesse, by possessing we injoy the Truth",
+  "what": "meditating, knowing, delighting, adhering, possessing, enjoying",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.19",
+  "quote": "The two Lights are well known, within which are all thing, without which is nothing",
+  "what": "The two Lights",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.20",
+  "quote": "After Paracelsus others attempted this study, following the same strait and compendious tract",
+  "what": "others after Paracelsus who attempted this study",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.20",
+  "quote": "such as Paulus Brawn of Norimberge, Valentinus Weigelius, and Petrus Winzius",
+  "what": "Paulus Brawn of Norimberge, Valentinus Weigelius, and Petrus Winzius",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.20",
+  "quote": "not in the sensuall school of fools, nor in the rationall school of Schollers, but in the third school of perfect Men, that Mentall or Intellectuall school of Pentecost",
+  "what": "the third school of perfect Men, that Mentall or Intellectuall school of Pentecost",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.20",
+  "quote": "which is the utmost happinesse and Blessednesse of Man, and the very determinate and appointed End of the Cabala or secret wisdome",
+  "what": "the very determinate and appointed End of the Cabala or secret wisdome",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.21",
+  "quote": "at the end of this world which is to be Renewed by the Ternary of Man",
+  "what": "the Ternary of Man",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.29",
+  "quote": "Some of them are so incensed against that Theophrastus",
+  "what": "that Theophrastus",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.31",
+  "quote": "in three respects",
+  "what": "three respects",
+  "voice": "QUOTED: Wimpeneus",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.32",
+  "quote": "First, Because the Diseases are more perfectly known",
+  "what": "the first respect",
+  "voice": "UNCLEAR",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.32",
+  "quote": "And since we are here fallen upon Tartar I will speak a little more of it.",
+  "what": "a little more of Tartar",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "N218",
+  "quote": "the second which is of the stomack into haile; the third of the kidneys and bladder into a little stone",
+  "what": "the first, second and third separation of Tartar",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.35",
+  "quote": "four kinds of Tartar, the stone of the bladder, the Sand of the Kidneys, the clods or gobbets, as also the Slime or lutous matter of the stomack",
+  "what": "four kinds of Tartar",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "N219",
+  "quote": "Bolous, such as in milk meats, fish, and flesh",
+  "what": "Bolous and Viscous",
+  "voice": "QUOTED: Paracels",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.38",
+  "quote": "There are four sorts of Tartar, springing from the fourfold fruits of the Elements by which we are nourished.",
+  "what": "four sorts of Tartar",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.39",
+  "quote": "The first sort ariseth from the use of those things which grow in the Earth",
+  "what": "the first sort",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.40",
+  "quote": "The second cometh from the nourishment which we have from the Water",
+  "what": "the second",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.41",
+  "quote": "The third is in the Flesh of Beasts and Fowles.",
+  "what": "the third",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.42",
+  "quote": "The fourth from the Firmament, which is most like to the Spirit of wine in its subtilty",
+  "what": "the fourth",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.42",
+  "quote": "those acute and pernicious Astrall diseases, the Pleuresie, Plague",
+  "what": "Astrall diseases",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.42",
+  "quote": "which diseases proceeding from the impressions of the Stars the universall medicine powerfull expelleth",
+  "what": "the universall medicine",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.44",
+  "quote": "Therefore the Archaeus of the stomack must destroy the Tartar of the Elements least it be turned into the Tartar of Man",
+  "what": "the Tartar of the Elements; the Tartar of Man",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "N221",
+  "quote": "Tartar differeth according to the places of the bodies pores and passages",
+  "what": "Tartar by places of the body",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.45",
+  "quote": "Secondly, Because we have more perfect medicines now then heretofore, that is to say, of Mineralls",
+  "what": "the second respect",
+  "voice": "UNCLEAR",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.46",
+  "quote": "Thirdly, Because now the Harmony between the great and little world is made so plaine",
+  "what": "the third respect",
+  "voice": "UNCLEAR",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.50",
+  "quote": "I exhort and admonish all Students of Hippocraticall and Galenicall Physick, in whom the Philosophicall veine is yet warme",
+  "what": "I exhort and admonish all Students of Hippocraticall and Galenicall Physick",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.54",
+  "quote": "His works which were Printed for the publick good, by the incouragement and at the cost of that most Renowned and Reverend Ernestus Prince Elector of Coleine",
+  "what": "His works",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.59",
+  "quote": "There are also false and lying Theophrasteans prophaning by their avarice and timerity that Divine Physick",
+  "what": "false and lying Theophrasteans",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.60",
+  "quote": "these circumforaneous and adulterous Theophrasteans, with their unlawfully prepared Remedies",
+  "what": "circumforaneous and adulterous Theophrasteans",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.67",
+  "quote": "sometimes the sick person is not recovered by the best and fittest medicines that can be applyed, and that for these eight causes",
+  "what": "these eight causes",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.68",
+  "quote": "First, Because the Terme of Life approacheth, which cannot be prolong'd by any art or help of Man",
+  "what": "First (of the eight causes)",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.68",
+  "quote": "And in this case the universall and chiefest medicine is of no effect, because no industry or skill of Artist or Nature can perpetuate the wedlock of life and death",
+  "what": "the universall and chiefest medicine",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.69",
+  "quote": "Secondly, Because through the ignorance of unskilfull Physitians, and their naughty medicines, the sick is brought to that passe, that the disease is corrupt, pernicious, and incurable",
+  "what": "Secondly (of the eight causes)",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.70",
+  "quote": "Thirdly, Because the Physitian is sent for too late, when Nature is overcome and the disease hath got the mastery",
+  "what": "Thirdly (of the eight causes)",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.71",
+  "quote": "Fourthly, Because the sick doth not follow directions",
+  "what": "Fourthly (of the eight causes)",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.72",
+  "quote": "Fifthly, Because some mens Natures or peculiar qualityes are not so easy to be cured",
+  "what": "Fifthly (of the eight causes)",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.72",
+  "quote": "especially in the cure of Astrall diseases",
+  "what": "Astrall diseases",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.73",
+  "quote": "Sixthly, Because diseases are come to their appoynted period, and then by the Lawes of Nature there can be no recovery",
+  "what": "Sixthly (of the eight causes)",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.73",
+  "quote": "perfect, absolute and compleat bituminous, Colar, stony and sandy coagulations",
+  "what": "coagulations",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.74",
+  "quote": "Seventhly, As the base nigardlynesse of the sick (though there is no money more honestly got, and more unwillingly parted with) make the Physitian negligent in his office",
+  "what": "Seventhly (of the eight causes)",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.75",
+  "quote": "it breedeth that Basilisk of Heaven, which intoxicateth the microcosmicall Firmament",
+  "what": "that Basilisk of Heaven",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.76",
+  "quote": "the Imagination giveth a Sydus or Constellation, the Sydus, (by reason of the Matrimony with the Imagination) giveth the effect or work.",
+  "what": "Sydus or Constellation",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.77",
+  "quote": "as we saw some years since in that famous Anwalding Panacaea",
+  "what": "that famous Anwalding Panacaea",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.77",
+  "quote": "that new medicinall Spring which brake out this yeare in the coasts of Misnia and Bohemia",
+  "what": "that new medicinall Spring",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.81",
+  "quote": "Eightly, Least the sick party recovering should commit greater sins against God, his neighbor and himselfe to the losse of his Soul",
+  "what": "Eightly (of the eight causes)",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.82",
+  "quote": "our Saviour the Celestiall Physitian of our Soules",
+  "what": "the Celestiall Physitian of our Soules",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.0",
+  "quote": "Of that one onely chiefe Medicine of the most Ancient Phylosophers",
+  "what": "that one onely chiefe Medicine of the most Ancient Phylosophers",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.1",
+  "quote": "I shall here supply what yet pertaineth to that chief and universal Phylosophical Phisick",
+  "what": "that chief and universal Phylosophical Phisick",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.1",
+  "quote": "this most secret Secret of secret Secrets, by which even wonders, yea all things may be done",
+  "what": "this most secret Secret of secret Secrets",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "N253",
+  "quote": "This occult Minerva of Phylosophy & this only most precious Jewell is inestimable.",
+  "what": "This occult Minerva of Phylosophy & this only most precious Jewell",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.6",
+  "quote": "this Sacred and Divine Art and Science, not of Sophisters, but Phylosophers",
+  "what": "this Sacred and Divine Art and Science",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.6",
+  "quote": "the Magazine of Divine knowledge",
+  "what": "the Magazine of Divine knowledge",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.18",
+  "quote": "when men seek the Kingdome of God, and study to finde out the Celestiall Stone in the last place",
+  "what": "the Celestiall Stone",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.19",
+  "quote": "the key of the Phylosophicall Garden (as I know some that have)",
+  "what": "the key of the Phylosophicall Garden",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "N263",
+  "quote": "On this the hinge of the whole busines turneth, as Gold animated by the Salt of Niture is made the chief subject of the Phylosophers metallick Physicks",
+  "what": "the chief subject of the Phylosophers metallick Physicks",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.23",
+  "quote": "Those Gymnosophists with their Fantasticall and Frantick inventions, inrich the eares of credulous men that they may make their pockets poor",
+  "what": "Those Gymnosophists",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.27",
+  "quote": "he that is an Adept and compleat Phylosopher, a keeper of Gods Secrets, and is conformed to the dignification of his work",
+  "what": "an Adept and compleat Phylosopher, a keeper of Gods Secrets",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.27",
+  "quote": "this greatest and richest Terrene Treasure, the Perfect Benefit or good gift of GOD",
+  "what": "this greatest and richest Terrene Treasure; the Perfect Benefit or good gift of GOD",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.30",
+  "quote": "to find out one out of those Three Families of Nature, that out of the same things in which all Physick is founded, viz. Animalls, Vegetables, and Mineralls",
+  "what": "those Three Families of Nature",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.31",
+  "quote": "The Phylosophicall Conclave of any Prince furnished with such most precious and wholesome a Treasure",
+  "what": "The Phylosophicall Conclave of any Prince",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.31",
+  "quote": "the TRIUNE naked DIANA shining with so many colours of variety and alwayes with a Triple Form in every classis or distribution",
+  "what": "the TRIUNE naked DIANA",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.35",
+  "quote": "For this onely is the Kings high-way, not onely to come all the desired Secrets of Nature",
+  "what": "the Kings high-way",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.36",
+  "quote": "to enter into the inner rooms of that supream Phylosophicall Oratory",
+  "what": "that supream Phylosophicall Oratory",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.37",
+  "quote": "by this monument here left it may hereafter appear that that Divine Benificence hath not been denyed to men of our age also",
+  "what": "this monument here left",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.38",
+  "quote": "the greatest miracle of Nature wrought by Art",
+  "what": "the greatest miracle of Nature wrought by Art",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.38",
+  "quote": "the various and manifold metamorphosis of the Inferior Astronomy made in the cold",
+  "what": "the Inferior Astronomy",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.38",
+  "quote": "the Moyst way of the Ancients not as yet intensly exalted to the eye of the Basilisk",
+  "what": "the Moyst way of the Ancients",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.38",
+  "quote": "For this Kingly medicine, and the Empresse of all other",
+  "what": "this Kingly medicine, and the Empresse of all other",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "N274",
+  "quote": "The Physophycall Basilisk like Lightning suddenly and unawares burneth up any imperfect mettall whatsoever",
+  "what": "The Physophycall Basilisk",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.40",
+  "quote": "who know not these Vulcanean metamorphoses and this Power of GOD joyned to Nature, but admire the Heathenish Physick",
+  "what": "these Vulcanean metamorphoses",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.41",
+  "quote": "the four Monarchs of all diseases, the Epilepsie, Gout, Dropsie, Leprosie",
+  "what": "the four Monarchs of all diseases",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.42",
+  "quote": "All diseases proceeding from the corruption of humors, how great and desperate soever their cures be, are healed by this universall medicine",
+  "what": "this universall medicine",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "N278",
+  "quote": "The originall of the Philosophicall Magistery.",
+  "what": "The originall of the Philosophicall Magistery",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.45",
+  "quote": "the children of Hermes who first found out the science",
+  "what": "the children of Hermes",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.46",
+  "quote": "these private not publick Secretaries of Nature",
+  "what": "private not publick Secretaries of Nature",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.48",
+  "quote": "in this Rode or Kings Highway and Phylosophical Reason is to be accomplished",
+  "what": "this Rode or Kings Highway",
+  "voice": "UNCLEAR",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.49",
+  "quote": "they have even miraculously use of this choycest and admirable Magisterie, together with a flowing plenty and Abundance of all Things",
+  "what": "this choycest and admirable Magisterie",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.50",
+  "quote": "the Phylosophers our predecessors that have been train'd up in Hermes school",
+  "what": "Hermes school",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.51",
+  "quote": "The Theater of the secrets of all Natur's Light",
+  "what": "The Theater of the secrets of all Natur's Light",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.51",
+  "quote": "the Glasse of God's Mysteries, and the Miracle of universall Nature; the Fift Essence of the whole frame of the world, and the whole world Regenerated, wherein the Treasure of all Nature lyeth",
+  "what": "the Glasse of God's Mysteries, and the Miracle of universall Nature; the Fift Essence of the whole frame of the world, and the whole world Regenerated",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.51",
+  "quote": "Subject and Instrument of all Naturall and Transnaturall Virtues",
+  "what": "Subject and Instrument of all Naturall and Transnaturall Virtues",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.51",
+  "quote": "the Son of the Sun and Moon, who by his ascending into Heaven and descending into the Earth hath obtained all power of superior and inferior things",
+  "what": "the Son of the Sun and Moon",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.51",
+  "quote": "the Habitation of all metallick, minerall, and vegetable Forms, which God created under the Globe of the Moon",
+  "what": "the Habitation of all metallick, minerall, and vegetable Forms",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "N283",
+  "quote": "By this Art the knowledge of almost all things, and in this Stone the universal Nature of things shineth forth.",
+  "what": "this Stone",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "N283",
+  "quote": "the Defensive of old age, the Universall medicament, which like the invisible Fire consumeth all diseases",
+  "what": "the Defensive of old age, the Universall medicament",
+  "voice": "QUOTED: Paracelsus",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.55",
+  "quote": "this Fift Essence and Spirituall Medicine, which hath the Nature and Heat of Heaven (not of our mortall and corruptible)",
+  "what": "this Fift Essence and Spirituall Medicine",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.55",
+  "quote": "this true Triacle of Phylosophers, which like the Elixir of life is the superlative and last consolation of Mans body",
+  "what": "this true Triacle of Phylosophers",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.67",
+  "quote": "The MIND therefore of Adept Phylosophers",
+  "what": "The MIND of Adept Phylosophers",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "N297",
+  "quote": "The Mystery of Divine Matrimony with Man.",
+  "what": "The Mystery of Divine Matrimony with Man",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.68",
+  "quote": "the most wise Hermes and most pious Phylosopher of reverend antiquity the Antesignan of Naturall Phylosophers and first Prophet",
+  "what": "the most wise Hermes",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "N300",
+  "quote": "INFORTUNIUM.",
+  "what": "INFORTUNIUM",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.69",
+  "quote": "and that for two Reasons",
+  "what": "two Reasons",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "N307",
+  "quote": "There is a two fold death, from the Iliad or first principle, and from the Ens or Being",
+  "what": "a two fold death",
+  "voice": "UNCLEAR",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.71",
+  "quote": "Many holy men used this universall Medicine before the flood",
+  "what": "this universall Medicine",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.72",
+  "quote": "the life is broken off, or shortned, two manner of wayes",
+  "what": "two manner of wayes",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.73",
+  "quote": "as Inchantment, Imagination, Estimation, Influence; Superstition, all which proceed from a spirituall affection",
+  "what": "Inchantment, Imagination, Estimation, Influence; Superstition",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.73",
+  "quote": "these five supernatural mischiefs",
+  "what": "five supernatural mischiefs",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "N309",
+  "quote": "MENS & ENS abrumpunt nobis vitam",
+  "what": "MENS & ENS",
+  "voice": "CROLL",
+  "tags": [
+   "note-only"
+  ]
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.75",
+  "quote": "wander wider then the bounds of a Preface, I shall now draw to a conclusion",
+  "what": "a conclusion",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.76",
+  "quote": "I have inserted in their proper places in this Prolix and Admonitory Preface",
+  "what": "this Prolix and Admonitory Preface",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.76",
+  "quote": "Heroick Prince CHRISTIAN ANHALTIN, with his more then singular favor and laudable patronage toward the more secret Studies, supplyed me with necessary expences",
+  "what": "the more secret Studies",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.76",
+  "quote": "By which singular care toward the whole Spagyrick state",
+  "what": "the whole Spagyrick state",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.76",
+  "quote": "this harvest of Chymicall Corn, and the First fruits of my increase, and this Spagyrick present of my difficult and laborious diligence",
+  "what": "this harvest of Chymicall Corn, and the First fruits of my increase, and this Spagyrick present",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.76",
+  "quote": "the young Pupil that is a diligent Searcher out of the Ancient First & Sacred Phylosophy",
+  "what": "the Ancient First & Sacred Phylosophy",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.76",
+  "quote": "that Ancient, True, & Philosophical Medicin, which by reason of the long continuance and injury of time, as also the unworthines of our age (mens sins doubtles so meeting together) is not yet fully known",
+  "what": "that Ancient, True, & Philosophical Medicin",
+  "voice": "CROLL",
+  "tags": []
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.78",
+  "quote": "AMEN",
+  "what": "AMEN",
+  "voice": "CROLL",
+  "tags": []
  }
 ]

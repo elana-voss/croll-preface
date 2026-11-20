@@ -1,5 +1,1734 @@
 [
  {
+  "chunk": "CH1-1",
+  "ref": "CH1.1",
+  "voice": "UNCLEAR",
+  "quote": "it is not to be sought for or learned from the Heathens",
+  "basis": "Margin note N036 'See Paracels. his Labyrinth of Physitians' stands at the end of these words; the text does not say whether they are his."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.7",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "Paracelsus faith, that to avoyd an Emptiness",
+  "basis": "Named, with the verb printed faith and a report introduced by that."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.8–11",
+  "voice": "UNCLEAR",
+  "quote": "To the Water there belong",
+  "basis": "The lists of inhabitants follow the report given to Paracelsus in CH1.7 with no new speaker; the text does not mark where his words end."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.11",
+  "voice": "QUOTED: Theophrastus",
+  "quote": "Flagae which Theophrastus in his works affirmeth",
+  "basis": "Named, with the verb affirmeth and in his works."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.12",
+  "voice": "QUOTED: ancient Records",
+  "quote": "Astrologers and Chymiologers were very near of kin",
+  "basis": "we find out of ancient Records that."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.12",
+  "voice": "QUOTED: Those Chymists",
+  "quote": "henceforth they need not travell to India or America",
+  "basis": "Given as what those Chymists will confesse."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.13",
+  "voice": "QUOTED: P. Severinus the Dane",
+  "quote": "Thus as P. Severinus the Dane doth learnedly observe",
+  "basis": "Named with the verb observe; margin note N046 names his Idaea of Phylosophical Phifick."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.13",
+  "voice": "QUOTED: common Phylosophers",
+  "quote": "to which onely many of the common Phylosophers",
+  "basis": "Their view is reported as ascribed by a great mistake, to be rejected."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.14",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "as Paracelsus calls it, the Hylech",
+  "basis": "Named with the verb calls; covers the name only."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.15",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "which Paracelsus calls the Ens",
+  "basis": "Named with the verb calls; covers the name only."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.16",
+  "voice": "QUOTED: false Philosophers",
+  "quote": "as the false Philosophers thinke",
+  "basis": "Their view is reported with the verb thinke and rejected (no in no wise)."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.16",
+  "voice": "UNCLEAR",
+  "quote": "For we receive not our conditions",
+  "basis": "Margin note N049 'Read the eight Psalme.' stands at the end of these words; the text does not say whether they are drawn from it."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.16",
+  "voice": "UNCLEAR",
+  "quote": "For if we that are the children of Adam",
+  "basis": "The text's 'see Paracels. in Paramiro lib. 2.' and margin note N050 'Vid. Paracels.' follow these words; the text does not say whether they are his."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.21",
+  "voice": "QUOTED: Some Theophrastaeans",
+  "quote": "Some Theophrastaeans, who have more narrowly",
+  "basis": "Their addition of a Fourth is reported (doe add, which they call); the rest of the paragraph describes that Fourth and sets the four against the Elements, with no other speaker marked."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.22",
+  "voice": "QUOTED: Severinus",
+  "quote": "The true and purely spirituall Elements",
+  "basis": "Announced: we shall add a few things concerning them out of that short Treatise of Severinus."
+ },
+ {
+  "chunk": "CH1-1",
+  "ref": "CH1.23",
+  "voice": "UNCLEAR",
+  "quote": "In these four incorporeall, empty, voyd Natures",
+  "basis": "Continues the matter announced from Severinus; the text does not mark where it ends. Margin notes N055 'Gen. 1.' and N056 'Hippocr. in lib. de Antiqua medic.' name writings beside its words."
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.24",
+  "voice": "UNCLEAR",
+  "quote": "Here also it is to be observed",
+  "basis": "CH1.25, which follows with 'Againe', closes 'Thus much out of Severinus'; the lines given do not show whether the borrowing reaches back into this paragraph."
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.25",
+  "voice": "QUOTED: Severinus",
+  "quote": "Againe, some bodies doe imitate",
+  "basis": "The paragraph closes 'Thus much out of Severinus'; the stretch ends there, and where it begins is not shown."
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.28",
+  "voice": "QUOTED: Nostoch",
+  "quote": "Nostoch saith, they feed on fire",
+  "basis": "Verb of saying: 'Nostoch saith'."
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.28",
+  "voice": "UNCLEAR",
+  "quote": "although in the lower part of the Aire",
+  "basis": "Continues the sentence that gives words to Nostoch; whether it is still his is not shown."
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.29",
+  "voice": "UNCLEAR",
+  "quote": "it is said to be Animall, Vegetable, Minerall",
+  "basis": "'it is said', no speaker named."
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "N064",
+  "voice": "QUOTED: Chr.",
+  "quote": "spirituall regeneration cannot be without it",
+  "basis": "'as Chr. said to' one whose name is broken by a gap."
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "N064",
+  "voice": "QUOTED: Paracels.",
+  "quote": "Our Fire is not the Element",
+  "basis": "The note ends 'Paracels. in' and a writing whose title is broken by gaps; which of the note's sentences it covers is not shown."
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "N065",
+  "voice": "QUOTED: Astrers",
+  "quote": "Astrers saith, that the Aire was created",
+  "basis": "Verb of saying: 'Astrers saith'."
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "N066",
+  "voice": "QUOTED: Paracis",
+  "quote": "The Element of Fire according to Paracis",
+  "basis": "'according to' with the name as printed."
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.35",
+  "voice": "QUOTED: Christ",
+  "quote": "in a graine of Wheat",
+  "basis": "'as Christ himselfe sets it forth by a similitude'; margin N068 names John 12.24; the similitude is told in the author's words."
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.40",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "For Heaven is the Father and teacher of all Arts",
+  "basis": "The sentence closes 'as you may find in the Sage and deep Phylosophy of Paracelsus'; how far back the matter reaches is not shown."
+ },
+ {
+  "chunk": "CH1-2",
+  "ref": "CH1.42",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "they are the fruits and egestions or disgorgings",
+  "basis": "'as Paracelsus saith'; the stretch runs on through 'the fruits of the invisible Astra's', and its end is not shown."
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.2",
+  "voice": "QUOTED: Theophrastus",
+  "quote": "doth not consist in the four outward, naked, superficiary and Relollaceous qualities",
+  "basis": "named: 'as Theophrastus learnedly discourseth'"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.4",
+  "voice": "QUOTED: Interpreters of Secret Nature",
+  "quote": "that there is nothing in the whole Universe",
+  "basis": "'it is granted by the Interpreters of Secret Nature, that'; runs to 'in respect of the Spirit of Man'"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.5",
+  "voice": "QUOTED: sage Antiquity",
+  "quote": "Magicall and Hieroglyphicall Characters, which sage Antiquity",
+  "basis": "the Characters are 'attributed to them' by sage Antiquity"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.7",
+  "voice": "QUOTED: the true Phylosophicall Phisitians",
+  "quote": "like to like domestieks to domesticks naturally apply themselves",
+  "basis": "'as the true Phylosophicall Phisitians have diligently observed'"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.7",
+  "voice": "QUOTED: Celsus",
+  "quote": "Celsus the Roman Physitian confesseth of all Arts",
+  "basis": "verb of saying: 'confesseth'"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.7",
+  "voice": "UNCLEAR",
+  "quote": "where by many good old country women have gone beyond great learned Physitians",
+  "basis": "follows Celsus' 'confesseth' past a margin mark; the text does not show whether it is his or the author's"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.8",
+  "voice": "QUOTED: the common sort of Physitians",
+  "quote": "the common sort of Physitians who know not the seat",
+  "basis": "their judgement ('judge to be incurable', 'by many are accounted desperate') is reported to be rejected"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.8",
+  "voice": "QUOTED: Pliny",
+  "quote": "unlesse with Pliny we should belye Nature",
+  "basis": "view given to Pliny and rejected ('whereas indeed she is the benigne Parent')"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.11",
+  "voice": "QUOTED: Eccl.",
+  "quote": "The most High Author of Nature ath created Medicines out of the Earth",
+  "basis": "margin N141 'Eccl. 38.' stands at the end of these words"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.12",
+  "voice": "QUOTED: 2 Chro.",
+  "quote": "Asa dyed because he trusted more to the Physitians",
+  "basis": "margin N143 '2 Chro. 16.12.' stands at the start of this sentence"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.13",
+  "voice": "QUOTED: Psal.; Eccl.",
+  "quote": "which is the Firmament of all Physick",
+  "basis": "margin N144 'Psal. 33. & 107.20. Eccl. 38.9, 10, 11, 12.' stands at the end of these words"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.15",
+  "voice": "QUOTED: Acts",
+  "quote": "make men whole by the Prophets and True Cabalists with a word onely",
+  "basis": "margin N145 'Acts 3.6.' stands at the end of these words"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.16",
+  "voice": "QUOTED: Agrippa",
+  "quote": "For Characters or constellated Names according to Agrippa",
+  "basis": "'according to Agrippa'; runs to 'to such a Name or Character'"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "N147",
+  "voice": "QUOTED: Paracels.",
+  "quote": "Paracels. saith that Characters are",
+  "basis": "verb of saying: 'saith'"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.18",
+  "voice": "QUOTED: Luke",
+  "quote": "as we see in our Saviour miracles",
+  "basis": "margin N148 'Luke 11.14.' stands where the account of the Saviour's healing of the deafe and dumb begins"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.18",
+  "voice": "QUOTED: John",
+  "quote": "by which are all created things",
+  "basis": "margin N149 'John 1.3.' stands at the start of these words"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.18",
+  "voice": "QUOTED: Eccl.",
+  "quote": "which Spirit therefore is the only fulnes of the whole world",
+  "basis": "margin N150 'Eccl. 24.8, 9, 10, 11.' stands at the end of these words"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.19",
+  "voice": "QUOTED: Mat.",
+  "quote": "Man liveth not by bread alone",
+  "basis": "margin N149 gives 'Not by bread alone, Mat. 4.4.'"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "N151",
+  "voice": "QUOTED: his Prophets",
+  "quote": "Without this benediction the staffe of bread is broken",
+  "basis": "'a God threatned his people by his Prophets'"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.20",
+  "voice": "QUOTED: John; Heb.; Psal.",
+  "quote": "of the WORD of God INCARNATE which may be found in the Creatures",
+  "basis": "margin N153 'John 1.10. Heb. 11.3. Psal. 107.20.' stands at the end of these words"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "N154",
+  "voice": "UNCLEAR",
+  "quote": "in Hearbs Stones and Words there are great vertues.",
+  "basis": "called 'a common saving'; no speaker named"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.22",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "whom Paracelsus calls the Naturall Divine",
+  "basis": "verb of naming: 'calls'"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.22",
+  "voice": "QUOTED: the books of the Kings; Wifd.",
+  "quote": "who are heard in all things whatsoever they pray for",
+  "basis": "margin N156 'Read the books of the Kings. 1 Kings 3.12. Wifd. 7.' stands at the start of these words"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.22",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "For in these Three principall Poynts also consisteth",
+  "basis": "'as appeareth by Paracelsus in his third book of the Signature of Things'"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.24",
+  "voice": "QUOTED: the Scripture",
+  "quote": "is to be honoured as the Scripture commandeth",
+  "basis": "'as the Scripture commandeth'"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.25",
+  "voice": "QUOTED: our Saviour",
+  "quote": "saith our Saviour, ye can nothing",
+  "basis": "verb of saying 'saith', with 'For without me'; margin N158 'John 15.'"
+ },
+ {
+  "chunk": "CH2-1",
+  "ref": "CH2.26",
+  "voice": "QUOTED: Homer",
+  "quote": "did Homer require a Physitian to be furnished with all knowledge",
+  "basis": "'did Homer require'"
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.2",
+  "voice": "QUOTED: Firmianus",
+  "quote": "As soon as the Omnipotent gave Power to Man",
+  "basis": "The sentence closes with saith Firmianus."
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.2",
+  "voice": "QUOTED: the Poet",
+  "quote": "nothing is in every respect happy",
+  "basis": "Introduced by as the Poet said."
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "N162",
+  "voice": "QUOTED: the Poet",
+  "quote": "Nil ex omni propte",
+  "basis": "A Latin margin note standing at the Poet's saying; it names no one itself."
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.3",
+  "voice": "QUOTED: Roger Bacon",
+  "quote": "that God who made Darknesse and Light",
+  "basis": "Roger Bacon the English Phylosopher saith; runs to avengers of transgressions."
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.3",
+  "voice": "UNCLEAR",
+  "quote": "Good cannot be known but by evill",
+  "basis": "Follows Bacon's report with no new verb of saying; the text does not show whether it is still Bacon's or Croll's."
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.4",
+  "voice": "QUOTED: Hermes",
+  "quote": "that all sublunary things ought to consist of contraposition and contrariety",
+  "basis": "Holy Hermes ... (together with Ecclesiasticus) writeth in his Key."
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.4",
+  "voice": "UNCLEAR",
+  "quote": "and this after another manner may be of things Impossible",
+  "basis": "Joined to the Hermes report by a semicolon with no new verb of saying; whether Hermes or Croll speaks is not shown."
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.5",
+  "voice": "QUOTED: Heraclitus",
+  "quote": "the daughter of War",
+  "basis": "Heraclitus called Nature."
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.5",
+  "voice": "QUOTED: Homer",
+  "quote": "Contention",
+  "basis": "Homer called it."
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.6",
+  "voice": "QUOTED: the Saints",
+  "quote": "Hell and Purgatory",
+  "basis": "the Saints have called the mortall body."
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.7",
+  "voice": "UNCLEAR",
+  "quote": "Hoc opus, hic labor est",
+  "basis": "A Latin saying set into the sentence; no speaker or writing is named."
+ },
+ {
+  "chunk": "CH3-1",
+  "ref": "CH3.19",
+  "voice": "QUOTED: the Galenists",
+  "quote": "all bitter things are hot",
+  "basis": "the Galenists ... who affirm."
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.28",
+  "voice": "QUOTED: any who out of their simplicity",
+  "quote": "mettalls are of no use in Physick",
+  "basis": "'If there be any who out of their simplicity shall say': a view reported in order to answer it"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "N175",
+  "voice": "UNCLEAR",
+  "quote": "Minerals conduce much to the health of Man",
+  "basis": "follows 'See Theophrast. his Manuel.'; the note does not show whether these are Croll's words or drawn from that writing"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.30",
+  "voice": "QUOTED: Orpheus; Hippocrates",
+  "quote": "In Orpheus his Night and Hippocrates his river Orcus",
+  "basis": "the oneness of all things is set in their named figures"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.30",
+  "voice": "QUOTED: Anaxagoras",
+  "quote": "like Anaxagoras his Pamsperm",
+  "basis": "the Pamsperm is given to Anaxagoras by name"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.31",
+  "voice": "QUOTED: Agrippa",
+  "quote": "Agrippa calleth it",
+  "basis": "name and verb of saying 'calleth'"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.31",
+  "voice": "QUOTED: Avicen",
+  "quote": "Avicen saith, it is the Soule of the world",
+  "basis": "name and verb of saying 'saith'"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "N178",
+  "voice": "UNCLEAR",
+  "quote": "The Soule of the world is a kind of united life",
+  "basis": "follows 'See Paracelsus his Apocalyps of Herines.'; the note does not show whether these are Croll's words or drawn from that writing"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.34",
+  "voice": "QUOTED: Albertus Magnus",
+  "quote": "Albertus Magnus writeth",
+  "basis": "name and verbs 'writeth', 'saith he', from 'his Book of Mineralls'"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.34",
+  "voice": "QUOTED: the Phylosophers",
+  "quote": "the Phylosophers say",
+  "basis": "group named with verb 'say'"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.35",
+  "voice": "QUOTED: Albertus",
+  "quote": "Albertus also proveth",
+  "basis": "name, verbs 'proveth' and 'writeth', and N179 'In his Mineralls.'"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.35",
+  "voice": "UNCLEAR",
+  "quote": "which could not be if there were not a minerall vertue in Man",
+  "basis": "the sentence does not show whether this conclusion is Albertus's or Croll's"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.36",
+  "voice": "QUOTED: Morienes",
+  "quote": "It is of thee O King, said he",
+  "basis": "Morienes named, 'said he'; continues after the note mark 'and thou are in its Mine'"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.36",
+  "voice": "QUOTED: Raymund Lully",
+  "quote": "he got his matter out of a mean and worthlesse thing",
+  "basis": "'when he saith', of Raymund Lully"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.37",
+  "voice": "QUOTED: Riplaeus à Portis",
+  "quote": "Remember that Man is the most noble Creature of all",
+  "basis": "'Riplaeus à Portis agreeth with them both:' followed by his words"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.38",
+  "voice": "QUOTED: Rhasis",
+  "quote": "You may easily, saith he, perceive",
+  "basis": "Rhasis named, 'In his Book of Divinity', 'saith he'"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.40",
+  "voice": "QUOTED: Galen",
+  "quote": "he tryed all wayes and means",
+  "basis": "'as may be gathered from his own words, when he saith'; N181 gives book and chapter"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.40",
+  "voice": "QUOTED: Philerastian Physitians",
+  "quote": "a circumforaneous or rambling rayler",
+  "basis": "'whom these men fear not to call': words reported in order to reject them"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "N181",
+  "voice": "UNCLEAR",
+  "quote": "Whey, Butter and Cheese are the three first things of milk",
+  "basis": "follows the pointer 'Lib. 1. cap. 19.'; the note does not show whether these are Croll's words or drawn from that book"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "N184",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "A Physitian must be an Astronomer",
+  "basis": "'Paracelsus saith'"
+ },
+ {
+  "chunk": "CH3-2",
+  "ref": "CH3.45",
+  "voice": "QUOTED: the Athenian Thrasos",
+  "quote": "who will have Light to be Darkenesse",
+  "basis": "view given to 'the Athenian Thrasos' in order to reject it"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.1",
+  "voice": "QUOTED: Hippocrates",
+  "quote": "that Contraryes are to be cured with CONTRARYES",
+  "basis": "according to Hippocrates his Maxim"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.1",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "Like with LIKE",
+  "basis": "according to Paracelsus"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.2",
+  "voice": "QUOTED: Hippocrates",
+  "quote": "that hunger is to to be cured with meat",
+  "basis": "Hippocrates named, for saying, that ...; runs to that Contraries cure Contraryes"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.2",
+  "voice": "QUOTED: Galen",
+  "quote": "who applyed that Contrariety of Hippocrates",
+  "basis": "Galen named; his view reported to reject it, called an unhappy mistake; runs to with their companions"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.6",
+  "voice": "QUOTED: Galen",
+  "quote": "it alone being the genuine Physitian of all diseases",
+  "basis": "as Galen witnesseth in his 13 Book of Method"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.6",
+  "voice": "QUOTED: some",
+  "quote": "that contraryes are to be cured by Contraryes",
+  "basis": "whereas some say; the author then allows it on a condition"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.6",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "This Mechanick and Forger of diseases",
+  "basis": "margin note N189 at the end of this sentence names Paracelsus and his Tincture of medicines; where his words begin the text does not show"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.6",
+  "voice": "UNCLEAR",
+  "quote": "as the whole Tree cannot be destroyd in the branch",
+  "basis": "notes N190 and N191 name writings (great Surgery, his Book of ancient Physick) beside these lines without naming whose words they are; runs to is to be taken in hand"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.6",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "like preserve their like, and are destroyed by their contraryes",
+  "basis": "When Paracelsus saith"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.6",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "Recollaceous and invalid ones",
+  "basis": "which he alwayes calleth; he is Paracelsus, named in the sentence"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.7",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "he distributeth all materiall diseases",
+  "basis": "verbs of naming he called, he Mercuriall; he is unnamed, the nearest name is Paracelsus (end of CH4.6, his great Chyrurgye); runs to the end of CH4.7"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.8",
+  "voice": "UNCLEAR",
+  "quote": "Mercury may three manner of wayes be exalted",
+  "basis": "no verb of saying; continues the account of the unnamed he between his namings; runs to too much Tattar in them"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.8",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "those diseases that are bred of Salt, he calleh Saline and Nitrons",
+  "basis": "he calleh; the same unnamed he"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.8",
+  "voice": "UNCLEAR",
+  "quote": "Salt destroyeth health 4 wayes",
+  "basis": "no verb of saying; continues the account of Salt diseases; runs to such also is the disease"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.8",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "He saith therefore that the Sulphur kindled in mans body",
+  "basis": "He saith; the same unnamed he; runs to agreeth with the other, where the author's reading begins"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.9",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "he saith that Ulcers proceeding from Salts must be cured by Salts",
+  "basis": "he saith; margin note N194 to this paragraph speaks of the Salt of Paracelsus"
+ },
+ {
+  "chunk": "CH4-1",
+  "ref": "CH4.13",
+  "voice": "QUOTED: Mathew",
+  "quote": "the Country man could eat and drinke and sleepe",
+  "basis": "as he told me; the countryman named Mathew earlier in the paragraph"
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.2",
+  "voice": "QUOTED: Horace",
+  "quote": "I think and judge as cause I finde",
+  "basis": "CH5.1 ends 'alwayes remembring that of Horace,'"
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "N196",
+  "voice": "QUOTED: Horace",
+  "quote": "Quo me cunque rapit tempestas",
+  "basis": "Latin lines in the margin of the verse given to Horace; the note itself names no one"
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.3",
+  "voice": "QUOTED: Picus Mirandula",
+  "quote": "all sects, be they never so many",
+  "basis": "'as said that most noble and wise Picus Mirandula'"
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.4",
+  "voice": "QUOTED: Fabius",
+  "quote": "This latter age, saith Fabius",
+  "basis": "verb of saying: 'saith Fabius'"
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.4",
+  "voice": "UNCLEAR",
+  "quote": "and because knowledge thriveth as ingenuity is improved",
+  "basis": "runs on from the words given to Fabius; no mark shows where his words end"
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.7",
+  "voice": "QUOTED: Hippocrates & Galen",
+  "quote": "a Philosopher skilfull to cure",
+  "basis": "'acording to the conclusion of Hippocrates & Galen'"
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.8",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "let him be the legetimate INTERPRETER of NATURE",
+  "basis": "'as Paracelsus saith'; the margin N199 names 'Chirurgia magna'"
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.9",
+  "voice": "UNCLEAR",
+  "quote": "Phylosophy teacheth the vertues and qualityes",
+  "basis": "follows straight on the words given to Paracelsus in CH5.8, in the same manner of instruction, with no mark of where his words end"
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.15",
+  "voice": "QUOTED: Emissaries and catch-poles",
+  "quote": "as though the wicked one were the worker of those cures",
+  "basis": "view of 'they' (the Devil's 'Emissaries and catch-poles', CH5.14) reported in order to be rejected; no words of theirs given"
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "N212",
+  "voice": "QUOTED: Seneca",
+  "quote": "I never go abroad among men",
+  "basis": "the note ends with the name 'Seneca'"
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "CH5.26",
+  "voice": "QUOTED: Plato",
+  "quote": "Arts wrapt in Riddles safe doe lye",
+  "basis": "CH5.25 ends 'for as Plato saith,'"
+ },
+ {
+  "chunk": "CH5-1",
+  "ref": "N215",
+  "voice": "QUOTED: Plato",
+  "quote": "Artes ut lateant sua",
+  "basis": "Latin line in the margin of the verse given to Plato; the note names no one"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.28",
+  "voice": "QUOTED: true Hermetick Phylosophers",
+  "quote": "took an Oath that they would follow the footsteps of their fathers and masters",
+  "basis": "the content of the oath the named group swore ('took an Oath that')"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.29",
+  "voice": "QUOTED: Men of shallow judgement",
+  "quote": "that he approveth of no sort of Physitians",
+  "basis": "'Men of shallow judgement are ready to think'; rejected with 'whereas'"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.29",
+  "voice": "QUOTED: they, who Verbally and Syllogistically onely make a great flourish of Physick",
+  "quote": "boasting that they have the Method of Physick",
+  "basis": "verb of saying 'boasting'; reported to be rejected"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.30",
+  "voice": "QUOTED: the Censurers of Theophrastus, those fallacious Medodists",
+  "quote": "that they have lost the right method",
+  "basis": "verb of saying 'charge'; called false"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.31",
+  "voice": "QUOTED: Wimpeneus",
+  "quote": "that greatest and most grievous Diseases now a dayes",
+  "basis": "'Wimpeneus learnedly sheweth that'"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.32",
+  "voice": "UNCLEAR",
+  "quote": "First, Because the Diseases are more perfectly known",
+  "basis": "first of the three respects Wimpeneus is said to show; the text does not show whether the words are his or the author's"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.36",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "Paracelsus distinguisheth Tartar into",
+  "basis": "name with a verb of teaching"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.36",
+  "voice": "UNCLEAR",
+  "quote": "which innate Tartarous disposition cannot be cured",
+  "basis": "continues the sentence giving Paracelsus' division; whether still his teaching or the author's is not shown"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "N219",
+  "voice": "QUOTED: Paracels",
+  "quote": "Paracels saith that the Matter",
+  "basis": "name with 'saith'"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.43",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "under the name of Poyson and Tartar",
+  "basis": "names Paracelsus uses ('which Paracelsus comprehendeth under the name of')"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.45",
+  "voice": "UNCLEAR",
+  "quote": "Secondly, Because we have more perfect medicines",
+  "basis": "second of the three respects Wimpeneus is said to show; whose words is not shown"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.45",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "Paracelsus would have a steely medicine",
+  "basis": "name with 'would have': his rule of cure"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.46",
+  "voice": "UNCLEAR",
+  "quote": "Thirdly, Because now the Harmony",
+  "basis": "third of the three respects Wimpeneus is said to show; whose words is not shown"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.54",
+  "voice": "QUOTED: his adversaries",
+  "quote": "charge him with implicite and evident contradiction",
+  "basis": "verb of saying 'charge'; answered by the author"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.56",
+  "voice": "UNCLEAR",
+  "quote": "For he assigned or set down a twofold Medicine",
+  "basis": "'set down' is a verb of writing; 'he' may be Paracelsus or Hippocrates, both named just before"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.57",
+  "voice": "QUOTED: these Rationall Physitians",
+  "quote": "against the Chymists as if they were no Physitians",
+  "basis": "verbs of saying 'exclaime and cry out'; rejected"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.58",
+  "voice": "QUOTED: them, who reteining the works of Hippocrates and of the Ancients",
+  "quote": "boast themselves to be the Schollers of Paracelsus",
+  "basis": "verb of saying 'boast'; rejected"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.59",
+  "voice": "QUOTED: false and lying Theophrasteans",
+  "quote": "that they make use of Theophrastus his medicines",
+  "basis": "verbs of saying 'vaunt and vapour'; rejected"
+ },
+ {
+  "chunk": "CH5-2",
+  "ref": "CH5.59",
+  "voice": "QUOTED: false and lying Theophrasteans",
+  "quote": "they brag that they can perfectly cure all diseases",
+  "basis": "verb of saying 'brag'; called lying"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.62",
+  "voice": "QUOTED: great part of Physitians",
+  "quote": "or as they say Prophaned",
+  "basis": "'as they say', said of the great part of physicians named before"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.62",
+  "voice": "QUOTED: the frantick vulgar sort",
+  "quote": "who think that a Secret looseth its vertue when tis made known",
+  "basis": "a view given to the vulgar sort and reported to reject it ('a foolish conceit')"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.62",
+  "voice": "QUOTED: the Doctor of the Gentiles",
+  "quote": "Whatsoever yee do in word or deed",
+  "basis": "'the Doctor of the Gentiles commandeth the Colossians, saying'; margin note N229 names Col. and 1 Cor."
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.62",
+  "voice": "QUOTED: our Creator",
+  "quote": "Call upon me in the day of thy trouble",
+  "basis": "'saith our Creator'"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "N227",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "Paracelsus would not have Physick be concealed.",
+  "basis": "the note names Paracelsus as holding the view"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.68",
+  "voice": "QUOTED: Plato",
+  "quote": "with Plato we conclude a recesse after such a time",
+  "basis": "a view named as Plato's and set aside with 'least'"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.69",
+  "voice": "QUOTED: Plutarch",
+  "quote": "Physitians of Trophilus",
+  "basis": "'whom Plutarch calls'"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.69",
+  "voice": "QUOTED: Trophilus",
+  "quote": "he was a compleat Physitian who could judg what might be done",
+  "basis": "'Trophilus, who said'"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.69",
+  "voice": "QUOTED: men",
+  "quote": "Honest Hangmen",
+  "basis": "'men commonly (and justly) call'"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.74",
+  "voice": "QUOTED: those who dispise the Order of God",
+  "quote": "think to be made well by God",
+  "basis": "a view given to those who will take no Physick, reported to reject it"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.78",
+  "voice": "QUOTED: Avicen",
+  "quote": "Nature obeyeth the cogitations and vehement desires of the Soul",
+  "basis": "'as Avicen saith'"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.79",
+  "voice": "UNCLEAR",
+  "quote": "Man who was created after the likenesse and image of God",
+  "basis": "'Gen. 32.25, 26.' is named in the text after these words; the text does not show whether they are taken from it"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.80",
+  "voice": "QUOTED: Holy Writ",
+  "quote": "our Saviour, as Holy Writ saith, was not able to work miracles in Capernaum",
+  "basis": "'as Holy Writ saith'; margin note N249 names Mar. and Marke"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.82",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "Paracelsus calleth them Deal diseases",
+  "basis": "'Paracelsus calleth'"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.82",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "the Cure, saith he, is by Faith",
+  "basis": "'saith he', of Paracelsus"
+ },
+ {
+  "chunk": "CH5-3",
+  "ref": "CH5.82",
+  "voice": "UNCLEAR",
+  "quote": "The Causes of those diseases that are of the Ens of God are unsearchable",
+  "basis": "follows Paracelsus' words and keeps his terms 'Ens of God' and 'Deal diseases', with no verb of saying; the text does not show whether these are his words or Croll's"
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.3",
+  "voice": "QUOTED: the most",
+  "quote": "as if they were but the speculations of idle men",
+  "basis": "the view of those who revile them 'as the most doe', reported in order to reject it"
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.3",
+  "voice": "QUOTED: Phylosophers",
+  "quote": "whom the Phylosophers call fools",
+  "basis": "verb of saying: 'the Phylosophers call'"
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.6",
+  "voice": "QUOTED: the ignorant",
+  "quote": "which the ignorant basely and wretchedly condemn of falshood",
+  "basis": "the judgement of 'the ignorant', reported in order to reject it"
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "N258",
+  "voice": "UNCLEAR",
+  "quote": "No man hath entrance hereunto",
+  "basis": "follows 'See Paracel.' to the end of the note; whether Paracelsus's words or the author's is not shown"
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.16",
+  "voice": "UNCLEAR",
+  "quote": "Too much acquantance hinder them",
+  "basis": "verse couplet introduced by 'For', no speaker named"
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "N259",
+  "voice": "UNCLEAR",
+  "quote": "Praebet amicorum, nil nisi copia damnum.",
+  "basis": "Latin verse line beside the couplet, no author named"
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.17",
+  "voice": "QUOTED: Reverend antiquity",
+  "quote": "Reverend antiquity, with one consent acknowledgeth that",
+  "basis": "'acknowledgeth that ... But that ...' governs the rest of the sentence to 'for ever and ever'"
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.21",
+  "voice": "QUOTED: True Phylosophers",
+  "quote": "Neverthelesse religously affirming, that none can attaine the desired end",
+  "basis": "'religously affirming, that', said of the True Phylosophers; runs to 'when he seeth good'"
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "CH6.25",
+  "voice": "QUOTED: Alphidius",
+  "quote": "that when their braines grow giddy",
+  "basis": "'what Alphidius foretold should happen to them'"
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "N268",
+  "voice": "UNCLEAR",
+  "quote": "It is not expedient to reveal it to any carnall man",
+  "basis": "addressed to 'thou'; stands before 'saith Lully' but the note does not show whether it is Lully's"
+ },
+ {
+  "chunk": "CH6-1",
+  "ref": "N268",
+  "voice": "QUOTED: Lully",
+  "quote": "He that publisheth this Art, let him die an evill death",
+  "basis": "'saith Lully'; runs to 'not of any mortal Man'"
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "N272",
+  "voice": "UNCLEAR",
+  "quote": "He that knows One knows All things",
+  "basis": "A saying with 'Eccl. 34.12, 13, 14.' named straight after it; the note does not say the words are taken from there."
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.37",
+  "voice": "UNCLEAR",
+  "quote": "Which I forbear to English.",
+  "basis": "An 'I' declines to put the Latin into English; the text does not show whether this is the author or one who Englished him."
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.40",
+  "voice": "QUOTED: our Vulgar sort",
+  "quote": "account the sayings of Prudent men but as fables and fictions",
+  "basis": "A judgement reported of the Vulgar sort and rejected ('foolishly enough')."
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.41",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "proving in some of his works that God taught him the medicine",
+  "basis": "Reported from 'some of his works'."
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.44",
+  "voice": "QUOTED: Lullius",
+  "quote": "between the Artist and God the first cause",
+  "basis": "'Lullius ... rightly concluded, that'; runs to 'magistery of this Art'."
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.44",
+  "voice": "UNCLEAR",
+  "quote": "Blessed will he be to whom the Lord God",
+  "basis": "Follows Lullius' conclusion with no mark of where his words end; 'Notwithstanding we see' after it is the author's."
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.45",
+  "voice": "QUOTED: many too credulous",
+  "quote": "that being deceived with their own vaine imaginations",
+  "basis": "'as many too credulous imagine', reported in order to reject it ('not')."
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.47",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "Long Life and free from all infirmity",
+  "basis": "'which Paracelsus in the Tincture of Physicks explaineth'."
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.48",
+  "voice": "UNCLEAR",
+  "quote": "yet have been perswaded that they should never attaine the same",
+  "basis": "'have been perswaded' shows no one who was persuaded or who persuaded; runs to the end of the paragraph."
+ },
+ {
+  "chunk": "CH6-2",
+  "ref": "CH6.50",
+  "voice": "QUOTED: Phylosophers our predecessors that have been train'd up in Hermes school",
+  "quote": "because the greatest Medicine",
+  "basis": "'yet usually give this Reason:'; the text does not mark where the Reason ends, so taken to the end of the paragraph."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "N283",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "Paracelsus calleth it the perfect, perpetuall",
+  "basis": "'Paracelsus calleth it'; the names that follow in the same sentence, to 'consumeth all diseases', are his."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "N284",
+  "voice": "QUOTED: Ancients",
+  "quote": "Those Ancients who had most perfect knowledge of Things have called",
+  "basis": "'have called': a name given to the Ancients."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.52",
+  "voice": "QUOTED: best Physitians",
+  "quote": "in the judgement of the best Physitians",
+  "basis": "'in the judgement of': the cause of diseases in the Three First is given as their judgement."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.52",
+  "voice": "QUOTED: common Physitians",
+  "quote": "as common Physitians say",
+  "basis": "'say', in a bracket: their naming by four Elements or Humors."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.56",
+  "voice": "QUOTED: Suchtenius",
+  "quote": "From those two fountaines the SUN and MOON, as Suchtenius learnedly discourseth",
+  "basis": "'as Suchtenius learnedly discourseth' stands in the sentence; where his words end the text does not show."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "N294",
+  "voice": "QUOTED: Paracels.",
+  "quote": "The Tincture doth so cleanse the Balsom",
+  "basis": "The note ends with the name 'Paracels.'"
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.62",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "Paracelsus calleth it the Element of FIRE",
+  "basis": "'Paracelsus calleth it'."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.62",
+  "voice": "UNCLEAR",
+  "quote": "for that Essentiall Fire worketh in the body",
+  "basis": "Follows the words given to Paracelsus in the same sentence; whether they are still his is not shown."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.62",
+  "voice": "QUOTED: many",
+  "quote": "that he by this his medicine would presumptously prepare himselfe",
+  "basis": "'many maliciously scoffe in their strange fictions': a charge reported in order to reject it."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "N296",
+  "voice": "QUOTED: husks & scraps of Paracelsus",
+  "quote": "this interpretation is forced and far setch'd",
+  "basis": "'who exclaime': the critics' cry, rejected beforehand ('In vaine')."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.67",
+  "voice": "QUOTED: Phil.",
+  "quote": "or conversation is in Heaven",
+  "basis": "Margin note N297 names 'Phil. 3.20.' beside these words."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.68",
+  "voice": "QUOTED: Hermes",
+  "quote": "is a sacred, Heavenly, and hid silence",
+  "basis": "'that which the most wise Hermes ... doth also acknowledge in his Monade'; the sentence runs on to 'above every MIND'; where his words end is not shown."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "N301",
+  "voice": "QUOTED: Lactantias",
+  "quote": "Lactantias mentioneth Hermes",
+  "basis": "'mentioneth': what Lactantias says of Hermes."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.68",
+  "voice": "QUOTED: Jewes",
+  "quote": "which the Jewes call the kisse of Death",
+  "basis": "'which the Jewes call': their name for the spiritual death of the Saints."
+ },
+ {
+  "chunk": "CH6-3",
+  "ref": "CH6.68",
+  "voice": "UNCLEAR",
+  "quote": "which is precious in the sight of God",
+  "basis": "Margin note N303 names four writings beside these words; which, if any, they come from is not shown."
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "N304",
+  "voice": "QUOTED: Porta",
+  "quote": "Therefore Porta reject the opinion",
+  "basis": "Porta named as rejecting an opinion and 'affirming' the contrary."
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "N307",
+  "voice": "UNCLEAR",
+  "quote": "It is the conservation of the Human body",
+  "basis": "The note opens by naming the writing Archid. of the Elixirs; it does not show whether the lines after it are drawn from it."
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.71",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "Therefore Paracelsus saith",
+  "basis": "Verb of saying with the name."
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.71",
+  "voice": "UNCLEAR",
+  "quote": "as we may preserve a little fire by laying on more wood",
+  "basis": "Follows 'Paracelsus saith' after a colon, through 'know not that wood wherewith our life might be cherished and prolonged'; the text does not show where his words end."
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.71",
+  "voice": "QUOTED: Lactantius",
+  "quote": "which Adam also had in his Family",
+  "basis": "'as Lactantius witnesseth'."
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.71",
+  "voice": "QUOTED: they who being ignorant of the Mysteries of the Element of Water",
+  "quote": "dream that the Deluge washed away the efficacy of fruits",
+  "basis": "A view reported to be rejected: 'Nor are we to relie upon their judgements'."
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "N308",
+  "voice": "QUOTED: Paracels.",
+  "quote": "When men multiplyed in the world",
+  "basis": "The note ends with the name Paracels."
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "N310",
+  "voice": "UNCLEAR",
+  "quote": "that the act of the imagination is immanent",
+  "basis": "An objection brought as 'what may be said' and set aside by 'Notwithstanding'; no speaker named."
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.74",
+  "voice": "QUOTED: Theophrastus",
+  "quote": "that many times weare corrupted in our mothers womb",
+  "basis": "'as Theophrastus in his Books very often observeth'."
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.76",
+  "voice": "QUOTED: any of a contrary opinion",
+  "quote": "reproaching them for a patch'd and mixt hodg podg of good & bad together",
+  "basis": "A reproach Croll foresees from 'any of a contrary opinion' and rejects."
+ },
+ {
+  "chunk": "CH6-4",
+  "ref": "CH6.76",
+  "voice": "QUOTED: Mat.",
+  "quote": "lest the curse of the figtree befall them",
+  "basis": "Margin note N318 names Mat. 21.19 at these words."
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.1",
+  "voice": "QUOTED: Trismegistus",
+  "quote": "Ignorance, saith Trismegistus to his Son Tat",
+  "basis": "name with the verb 'saith'"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.1",
+  "voice": "QUOTED: Luke 16.",
+  "quote": "Woe be to thee ô Man",
+  "basis": "margin note N078, naming only Luke 16, stands at these words; where the borrowed words end is not shown"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.1",
+  "voice": "QUOTED: 2 Cor. 4.",
+  "quote": "who considerest not the Treasure",
+  "basis": "margin note N079, naming only 2 Cor. 4, stands just before these words"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.1",
+  "voice": "QUOTED: John 14.17.20.",
+  "quote": "Thou seest not God in thy selfe",
+  "basis": "margin note N080, naming only John 14.17.20, stands just before these words"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.1",
+  "voice": "UNCLEAR",
+  "quote": "though he be more in us then we are in our selves",
+  "basis": "continues the address after N080's mark; the text does not show whether these are still the named writing's words or the author's, until 'And to speak truly'"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.1",
+  "voice": "QUOTED: Agryppa",
+  "quote": "saith, it is for a man to know Himselfe",
+  "basis": "Agryppa named with 'saith'; the saying is set beside the Oracle of Apollo written over the temple doors at Delphos"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "N082",
+  "voice": "QUOTED: August.",
+  "quote": "The first knowledge of God is to know what man is",
+  "basis": "the note ends with the name August."
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.2",
+  "voice": "QUOTED: David",
+  "quote": "I am fearfully and wonderfully made",
+  "basis": "'David saith' with the place Psal. 139.14 printed"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.3",
+  "voice": "QUOTED: Dionys.",
+  "quote": "nor in the inticings of mans Word or wisdome",
+  "basis": "margin note N084, naming only Dionys. and a writing, stands just before these words, inside the list of what essential knowledge is not from"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.3",
+  "voice": "QUOTED: Joh. 4. & 17.",
+  "quote": "The Son doth equally posesse all things with his Father",
+  "basis": "margin note N085, naming only Joh. 4. & 17., stands directly after these words"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.3",
+  "voice": "QUOTED: Plato",
+  "quote": "according to Plato, it is full of all Sciences",
+  "basis": "'according to Plato'"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.3",
+  "voice": "UNCLEAR",
+  "quote": "which being oppressed by the body lyeth hid",
+  "basis": "continues the sentence given to Plato; the text does not mark where his words end"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.4",
+  "voice": "QUOTED: Apoc. 3.20.",
+  "quote": "we open to God who stands and knocks",
+  "basis": "margin note N086 ends by naming Apoc. 3.20; its mark stands a few words before; which words it covers is not shown"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.5",
+  "voice": "QUOTED: Dionysius",
+  "quote": "Dionysius saith, that we cannot know God",
+  "basis": "name with the verb 'saith'; runs through 'Presidents or Examples'"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.5",
+  "voice": "UNCLEAR",
+  "quote": "Man that doth not know God, is not known of God",
+  "basis": "follows Dionysius' saying with no mark of where it ends"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.7",
+  "voice": "QUOTED: our Saviour",
+  "quote": "This is life eternall to know the Father",
+  "basis": "'our Saviour saith truly' with the place John 17.3. printed; the author's gloss begins at 'viz.'"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.9",
+  "voice": "QUOTED: 1 John 4. W{G051: 1 letter illegible}sd. 1. John 17.",
+  "quote": "Man whose mind by Christ is united to God",
+  "basis": "margin note N090, naming only writings, stands directly before these words"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.10",
+  "voice": "QUOTED: Apoc. 22.",
+  "quote": "after whose image and likenesse he was",
+  "basis": "margin note N091 ends by naming Apoc. 22; its mark stands just before these words"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.10",
+  "voice": "QUOTED: Eccl. 15.14.",
+  "quote": "that being set in the midst of the Paradice of this world",
+  "basis": "margin note N092, naming only Eccl. 15.14, stands just before these words"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.10",
+  "voice": "QUOTED: Gen 2.",
+  "quote": "neglecting the fatherly admonition",
+  "basis": "margin note N093, naming only Gen 2, stands directly after these words"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.10",
+  "voice": "QUOTED: Eccl. 15.14.",
+  "quote": "The first man was left in the hand of his own counsell",
+  "basis": "the place (Eccl. 15.14.) is printed in brackets directly after the words"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.10",
+  "voice": "QUOTED: Herms and Moses",
+  "quote": "and of his own accord turned from the strait path",
+  "basis": "the account closes with 'as Herms and Moses' demonstrate: it is given as what they show"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "MICRO.11",
+  "voice": "QUOTED: Nazianzen",
+  "quote": "God made Man last",
+  "basis": "'Nazianzen speaking of the workmanship of Man saith'"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "N096",
+  "voice": "QUOTED: Psal. 8.",
+  "quote": "Thou hast put all things under his",
+  "basis": "the words stand after the name Psal. 8. in the note"
+ },
+ {
+  "chunk": "MICRO-1",
+  "ref": "N096",
+  "voice": "QUOTED: Parace{G068: 1 letter illegible}s.",
+  "quote": "excepteth the Spirits and inhabitant of the",
+  "basis": "the note reports what the named writer excepts"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.14",
+  "voice": "QUOTED: Ancients",
+  "quote": "called Man a Microcosm or little World",
+  "basis": "the prudent Ancients wilsely called"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.15",
+  "voice": "QUOTED: Scripture",
+  "quote": "he be a Dog, Fox, Wolfe, Sheep, Sow, or generation of Vipers",
+  "basis": "according to those Epithites in Scripture"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.17",
+  "voice": "QUOTED: Phylosophers",
+  "quote": "the Chaos and Hylen, or Mother of the world",
+  "basis": "which Phylosophers call"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.17",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "which Paracelsus calleth the Limbus",
+  "basis": "verb of saying: Paracelsus calleth"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.17",
+  "voice": "QUOTED: Gen. 2.7",
+  "quote": "that Limus Terrae, that slime of the earth",
+  "basis": "margin note N107 names Gen. 2.7 where these words end"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "N104",
+  "voice": "QUOTED: Gen. 1",
+  "quote": "upon which the Spirit of God moved",
+  "basis": "the note names Gen. 1 right after these words"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "N104",
+  "voice": "QUOTED: 2 Pet. 3.5",
+  "quote": "The Earth plung'd or swam up out of the Water",
+  "basis": "the note names 2 Pet. 3.5 right after these words"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "N107",
+  "voice": "QUOTED: Hermes",
+  "quote": "calleth Man an earthly God",
+  "basis": "Hermes calleth"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "N109",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "is infused by God into the Elementary body through the Astra's as a Medium",
+  "basis": "Paracelsus saith"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.18",
+  "voice": "QUOTED: John 10.30",
+  "quote": "as the Son with his Father",
+  "basis": "margin note N110 names John 10.30 at these words"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.19",
+  "voice": "QUOTED: Zach. 12.1. Gen. 2.7. Es. 42.5. Wisd. 2.23.",
+  "quote": "or Spirit by the inbreathing of God",
+  "basis": "margin note N112 names these places at these words"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.19",
+  "voice": "QUOTED: 1 John 2.27. Chap. 4.14. Acts 17.28.",
+  "quote": "yea, in him we are, and live, and are moved",
+  "basis": "margin note N113 names these places in this sentence; yea sets the words off"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "N114",
+  "voice": "QUOTED: Paul",
+  "quote": "three parts of Man, Spirit, Soule and Body",
+  "basis": "Paul the greatest Phylosopher and Divine shewes"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.24",
+  "voice": "UNCLEAR",
+  "quote": "the Fourth World, in whom are found all those things that are in the other three",
+  "basis": "some have called him: given to others the text does not name"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "N116",
+  "voice": "QUOTED: Manilus",
+  "quote": "Exemplumque Dei quisque est in imagine parvâ",
+  "basis": "the name Manilus follows the line"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.28",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "which is the Parant of Man",
+  "basis": "according to Paracelsus"
+ },
+ {
+  "chunk": "MICRO-2",
+  "ref": "MICRO.30",
+  "voice": "QUOTED: John 17.11, 12.22, 23",
+  "quote": "made one with him",
+  "basis": "margin note N119 names these places at these words"
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "N122",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "it is a body because bodies are the fruits thereof",
+  "basis": "'acelsus saith' just before (first letters illegible), after 'vide Parace.s.'; the report is cut by gaps before these words"
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "N122",
+  "voice": "UNCLEAR",
+  "quote": "So the wind is a body",
+  "basis": "follows the report of what Paracelsus saith; the note does not show whether the report runs on, through 'of the same power'"
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "MICRO.32",
+  "voice": "QUOTED: Sophies",
+  "quote": "the familiar Homuncle (or little Man) of the Sophies",
+  "basis": "the name is given as the Sophies' ('of the Sophies')"
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "MICRO.32",
+  "voice": "QUOTED: Paracelsus",
+  "quote": "Paracelsus his internall Adech",
+  "basis": "the name is given as Paracelsus' own ('Paracelsus his')"
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "N124",
+  "voice": "QUOTED: Picus",
+  "quote": "Read in Picus how Trimethius",
+  "basis": "the account is sent to a writing: 'Read in Picus how'"
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "N124",
+  "voice": "UNCLEAR",
+  "quote": "thus by reall Magick he shewed to that great Picus",
+  "basis": "may still be what is to be read in Picus, or the note's own comment ('that great Picus'); the text does not show which"
+ },
+ {
+  "chunk": "MICRO-3",
+  "ref": "MICRO.40",
+  "voice": "QUOTED: Moses",
+  "quote": "Jacobs Rods mentioned by Moses",
+  "basis": "the instance is given as Moses' ('mentioned by Moses'); margin N129 names Gen. 30.37"
+ },
+ {
   "chunk": "OPEN-1",
   "ref": "OPEN.2",
   "voice": "QUOTED: ancient Philosophers",
