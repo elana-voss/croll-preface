@@ -202,10 +202,15 @@ def checker(number):
 # ---- the lorebook
 
 def _secondary(rules, e):
-    """A gated subject's secondary keys: the context words that are not its own keys, and its own open keys."""
+    """A gated subject's secondary keys: every distinctive word that is not its own key (the context words, the keys
+    of ungated subjects, the open keys of others), then its own open keys, which so fire alone."""
     own, open_keys = {k.lower() for k in e['keys']}, {o.lower() for o in rules.get('open_keys', [])}
-    return ([c for c in rules.get('context', []) if c.lower() not in own]
-            + [k for k in e['keys'] if k.lower() in open_keys])
+    distinctive = (rules.get('context', []) + [k for o in rules['entries'] if not o.get('gated') for k in o['keys']]
+                   + rules.get('open_keys', []))
+    found = {}
+    for k in [k for k in distinctive if k.lower() not in own] + [k for k in e['keys'] if k.lower() in open_keys]:
+        found.setdefault(k.lower(), k)
+    return list(found.values())
 
 
 def st_entries(rules, content):

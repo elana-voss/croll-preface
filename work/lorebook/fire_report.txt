@@ -1,0 +1,142 @@
+Did Paracelsus really think everything is made of three principles, with salt as one of them?
+  in: Paracelsus, salt, three principles
+So sulfur, quicksilver and salt: are those the actual chemicals or something more symbolic?
+  in: salt, sulphur
+What does the book mean when it calls man a microcosm, a little copy of the big world?
+  in: microcosm
+I keep running into "astrum". Is that a star inside a person, tied to the firmament and some starry body?
+  in: astrum, firmament
+How do the balsam and the mumia relate to the body's natural heat?
+  in: balsam, natural heat
+Why does the author keep talking about the center of the earth, as if seeds grow from it?
+  in: -
+Is chemistry in this book the same thing chemists do now, or more like the art of Hermes?
+  in: chemistry, chemists, Hermes
+Four elements plus a fifth essence, so where does the quintessence come in?
+  in: elements, essence, fifth essence
+Does every herb have a hidden essence or virtue, something specific to one disease?
+  in: -
+How does faith fit in with the light of grace versus the light of nature?
+  in: faith, nature, light of grace, light of nature
+So fire, or "Vulcan", is the tool that separates the pure from the impure?
+  in: fire, separation, Vulcan
+Did Croll actually believe base metals could be turned into gold?
+  in: gold, metals
+If God made the world out of nothing, what was the first matter then?
+  in: matter, nothing, first matter
+Is the universal medicine meant to cure everything, unlike ordinary medicines?
+  in: medicine, universal medicine
+Can the mind's imagination really work magic?
+  in: -
+Why all the secrecy and silence? Why keep the mysteries hidden?
+  in: -
+Is nature run by some spirit of the world?
+  in: nature, spirit, spirit of the world
+Why should philosophy start from the Word of God?
+  in: -
+Did Paracelsian physick mean knowing anatomy differently from ordinary doctors?
+  in: Paracelsus, physic, anatomy
+What's with the basilisk? A poison that kills just by looking?
+  in: poison, basilisk
+Is the spirit of life the same as the archeus, or is spirit something broader?
+  in: spirit, archaeus, spirit of life
+People always link the sun with gold. Does this book do that too?
+  in: -
+How do the three principles differ from the four elements? Aren't both just matter?
+  in: elements, matter, three principles
+Anatomy of the little world: does that include the mind as well as the body?
+  in: -
+Is the sidereal spirit how the stars act on us, through some kind of astrum?
+  in: astrum, spirit, sidereal spirit
+Is a balsam basically the same as a tincture or a magistery?
+  in: balsam, magistery, tincture
+What's this hidden fire at the centre of every thing?
+  in: -
+Spagyric art, resolving things into their parts: is that how chemistry gets the healing part out?
+  in: chemistry, resolution, spagyric
+Is man made from the slime of the earth, the limus terrae, and what does regeneration change in him?
+  in: earth, regeneration, limus terrae
+What's the difference between an ens, an essence and a seed?
+  in: essence, seed, ens
+Does a true magician or adept need faith above all?
+  in: -
+Is matter just dead stuff, while spirit does all the work?
+  in: -
+Can any medicine push back natural death, or only cure illness?
+  in: -
+How does the artist get mercury out of metals?
+  in: -
+Is the celestial stone the biggest mystery in the book?
+  in: mystery, celestial stone
+Is physic supposed to be learned from nature itself and its secrets?
+  in: nature, physic, secret
+When God said "Let there be", the fiat, did everything come out of nothing through the Word?
+  in: -
+Does the pull of a lodestone count as a hidden virtue in this philosophy?
+  in: philosophy, virtue, lodestone
+Is tartar a kind of poison the body builds up?
+  in: -
+Is the secret sulfur he mentions somehow linked to the sun?
+  in: secret, sulphur, sun
+Looks like rain again this afternoon, I should bring an umbrella.
+  in: -
+What should I cook tonight? I've got rice, eggs and some spinach.
+  in: -
+My meeting got moved to Thursday, so I finally have a free morning.
+  in: -
+Any tips for a cheap weekend trip by train?
+  in: -
+The coffee machine at work broke down again.
+  in: -
+It's been so hot this week I can barely sleep.
+  in: -
+I'm trying to bake bread but the dough won't rise.
+  in: -
+Our flight was delayed three hours, we just landed.
+  in: -
+Do you think I should ask my boss for a raise before or after the review?
+  in: -
+Snow is forecast for the weekend, so the hiking plans are off.
+  in: -
+
+# Failures
+does not fire: mercury: So sulfur, quicksilver and salt: are those the actual chemicals or something more symbolic?
+does not fire: macrocosm: What does the book mean when it calls man a microcosm, a little copy of the big world?
+does not fire: sidereal body: I keep running into "astrum". Is that a star inside a person, tied to the firmament and some starry body?
+does not fire: mummy: How do the balsam and the mumia relate to the body's natural heat?
+does not fire: centre: Why does the author keep talking about the center of the earth, as if seeds grow from it?
+does not fire: earth: Why does the author keep talking about the center of the earth, as if seeds grow from it?
+does not fire: seed: Why does the author keep talking about the center of the earth, as if seeds grow from it?
+does not fire: essence: Does every herb have a hidden essence or virtue, something specific to one disease?
+does not fire: virtue: Does every herb have a hidden essence or virtue, something specific to one disease?
+does not fire: specific: Does every herb have a hidden essence or virtue, something specific to one disease?
+does not fire: transmutation: Did Croll actually believe base metals could be turned into gold?
+does not fire: mind: Can the mind's imagination really work magic?
+does not fire: imagination: Can the mind's imagination really work magic?
+does not fire: magic: Can the mind's imagination really work magic?
+does not fire: mystery: Why all the secrecy and silence? Why keep the mysteries hidden?
+does not fire: secret: Why all the secrecy and silence? Why keep the mysteries hidden?
+does not fire: taciturnity: Why all the secrecy and silence? Why keep the mysteries hidden?
+does not fire: philosophy: Why should philosophy start from the Word of God?
+does not fire: the Word: Why should philosophy start from the Word of God?
+does not fire: sun: People always link the sun with gold. Does this book do that too?
+does not fire: gold: People always link the sun with gold. Does this book do that too?
+does not fire: microcosm: Anatomy of the little world: does that include the mind as well as the body?
+does not fire: anatomy: Anatomy of the little world: does that include the mind as well as the body?
+does not fire: mind: Anatomy of the little world: does that include the mind as well as the body?
+does not fire: centre: What's this hidden fire at the centre of every thing?
+does not fire: fire: What's this hidden fire at the centre of every thing?
+does not fire: faith: Does a true magician or adept need faith above all?
+does not fire: magician: Does a true magician or adept need faith above all?
+does not fire: matter: Is matter just dead stuff, while spirit does all the work?
+does not fire: spirit: Is matter just dead stuff, while spirit does all the work?
+does not fire: medicine: Can any medicine push back natural death, or only cure illness?
+does not fire: natural death: Can any medicine push back natural death, or only cure illness?
+does not fire: mercury: How does the artist get mercury out of metals?
+does not fire: metals: How does the artist get mercury out of metals?
+does not fire: artist: How does the artist get mercury out of metals?
+does not fire: nothing: When God said "Let there be", the fiat, did everything come out of nothing through the Word?
+does not fire: fiat: When God said "Let there be", the fiat, did everything come out of nothing through the Word?
+does not fire: the Word: When God said "Let there be", the fiat, did everything come out of nothing through the Word?
+does not fire: poison: Is tartar a kind of poison the body builds up?
+does not fire: tartar: Is tartar a kind of poison the body builds up?

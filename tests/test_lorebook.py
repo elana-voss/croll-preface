@@ -47,7 +47,7 @@ class BuildTest(unittest.TestCase):
         core, other = lorebook.st_entries(RULES, content)
         self.assertEqual((core['order'], core['selective'], core['excludeRecursion'], core['preventRecursion']),
                          (100, True, True, False))
-        self.assertEqual(core['keysecondary'], ['physic', 'healing', 'medicines'])
+        self.assertEqual(core['keysecondary'], ['physic', 'healing', 'wisdom', 'wise', 'medicines'])
         self.assertEqual(core['comment'], 'Medicine (word list: medicine, Damascen)')
         self.assertEqual((other['order'], other['selective'], other['excludeRecursion'], other['preventRecursion']),
                          (50, False, True, True))

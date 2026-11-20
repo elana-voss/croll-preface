@@ -1,0 +1,1009 @@
+{
+ "entries": [
+  {
+   "name": "microcosm",
+   "headwords": [
+    "Microcosm",
+    "little world",
+    "lesser world"
+   ],
+   "keys": [
+    "microcosm",
+    "microcosms",
+    "little world",
+    "lesser world"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "macrocosm",
+   "headwords": [
+    "macrocosm"
+   ],
+   "keys": [
+    "macrocosm",
+    "macrocosms"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "Paracelsus",
+   "headwords": [
+    "Paracelsus",
+    "Theophrastus"
+   ],
+   "keys": [
+    "paracelsus",
+    "theophrastus",
+    "paracelsian",
+    "paracelsians"
+   ],
+   "tier": 1,
+   "gated": false
+  },
+  {
+   "name": "astrum",
+   "headwords": [
+    "Astrum",
+    "astral"
+   ],
+   "keys": [
+    "astrum",
+    "astra",
+    "astras",
+    "astral"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "archaeus",
+   "headwords": [
+    "Archaeus"
+   ],
+   "keys": [
+    "archaeus",
+    "archeus"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "balsam",
+   "headwords": [
+    "Balsam"
+   ],
+   "keys": [
+    "balsam",
+    "balsams"
+   ],
+   "tier": 1,
+   "gated": false
+  },
+  {
+   "name": "basilisk",
+   "headwords": [
+    "basilisk"
+   ],
+   "keys": [
+    "basilisk",
+    "basilisks"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "celestial stone",
+   "headwords": [
+    "celestial stone"
+   ],
+   "keys": [
+    "celestial stone"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "centre",
+   "headwords": [
+    "centre"
+   ],
+   "keys": [
+    "centre",
+    "centres",
+    "center",
+    "centers"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "chemistry",
+   "headwords": [
+    "chemistry"
+   ],
+   "keys": [
+    "chemistry",
+    "chymistry"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "chemists",
+   "headwords": [
+    "Chymists"
+   ],
+   "keys": [
+    "chemist",
+    "chemists",
+    "chymist",
+    "chymists"
+   ],
+   "tier": 2,
+   "gated": true
+  },
+  {
+   "name": "earth",
+   "headwords": [
+    "earth"
+   ],
+   "keys": [
+    "earth",
+    "earths"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "elements",
+   "headwords": [
+    "Elements"
+   ],
+   "keys": [
+    "element",
+    "elements"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "ens",
+   "headwords": [
+    "Ens"
+   ],
+   "keys": [
+    "ens"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "essence",
+   "headwords": [
+    "essence"
+   ],
+   "keys": [
+    "essence",
+    "essences"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "faith",
+   "headwords": [
+    "faith",
+    "Natural Faith"
+   ],
+   "keys": [
+    "faith",
+    "faiths"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "fiat",
+   "headwords": [
+    "FIAT"
+   ],
+   "keys": [
+    "fiat"
+   ],
+   "tier": 2,
+   "gated": true
+  },
+  {
+   "name": "fifth essence",
+   "headwords": [
+    "fifth Essence",
+    "quintessence"
+   ],
+   "keys": [
+    "fifth essence",
+    "quintessence",
+    "quintessences"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "fire",
+   "headwords": [
+    "fire"
+   ],
+   "keys": [
+    "fire",
+    "fires"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "firmament",
+   "headwords": [
+    "Firmament"
+   ],
+   "keys": [
+    "firmament",
+    "firmaments"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "first matter",
+   "headwords": [
+    "first matter"
+   ],
+   "keys": [
+    "first matter"
+   ],
+   "tier": 3,
+   "gated": false
+  },
+  {
+   "name": "globes",
+   "headwords": [
+    "Globes"
+   ],
+   "keys": [
+    "globe",
+    "globes"
+   ],
+   "tier": 3,
+   "gated": true
+  },
+  {
+   "name": "gold",
+   "headwords": [
+    "gold"
+   ],
+   "keys": [
+    "gold"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "Hermes",
+   "headwords": [
+    "Hermes"
+   ],
+   "keys": [
+    "hermes"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "imagination",
+   "headwords": [
+    "imagination"
+   ],
+   "keys": [
+    "imagination",
+    "imaginations"
+   ],
+   "tier": 2,
+   "gated": true
+  },
+  {
+   "name": "light of grace",
+   "headwords": [
+    "Light of Grace"
+   ],
+   "keys": [
+    "light of grace"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "light of nature",
+   "headwords": [
+    "Light of Nature"
+   ],
+   "keys": [
+    "light of nature"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "limus terrae",
+   "headwords": [
+    "Limus Terrae"
+   ],
+   "keys": [
+    "limus terrae",
+    "limo terrae"
+   ],
+   "tier": 3,
+   "gated": false
+  },
+  {
+   "name": "lodestone",
+   "headwords": [
+    "lodestone"
+   ],
+   "keys": [
+    "lodestone",
+    "lodestones",
+    "loadstone",
+    "loadstones"
+   ],
+   "tier": 3,
+   "gated": false
+  },
+  {
+   "name": "magic",
+   "headwords": [
+    "magic"
+   ],
+   "keys": [
+    "magic",
+    "magick"
+   ],
+   "tier": 2,
+   "gated": true
+  },
+  {
+   "name": "magician",
+   "headwords": [
+    "magician"
+   ],
+   "keys": [
+    "magician",
+    "magicians"
+   ],
+   "tier": 2,
+   "gated": true
+  },
+  {
+   "name": "magistery",
+   "headwords": [
+    "magistery"
+   ],
+   "keys": [
+    "magistery",
+    "magisteries"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "matrix",
+   "headwords": [
+    "matrix"
+   ],
+   "keys": [
+    "matrix",
+    "matrices",
+    "matrixes"
+   ],
+   "tier": 3,
+   "gated": true
+  },
+  {
+   "name": "matter",
+   "headwords": [
+    "matter",
+    "last matter"
+   ],
+   "keys": [
+    "matter",
+    "matters"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "medicine",
+   "headwords": [
+    "medicine"
+   ],
+   "keys": [
+    "medicine",
+    "medicines"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "mercury",
+   "headwords": [
+    "Mercury"
+   ],
+   "keys": [
+    "mercury"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "metals",
+   "headwords": [
+    "metals",
+    "perfect metals"
+   ],
+   "keys": [
+    "metal",
+    "metals"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "mind",
+   "headwords": [
+    "mind"
+   ],
+   "keys": [
+    "mind",
+    "minds"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "mummy",
+   "headwords": [
+    "Mummy"
+   ],
+   "keys": [
+    "mummy",
+    "mummies"
+   ],
+   "tier": 2,
+   "gated": true
+  },
+  {
+   "name": "mystery",
+   "headwords": [
+    "mystery"
+   ],
+   "keys": [
+    "mystery",
+    "mysteries"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "natural death",
+   "headwords": [
+    "natural death"
+   ],
+   "keys": [
+    "natural death"
+   ],
+   "tier": 2,
+   "gated": true
+  },
+  {
+   "name": "natural heat",
+   "headwords": [
+    "natural heat"
+   ],
+   "keys": [
+    "natural heat"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "nature",
+   "headwords": [
+    "Nature"
+   ],
+   "keys": [
+    "nature",
+    "natures"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "nothing",
+   "headwords": [
+    "nothing"
+   ],
+   "keys": [
+    "nothing",
+    "nothingness"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "philosophy",
+   "headwords": [
+    "philosophy"
+   ],
+   "keys": [
+    "philosophy",
+    "philosophies"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "physic",
+   "headwords": [
+    "physic",
+    "true physic"
+   ],
+   "keys": [
+    "physic",
+    "physick"
+   ],
+   "tier": 1,
+   "gated": false
+  },
+  {
+   "name": "poison",
+   "headwords": [
+    "poison"
+   ],
+   "keys": [
+    "poison",
+    "poisons"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "regeneration",
+   "headwords": [
+    "Regeneration"
+   ],
+   "keys": [
+    "regeneration"
+   ],
+   "tier": 2,
+   "gated": true
+  },
+  {
+   "name": "resolution",
+   "headwords": [
+    "resolution"
+   ],
+   "keys": [
+    "resolution",
+    "resolutions",
+    "resolve",
+    "resolves",
+    "resolving"
+   ],
+   "tier": 2,
+   "gated": true
+  },
+  {
+   "name": "salt",
+   "headwords": [
+    "Salt"
+   ],
+   "keys": [
+    "salt",
+    "salts"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "secret",
+   "headwords": [
+    "secret"
+   ],
+   "keys": [
+    "secret",
+    "secrets"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "secrets of nature",
+   "headwords": [
+    "secrets of Nature"
+   ],
+   "keys": [
+    "secret of nature",
+    "secrets of nature"
+   ],
+   "tier": 3,
+   "gated": false
+  },
+  {
+   "name": "seed",
+   "headwords": [
+    "seed"
+   ],
+   "keys": [
+    "seed",
+    "seeds"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "separation",
+   "headwords": [
+    "separation"
+   ],
+   "keys": [
+    "separation",
+    "separations",
+    "separate",
+    "separates",
+    "separating"
+   ],
+   "tier": 2,
+   "gated": true
+  },
+  {
+   "name": "sidereal body",
+   "headwords": [
+    "sidereal body"
+   ],
+   "keys": [
+    "sidereal body",
+    "sidereal bodies"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "sidereal spirit",
+   "headwords": [
+    "sidereal spirit"
+   ],
+   "keys": [
+    "sidereal spirit"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "spagyric",
+   "headwords": [
+    "spagyric",
+    "spagyric physic"
+   ],
+   "keys": [
+    "spagyric",
+    "spagyrics",
+    "spagyrick",
+    "spagyricks"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "specific",
+   "headwords": [
+    "specific"
+   ],
+   "keys": [
+    "specific",
+    "specifics"
+   ],
+   "tier": 2,
+   "gated": true
+  },
+  {
+   "name": "spirit of life",
+   "headwords": [
+    "spirit of life"
+   ],
+   "keys": [
+    "spirit of life"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "spirit of the world",
+   "headwords": [
+    "Spirit of the World",
+    "Soul of the world"
+   ],
+   "keys": [
+    "spirit of the world",
+    "soul of the world"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "spirit",
+   "headwords": [
+    "Spirit"
+   ],
+   "keys": [
+    "spirit",
+    "spirits"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "sulphur",
+   "headwords": [
+    "Sulphur"
+   ],
+   "keys": [
+    "sulphur",
+    "sulfur"
+   ],
+   "tier": 1,
+   "gated": false
+  },
+  {
+   "name": "sun",
+   "headwords": [
+    "sun"
+   ],
+   "keys": [
+    "sun",
+    "suns"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "taciturnity",
+   "headwords": [
+    "taciturnity"
+   ],
+   "keys": [
+    "taciturnity"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "tartar",
+   "headwords": [
+    "tartar"
+   ],
+   "keys": [
+    "tartar"
+   ],
+   "tier": 2,
+   "gated": true
+  },
+  {
+   "name": "three principles",
+   "headwords": [
+    "three first",
+    "Three Principles"
+   ],
+   "keys": [
+    "three principles",
+    "three first"
+   ],
+   "tier": 1,
+   "gated": false
+  },
+  {
+   "name": "tincture",
+   "headwords": [
+    "Tincture"
+   ],
+   "keys": [
+    "tincture",
+    "tinctures"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "transmutation",
+   "headwords": [
+    "transmutation"
+   ],
+   "keys": [
+    "transmutation",
+    "transmutations"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "universal medicine",
+   "headwords": [
+    "universal medicine"
+   ],
+   "keys": [
+    "universal medicine"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "virtue",
+   "headwords": [
+    "virtue"
+   ],
+   "keys": [
+    "virtue",
+    "virtues"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "Vulcan",
+   "headwords": [
+    "Vulcan"
+   ],
+   "keys": [
+    "vulcan"
+   ],
+   "tier": 2,
+   "gated": false
+  },
+  {
+   "name": "the Word",
+   "headwords": [
+    "Word"
+   ],
+   "keys": [
+    "word"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "adept",
+   "headwords": [
+    "adept"
+   ],
+   "keys": [
+    "adept",
+    "adepts"
+   ],
+   "tier": 3,
+   "gated": true
+  },
+  {
+   "name": "anatomy",
+   "headwords": [
+    "Anatomy"
+   ],
+   "keys": [
+    "anatomy",
+    "anatomies",
+    "anatomize"
+   ],
+   "tier": 1,
+   "gated": true
+  },
+  {
+   "name": "artist",
+   "headwords": [
+    "artist"
+   ],
+   "keys": [
+    "artist",
+    "artists"
+   ],
+   "tier": 2,
+   "gated": true
+  }
+ ],
+ "context": [
+  "alchemy",
+  "alchemical",
+  "alchemist",
+  "alchemists",
+  "Croll",
+  "Paracelsus",
+  "Paracelsian",
+  "Paracelsians",
+  "Theophrastus",
+  "Theophrastean",
+  "Theophrasteans",
+  "Hermetic",
+  "Hermetical",
+  "Galenist",
+  "Galenists",
+  "Galenic",
+  "spagyric",
+  "spagyrics",
+  "spagyrist",
+  "spagyrists",
+  "arcana",
+  "arcanum",
+  "microcosm",
+  "macrocosm",
+  "astrum",
+  "archaeus",
+  "magistery"
+ ],
+ "open_keys": [
+  "microcosm",
+  "microcosms",
+  "lesser world",
+  "astrum",
+  "astra",
+  "astras",
+  "chymistry",
+  "chymist",
+  "chymists",
+  "magick"
+ ],
+ "no_plural": [
+  "paracelsus",
+  "theophrastus",
+  "astral",
+  "archaeus",
+  "archeus",
+  "chemistry",
+  "chymistry",
+  "ens",
+  "fiat",
+  "first matter",
+  "gold",
+  "hermes",
+  "light of grace",
+  "light of nature",
+  "limus terrae",
+  "limo terrae",
+  "magic",
+  "magick",
+  "mercury",
+  "natural death",
+  "natural heat",
+  "nothing",
+  "nothingness",
+  "physic",
+  "physick",
+  "regeneration",
+  "spirit of life",
+  "spirit of the world",
+  "soul of the world",
+  "sulphur",
+  "sulfur",
+  "taciturnity",
+  "tartar",
+  "three principles",
+  "three first",
+  "vulcan",
+  "word",
+  "anatomize",
+  "astrum",
+  "astra",
+  "secret of nature",
+  "secrets of nature",
+  "astras",
+  "separating",
+  "resolving"
+ ],
+ "end_marker": "END OF OUTPUT"
+}
