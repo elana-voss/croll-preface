@@ -19,16 +19,19 @@ INTRO = ('# Word List\n\n'
          'English word of the translator\'s. Each quote is followed by the reference of the line it stands in.\n')
 
 
-def render(entries):
-    parts = [INTRO]
-    for e in sorted(entries, key=lambda e: e['headword'].lower()):
-        head = e['headword'][0].upper() + e['headword'][1:]
-        parts.append(f'\n## {head}\n\nThe book spells it: {", ".join(e["spellings"])}\n\n')
-        for n, s in enumerate(e['senses'], 1):
-            marks = ' · '.join([s['use'], s['reading'], 'voice: ' + s['voice']] + s.get('tags', []))
-            parts.append(f'{n}. {s["sense"]} *({marks})*\n')
-            parts += [f'   - “{q["quote"]}” [{q["ref"]}]\n' for q in s['evidence']]
+def entry(e):
+    """One headword's section of the page."""
+    head = e['headword'][0].upper() + e['headword'][1:]
+    parts = [f'\n## {head}\n\nThe book spells it: {", ".join(e["spellings"])}\n\n']
+    for n, s in enumerate(e['senses'], 1):
+        marks = ' · '.join([s['use'], s['reading'], 'voice: ' + s['voice']] + s.get('tags', []))
+        parts.append(f'{n}. {s["sense"]} *({marks})*\n')
+        parts += [f'   - “{q["quote"]}” [{q["ref"]}]\n' for q in s['evidence']]
     return ''.join(parts)
+
+
+def render(entries):
+    return INTRO + ''.join(entry(e) for e in sorted(entries, key=lambda e: e['headword'].lower()))
 
 
 def main():

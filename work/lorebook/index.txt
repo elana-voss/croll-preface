@@ -1,0 +1,138 @@
+# One line per word-list headword. places: paragraphs and margin notes printing one of its spellings; sections: in how many of the 8 sections; central: on a paired page, or at least 6 places.
+adept | spellings: adept, Adept | senses: 2 | places: 7 | sections: 1 | paired page: no | central: yes
+alterity | spellings: alterity, Alterity | senses: 1 | places: 3 | sections: 3 | paired page: no | central: no
+Anatomy | spellings: Anotomy, Anatomy, Anotmy, Anotomize, Anot | senses: 5 | places: 15 | sections: 5 | paired page: yes | central: yes
+animal man | spellings: Animall Man | senses: 1 | places: 2 | sections: 2 | paired page: no | central: no
+arcana | spellings: Arcana | senses: 2 | places: 2 | sections: 2 | paired page: no | central: no
+Archaeus | spellings: Archaeus | senses: 3 | places: 5 | sections: 3 | paired page: yes | central: yes
+archetype | spellings: Archetype | senses: 2 | places: 4 | sections: 1 | paired page: no | central: no
+artist | spellings: Artist, Artists | senses: 4 | places: 8 | sections: 4 | paired page: yes | central: yes
+Ascendant | spellings: Ascendant, Ascendants | senses: 2 | places: 3 | sections: 2 | paired page: no | central: no
+Astral Man | spellings: Astrall Man, Astralick man | senses: 1 | places: 4 | sections: 3 | paired page: no | central: no
+astral | spellings: Astrall | senses: 4 | places: 17 | sections: 6 | paired page: no | central: yes
+Astrum | spellings: Astrum, Astra's, Astras | senses: 8 | places: 42 | sections: 6 | paired page: yes | central: yes
+Balsam | spellings: Balsam, Balsom, Balsome | senses: 6 | places: 19 | sections: 5 | paired page: yes | central: yes
+basilisk | spellings: Basilisk | senses: 2 | places: 5 | sections: 3 | paired page: yes | central: yes
+book of Nature | spellings: book of Nature, Book of Nature, BOOK of NATURE | senses: 1 | places: 3 | sections: 2 | paired page: no | central: no
+celestial stone | spellings: Celestiall Stone, celestiall Stone | senses: 1 | places: 2 | sections: 1 | paired page: yes | central: yes
+centre | spellings: Centre, Center | senses: 6 | places: 16 | sections: 6 | paired page: yes | central: yes
+characters | spellings: Characters, Character | senses: 3 | places: 5 | sections: 2 | paired page: no | central: no
+chemistry | spellings: Chymistry | senses: 3 | places: 17 | sections: 4 | paired page: yes | central: yes
+Chymists | spellings: Chymists | senses: 2 | places: 13 | sections: 6 | paired page: no | central: yes
+circle | spellings: Circle, Circles, circle | senses: 3 | places: 5 | sections: 2 | paired page: no | central: no
+cottage | spellings: cottage, Cottage | senses: 3 | places: 6 | sections: 2 | paired page: no | central: yes
+earth | spellings: EARTH, Earth | senses: 5 | places: 60 | sections: 8 | paired page: yes | central: yes
+Elements | spellings: Elements, Element | senses: 5 | places: 68 | sections: 7 | paired page: yes | central: yes
+Ens | spellings: Ens, ENS | senses: 6 | places: 8 | sections: 4 | paired page: no | central: yes
+envy | spellings: envy | senses: 2 | places: 13 | sections: 4 | paired page: no | central: yes
+essence | spellings: Essence, essence, Esence | senses: 6 | places: 24 | sections: 6 | paired page: yes | central: yes
+Extract | spellings: Extract | senses: 1 | places: 3 | sections: 2 | paired page: no | central: no
+faith | spellings: Faith, faith | senses: 3 | places: 29 | sections: 5 | paired page: yes | central: yes
+FIAT | spellings: FIAT, Fiat | senses: 3 | places: 5 | sections: 3 | paired page: yes | central: yes
+fifth Essence | spellings: fift Essence, Fift Essence, Fift Effences, Fife Essence, Fist Essence | senses: 4 | places: 9 | sections: 3 | paired page: yes | central: yes
+fire | spellings: Fire, fire, FIRE | senses: 7 | places: 62 | sections: 8 | paired page: yes | central: yes
+Firmament | spellings: Firmament, firmament | senses: 6 | places: 40 | sections: 6 | paired page: no | central: yes
+first matter | spellings: first matter, First Matter | senses: 1 | places: 6 | sections: 3 | paired page: no | central: yes
+fundamental | spellings: Fundamentall | senses: 2 | places: 5 | sections: 3 | paired page: no | central: no
+Galenists | spellings: Galenists | senses: 1 | places: 5 | sections: 4 | paired page: no | central: no
+Gamahaea | spellings: Gamahaea | senses: 2 | places: 2 | sections: 2 | paired page: no | central: no
+Globes | spellings: Globes, Globe | senses: 3 | places: 7 | sections: 3 | paired page: no | central: yes
+gold | spellings: Gold | senses: 3 | places: 18 | sections: 6 | paired page: yes | central: yes
+heathen | spellings: Heathen | senses: 2 | places: 5 | sections: 3 | paired page: no | central: no
+Hermes | spellings: Hermes | senses: 2 | places: 10 | sections: 4 | paired page: yes | central: yes
+Hermetic physicians | spellings: Hermetick Physitians | senses: 1 | places: 2 | sections: 2 | paired page: no | central: no
+Iliad | spellings: Iliad | senses: 3 | places: 3 | sections: 2 | paired page: no | central: no
+imagination | spellings: imagination, Imagination, IMAGINATION | senses: 7 | places: 26 | sections: 4 | paired page: no | central: yes
+impostors | spellings: Impostors, Imposters | senses: 2 | places: 5 | sections: 2 | paired page: no | central: no
+inner Man | spellings: inner Man | senses: 1 | places: 2 | sections: 1 | paired page: no | central: no
+last matter | spellings: last matter | senses: 2 | places: 3 | sections: 3 | paired page: no | central: no
+lesser world | spellings: lesser World, lesser world | senses: 2 | places: 6 | sections: 3 | paired page: yes | central: yes
+Light of Grace | spellings: Light of Grace, light of Grace, Light of GRACE | senses: 1 | places: 8 | sections: 5 | paired page: no | central: yes
+Light of Nature | spellings: Light of Nature, light of Nature | senses: 6 | places: 21 | sections: 7 | paired page: no | central: yes
+Limbus | spellings: Limbus | senses: 3 | places: 3 | sections: 1 | paired page: no | central: no
+Limus Terrae | spellings: Limus Terrae, Limo Terrae, LIMO TERRAE, limo terrae | senses: 3 | places: 7 | sections: 2 | paired page: no | central: yes
+little world | spellings: little world, little World | senses: 1 | places: 17 | sections: 7 | paired page: yes | central: yes
+lodestone | spellings: Load-stone, Load stone, Loadstone | senses: 2 | places: 7 | sections: 4 | paired page: no | central: yes
+macrocosm | spellings: Macrocosm | senses: 1 | places: 4 | sections: 3 | paired page: yes | central: yes
+magic | spellings: Magick | senses: 4 | places: 9 | sections: 6 | paired page: no | central: yes
+magician | spellings: Magician | senses: 1 | places: 3 | sections: 2 | paired page: yes | central: yes
+magistery | spellings: magistery, Magistery, Magisteryes | senses: 4 | places: 6 | sections: 3 | paired page: yes | central: yes
+matrix | spellings: matrix, Matrix, matrices | senses: 3 | places: 6 | sections: 2 | paired page: no | central: yes
+matter | spellings: matter, Matter | senses: 9 | places: 36 | sections: 7 | paired page: yes | central: yes
+mean | spellings: mean, Mean | senses: 3 | places: 14 | sections: 6 | paired page: yes | central: yes
+medicine | spellings: Medicine, medicine, Medicines | senses: 2 | places: 73 | sections: 7 | paired page: yes | central: yes
+meditation | spellings: meditation | senses: 2 | places: 3 | sections: 2 | paired page: no | central: no
+Mercury | spellings: Mercury | senses: 3 | places: 14 | sections: 4 | paired page: yes | central: yes
+metals | spellings: mettalls, Mettalls, Mertalls | senses: 6 | places: 18 | sections: 5 | paired page: yes | central: yes
+method | spellings: Method, method | senses: 4 | places: 8 | sections: 3 | paired page: no | central: yes
+Microcosm | spellings: Microcosm, MICROCOSM, Microcosme, microcosm | senses: 4 | places: 17 | sections: 6 | paired page: yes | central: yes
+mind | spellings: Mind, MIND, mind, Minde | senses: 3 | places: 53 | sections: 8 | paired page: yes | central: yes
+mine | spellings: Mine | senses: 2 | places: 4 | sections: 3 | paired page: no | central: no
+minister | spellings: Minister, minister, ministers | senses: 2 | places: 9 | sections: 6 | paired page: yes | central: yes
+Mummy | spellings: Mummy | senses: 5 | places: 10 | sections: 5 | paired page: yes | central: yes
+mystery | spellings: Mystery, mystery, mysteries, Mysteries, Misteries | senses: 4 | places: 25 | sections: 5 | paired page: yes | central: yes
+natural death | spellings: Naturall death, Naturall Death, naturall death | senses: 2 | places: 5 | sections: 1 | paired page: yes | central: yes
+Natural Faith | spellings: NATURALL FAITH, Naturall Faith, faith of Nature | senses: 1 | places: 4 | sections: 2 | paired page: no | central: no
+natural heat | spellings: Naturall Heat | senses: 1 | places: 6 | sections: 3 | paired page: yes | central: yes
+natural life | spellings: Naturall Life, Naturall life | senses: 1 | places: 3 | sections: 2 | paired page: no | central: no
+natural term | spellings: Naturall Terme, Naturall Term | senses: 2 | places: 3 | sections: 1 | paired page: no | central: no
+Nature | spellings: Nature, nature, NATURE | senses: 9 | places: 171 | sections: 8 | paired page: yes | central: yes
+New Birth | spellings: New Birth | senses: 1 | places: 2 | sections: 2 | paired page: no | central: no
+nothing | spellings: Nothing, Nothingnesse | senses: 3 | places: 70 | sections: 8 | paired page: yes | central: yes
+Olympic spirit | spellings: Olimpick spirit, Olimpick Spirit, Olympick Spirit | senses: 1 | places: 2 | sections: 2 | paired page: no | central: no
+Opinion | spellings: Opinion, opinions | senses: 1 | places: 15 | sections: 3 | paired page: no | central: yes
+Paracelsus | spellings: Paracelsus, Paracels. | senses: 1 | places: 67 | sections: 8 | paired page: yes | central: yes
+perfect metals | spellings: perfect Mettalls, perfect mettalls | senses: 1 | places: 3 | sections: 2 | paired page: no | central: no
+philosophists | spellings: Phylosophists | senses: 1 | places: 3 | sections: 2 | paired page: no | central: no
+philosophy | spellings: Phylosophy, Philosophy | senses: 4 | places: 40 | sections: 7 | paired page: yes | central: yes
+physic | spellings: Physick, Phisick | senses: 4 | places: 92 | sections: 8 | paired page: yes | central: yes
+poison | spellings: Poyson, poyson, Poysoned | senses: 5 | places: 15 | sections: 5 | paired page: yes | central: yes
+quintessence | spellings: Quintessence, Quint-Essence | senses: 3 | places: 5 | sections: 3 | paired page: no | central: no
+receipts | spellings: Receipts | senses: 1 | places: 2 | sections: 1 | paired page: yes | central: yes
+receptacle | spellings: Receptacle, receptacle | senses: 1 | places: 3 | sections: 1 | paired page: no | central: no
+Regeneration | spellings: Regeneration | senses: 4 | places: 12 | sections: 5 | paired page: yes | central: yes
+resolution | spellings: Resolution, resolution | senses: 3 | places: 9 | sections: 6 | paired page: yes | central: yes
+Sabbath | spellings: Sabbath | senses: 1 | places: 2 | sections: 2 | paired page: no | central: no
+Salt | spellings: Salt | senses: 3 | places: 25 | sections: 5 | paired page: yes | central: yes
+secret forger | spellings: secret Forger, secret forger | senses: 1 | places: 2 | sections: 1 | paired page: no | central: no
+secret | spellings: Secret, Secrets, secrets | senses: 6 | places: 75 | sections: 8 | paired page: yes | central: yes
+secretaries of nature | spellings: Secretaries of Nature | senses: 1 | places: 2 | sections: 1 | paired page: no | central: no
+secrets of Nature | spellings: secrets of Nature, Secrets of Nature | senses: 1 | places: 7 | sections: 4 | paired page: no | central: yes
+seed | spellings: seed, seeds, Seeds, Seed | senses: 8 | places: 29 | sections: 6 | paired page: yes | central: yes
+separation | spellings: seperation | senses: 4 | places: 13 | sections: 5 | paired page: yes | central: yes
+sidereal body | spellings: Sydereall body, sydereall body | senses: 2 | places: 6 | sections: 2 | paired page: yes | central: yes
+sidereal spirit | spellings: Sydereall Spirit, Sydereall spirit, sydereall spirit, Syderiall spirit, syderiall spirit, syderiall Spirit, Syderiall Spirit | senses: 4 | places: 15 | sections: 5 | paired page: no | central: yes
+sign | spellings: signe, signes, Signes | senses: 4 | places: 9 | sections: 5 | paired page: no | central: yes
+signatures | spellings: Signatures | senses: 2 | places: 3 | sections: 3 | paired page: no | central: no
+Soul of the world | spellings: Soule of the world, Soule or Spirit of the world | senses: 3 | places: 5 | sections: 4 | paired page: no | central: no
+spagyric physic | spellings: Spagyrick Physick | senses: 1 | places: 2 | sections: 1 | paired page: yes | central: yes
+spagyric | spellings: Spagyrick, Spagyriks, SPAGIRUS | senses: 3 | places: 8 | sections: 4 | paired page: yes | central: yes
+specific | spellings: Specifick, specifick | senses: 2 | places: 4 | sections: 3 | paired page: yes | central: yes
+spirit of life | spellings: Spirit of life, spirit of Life, Spirit of Life, spirit of life | senses: 3 | places: 7 | sections: 3 | paired page: yes | central: yes
+Spirit of the World | spellings: Spirit of the World, spirit of the world, Spirit of the world | senses: 2 | places: 6 | sections: 3 | paired page: yes | central: yes
+Spirit | spellings: Spirit, spirit, Spirits | senses: 7 | places: 116 | sections: 8 | paired page: yes | central: yes
+Sulphur | spellings: Sulphur, Sulphure | senses: 2 | places: 16 | sections: 4 | paired page: yes | central: yes
+sun | spellings: Sun | senses: 5 | places: 32 | sections: 7 | paired page: yes | central: yes
+supernatural mischiefs | spellings: supernatural mischiefs | senses: 1 | places: 1 | sections: 1 | paired page: no | central: no
+Sympathy and Antipathy | spellings: Sympathy and Antipathy, Simpathy and Antipathy | senses: 1 | places: 2 | sections: 1 | paired page: no | central: no
+taciturnity | spellings: Taciturnity | senses: 1 | places: 2 | sections: 1 | paired page: yes | central: yes
+talent | spellings: Talent | senses: 3 | places: 6 | sections: 4 | paired page: yes | central: yes
+tartar | spellings: Tartar | senses: 2 | places: 11 | sections: 1 | paired page: no | central: yes
+temple of the heart | spellings: Temple of the heart, Temple of the Heart | senses: 1 | places: 2 | sections: 1 | paired page: no | central: no
+term | spellings: Terme | senses: 1 | places: 9 | sections: 2 | paired page: yes | central: yes
+Theophrasteans | spellings: Theophrasteans | senses: 2 | places: 4 | sections: 2 | paired page: no | central: no
+Theophrastus | spellings: Theophrastus, Theophraestus, Theophrast. | senses: 1 | places: 17 | sections: 5 | paired page: yes | central: yes
+three first | spellings: three first, Three First, Three first, three first things | senses: 7 | places: 13 | sections: 3 | paired page: yes | central: yes
+Three Principles | spellings: THREE Principles, Three principles, Three Principles, Three First | senses: 1 | places: 17 | sections: 5 | paired page: yes | central: yes
+Tincture | spellings: Tincture, Tinctures | senses: 9 | places: 10 | sections: 6 | paired page: yes | central: yes
+transmutation | spellings: Transmutation, transmutation | senses: 2 | places: 4 | sections: 4 | paired page: yes | central: yes
+transplanted | spellings: transplanted, transplantation | senses: 3 | places: 5 | sections: 3 | paired page: no | central: no
+treasures of Nature | spellings: Treasures of Nature, treasures of Nature | senses: 2 | places: 2 | sections: 1 | paired page: no | central: no
+treasury | spellings: Treasury | senses: 4 | places: 5 | sections: 3 | paired page: yes | central: yes
+true physic | spellings: True Physick, true Physick | senses: 2 | places: 6 | sections: 4 | paired page: yes | central: yes
+universal medicine | spellings: universall medicine, universall Medicine | senses: 1 | places: 3 | sections: 2 | paired page: yes | central: yes
+universal spirit | spellings: Universall spirit, universall Spirit | senses: 3 | places: 2 | sections: 1 | paired page: no | central: no
+virtue | spellings: vertue, Vertue, virtue | senses: 2 | places: 61 | sections: 8 | paired page: yes | central: yes
+Vulcan | spellings: Vulcan | senses: 3 | places: 5 | sections: 4 | paired page: yes | central: yes
+Woarchadumie | spellings: Woarchadumie | senses: 1 | places: 1 | sections: 1 | paired page: no | central: no
+Word | spellings: Word, WORD, word | senses: 3 | places: 31 | sections: 7 | paired page: yes | central: yes
