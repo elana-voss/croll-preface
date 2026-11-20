@@ -1,0 +1,209 @@
+{"entries": [
+{"headword": "poison", "spellings": ["Poyson", "poyson", "Poysoned"], "senses": [
+ {"sense": "A hurtful thing that kills, as the draught given to Paracelsus by his adversaries.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH6.62", "quote": "being Poysoned in his body by his malicious and inhuman adversaries"},
+  {"ref": "CH6.62", "quote": "by an untimely and violent death of a draught of Poyson"}]},
+ {"sense": "The hurtful part set in every thing of the lower world close beside its physick or healing part, to be separated from it; at CH5.37 called a Tartarous Mucilaginous Impurity.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.1", "quote": "nothing in this lower world (which is subject to generation and corruption) is so noble but hath Poyson in it selfe and in respect of another very near the Essence or Physick"},
+  {"ref": "CH5.37", "quote": "hath Poyson or a Tartarous Mucilaginous Impurity hard by or close unto the medicine or Physick thereof"},
+  {"ref": "CH3.14", "quote": "Poyson from healing Medicines and Balsoms"}]},
+ {"sense": "The poison God set in the same place as the physick he gave, as a guard over it.", "use": "veiled", "reading": "Stated", "voice": "QUOTED: Roger Bacon", "evidence": [
+  {"ref": "CH3.3", "quote": "in the same place or thing where of his MERCY he appoynted plenty of Physick, even there also by the power of his incomprehensible Justice he substituted Poyson to guard it"}]},
+ {"sense": "A venomous power that can overcome another poison: each poisonous creature holds an antidote to its own poison, and opium's stronger poison overcomes a pestilence's.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.14", "quote": "there is no poysonous Creature but hath in it an Antidote against its own poyson"},
+  {"ref": "CH4.6", "quote": "by the Specifick venemous vertue of the Opium which hath a greater degree of poyson"},
+  {"ref": "CH4.6", "quote": "Thus Nature destroyeth one poyson by another"}]},
+ {"sense": "A name Paracelsus gives, with Tartar, to the excrements of meat and drink that breed most diseases.", "use": "veiled", "reading": "Stated", "voice": "QUOTED: Paracelsus", "evidence": [
+  {"ref": "CH5.43", "quote": "which Paracelsus comprehendeth under the name of Poyson and Tartar"},
+  {"ref": "CH5.43", "quote": "these Excrements of meat and drink, which for the most part breed all our diseases"}]}]},
+{"headword": "Sympathy and Antipathy", "spellings": ["Sympathy and Antipathy", "Simpathy and Antipathy"], "senses": [
+ {"sense": "Liking and hatred, which God ordained to be alike good, as a spectacle of Nature to stir men to search out his secrets; the hated may cover and cure the defect of the one who hates.", "use": "veiled", "reading": "several", "readings": [
+   {"reading": "Between things in nature: the text calls it a spectacle of Nature and goes on to Nature as the daughter of War.", "basis": "CH3.5"},
+   {"reading": "Between men as the text words it: one man hating another, the hated curing the defect of the malicious.", "basis": "CH3.5"}],
+  "voice": "CROLL", "evidence": [
+  {"ref": "CH3.5", "quote": "God by his Wisdome hath ordained that Sympathy and Antipathy should be alike good, by which spectacle of Nature he would stir up mortall men to contemplate and search out his secrets"},
+  {"ref": "CH3.5", "quote": "that if one man hate another, he that is hated might cover and cure the defect of the malicious"},
+  {"ref": "N165", "quote": "The cause of Simpathy and Antipathy."}]}]},
+{"headword": "alterity", "spellings": ["alterity", "Alterity"], "senses": [
+ {"sense": "The state opposed to unity into which man fell at the Fall; in Regeneration it is swallowed up again by unity.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.11", "quote": "after the transgression and fall from unity to alterity"},
+  {"ref": "N212", "quote": "The Fall of Man and our great evill is to depart from Unity to Alterity."},
+  {"ref": "CH6.35", "quote": "through Regeneration (alterity being swallowed up of unity)"}]}]},
+{"headword": "transplanted", "spellings": ["transplanted", "transplantation"], "senses": [
+ {"sense": "Of the whole Creature after the Fall: changed by the coming in of sickness upon it.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.11", "quote": "the beauty of the whole Creature was transplanted"},
+  {"ref": "N169", "quote": "The transplantation of the Creature is by the calamity and coming in of sicknesse upon it"}]},
+ {"sense": "Of precious stones: metals carried over into stones, which keep the metals' colour, form and tincture.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "tags": ["wording-dependent"], "evidence": [
+  {"ref": "CH3.27", "quote": "for they are transplanted Mertalls"},
+  {"ref": "CH3.27", "quote": "precious stones have the Colour, Forme and Tincture more or lesse from Mettalls by formation of the Stars"}]},
+ {"sense": "Of Eve: Adam set over into another; the first men were created, the rest come from seed.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "tags": ["note-only"], "evidence": [
+  {"ref": "N121", "quote": "Eve is Adam transplanted."}]}]},
+{"headword": "earth", "spellings": ["EARTH", "Earth"], "senses": [
+ {"sense": "The whole frame of the world, which man is to till and manage by admiration, searching and knowledge, visible and invisible.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.12", "quote": "we ought to till and manure the EARTH, to wit, the whole frame of the world by admiration, searching into, and knowledge of both the Visible and Invisible (Limus) Earth"},
+  {"ref": "CH3.13", "quote": "that in the fear of God and love of his neighbor he should manage the Earth, recovering what he hath lost"}]},
+ {"sense": "The Earth that is ordered with good husbandry by one who has learned to know God and himself.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "tags": ["note-only"], "evidence": [
+  {"ref": "N170", "quote": "He that hath learned to know God & himselfe hath ordered the Earth with good husbandry"}]},
+ {"sense": "The element earth, from which man's visible body comes; one of the four in the Microcosm.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "MICRO.31", "quote": "The Physicall, Elementary, visible and Tangible body is from the Earth"},
+  {"ref": "CH4.6", "quote": "When the fruits of the Earth, Aire, Water and Fire of the Microcosm are sick"}]},
+ {"sense": "The bodily part of a simple, to be cast away, as against its virtue.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH4.6", "quote": "the body or Earth of Simples is to be cast away"}]},
+ {"sense": "The crystalline Earth in which what is pure in the Elements remains at the end, at rest with the saved.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "evidence": [
+  {"ref": "CH6.29", "quote": "shall remaine like a pure, cleare, incorruptible and fixed Essence in a serene resplendent Chrystalin Earth"}]}]},
+{"headword": "essence", "spellings": ["Essence", "essence", "Esence"], "senses": [
+ {"sense": "The healing part of a thing, its physick, lying near its poison and got out by separation from husks and impurities.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.1", "quote": "nothing in this lower world (which is subject to generation and corruption) is so noble but hath Poyson in it selfe and in respect of another very near the Essence or Physick"},
+  {"ref": "CH3.14", "quote": "that so at least that quickning essence may be got, whose faculty mounts more high and quick being loosed from its chaines"}]},
+ {"sense": "The one Nature that is the essence and matter of all things.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.30", "quote": "that one onely Nature the Essence and Matter of all things"}]},
+ {"sense": "The physical essence in physick, which the note says is called Gold.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "tags": ["note-only"], "evidence": [
+  {"ref": "N038", "quote": "This Physicall essence in Phisick is called Gold."}]},
+ {"sense": "The pure, fixed and incorruptible essence that remains of what is pure in the Elements when God makes all things new.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "evidence": [
+  {"ref": "CH6.29", "quote": "shall remaine like a pure, cleare, incorruptible and fixed Essence in a serene resplendent Chrystalin Earth"}]},
+ {"sense": "Said, with a hedge, of the greatest Medicine: it may be the essence of our life.", "use": "veiled", "reading": "Stated", "voice": "QUOTED: Phylosophers our predecessors that have been train'd up in Hermes school", "evidence": [
+  {"ref": "CH6.50", "quote": "it may be the Essence of our Life"}]},
+ {"sense": "The being of the seed, from which all men after the first proceed.", "use": "plain", "reading": "Stated", "voice": "CROLL", "tags": ["note-only"], "evidence": [
+  {"ref": "N121", "quote": "the rest proceed from the Being of the seed or Esence"}]}]},
+{"headword": "Spagyric physick", "spellings": ["Spagyrick Physick"], "senses": [
+ {"sense": "Physick duly prepared by the separating art, set above the mixed medicines of the shops; the text glosses Spagyricall as divinely-distinguishing.", "use": "plain", "reading": "Interpreted", "voice": "CROLL", "evidence": [
+  {"ref": "N172", "quote": "Reasons why the Spagyrick Physick duely prepared is to be preferd before other Hetroclite mixtures in the shops."},
+  {"ref": "CH3.40", "quote": "who have not learned so much as their A. B. C. in the Spagyrick Physick"},
+  {"ref": "OPEN.11", "quote": "that Spagyricall or Divinely-distinguishing Sanctuary"}]}]},
+{"headword": "metals", "spellings": ["mettalls", "Mettalls", "Mertalls"], "senses": [
+ {"sense": "Metals as fruit of the Elements, created not for man's food but for his physick.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.28", "quote": "although they are the fruit of Elements as well as living things and Vegetables, and created, though not for Mans food yet for his Physick"}]},
+ {"sense": "The view, reported to be answered, that metals are of no use in physick.", "use": "plain", "reading": "Stated", "voice": "QUOTED: any who out of their simplicity", "evidence": [
+  {"ref": "CH3.28", "quote": "If there be any who out of their simplicity shall say that mettalls are of no use in Physick"}]},
+ {"sense": "Perfect metals as the things in which, above all, God has written on Nature with his own finger.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "evidence": [
+  {"ref": "CH1.1", "quote": "upon which God hath written with his own sacred finger in sublunary things, but especially in perfect Mettalls"}]},
+ {"sense": "Metals as riches, left to those driven by the desire of being rich; their metamorphosis is one work of the greatest Medicine.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "evidence": [
+  {"ref": "CH6.11", "quote": "leaving the mettalls to those who with an impious hunger, and a thirsty and insatiable desire of being rich"},
+  {"ref": "CH6.50", "quote": "the metamorphosis of Mettalls"}]},
+ {"sense": "Metals as the source of the colour and tincture of precious stones, which are metals transplanted.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.27", "quote": "precious stones have the Colour, Forme and Tincture more or lesse from Mettalls by formation of the Stars"},
+  {"ref": "CH3.27", "quote": "for they are transplanted Mertalls"}]}]},
+{"headword": "receptacle", "spellings": ["Receptacle", "receptacle"], "senses": [
+ {"sense": "The place or subject that receives the one seed or the one Nature, and by its difference makes it animal, vegetable or mineral.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.28", "quote": "differ onely in Quality of Place and Receptacle"},
+  {"ref": "CH3.30", "quote": "according to the disposition and variety of the Place and Receptacle"},
+  {"ref": "CH3.32", "quote": "sometimes is called Animall, sometimes Vegetable, sometimes Minerall, according to the diversity of the subject or receptacle"}]}]},
+{"headword": "specific", "spellings": ["Specifick", "specifick"], "senses": [
+ {"sense": "Noun: what the one Nature is to every creature; the narrowest reading is that which gives each creature its own kind.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.30", "quote": "which Nature is the Specifick of every Creature"}]},
+ {"sense": "Of a virtue: a thing's own inward power, set against its outward qualities such as heat or cold, by which it cures.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH2.7", "quote": "not (as I have said) by their Externall superficiary qualities, but by an Internall, proper, specifick, harmonious, similer virtue"},
+  {"ref": "CH4.6", "quote": "by the Specifick venemous vertue of the Opium which hath a greater degree of poyson"},
+  {"ref": "CH2.5", "quote": "by a specifick and Harmonicall vertue serve to cure and comfort the heart"}]}]},
+{"headword": "universal spirit", "spellings": ["Universall spirit", "universall Spirit"], "senses": [
+ {"sense": "The spirit that lives in and quickens the whole mass of the world and fills it, called the Power of God; its working, with the place and receptacle, makes bodies differ. It is not to be worshipped.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.31", "quote": "That universall Spirit which liveth in and quickneth this whole Masse, which worketh all in all, and filleth the whole world"},
+  {"ref": "CH3.31", "quote": "that Power of God, which comprehendeth all the world in it"},
+  {"ref": "CH3.30", "quote": "according to the agitation and operation of the Universall spirit"},
+  {"ref": "CH3.31", "quote": "but this we must hearken to without any superstition or Idolatrous worship"}]},
+ {"sense": "Agrippa's names for it: the subject of all mirability, the Being not grasped by sense.", "use": "veiled", "reading": "Stated", "voice": "QUOTED: Agrippa", "evidence": [
+  {"ref": "CH3.31", "quote": "Agrippa calleth it the subject of all mirability, the Ens or Being that cannot be comprehended by sence"}]},
+ {"sense": "Avicen's name for it: the Soul of the world poured into all things.", "use": "veiled", "reading": "Stated", "voice": "QUOTED: Avicen", "evidence": [
+  {"ref": "CH3.31", "quote": "it is the Soule of the world powred into all things"}]}]},
+{"headword": "spirit of life", "spellings": ["Spirit of life", "spirit of Life", "Spirit of Life", "spirit of life"], "senses": [
+ {"sense": "The life-spirit in the body: one through the whole body yet varied by its parts, the source of the body's strength, moving the radical humour and nourished by the humours of life.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "N177", "quote": "Thus also the Spirit of life is united through out the whole body of man, but is various according to parts of the body in which it is."},
+  {"ref": "CH6.54", "quote": "for the strengthning power of the Human body and of Animalls proceedeth from the spirit of Life"},
+  {"ref": "CH6.62", "quote": "the Native or Radicall Humor which the Spirit of Life moveth or acteth"},
+  {"ref": "N295", "quote": "The Humors of life do nourish the spirit of life."}]},
+ {"sense": "Said of the Fift Essence or greatest Medicine: it is truly the spirit of life, piercing all other spirits and one with the spirit of our body.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH6.51", "quote": "it is truly the spirit of Life which pierceth through all other spirits"},
+  {"ref": "CH6.51", "quote": "and is altogether one and the same with the spirit of our body"}]},
+ {"sense": "The spiracle or breathing hole.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "tags": ["note-only"], "evidence": [
+  {"ref": "N122", "quote": "The Spirit of life is the Spiracle or breathing hole."}]}]},
+{"headword": "Nature", "spellings": ["Nature", "nature", "NATURE"], "senses": [
+ {"sense": "The medium that joins the lowest things to the highest by harmonious consent, named animal, vegetable or mineral after the receptacle it is in.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.32", "quote": "Nature, I say, is that medium which by an Harmonicall consent joyneth the lowest things to the highest"}]},
+ {"sense": "The order and series of God's works, obeying God and borrowing all its virtue from him.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.40", "quote": "which is the order and series of Gods works, and obey the power, word and command of God, and borroweth all its vertue and efficacy from him"}]},
+ {"sense": "The one Nature that came forth as the essence and matter of all things and the Specifick of every creature.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.30", "quote": "that one onely Nature the Essence and Matter of all things"},
+  {"ref": "CH3.30", "quote": "which Nature is the Specifick of every Creature"}]},
+ {"sense": "The invisible Fire by which all things are multiplied.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "tags": ["note-only"], "evidence": [
+  {"ref": "N178", "quote": "is the invisible Fire or fiery vigour"}]},
+ {"sense": "The healing power within the body: the true physician of all diseases, the inward Mummy or Balsom, a virtue and not a quality; the physician is her servant and minister.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH4.6", "quote": "Thus Nature is not onely our companion, but our friend and ready helper, it alone being the genuine Physitian of all diseases"},
+  {"ref": "CH4.6", "quote": "Nature her selfe (who is the Internall Mummy or inward Balsom)"},
+  {"ref": "CH4.6", "quote": "because Nature is not a quality but a vertue"},
+  {"ref": "CH5.7", "quote": "A true Phisitian should be the minister, not a master to Nature"}]},
+ {"sense": "The present order of the world, which gives nothing pure but mixes all things with impurities, so that men must learn to separate.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.12", "quote": "Nature therefore, as it is now, gives us nothing that is pure in the world, but hath mixed all things with many impurities"}]},
+ {"sense": "Nature as a teacher and a book whose secrets the true philosophers and physicians read; Art imitates her and supplies her defects.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH1.1", "quote": "the Light of Nature, which like a sound Doctour teacheth and instructeth men"},
+  {"ref": "CH6.76", "quote": "the BOOK of NATURE (in which every region is a leaf)"},
+  {"ref": "CH5.7", "quote": "they go into the very inner roomes and Sanctuary of Nature"},
+  {"ref": "CH2.5", "quote": "because Art and Nature, like mother and daughter, consent to each other"},
+  {"ref": "N136", "quote": "Art imitateth Nature and supplyeth its defects"}]},
+ {"sense": "Heraclitus's name for Nature: the daughter of War.", "use": "veiled", "reading": "Stated", "voice": "QUOTED: Heraclitus", "evidence": [
+  {"ref": "CH3.5", "quote": "Heraclitus called Nature the daughter of War"}]},
+ {"sense": "A thing's own kind, which preserves itself and partakes by affinity of the kind of another.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH4.6", "quote": "every Nature is Naturally the best preserver of it selfe"},
+  {"ref": "CH3.30", "quote": "if the nature of one thing did not by affinity partake of the nature of another"}]}]},
+{"headword": "mystery", "spellings": ["Mystery", "mystery", "mysteries", "Mysteries", "Misteries"], "senses": [
+ {"sense": "The hidden healing part of a thing, which chymistry separates out; at CH3.14 named the Quint-Essence.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.7", "quote": "it teacheth to segregate every mystery into into its own reservacle"},
+  {"ref": "CH3.14", "quote": "the Soul the Inhabitant thereof, the Super-elementall mystery the Quint-Essence"}]},
+ {"sense": "The hidden things of God and of Nature, which true philosophers come to understand and imitate and which impostors are unworthy of.", "use": "plain", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH5.10", "quote": "really to imitate the greatest mysteries and secrets of Nature"},
+  {"ref": "CH3.13", "quote": "his marvellous works, wonders and mysteries which he hath revealed"},
+  {"ref": "OPEN.11", "quote": "as ignorant and unworthy of the mysteries of God, and the secrets of Nature"},
+  {"ref": "CH6.22", "quote": "no perfect perception of Mysteries can be attained to"},
+  {"ref": "CH6.76", "quote": "though divine Misteries are far greater than to be set forth by the splendor of mans words"}]},
+ {"sense": "The soul's turning back within itself into the Mind, by which it draws near to God; closed to the academic spirit, open to humility, and not to be spoken of openly in this place.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "evidence": [
+  {"ref": "CH5.23", "quote": "If the Soule run back within it selfe and be converted into the Mind it draweth near to God"},
+  {"ref": "CH5.23", "quote": "The Academicall spirit cannot not understand this Mystery"},
+  {"ref": "CH5.24", "quote": "nor may I in this unfit place openly speak more of these Mysteries"}]},
+ {"sense": "The Phylosophers' work, whose matter is had everywhere because it is in every elementated thing.", "use": "veiled", "reading": "Interpreted", "voice": "QUOTED: the Phylosophers", "evidence": [
+  {"ref": "CH3.34", "quote": "the Phylosophers say that the matter of their Mystery may be had every where, because it consisteth in every Elementated thing"}]}]},
+{"headword": "matter", "spellings": ["matter", "Matter"], "senses": [
+ {"sense": "First matter, in which all things were created perfect, and last matter, which the Chymist perfects by Fire.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.1", "quote": "ALL things in respect of the first matter were created perfect, but the Chymist perfecteth the last matter by Fire"}]},
+ {"sense": "The one Nature as the matter of all things.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.30", "quote": "that one onely Nature the Essence and Matter of all things"}]},
+ {"sense": "The gross bodily matter in which a medicine's power lies drowned and hindered, and from which secrets work apart.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.14", "quote": "then whilst they are drowned in Matter, which alwayes hindereth and restraineth the power and operation of the Secret"},
+  {"ref": "CH6.58", "quote": "so far as they are yet drowned in a thick grosse matter"},
+  {"ref": "CH4.6", "quote": "Such is the Nature of all Secrets that they worke without the matter and body"}]},
+ {"sense": "The pure matter of a medicine got by separation, and the most simple and incorruptible matter of the greatest Medicine, the Spirit of the world.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.7", "quote": "that that pure and Christiline matter may be administred to our bodies"},
+  {"ref": "CH6.51", "quote": "it is the most simple Matter which the Best and Greatest Lord generated out of the spirit of this world for the restauration and preservation of Humane Nature"},
+  {"ref": "CH6.55", "quote": "this Medicine is made of the more incorruptible and efficacious Matter that can be under Heaven, that is, the Soule or Spirit of the world"}]},
+ {"sense": "The matter of the Phylosophers' Mystery, to be had everywhere.", "use": "veiled", "reading": "Stated", "voice": "QUOTED: the Phylosophers", "evidence": [
+  {"ref": "CH3.34", "quote": "the Phylosophers say that the matter of their Mystery may be had every where, because it consisteth in every Elementated thing"}]},
+ {"sense": "The matter of the Elixer, which Morienes, asked by King Calid, says is of the king himself.", "use": "veiled", "reading": "Interpreted", "voice": "QUOTED: Morienes", "evidence": [
+  {"ref": "CH3.36", "quote": "It is of thee O King, said he"}]},
+ {"sense": "Lully's matter, got out of a mean and worthless thing that is not named.", "use": "veiled", "reading": "Interpreted", "voice": "QUOTED: Raymund Lully", "evidence": [
+  {"ref": "CH3.36", "quote": "he saith that he got his matter out of a mean and worthlesse thing"}]},
+ {"sense": "The matter of the stone, said to be in every thing in respect of the Vegetall Spirit.", "use": "veiled", "reading": "Stated", "voice": "CROLL", "tags": ["note-only"], "evidence": [
+  {"ref": "N180", "quote": "The matter of a stone is said to be in every thing"},
+  {"ref": "N180", "quote": "by whom our matter of a stone goeth beyond the rest"}]},
+ {"sense": "The matter of diseases, which Paracelsus calls Tartar.", "use": "plain", "reading": "Stated", "voice": "QUOTED: Paracels", "tags": ["note-only"], "evidence": [
+  {"ref": "N219", "quote": "Paracels saith that the Matter, viz. the Tartar of diseases is twofold"}]}]},
+{"headword": "mine", "spellings": ["Mine"], "senses": [
+ {"sense": "The place the matter of the Elixer is found; Morienes says the king is in it, so a man is meant.", "use": "veiled", "reading": "Interpreted", "voice": "QUOTED: Morienes", "tags": ["wording-dependent"], "evidence": [
+  {"ref": "CH3.36", "quote": "and thou are in its Mine"}]},
+ {"sense": "The mine out of which a thing of little worth is got by art; the sentence sets it in man, in whom is the Naturall Mercuriality of the four Elements.", "use": "veiled", "reading": "Interpreted", "voice": "QUOTED: Riplaeus à Portis", "tags": ["wording-dependent"], "evidence": [
+  {"ref": "CH3.37", "quote": "Remember that Man is the most noble Creature of all, in whom there is the Naturall Mercuriality of the four Elements"},
+  {"ref": "CH3.37", "quote": "which is of little worth, and may be got out of its Mine by art"}]}]},
+{"headword": "Theophrastus", "spellings": ["Theophrastus", "Theophraestus", "Theophrast."], "senses": [
+ {"sense": "The physician and writer whom the author defends against envious physicians; the text uses this name and Paracelsus for the same man. His physick is neither wholly to be rejected nor wholly embraced.", "use": "plain", "reading": "Interpreted", "voice": "CROLL", "evidence": [
+  {"ref": "CH5.29", "quote": "if Paracelsus speak any thing against those that follow the rule of their Experience"},
+  {"ref": "CH5.29", "quote": "Some of them are so incensed against that Theophrastus"},
+  {"ref": "CH3.40", "quote": "so would he gladly have served Theophraestus for nothing many years"},
+  {"ref": "CH3.41", "quote": "who cast a Serpents eye upon Theophrastus"},
+  {"ref": "CH3.41", "quote": "who have the true medicines prepared according to Theophrastus his minde"},
+  {"ref": "CH5.7", "quote": "neither the Physick of the Ancients, nor that of Theophrastus, is totally to be rejected"},
+  {"ref": "CH1.11", "quote": "Flagae which Theophrastus in his works affirmeth"}]}]},
+{"headword": "philosophists", "spellings": ["Phylosophists"], "senses": [
+ {"sense": "Would-be philosophers who are impatient of the long work, greedy and boastful like mountebanks, and without the liberal arts; set beside impostors.", "use": "plain", "reading": "Interpreted", "voice": "CROLL", "evidence": [
+  {"ref": "CH3.41", "quote": "but with much tediousnesse to Phylosophists who are impatient of delay"},
+  {"ref": "CH6.4", "quote": "as those covètous Mountebanks and greedy Phylosophists use to doe"},
+  {"ref": "CH6.22", "quote": "of which those Phylosophists and Imposters are altogether destitute, having not tasted so much as a drop of the Springs of Nature"}]}]}
+],
+ "skipped": [],
+ "sections_read": ["OPEN", "CH1", "MICRO", "CH2", "CH3", "CH4", "CH5", "CH6"], "end_marker": "END OF OUTPUT"}
