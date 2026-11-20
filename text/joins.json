@@ -1,0 +1,266 @@
+[
+ {
+  "left": "un",
+  "right": "kind",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "OPEN.2"
+ },
+ {
+  "left": "delight",
+  "right": "eth",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "OPEN.11"
+ },
+ {
+  "left": "fetch",
+  "right": "ed",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "note",
+  "id": "N044"
+ },
+ {
+  "left": "hence",
+  "right": "forth",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH1.12"
+ },
+ {
+  "left": "in",
+  "right": "bred",
+  "decision": "hyphen",
+  "basis": "hyphenated-elsewhere",
+  "in": "paragraph",
+  "id": "CH1.12"
+ },
+ {
+  "left": "cheriſh",
+  "right": "eth",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH1.25"
+ },
+ {
+  "left": "A",
+  "right": "not",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "note",
+  "id": "N069"
+ },
+ {
+  "left": "Carkaſ",
+  "right": "ſes",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "note",
+  "id": "N069"
+ },
+ {
+  "left": "there",
+  "right": "out",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "MICRO.1"
+ },
+ {
+  "left": "wonder",
+  "right": "fully",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "MICRO.2"
+ },
+ {
+  "left": "be",
+  "right": "live",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "note",
+  "id": "N087"
+ },
+ {
+  "left": "com",
+  "right": "plaine",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "note",
+  "id": "N139"
+ },
+ {
+  "left": "Sow",
+  "right": "thiſtles",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH2.9"
+ },
+ {
+  "left": "in",
+  "right": "bred",
+  "decision": "hyphen",
+  "basis": "hyphenated-elsewhere",
+  "in": "note",
+  "id": "N169"
+ },
+ {
+  "left": "ſchool",
+  "right": "men",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH3.46"
+ },
+ {
+  "left": "com",
+  "right": "motions",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH4.4"
+ },
+ {
+  "left": "o",
+  "right": "operation",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH4.6"
+ },
+ {
+  "left": "country",
+  "right": "man",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH4.13"
+ },
+ {
+  "left": "pot",
+  "right": "companions",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH4.13"
+ },
+ {
+  "left": "acknowledge",
+  "right": "ment",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH5.15"
+ },
+ {
+  "left": "Church",
+  "right": "yard",
+  "decision": "hyphen",
+  "basis": "hyphenated-elsewhere",
+  "in": "paragraph",
+  "id": "CH5.59"
+ },
+ {
+  "left": "un",
+  "right": "thankfull",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH5.64"
+ },
+ {
+  "left": "un",
+  "right": "like",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH5.66"
+ },
+ {
+  "left": "obey",
+  "right": "eth",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH5.78"
+ },
+ {
+  "left": "un",
+  "right": "believer",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "note",
+  "id": "N248"
+ },
+ {
+  "left": "de",
+  "right": "creed",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH6.38"
+ },
+ {
+  "left": "doubt",
+  "right": "fulneſſe",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "note",
+  "id": "N276"
+ },
+ {
+  "left": "Le",
+  "right": "proſie",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH6.41"
+ },
+ {
+  "left": "off",
+  "right": "ſpring",
+  "decision": "hyphen",
+  "basis": "hyphenated-elsewhere",
+  "in": "note",
+  "id": "N280"
+ },
+ {
+  "left": "prolong",
+  "right": "eth",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "note",
+  "id": "N285"
+ },
+ {
+  "left": "hence",
+  "right": "forth",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "note",
+  "id": "N295"
+ },
+ {
+  "left": "ſince",
+  "right": "men",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "paragraph",
+  "id": "CH6.71"
+ },
+ {
+  "left": "under",
+  "right": "ſtandeth",
+  "decision": "join",
+  "basis": "both-words",
+  "in": "note",
+  "id": "N317"
+ }
+]

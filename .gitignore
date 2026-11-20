@@ -1,0 +1,23 @@
+__pycache__/
+
+# mdBook build output
+book/
+
+# agent/tool state
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# run notes: machine and account facts, never public
+HANDOFF.md
+CLAUDE.md
+PLAN.md
+RUNBOOK.md
+work/setup_review/
+work/plan_review/
+work/bundles/
