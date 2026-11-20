@@ -1,0 +1,1017 @@
+{
+ "items": [
+  {
+   "n": 1,
+   "ref": "CH1.24",
+   "type": "position",
+   "quote": "some bodies have onely properties without Arcane or hidden secrets",
+   "term": "Arcane",
+   "note": "Sets apart bodies that have properties only, with no Arcane or hidden secrets in them."
+  },
+  {
+   "n": 2,
+   "ref": "CH1.24",
+   "type": "own definition",
+   "quote": "Cherionium (i. e. that wherein Nature cannot be changed",
+   "term": "Cherionium",
+   "note": "The text glosses its word Cherionium as that wherein Nature cannot be changed.",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 3,
+   "ref": "CH1.24",
+   "type": "own definition",
+   "quote": "Relollacaeous qualities, (i. e. qualities whose force is onely from the complexion)",
+   "term": "Relollacaeous",
+   "note": "The text glosses Relollacaeous qualities as qualities whose force comes only from the complexion."
+  },
+  {
+   "n": 4,
+   "ref": "CH1.24",
+   "type": "position",
+   "quote": "in which there is no vertue for curing diseases",
+   "note": "Bodies with only such barren qualities have no virtue for curing diseases."
+  },
+  {
+   "n": 5,
+   "ref": "CH1.25",
+   "type": "voice",
+   "quote": "Thus much out of Severinus",
+   "name": "Severinus",
+   "note": "The text marks the preceding words of this paragraph as taken out of Severinus; how far back the borrowing reaches is not shown beyond this paragraph."
+  },
+  {
+   "n": 6,
+   "ref": "CH1.25",
+   "type": "operation",
+   "quote": "in such bodies there may be a seperation made of the strong from the weak, of the pure from the impure",
+   "term": "seperation",
+   "note": "In bodies that imitate the qualities of Seeds, a separation of strong from weak and pure from impure can be made."
+  },
+  {
+   "n": 7,
+   "ref": "CH1.25",
+   "type": "marking",
+   "quote": "There are to us four Elementated Elements, viz. Fire or the Firmament, Aire, Water, Earth",
+   "what": "four Elementated Elements",
+   "term": "Elementated Elements",
+   "note": "Names and numbers four Elementated Elements, Fire being the same as the Firmament."
+  },
+  {
+   "n": 8,
+   "ref": "CH1.25",
+   "type": "position",
+   "quote": "from the three first are all compound bodies, into which they are againe resolved",
+   "term": "three first",
+   "note": "Compound bodies come from the three first and are resolved into them again; the lines do not say here which three are meant."
+  },
+  {
+   "n": 9,
+   "ref": "CH1.25",
+   "type": "position",
+   "quote": "The Soul in man is a Caelestiall Fiery Element; the solid and Spermatick parts are the Earth",
+   "note": "Assigns the parts of man to the Elements: soul to Fire, solid parts to Earth (and in what follows moist parts to Water, the hollow to Aire)."
+  },
+  {
+   "n": 10,
+   "ref": "CH1.25",
+   "type": "own definition",
+   "quote": "for the true Elements are Spirituall",
+   "term": "true Elements",
+   "note": "Distinguishes the true Elements, which are spiritual, from the Elementated Elements just described."
+  },
+  {
+   "n": 11,
+   "ref": "CH1.25",
+   "type": "cross-reference",
+   "quote": "But these things, as we have said, are to be understood of Elementated Elements",
+   "note": "Points back to something said earlier about Elementated Elements; the place is not among the lines given."
+  },
+  {
+   "n": 12,
+   "ref": "CH1.25",
+   "type": "position",
+   "quote": "the Elements are in all Things, and that they are mingled with and preserved by the Balsam and Radicall Tincture",
+   "term": "Radicall Tincture",
+   "note": "The Elements are in all things, mixed with and kept by the Balsam and Radicall Tincture."
+  },
+  {
+   "n": 13,
+   "ref": "CH1.25",
+   "type": "marking",
+   "quote": "we will now speak more clearly of the Elements",
+   "what": "speak more clearly of the Elements",
+   "note": "The author announces a clearer account of the Elements so that Severinus may not seem obscure to the inconsiderate Reader; the paragraphs that follow are that account."
+  },
+  {
+   "n": 14,
+   "ref": "N058",
+   "type": "position",
+   "quote": "In living creatures the bones resemble the earth, the flesh ayre, the vitall spirit fire, and the humors water.",
+   "note": "The margin assigns parts of living creatures to the four Elements.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 15,
+   "ref": "N058",
+   "type": "internal conflict",
+   "quote": "the flesh ayre",
+   "with": "CH1.25",
+   "note": "The note gives flesh to the air, while the paragraph it stands beside gives the Aire to all that is hollow without substance and the solid parts to Earth.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 16,
+   "ref": "CH1.26",
+   "type": "position",
+   "quote": "He that is a true Phylosophicall Physitian and would know the four Elements or those four Pillars of the World; shall understand himselfe and his own Originall",
+   "term": "Phylosophicall Physitian",
+   "note": "Knowing the four Elements and knowing oneself are joined for the true Phylosophicall Physitian."
+  },
+  {
+   "n": 17,
+   "ref": "CH1.26",
+   "type": "marking",
+   "quote": "the true Anotomy of the great and little World",
+   "what": "the true Anotomy of the great and little World",
+   "term": "Anotomy",
+   "note": "Names the knowledge the physician gains from the Outward: the true Anotomy of the great and little World."
+  },
+  {
+   "n": 18,
+   "ref": "CH1.27",
+   "type": "cross-reference",
+   "quote": "The Earth, as is said, with the Water is the Centre",
+   "note": "As is said points back to an earlier statement not among the lines given."
+  },
+  {
+   "n": 19,
+   "ref": "CH1.27",
+   "type": "position",
+   "quote": "The true Elements with their proper Astra's are not visior sensible",
+   "term": "Astra's",
+   "note": "The true Elements and their Astra's cannot be seen or sensed, like the soul in the body."
+  },
+  {
+   "n": 20,
+   "ref": "CH1.27",
+   "type": "own definition",
+   "quote": "The body of the Element is a dead and dark thing; the Spirit is the life, and is divided into Astra's",
+   "term": "Astra's",
+   "note": "Each Element has a dead dark body and a Spirit that is its life; the Spirit is divided into Astra's."
+  },
+  {
+   "n": 21,
+   "ref": "CH1.27",
+   "type": "position",
+   "quote": "these spirituall Elements in the seperation of all things have severed the visible bodies from themselves by seperation",
+   "term": "seperation",
+   "note": "The spiritual Elements put the visible bodies out of themselves by separation, as the soul separates its body yet dwells in it."
+  },
+  {
+   "n": 22,
+   "ref": "CH1.27",
+   "type": "position",
+   "quote": "The potentiall Heat seperated the Stars from it selfe",
+   "note": "Each quality separated a visible body from itself: Heat the Stars, Moysture the Aire, Coldnesse the Water, Drinesse the Earth."
+  },
+  {
+   "n": 23,
+   "ref": "CH1.27",
+   "type": "position",
+   "quote": "for no visible body is of it selfe and from it selfe, but from its own invisible Element and Astrum",
+   "term": "Astrum",
+   "note": "Every visible body comes from its own invisible Element and Astrum."
+  },
+  {
+   "n": 24,
+   "ref": "N059",
+   "type": "position",
+   "quote": "Vegetables to the Earth, Mineralls to the Water; the Fire is that which gives life to all. These are the wombs of all things.",
+   "note": "The margin assigns kinds of creatures to the Elements, gives Fire as giver of life, and calls the Elements the wombs of all things.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 25,
+   "ref": "N059",
+   "type": "internal conflict",
+   "quote": "the Fire is that which gives life to all",
+   "with": "CH1.32",
+   "note": "The note gives Fire as what gives life to all; CH1.32 says the Aire liveth of it selfe and giveth life to all.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 26,
+   "ref": "N060",
+   "type": "position",
+   "quote": "generating matrix, as the fish in the water",
+   "term": "matrix",
+   "note": "The note, partly unreadable, ties each thing to its generating matrix, with the fish in water as example.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 27,
+   "ref": "CH1.28",
+   "type": "voice",
+   "quote": "Nostoch saith, they feed on fire, and at last sever it from themselves",
+   "name": "Nostoch",
+   "note": "Words given to Nostoch: the stars feed on fire and sever it from themselves."
+  },
+  {
+   "n": 28,
+   "ref": "CH1.28",
+   "type": "position",
+   "quote": "Mettalls, Salts, Mineralls grow out of the body of the Water.",
+   "note": "Metals, salts and minerals are fruits of the body of the Water."
+  },
+  {
+   "n": 29,
+   "ref": "CH1.28",
+   "type": "position",
+   "quote": "Our visible Elements are but the bodies and houses of others",
+   "note": "The visible Elements only house other (invisible) ones and hold back their force."
+  },
+  {
+   "n": 30,
+   "ref": "N062",
+   "type": "marking",
+   "quote": "This Rule both Divines and Physicians make use of.",
+   "what": "This Rule",
+   "note": "The margin marks the statement beside it as a Rule used by both Divines and Physicians.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 31,
+   "ref": "CH1.28",
+   "type": "position",
+   "quote": "All things that are joyned together in a visible body choak and break the force, power and operation of the inner Spirit.",
+   "note": "Being joined in a visible body hinders the inner Spirit."
+  },
+  {
+   "n": 32,
+   "ref": "N061",
+   "type": "position",
+   "quote": "A Herring will not live out of the water.",
+   "note": "The margin states that a thing is nourished by what it is begotten of, with the herring as example.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 33,
+   "ref": "CH1.29",
+   "type": "position",
+   "quote": "The Earth is twofold, Externall or visible, Internall or invisible.",
+   "note": "Divides the Earth into a visible and an invisible part."
+  },
+  {
+   "n": 34,
+   "ref": "CH1.29",
+   "type": "own definition",
+   "quote": "The Externall is not the Element, but the body of the Element, and is the Sulphur, Mercury, Salt",
+   "note": "The external Earth is defined as the body of the Element, and that body is Sulphur, Mercury, Salt."
+  },
+  {
+   "n": 35,
+   "ref": "CH1.29",
+   "type": "own definition",
+   "quote": "For the Element of the Earth is life and Spirit wherein lie the Astra's of the Earth",
+   "term": "Astra's",
+   "note": "The Element of the Earth is defined as life and Spirit holding the Earth's Astra's."
+  },
+  {
+   "n": 36,
+   "ref": "CH1.29",
+   "type": "position",
+   "quote": "Though the Earth seem to be dead, yet hath it in it selfe the seeds and seminall vertues of all things",
+   "note": "The Earth only seems dead; it holds the seeds of all things."
+  },
+  {
+   "n": 37,
+   "ref": "CH1.29",
+   "type": "position",
+   "quote": "every one of these fruits is againe the Astrum and Seed",
+   "term": "Astrum",
+   "note": "Each fruit is in turn an Astrum and Seed."
+  },
+  {
+   "n": 38,
+   "ref": "N063",
+   "type": "concealment",
+   "quote": "The Earth of it self is dead, yet is it the Element of an invisible and hidden life.",
+   "note": "The margin calls the life in the Earth hidden.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 39,
+   "ref": "CH1.30",
+   "type": "own definition",
+   "quote": "There is also a twofold Water, viz. the Body, which is Mercury, Sulphur, and Salt; but the Element is the life and Spirit in which the Astra's of the Water are contained",
+   "note": "Water's body is Mercury, Sulphur, Salt; its Element is the life and Spirit holding its Astra's."
+  },
+  {
+   "n": 40,
+   "ref": "CH1.30",
+   "type": "position",
+   "quote": "which yet are digged out of the Earth",
+   "note": "The fruits of the Water (minerals, metals, stones) are dug out of the Earth."
+  },
+  {
+   "n": 41,
+   "ref": "CH1.30",
+   "type": "position",
+   "quote": "For the Astrum of every Element brings forth and bayes its fruits in a strange region or matrix",
+   "term": "matrix",
+   "note": "Each Element's Astrum brings forth its fruits in a region or matrix not its own.",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 42,
+   "ref": "CH1.30",
+   "type": "position",
+   "quote": "By a singular Providence all things seem to tend to the Earth and to further its fruitfulnesse.",
+   "note": "All things tend toward the Earth by Providence."
+  },
+  {
+   "n": 43,
+   "ref": "N064",
+   "type": "voice",
+   "quote": "spirituall regeneration cannot be without it as Chr. said to N",
+   "name": "Chr.",
+   "note": "The margin ties the virtue of the Element of water to spiritual regeneration and gives the saying to Chr. (the name of the one addressed is partly unreadable).",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 44,
+   "ref": "N064",
+   "type": "position",
+   "quote": "Our Fire is not the Element, because like death it consumeth all things.",
+   "note": "The margin denies that our fire is the Element, since it consumes all.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 45,
+   "ref": "N064",
+   "type": "position",
+   "quote": "Heaven is the fourth and first Element concluding all things in it selfe as the shell doth the egge.",
+   "note": "The margin calls Heaven the fourth and first Element, enclosing all.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 46,
+   "ref": "N064",
+   "type": "position",
+   "quote": "No one Element can be without another",
+   "note": "The margin holds that the four Elements are always mixed in generation.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 47,
+   "ref": "N064",
+   "type": "voice",
+   "quote": "Paracels. in P",
+   "name": "Paracels.",
+   "note": "The note ends by naming Paracels. and a writing whose title is partly unreadable, as the source of its words.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 48,
+   "ref": "CH1.31",
+   "type": "position",
+   "quote": "as Snow which is bred of Fire is found in the Aire and Earth",
+   "note": "Snow is given as a fruit of the Firmament, bred of Fire and perfected in the Aire."
+  },
+  {
+   "n": 49,
+   "ref": "CH1.31",
+   "type": "position",
+   "quote": "The Seeds of the Water doe bring forth in the inner part of the Earth, and from thence tend to the superfices or outside",
+   "note": "Water's seeds bring forth inside the Earth and move outward."
+  },
+  {
+   "n": 50,
+   "ref": "CH1.31",
+   "type": "position",
+   "quote": "so the procreations of all the Elements doe voluntarily and earnestly bend toward Man-kind as to their desired limit",
+   "note": "All that the Elements produce tends toward mankind as its end."
+  },
+  {
+   "n": 51,
+   "ref": "CH1.31",
+   "type": "position",
+   "quote": "by an imutable decree of Eternall Law it comes to passe and is so ordered that the Water doth not bring forth more then the Earth can bring up",
+   "note": "An eternal law keeps the Elements' production in balance with one another."
+  },
+  {
+   "n": 52,
+   "ref": "N065",
+   "type": "voice",
+   "quote": "Astrers saith, that the Aire was created",
+   "name": "Astrers",
+   "note": "The margin gives to Astrers that the Aire was created before any creature.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 53,
+   "ref": "CH1.32",
+   "type": "position",
+   "quote": "The Aire also is twofold, for it hath its Element as an Inhabitant in it selfe.",
+   "note": "The Aire, like Earth and Water, has a body and an indwelling Element."
+  },
+  {
+   "n": 54,
+   "ref": "CH1.32",
+   "type": "own definition",
+   "quote": "It is the Balsam of all created things, and the life of the other three Elements",
+   "term": "Balsam",
+   "note": "The Aire is named the Balsam of all created things and the life of the other Elements."
+  },
+  {
+   "n": 55,
+   "ref": "CH1.32",
+   "type": "local signal",
+   "quote": "the coales of Heaven, those Crescences of Fire",
+   "term": "Crescences",
+   "note": "Coales of Heaven is glossed in apposition as Crescences of Fire; from CH1.33-34 these appear to be the stars (interpreted).",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 56,
+   "ref": "CH1.33",
+   "type": "position",
+   "quote": "The Firmament or Fire is likewise is twofold, and hath its own Element as an Inhabitant in it selfe, which Element hath in it all Astra's and Seeds",
+   "note": "Fire too has a body and an indwelling Element holding all Astra's and Seeds."
+  },
+  {
+   "n": 57,
+   "ref": "CH1.33",
+   "type": "internal conflict",
+   "quote": "The Element of Fire, or the Corporeall Firmament sends the bodies of the Stars, Sun, Moon and Planets out of it selfe.",
+   "with": "CH1.29",
+   "note": "Here the Element of Fire is equated with the Corporeall Firmament, while CH1.29 says the external body is not the Element but the body of the Element, and CH1.33 itself places the Element inside the Firmament."
+  },
+  {
+   "n": 58,
+   "ref": "CH1.33",
+   "type": "position",
+   "quote": "so at the Creation did the bodies of the Stars grow out of Heaven, and yet abide in the Firmament or Heaven",
+   "note": "The stars grew out of Heaven at the Creation as herbs out of the Earth, and stay in it."
+  },
+  {
+   "n": 59,
+   "ref": "N066",
+   "type": "voice",
+   "quote": "The Element of Fire according to Paracis the Firmament of Heaven.",
+   "name": "Paracis",
+   "note": "The margin gives to Paracis that the Element of Fire is the Firmament of Heaven.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 60,
+   "ref": "CH1.34",
+   "type": "position",
+   "quote": "The twelve Caelestiall Signes in the Zodiak, with the other Stars of Heaven, are the fruits of Fire",
+   "note": "The signs and stars are fruits of Fire, from its invisible Astra's."
+  },
+  {
+   "n": 61,
+   "ref": "CH1.34",
+   "type": "position",
+   "quote": "by so much the fruits thereof are more subtle and operative then the fruits of the other three Elements",
+   "note": "Fire's fruits are more subtle and operative than those of the other Elements, as the Firmament is thinner than the Earth."
+  },
+  {
+   "n": 62,
+   "ref": "CH1.34",
+   "type": "marking",
+   "quote": "the seven Rulers of the world are nothing else but the fruits of Fire",
+   "what": "the seven Rulers of the world",
+   "term": "seven Rulers",
+   "note": "Names the seven Rulers of the world and says they are only fruits of Fire; the lines do not name them further."
+  },
+  {
+   "n": 63,
+   "ref": "CH1.34",
+   "type": "own definition",
+   "quote": "the invisible Astrum or Sydereall Spirit in the Stars we cannot see",
+   "term": "Sydereall",
+   "note": "Astrum is glossed as Sydereall Spirit, the invisible part of a star."
+  },
+  {
+   "n": 64,
+   "ref": "CH1.34",
+   "type": "local signal",
+   "quote": "not the body of the Sun, but the Spirit in the body, is the Sun properly; the like also may be said of Man",
+   "term": "Sun",
+   "note": "The name Sun properly means the spirit in the body, not the visible body; the same is said of Man."
+  },
+  {
+   "n": 65,
+   "ref": "N067",
+   "type": "position",
+   "quote": "As the flowers in earth shew the Colours of the Stars, so the constellations in Heaven shew the field or meadow of the Earth.",
+   "note": "The margin pairs the flowers of Earth with the stars of Heaven.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 66,
+   "ref": "CH1.35",
+   "type": "own definition",
+   "quote": "the four Astra's of the said Elements are the Seeds in the four matrices or wombs",
+   "term": "matrices",
+   "note": "The Astra's of the Elements are the Seeds; matrices is glossed as wombs."
+  },
+  {
+   "n": 67,
+   "ref": "CH1.35",
+   "type": "position",
+   "quote": "The Bodily growes out of the Spirituall, and abideth in it",
+   "note": "Body and Astrum are always together; the bodily grows out of the spiritual."
+  },
+  {
+   "n": 68,
+   "ref": "CH1.35",
+   "type": "position",
+   "quote": "Angels cannot increase themselves because they want a body, but Man may because he hath a one.",
+   "note": "Increase needs a body."
+  },
+  {
+   "n": 69,
+   "ref": "CH1.35",
+   "type": "position",
+   "quote": "so soon as ever the Seed or Astrum dies and rots in its matrix or womb, the Astrum goes forward into a new body, and multiplyeth it selfe",
+   "note": "The Seed must die and rot in its matrix before the Astrum passes into a new body and multiplies."
+  },
+  {
+   "n": 70,
+   "ref": "CH1.35",
+   "type": "voice",
+   "quote": "as Christ himselfe sets it forth by a similitude and example in a graine of Wheat",
+   "name": "Christ",
+   "note": "The text gives the grain of wheat likeness to Christ."
+  },
+  {
+   "n": 71,
+   "ref": "N068",
+   "type": "voice",
+   "quote": "John 12.24.",
+   "name": "John",
+   "note": "The margin names the writing where the grain of wheat saying stands.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 72,
+   "ref": "CH1.36",
+   "type": "position",
+   "quote": "Putrefaction consumeth and separateth the old Nature, and bringeth new fruit.",
+   "term": "Putrefaction",
+   "note": "Putrefaction ends the old nature and brings new fruit."
+  },
+  {
+   "n": 73,
+   "ref": "CH1.36",
+   "type": "local signal",
+   "quote": "as Corruption is the cause of the new generation of a Divine substance",
+   "term": "Corruption",
+   "note": "Bodily death before eternal life is set beside corruption as cause of a new Divine substance, so the words of generation carry a second, religious sense here."
+  },
+  {
+   "n": 74,
+   "ref": "CH1.37",
+   "type": "operation",
+   "quote": "'Tis necessary that the first life of hearbs and medicines should die that the second life by the Chymists help may be attained through Putrefaction and Regeneration",
+   "term": "Regeneration",
+   "note": "Herbs and medicines are made to die so that a second life is reached by the Chymist through Putrefaction and Regeneration."
+  },
+  {
+   "n": 75,
+   "ref": "CH1.37",
+   "type": "concealment",
+   "quote": "wherein the Three First discover themselves with their hidden vertues",
+   "term": "Three First",
+   "note": "In Regeneration the Three First show their hidden virtues."
+  },
+  {
+   "n": 76,
+   "ref": "CH1.37",
+   "type": "concealment",
+   "quote": "for without Regeneration no hid Secret of Physick can be attained to, which is without all complexion of qualities",
+   "term": "Regeneration",
+   "note": "The hid Secret of Physick is reached only through Regeneration and is without qualities."
+  },
+  {
+   "n": 77,
+   "ref": "CH1.37",
+   "type": "marking",
+   "quote": "the Physicall body of Man, which is nourished from the Earth, and Sydereall body which liveth by the Firmament",
+   "what": "the Physicall body of Man; Sydereall body",
+   "note": "Names two bodies of man: the Physicall and the Sydereall."
+  },
+  {
+   "n": 78,
+   "ref": "CH1.37",
+   "type": "cross-reference",
+   "quote": "for all bodily things are contained in these Three, as hath been said a little before",
+   "note": "Points back to the earlier statement that bodies are Sulphur, Mercury, Salt (CH1.29-30)."
+  },
+  {
+   "n": 79,
+   "ref": "CH1.37",
+   "type": "position",
+   "quote": "the things that grow doe not spring from the four visible Bodies, nor from the four humors, but out of the invisible Seed",
+   "note": "Growth comes from the invisible Seed, not from visible bodies or humours."
+  },
+  {
+   "n": 80,
+   "ref": "CH1.38",
+   "type": "position",
+   "quote": "It is not the Locall Anotomy of a man and dead corpses, but the Essentiated and Elemented Anotomy of the World and man that discovereth the disease and cure",
+   "term": "Anotomy",
+   "note": "Rejects dissection of corpses as the way to disease and cure, in favour of an Anotomy of the World and man."
+  },
+  {
+   "n": 81,
+   "ref": "CH1.38",
+   "type": "position",
+   "quote": "The Members or parts of the great world are the Remedies of the members and parts of man",
+   "note": "Remedies come from the matching parts of the great world."
+  },
+  {
+   "n": 82,
+   "ref": "CH1.38",
+   "type": "local signal",
+   "quote": "As in Man, Man is the Anotomy of the disease, so also in Physick Man is the Anotomy of the Physick.",
+   "term": "Anotomy",
+   "note": "Anotomy is used in a sense other than dissection: Man is the Anotomy of disease and of medicine.",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 83,
+   "ref": "CH1.38",
+   "type": "local signal",
+   "quote": "the Stars of that Physitian Heaven",
+   "note": "Herbs' hidden virtue is spoken of as stars of a Physitian Heaven, a heaven in a second sense."
+  },
+  {
+   "n": 84,
+   "ref": "CH1.38",
+   "type": "marking",
+   "quote": "to know the Concordance of Nature, viz. how he may make the Astrum of the Physick or of the magicall Heaven agree with the internall Astrum and Olimpus of Man",
+   "what": "the Concordance of Nature",
+   "term": "Olimpus",
+   "note": "Names the chief thing the physician must know, the Concordance of Nature, and glosses it."
+  },
+  {
+   "n": 85,
+   "ref": "CH1.38",
+   "type": "operation",
+   "quote": "because of the like Anotomy it is that Mummy will stop the bleeding in Man",
+   "term": "Mummy",
+   "note": "A concrete cure: Mummy stops bleeding, explained by like Anotomy."
+  },
+  {
+   "n": 86,
+   "ref": "N069",
+   "type": "own definition",
+   "quote": "from the internall Astra's or impressions which cause the diseases",
+   "note": "The margin glosses internall Astra's as impressions that cause diseases.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 87,
+   "ref": "N070",
+   "type": "marking",
+   "quote": "Anotomy is the Basis of true Phisitians, Diseases and Things.",
+   "what": "Anotomy",
+   "note": "The margin heads Anotomy as the basis of physicians, diseases and things.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 88,
+   "ref": "CH1.39",
+   "type": "position",
+   "quote": "The Nightingale that is subject to the deseases of Spiders is cured by eating them",
+   "note": "Example of cure by the like thing."
+  },
+  {
+   "n": 89,
+   "ref": "CH1.39",
+   "type": "position",
+   "quote": "the externall leadeth to the internall, as in the great so in the little world",
+   "note": "Knowledge of the outer world leads to knowledge of man."
+  },
+  {
+   "n": 90,
+   "ref": "CH1.39",
+   "type": "position",
+   "quote": "which diseases doe not proceed from the four fictitious humours or qualities, but rather from the Seed",
+   "note": "Calls the four humours fictitious and puts the cause of disease in the Seed."
+  },
+  {
+   "n": 91,
+   "ref": "CH1.39",
+   "type": "position",
+   "quote": "So many kinds of diseases are there, as there be sorts, bodies and seeds of things that grow",
+   "note": "The kinds of disease match the kinds of growing things; as many minerals in man as in the world."
+  },
+  {
+   "n": 92,
+   "ref": "N071",
+   "type": "marking",
+   "quote": "The cause & subject of diseases.",
+   "what": "The cause & subject of diseases",
+   "note": "The margin heads this passage as the cause and subject of diseases.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 93,
+   "ref": "N072",
+   "type": "local signal",
+   "quote": "Many diseases proceed out of the mineralls of man, which Iliad containeth all things in it selfe.",
+   "term": "Iliad",
+   "note": "The margin calls man an Iliad that contains all things.",
+   "tags": [
+    "note-only",
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 94,
+   "ref": "CH1.40",
+   "type": "position",
+   "quote": "bring forth fruits as messengers of health or sicknesse",
+   "note": "The Seeds bring forth, in their seasons, fruits that are messengers of health or sickness."
+  },
+  {
+   "n": 95,
+   "ref": "CH1.40",
+   "type": "position",
+   "quote": "So that the Three First are the cause of all diseases",
+   "term": "Three First",
+   "note": "Disease comes from the Three First: united they make a sound body, disunited sickness."
+  },
+  {
+   "n": 96,
+   "ref": "CH1.40",
+   "type": "local signal",
+   "quote": "the root of the first death",
+   "note": "First death implies a second death; the lines do not say what it is."
+  },
+  {
+   "n": 97,
+   "ref": "CH1.40",
+   "type": "internal conflict",
+   "quote": "Hereditary diseases which proceed from the Seed or Astra's are partly Elementary, because they are known by hot, moyst or cold qualities.",
+   "with": "CH1.39",
+   "note": "Some diseases are known by hot, moist or cold qualities, while CH1.39 says diseases do not proceed from the fictitious humours or qualities; the wording differs (known by, proceed from)."
+  },
+  {
+   "n": 98,
+   "ref": "CH1.40",
+   "type": "marking",
+   "quote": "There are other diseases whereof the most part are Astrall or Firmamentall",
+   "what": "Astrall or Firmamentall diseases",
+   "term": "Astrall",
+   "note": "Names a second kind of disease, Astrall or Firmamentall, from the Firmament of Man."
+  },
+  {
+   "n": 99,
+   "ref": "CH1.40",
+   "type": "own definition",
+   "quote": "the Syderiall spirit of Man or the invisible Man (which is the In-mate of the body)",
+   "term": "Syderiall",
+   "note": "Syderiall spirit is glossed as the invisible Man, the In-mate of the body."
+  },
+  {
+   "n": 100,
+   "ref": "CH1.40",
+   "type": "position",
+   "quote": "For Heaven is the Father and teacher of all Arts, except Divinity and holy Righteousnesse, which cannot be learned from the Stars, but from the holy Spirit immediately",
+   "note": "All arts come from Heaven except divinity, which comes from the holy Spirit."
+  },
+  {
+   "n": 101,
+   "ref": "CH1.40",
+   "type": "concealment",
+   "quote": "for all Believers and Regenerate men are hid from, and unknown to Astronomers",
+   "term": "Regenerate",
+   "note": "Believers and Regenerate men are hidden from Astronomers."
+  },
+  {
+   "n": 102,
+   "ref": "CH1.40",
+   "type": "voice",
+   "quote": "as you may find in the Sage and deep Phylosophy of Paracelsus",
+   "name": "Paracelsus",
+   "note": "The text sends the reader to Paracelsus for what it has just said."
+  },
+  {
+   "n": 103,
+   "ref": "N073",
+   "type": "position",
+   "quote": "The Originall of all diseases is from the Three First",
+   "term": "Three First",
+   "note": "The margin repeats that disease originates in the Three First, with the Astra's making impressions on them.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 104,
+   "ref": "N074",
+   "type": "position",
+   "quote": "Elementary diseases are cured by Elemental means, and Astrall have Astrall remedies.",
+   "note": "The margin matches each kind of disease to a kind of remedy.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 105,
+   "ref": "N074",
+   "type": "position",
+   "quote": "The Galenists doe know nothing of these Astral cures",
+   "term": "Galenists",
+   "note": "The margin sets Galenists against the experienced physicians who understand Astral cures.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 106,
+   "ref": "CH1.41",
+   "type": "local signal",
+   "quote": "so man in respect of the body hath a twofold Loadstone",
+   "term": "Loadstone",
+   "note": "Loadstone is used of man's power of drawing to himself food from the Elements and wisdom from the Astra's.",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 107,
+   "ref": "CH1.41",
+   "type": "position",
+   "quote": "the syderiall spirit of Man attracteth all Arts, sciences, and faculties, and all humane Wisdome from the Rayes or beams of the superiour Stars or constellations",
+   "note": "Human wisdom is drawn from the stars by man's syderiall spirit."
+  },
+  {
+   "n": 108,
+   "ref": "CH1.41",
+   "type": "own definition",
+   "quote": "for the Firmament is the Light of Nature, which naturally supplyeth man with all things",
+   "term": "Light of Nature",
+   "note": "The Firmament is named the Light of Nature."
+  },
+  {
+   "n": 109,
+   "ref": "N075",
+   "type": "operation",
+   "quote": "therefore the cure is to be sought for in a medicine that is like it, seperated from the dregs Spagyrically",
+   "term": "Spagyrically",
+   "note": "The cure is a medicine like the disease, separated from its dregs Spagyrically.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 110,
+   "ref": "N075",
+   "type": "position",
+   "quote": "Iron sheweth that man is divided into the externall and internall",
+   "note": "The margin draws a division of man from the loadstone and iron.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 111,
+   "ref": "CH1.42",
+   "type": "own definition",
+   "quote": "that is, without any quality neither hot, nor cold nor dry, nor moyst",
+   "note": "A word that stands in a gap (foreign script) is glossed: the Astra's or Elements are without any quality."
+  },
+  {
+   "n": 112,
+   "ref": "CH1.42",
+   "type": "position",
+   "quote": "thus contrary things grow out of the Elements",
+   "note": "Products of quality-less Elements have qualities, even contrary ones (Poppy and Arsesmart)."
+  },
+  {
+   "n": 113,
+   "ref": "CH1.42",
+   "type": "own definition",
+   "quote": "the Three First, i. e. Mercury, Salt, and Sulphur",
+   "term": "Three First",
+   "note": "Stated: the Three First are Mercury, Salt and Sulphur."
+  },
+  {
+   "n": 114,
+   "ref": "CH1.42",
+   "type": "voice",
+   "quote": "For, as Paracelsus saith, they are the fruits and egestions or disgorgings of the Stars of the Firmament",
+   "name": "Paracelsus",
+   "note": "Words given to Paracelsus on the meteors as fruits of the stars."
+  },
+  {
+   "n": 115,
+   "ref": "CH1.42",
+   "type": "position",
+   "quote": "all such Meteor-like impressions proceed from the supreame invisible Spirit of the Firmament",
+   "note": "Snow, rain, thunder and the like come from the invisible Spirit of the Firmament."
+  },
+  {
+   "n": 116,
+   "ref": "N076",
+   "type": "position",
+   "quote": "That whereof any thing is bred, of the same doth it live, is fed nourished, preserved, cured, made sick punished and",
+   "note": "The margin states the rule that a thing lives, is cured and sickens by what it is bred of; N061 says the same of nourishment.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 117,
+   "ref": "CH1.43",
+   "type": "position",
+   "quote": "Hence it is plaine that diseases are not cured by contraries, as if heat were to expell cold",
+   "note": "Rejects cure by contraries."
+  },
+  {
+   "n": 118,
+   "ref": "CH1.43",
+   "type": "operation",
+   "quote": "by the secret things or Astra's which the Chymist can reduce out of the last matter into the first",
+   "term": "Astra's",
+   "note": "The Chymist reduces the Astra's from the last matter into the first; these cure disease."
+  },
+  {
+   "n": 119,
+   "ref": "CH1.43",
+   "type": "own definition",
+   "quote": "These Arcana or hid things are actually neither cold nor hot",
+   "term": "Arcana",
+   "note": "Arcana is glossed as hid things, without heat or cold, removing disease as an axe cuts a tree."
+  },
+  {
+   "n": 120,
+   "ref": "CH1.43",
+   "type": "marking",
+   "quote": "Of this sort are the Fift Essences, Magisteryes, and the like.",
+   "what": "Fift Essences, Magisteryes",
+   "term": "Magisteryes",
+   "note": "Names kinds of Arcana: Fift Essences and Magisteryes."
+  }
+ ],
+ "sections_read": [
+  "CH1"
+ ],
+ "end_marker": "END OF OUTPUT"
+}

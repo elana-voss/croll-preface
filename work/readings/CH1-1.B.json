@@ -1,0 +1,1466 @@
+{
+ "items": [
+  {
+   "n": 1,
+   "ref": "CH1.0",
+   "type": "marking",
+   "quote": "CHAP. I. Of the True Physick.",
+   "what": "the True Physick",
+   "note": "The chapter is headed as treating one thing, the True Physick.",
+   "term": "Physick"
+  },
+  {
+   "n": 2,
+   "ref": "CH1.1",
+   "type": "marking",
+   "quote": "THE true Physick whereof by the Devine assistance I intend here to treat",
+   "what": "THE true Physick",
+   "note": "The author announces the true Physick as the thing he will treat here.",
+   "term": "Physick"
+  },
+  {
+   "n": 3,
+   "ref": "CH1.1",
+   "type": "position",
+   "quote": "is the mear gift of the most high God",
+   "note": "Voice CROLL. The true Physick is said to be purely a gift of God."
+  },
+  {
+   "n": 4,
+   "ref": "CH1.1",
+   "type": "position",
+   "quote": "it is not to be sought for or learned from the Heathens, but from God alone",
+   "note": "Voice CROLL. Physick is to be learned from God alone and not from the Heathens. The lines given do not say who the Heathens are.",
+   "term": "Heathens"
+  },
+  {
+   "n": 5,
+   "ref": "N036",
+   "type": "voice",
+   "quote": "See Paracels. his Labyrinth of Physitians.",
+   "name": "Paracels. his Labyrinth of Physitians",
+   "note": "The margin sends the reader to a writing of Paracels. beside the statement that Physick is learned from God alone.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 6,
+   "ref": "CH1.1",
+   "type": "position",
+   "quote": "Wisdome therefore is not to be got from the Creatures, but from God, who being the first inventer of all Secrets, alone knoweth with what properties he hath indued every creature",
+   "note": "Voice CROLL. Wisdom comes from God, not from the Creatures; God alone knows the properties given to each creature and is called first inventer of all Secrets."
+  },
+  {
+   "n": 7,
+   "ref": "CH1.1",
+   "type": "position",
+   "quote": "no mortall Master or dead letter can ever teach it so well as he, who is the perfect Artist of all things",
+   "note": "Voice CROLL. No human teacher and no written text teaches it as well as God, here named the perfect Artist."
+  },
+  {
+   "n": 8,
+   "ref": "N037",
+   "type": "position",
+   "quote": "The Master teacheth that Scholler in vaine whose Nativity is not disposed to that Art by the Sears.",
+   "note": "The margin says teaching is in vain for a scholar whose Nativity is not disposed to the Art. The last word stands as 'Sears' in the text given; the lines do not explain it.",
+   "term": "Nativity",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 9,
+   "ref": "CH1.1",
+   "type": "position",
+   "quote": "All learn of the first by retrogression or going backward, and this first of God, who gave him knowledge in his Creation",
+   "note": "Voice CROLL. All learn from 'the first', and this first learned from God at his creation. The lines given do not name who 'the first' is.",
+   "term": "retrogression"
+  },
+  {
+   "n": 10,
+   "ref": "CH1.1",
+   "type": "position",
+   "quote": "A Physitian should be born out of the Light of Grace and Nature of the inward and invisible Man, the internall Angell, the Light of Nature, which like a sound Doctour teacheth and instructeth men",
+   "note": "Voice CROLL. The Physitian is to be born of the Light of Grace and Nature; the inward and invisible Man, the internall Angell and the Light of Nature stand side by side as the teacher of men.",
+   "term": "Light of Nature"
+  },
+  {
+   "n": 11,
+   "ref": "CH1.1",
+   "type": "position",
+   "quote": "It is perfected and brought to light by practice, not established by Humane, but by the institution of God and Nature",
+   "note": "Voice CROLL. It is perfected by practice and established by God and Nature, not by human institution."
+  },
+  {
+   "n": 12,
+   "ref": "CH1.1",
+   "type": "position",
+   "quote": "upon Nature, upon which God hath written with his own sacred finger in sublunary things, but especially in perfect Mettalls",
+   "note": "Voice CROLL. Physick is founded on Nature, on which God has written, in sublunary things and especially in perfect Mettalls.",
+   "term": "perfect Mettalls"
+  },
+  {
+   "n": 13,
+   "ref": "CH1.1",
+   "type": "position",
+   "quote": "God therefore is the true Foundation thereof",
+   "note": "Voice CROLL. God is named the true Foundation of Physick."
+  },
+  {
+   "n": 14,
+   "ref": "CH1.2",
+   "type": "own definition",
+   "quote": "Physick is nothing else but the created and incarnate Mercy of our Heavenly Father, bestowed upon poor afflicted Mortalls",
+   "note": "The text says what Physick is: the created and incarnate Mercy of God, given to afflicted mortals.",
+   "term": "Physick"
+  },
+  {
+   "n": 15,
+   "ref": "CH1.2",
+   "type": "position",
+   "quote": "that the sick Patient might sensibly perceive and have experience of the bountifull love, mercifulnesse and assistance of his Creator towards him in his afflictions",
+   "note": "Voice CROLL. The stated purpose of Physick: that the sick may perceive by the senses the love and help of the Creator."
+  },
+  {
+   "n": 16,
+   "ref": "N038",
+   "type": "position",
+   "quote": "Physick is a favour given of God, whereof University books are not the Foundation, but the invisible mercy of God and his speciall gift",
+   "note": "The margin sets University books against the mercy and gift of God as foundation of Physick.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 17,
+   "ref": "N038",
+   "type": "own definition",
+   "quote": "This Physicall essence in Phisick is called Gold.",
+   "note": "The margin says that in Phisick the name Gold is given to 'this Physicall essence'; the name is thus said to be a name for an essence. The note does not say further what the essence is.",
+   "term": "Gold",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 18,
+   "ref": "N038",
+   "type": "position",
+   "quote": "Physick is written in the book of Nature (1) in Heaven and Earth, and may there be read & found out by Chyromancy and phisiognomy",
+   "note": "The margin says Physick is written in the book of Nature, in Heaven and Earth, and is read there by Chyromancy and phisiognomy.",
+   "term": "Chyromancy",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 19,
+   "ref": "CH1.3",
+   "type": "own definition",
+   "quote": "this Medicine, as naturall Mummy and kernell of Nature, is contained in the vitall Sulphur, as in the treasure of Nature",
+   "note": "The Medicine is called naturall Mummy and kernell of Nature, and is said to be contained in the vitall Sulphur.",
+   "term": "Mummy"
+  },
+  {
+   "n": 20,
+   "ref": "CH1.3",
+   "type": "position",
+   "quote": "is founded in the Balsam of Vegetables, Mineralls and Animalls, from which every action in Nature hath its beginning",
+   "note": "Voice CROLL. The Medicine is founded in the Balsam of the three kinds, the beginning of every action in Nature.",
+   "term": "Balsam"
+  },
+  {
+   "n": 21,
+   "ref": "CH1.3",
+   "type": "position",
+   "quote": "By its onely power all diseases are cured",
+   "note": "Voice CROLL. This one Medicine is said to cure all diseases."
+  },
+  {
+   "n": 22,
+   "ref": "CH1.3",
+   "type": "operation",
+   "quote": "it be rightly prepared, and separated from all impurity, and in a due order conveniently administred by a Godly skilfull Phisitian to the poor, weak, decayed Nature of Man",
+   "note": "Three steps are named as the condition of the cure: preparing, separating from all impurity, administering in due order. No detail of how is given in these lines."
+  },
+  {
+   "n": 23,
+   "ref": "CH1.3",
+   "type": "cross-reference",
+   "quote": "as shall be shewed anon",
+   "note": "The author promises to show later how the Medicine is rightly prepared."
+  },
+  {
+   "n": 24,
+   "ref": "CH1.4",
+   "type": "position",
+   "quote": "The Foundation of this Physick is according to the agreement of the lesser World Man with the greater and externall world",
+   "note": "Voice CROLL. The foundation of Physick is the agreement of Man, the lesser World, with the greater outer world.",
+   "term": "lesser World"
+  },
+  {
+   "n": 25,
+   "ref": "CH1.4",
+   "type": "marking",
+   "quote": "Astronomy and Philosophy, which explaine those two Globes, the superiour and inferiour",
+   "what": "those two Globes, the superiour and inferiour",
+   "note": "Two Globes, an upper and a lower, are set apart, each explained by one study.",
+   "term": "Globes"
+  },
+  {
+   "n": 26,
+   "ref": "CH1.4",
+   "type": "own definition",
+   "quote": "Philosophy teatheth the force and properties of Earth and Wate,-as Astronomy doth of the Firmament and Aire",
+   "note": "The text says what each word covers here: Philosophy the force and properties of Earth and Water, Astronomy those of Firmament and Aire.",
+   "term": "Astronomy"
+  },
+  {
+   "n": 27,
+   "ref": "CH1.4",
+   "type": "position",
+   "quote": "Phylosophy and Astronomy make up an internall and perfect Phylosopher, not onely in the great World, but also in the lesser",
+   "note": "Voice CROLL. The two studies together make the perfect Phylosopher, in the great World and in the lesser."
+  },
+  {
+   "n": 28,
+   "ref": "CH1.4",
+   "type": "position",
+   "quote": "it is necessary to accommodate the disposition of the great World as of a parent to the little World as to the Son, and duly compare the Anotomy of the World with the Anotomy of Man",
+   "note": "Voice CROLL. The great World is to be fitted to the little World as parent to son, and the Anotomy of the one compared with the Anotomy of the other.",
+   "term": "Anotomy"
+  },
+  {
+   "n": 29,
+   "ref": "CH1.5",
+   "type": "position",
+   "quote": "The outward World is a speculative Anotomy, wherein we may see, as in a glasse, the lesser World Man",
+   "note": "Voice CROLL. The outer World is an Anotomy for looking, a glass in which Man is seen.",
+   "term": "Anotomy"
+  },
+  {
+   "n": 30,
+   "ref": "CH1.5",
+   "type": "position",
+   "quote": "so much of his wonderfull and excellent fabrick and creation as is necessary for a Physitian to know, cannot be understood from the man himselfe",
+   "note": "Voice CROLL. What a Physitian must know of Man cannot be learned from the man himself."
+  },
+  {
+   "n": 31,
+   "ref": "N039",
+   "type": "marking",
+   "quote": "What the Light of Nature is.",
+   "what": "What the Light of Nature is",
+   "note": "The margin announces that the passage says what the Light of Nature is.",
+   "term": "Light of Nature",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 32,
+   "ref": "CH1.5",
+   "type": "position",
+   "quote": "but in all their powers and vertues; as is the great world, so is the lesser, in essence and internall form they are altogether one and the same thing",
+   "note": "Voice CROLL. Great and lesser world agree not in outward form but in powers; in essence and internall form they are one and the same."
+  },
+  {
+   "n": 33,
+   "ref": "N040",
+   "type": "position",
+   "quote": "Without the knowledge of Light of Nature or the great world no Physitian can have an exact knowledge of diseases in Man.",
+   "note": "The margin makes knowledge of the Light of Nature, 'or the great world', the condition of knowing diseases. The 'or' sets the two side by side.",
+   "term": "Light of Nature",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 34,
+   "ref": "CH1.5",
+   "type": "own definition",
+   "quote": "the Light of Nature, which is nothing else but a divine Analogy of this visible world with the body of man",
+   "note": "The text says what the Light of Nature is: a divine Analogy of the visible world with the body of man.",
+   "term": "Light of Nature"
+  },
+  {
+   "n": 35,
+   "ref": "CH1.5",
+   "type": "concealment",
+   "quote": "whatsoever lyeth hid and unseen in Man, is made manifest in the visible Anotomy of the whole Universe, for the Microcosmicall Nature in Man is invisible and incomprehensible",
+   "note": "The text says a thing is hidden: the nature in Man lies hid and unseen, and is shown openly in the visible Universe. The hiding spoken of is in Man, not a withholding by the writer.",
+   "term": "Microcosmicall"
+  },
+  {
+   "n": 36,
+   "ref": "N041",
+   "type": "position",
+   "quote": "The great World is a speculation and glasse of the little World Man.",
+   "note": "The margin repeats that the great World is the glass of Man.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 37,
+   "ref": "CH1.5",
+   "type": "position",
+   "quote": "Heaven and Earth are Man's Parents, out of which Man last of all was created",
+   "note": "Voice CROLL. Heaven and Earth are called Man's Parents; Man was created last, out of them."
+  },
+  {
+   "n": 38,
+   "ref": "CH1.5",
+   "type": "position",
+   "quote": "and can Anotomize them, hath attained the true knowledge of their child Man, the most perfect creature in all his properties",
+   "note": "Voice CROLL. Who knows and can Anotomize the parents has the true knowledge of Man.",
+   "term": "Anotomize"
+  },
+  {
+   "n": 39,
+   "ref": "N042",
+   "type": "position",
+   "quote": "Man is the End of Phylosophy and Astronomy.",
+   "note": "The margin names Man as the End of the two studies.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 40,
+   "ref": "CH1.5",
+   "type": "position",
+   "quote": "all things of the whole Universe meet in him as in the Centre, and the Anotomy of him in his Nature is the Anotomy of the whole world",
+   "note": "Voice CROLL. All things meet in Man as in the Centre; his Anotomy is that of the whole world."
+  },
+  {
+   "n": 41,
+   "ref": "CH1.6",
+   "type": "position",
+   "quote": "The externall world is the figure of Man, and Man is an hidden world, because visible things in him are invisible, and when they are made visible then they are diseases, not health",
+   "note": "Voice CROLL. Man is called an hidden world: what is visible in the outer world is invisible in him, and when it becomes visible in him it is disease.",
+   "term": "hidden world"
+  },
+  {
+   "n": 42,
+   "ref": "CH1.6",
+   "type": "local signal",
+   "quote": "this is the true knowledge, that Man may Microcosmically be known visibly and invisibly or magically",
+   "note": "'invisibly or magically' sets the two words side by side, so that 'magically' here seems to name the invisible way of knowing Man. This rests on the one word 'or'.",
+   "term": "magically",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 43,
+   "ref": "CH1.6",
+   "type": "position",
+   "quote": "The knowledge of every sound and perfect Physitian proceedeth from the true and full Anotomy both of the great and little world",
+   "note": "Voice CROLL. The Physitian's knowledge comes from the Anotomy of both worlds."
+  },
+  {
+   "n": 44,
+   "ref": "CH1.6",
+   "type": "position",
+   "quote": "the Nature, as well of the Macrocosme as the Microcosme, is its own medicine, disease, and Physitian",
+   "note": "Voice CROLL. Nature, in the great world and in the little, is its own medicine, disease and Physitian.",
+   "term": "Macrocosme"
+  },
+  {
+   "n": 45,
+   "ref": "CH1.6",
+   "type": "position",
+   "quote": "Nature, not man, maketh a Physitian",
+   "note": "Voice CROLL. A Physitian is made by Nature, not by man."
+  },
+  {
+   "n": 46,
+   "ref": "CH1.6",
+   "type": "position",
+   "quote": "the Matter of Man is the Extract of the four Elements",
+   "note": "Voice CROLL. The matter of Man is the Extract of the four Elements, so he must be familiar with them and their fruits.",
+   "term": "Extract"
+  },
+  {
+   "n": 47,
+   "ref": "CH1.6",
+   "type": "position",
+   "quote": "God created the Elements for their fruits sake, that they might sustaine and preserve Man with food and Physick",
+   "note": "Voice CROLL. The Elements were created for their fruits, which give Man food and Physick.",
+   "term": "fruits"
+  },
+  {
+   "n": 48,
+   "ref": "N043",
+   "type": "position",
+   "quote": "The knowledge of the 4 Elements doe shew every disease in man and its cure.",
+   "note": "The margin says knowledge of the four Elements shows every disease and its cure.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 49,
+   "ref": "CH1.6",
+   "type": "position",
+   "quote": "all the externall Elements represent unto us the whole Man, which being known, Man also is understood, for they are alike, and are the very Microcosm",
+   "note": "Voice CROLL. The outer Elements represent the whole Man; knowing them, Man is understood.",
+   "term": "Microcosm"
+  },
+  {
+   "n": 50,
+   "ref": "CH1.6",
+   "type": "position",
+   "quote": "in the foure Elements there is but one Anatomy essence and matter, all the differenc being onely in the Form",
+   "note": "Voice CROLL. The four Elements are one in Anatomy, essence and matter and differ only in Form."
+  },
+  {
+   "n": 51,
+   "ref": "N044",
+   "type": "position",
+   "quote": "The knowledge of Physick in the outward world is to be fetched from the Limbovn, and depends upon the knowledg of Man.",
+   "note": "The margin says knowledge of Physick in the outer world is fetched from 'the Limbovn'; the word is spelled so in the text given and is not explained in these lines.",
+   "term": "Limbovn",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 52,
+   "ref": "CH1.6",
+   "type": "marking",
+   "quote": "Thus in all things there is Fire, Aire, Earthy Water.",
+   "what": "Fire, Aire, Earthy Water",
+   "note": "The text begins a list in which each Element is named with the qualities of the others (earthy, caelestiall, terrene, fiery, airy)."
+  },
+  {
+   "n": 53,
+   "ref": "CH1.6",
+   "type": "marking",
+   "quote": "There are also four kinds of Mercury, and four sorts of Mettalls, a fourfold Snow, four sorts of Ametheists and precious stones",
+   "what": "four kinds of Mercury, and four sorts of Mettalls",
+   "note": "Mercury, Mettalls, Snow and stones are each numbered as four kinds.",
+   "term": "Mercury"
+  },
+  {
+   "n": 54,
+   "ref": "CH1.6",
+   "type": "marking",
+   "quote": "There are Foure of every thing, one in the Firmament or Heavenly Element",
+   "what": "Foure of every thing",
+   "note": "Everything is numbered as four, one in each Element. The Firmament is here called the Heavenly Element.",
+   "term": "Firmament"
+  },
+  {
+   "n": 55,
+   "ref": "N045",
+   "type": "position",
+   "quote": "Every Element perfecteth its power and operation in all the four Elements.",
+   "note": "The margin says each Element works out its power in all four.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 56,
+   "ref": "CH1.6",
+   "type": "marking",
+   "quote": "So there is a fourfold Man",
+   "what": "a fourfold Man",
+   "note": "Man too is named as fourfold. The lines given do not list the four.",
+   "term": "fourfold Man"
+  },
+  {
+   "n": 57,
+   "ref": "CH1.6",
+   "type": "position",
+   "quote": "God is far more wonderfull in his invisible works then in his visible",
+   "note": "Voice CROLL. God's invisible works are set above his visible ones."
+  },
+  {
+   "n": 58,
+   "ref": "CH1.7",
+   "type": "voice",
+   "quote": "Paracelsus faith, that to avoyd an Emptiness in all the four Elements, he created living creatures, inanimate, that is to say, without an Intellectuall Soule",
+   "name": "Paracelsus",
+   "note": "Voice QUOTED: Paracelsus. Living creatures were created to fill the four Elements. The lines do not name who 'he' is."
+  },
+  {
+   "n": 59,
+   "ref": "CH1.7",
+   "type": "own definition",
+   "quote": "inanimate, that is to say, without an Intellectuall Soule",
+   "note": "The text says what 'inanimate' means here: without an Intellectuall Soule, said of creatures that are living.",
+   "term": "inanimate",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 60,
+   "ref": "CH1.7",
+   "type": "marking",
+   "quote": "which should be the four kind of Inhabitants of the Elements, who differ from Men created after the Image of God, in understanding, wisdome, arts, operations, and habitations",
+   "what": "the four kind of Inhabitants of the Elements",
+   "note": "Four kinds of Inhabitants of the Elements are set apart from Men. The words follow the report of Paracelsus.",
+   "term": "Inhabitants of the Elements"
+  },
+  {
+   "n": 61,
+   "ref": "CH1.8",
+   "type": "marking",
+   "quote": "To the Water there belong Nimphs, Undens, Melosyns, whose Monsters or bastards are the Syrens that swim upon the water.",
+   "what": "Nimphs, Undens, Melosyns",
+   "note": "The inhabitants of Water and their Monsters are named. The paragraph follows the report of Paracelsus; it does not itself say whose words it is.",
+   "term": "Nimphs"
+  },
+  {
+   "n": 62,
+   "ref": "CH1.9",
+   "type": "marking",
+   "quote": "To the Earth doe belong Gnoms, Lemurs, Sylphs, Montans, Zonnets, whose Monsters are the Pigmyes.",
+   "what": "Gnoms, Lemurs, Sylphs, Montans, Zonnets",
+   "note": "The inhabitants of Earth and their Monsters are named.",
+   "term": "Gnoms"
+  },
+  {
+   "n": 63,
+   "ref": "CH1.10",
+   "type": "marking",
+   "quote": "In the Aire or our airy world there are Umbratils",
+   "what": "Umbratils",
+   "note": "The inhabitants of the Aire are named; one name in the list has an unreadable letter. The Aire is called 'our airy world'.",
+   "term": "Umbratils"
+  },
+  {
+   "n": 64,
+   "ref": "CH1.10",
+   "type": "marking",
+   "quote": "Satyrs, whose Monsters are the Gyants",
+   "what": "Satyrs, whose Monsters are the Gyants",
+   "note": "The Monsters of the Aire are named as the Gyants.",
+   "term": "Gyants"
+  },
+  {
+   "n": 65,
+   "ref": "CH1.11",
+   "type": "marking",
+   "quote": "To the Fire or the Firmament doe belong the Vulcanals, Pennats, Salamanders, Superi, whose Monsters are Zundell",
+   "what": "Vulcanals, Pennats, Salamanders, Superi",
+   "note": "The inhabitants of Fire and their Monsters are named. Fire and Firmament are joined by 'or' as one Element.",
+   "term": "Vulcanals"
+  },
+  {
+   "n": 66,
+   "ref": "CH1.11",
+   "type": "voice",
+   "quote": "those Flagae which Theophrastus in his works affirmeth are in many thousands of severall forts incorporated to the Soul of the World",
+   "name": "Theophrastus",
+   "note": "Voice QUOTED: Theophrastus. Flagae in many thousands are said to be incorporated to the Soul of the World.",
+   "term": "Flagae"
+  },
+  {
+   "n": 67,
+   "ref": "CH1.12",
+   "type": "marking",
+   "quote": "Thus also there is a fourfold Medicine",
+   "what": "a fourfold Medicine",
+   "note": "Medicine is named as fourfold, after the four Elements.",
+   "term": "fourfold Medicine"
+  },
+  {
+   "n": 68,
+   "ref": "CH1.12",
+   "type": "position",
+   "quote": "the fiery, airy, watry, earthy Heart of the Macrocosm in all things agreeable to the Heart of the Microcosm Man",
+   "note": "Voice CROLL. The example given of the fourfold Medicine: a Heart of the Macrocosm, in four kinds, agrees with the Heart of Man.",
+   "term": "Heart of the Macrocosm"
+  },
+  {
+   "n": 69,
+   "ref": "CH1.12",
+   "type": "position",
+   "quote": "the Microcosm the child ought always to answer to the fourfold members of the Macrocosm its parent",
+   "note": "Voice CROLL. Each member of Man answers to fourfold members of the great world."
+  },
+  {
+   "n": 70,
+   "ref": "CH1.12",
+   "type": "position",
+   "quote": "every malady and medicine is of the same Physiognomy, Chyromancy and Anotomy; He that knows not this Fundamentall cannot be a good Phisitian",
+   "note": "Voice CROLL. Disease and medicine share one Physiognomy, Chyromancy and Anotomy; this is called a Fundamentall.",
+   "term": "Physiognomy"
+  },
+  {
+   "n": 71,
+   "ref": "CH1.12",
+   "type": "voice",
+   "quote": "we find out of ancient Records that Astrologers and Chymiologers were very near of kin",
+   "name": "ancient Records",
+   "note": "Voice QUOTED: ancient Records, not named further. Astrologers and Chymiologers are said to be near of kin.",
+   "term": "Chymiologers"
+  },
+  {
+   "n": 72,
+   "ref": "CH1.12",
+   "type": "local signal",
+   "quote": "both have their own Heaven, their own Sun, their own Moon, their Planets, and their own proper Stars",
+   "note": "The lower study is said to have its own Heaven, Sun, Moon, Planets and Stars; these words are thus used here also of things other than those of the sky.",
+   "term": "Sun"
+  },
+  {
+   "n": 73,
+   "ref": "CH1.12",
+   "type": "position",
+   "quote": "the Astrology of superiour things hath to doe with the Chymiology of things inferiour",
+   "note": "Voice CROLL. Astrology of things above and Chymiology of things below belong together.",
+   "term": "Chymiology"
+  },
+  {
+   "n": 74,
+   "ref": "CH1.12",
+   "type": "concealment",
+   "quote": "Those Chymists who by the assistance of divine Grace have attained the Mind",
+   "note": "The understanding is tied to some only: Chymists who by divine Grace 'have attained the Mind' and can fit the upper bodies to the lower.",
+   "term": "Chymists"
+  },
+  {
+   "n": 75,
+   "ref": "CH1.12",
+   "type": "concealment",
+   "quote": "these can easily and truly unfold all Phylosophicall difficulties that have been wrapt up in aenigmaticall obscurity",
+   "note": "The text says philosophical matters have been wrapt up in riddling obscurity, and that such Chymists can unfold them.",
+   "term": "aenigmaticall"
+  },
+  {
+   "n": 76,
+   "ref": "CH1.12",
+   "type": "position",
+   "quote": "they need not travell to India or America to get the knowledge of Phylosophy",
+   "note": "Voice CROLL, reporting what such Chymists will confess: no journey to far lands is needed for Phylosophy."
+  },
+  {
+   "n": 77,
+   "ref": "CH1.12",
+   "type": "position",
+   "quote": "the invisible Astra's of the other Elements should be represented by a visible appearance in the supream Element",
+   "note": "Voice CROLL. The other Elements have invisible Astra's; these are shown visibly in the highest Element.",
+   "term": "Astra's"
+  },
+  {
+   "n": 78,
+   "ref": "CH1.12",
+   "type": "position",
+   "quote": "there be nothing in the whole course of the inferiour Nature which by the in-bred Astra's is not able to justifie the lawfull use of Astronomy",
+   "note": "Voice CROLL. Lower Nature has in-bred Astra's of its own, which justify the use of Astronomy there.",
+   "term": "in-bred Astra's"
+  },
+  {
+   "n": 79,
+   "ref": "CH1.13",
+   "type": "voice",
+   "quote": "as P. Severinus the Dane doth learnedly observe, the (Sidus) constellation of Summer, Winter, Spring Autumn, are contained in the Earth, Water, Aire",
+   "name": "P. Severinus the Dane",
+   "note": "Voice QUOTED: P. Severinus the Dane. The constellations of the seasons are contained in Earth, Water and Aire. 'Sidus' stands in brackets beside 'constellation'.",
+   "term": "Sidus"
+  },
+  {
+   "n": 80,
+   "ref": "CH1.13",
+   "type": "voice",
+   "quote": "to which onely many of the common Phylosophers by a great mistake have ascribed all Astronomy",
+   "name": "the common Phylosophers",
+   "note": "Voice QUOTED: the common Phylosophers, reported to be rejected: they ascribe all Astronomy to the Astra's of the Firmament only."
+  },
+  {
+   "n": 81,
+   "ref": "CH1.13",
+   "type": "position",
+   "quote": "we should blame the impressions of the Heavenly (Astra's) as barren in the time of dearth",
+   "note": "Stands within the observation given to P. Severinus: unless the constellations in the lower Elements worked together with those of the Firmament, dearth would be laid to the heavenly ones."
+  },
+  {
+   "n": 82,
+   "ref": "N046",
+   "type": "voice",
+   "quote": "In his Idaea of Phylosophical Phifick.",
+   "name": "his Idaea of Phylosophical Phifick",
+   "note": "The margin names the writing of P. Severinus from which the observation is taken.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 83,
+   "ref": "N046",
+   "type": "position",
+   "quote": "They that are troubled with the gout have a foresence of the sudden change of seasons",
+   "note": "The margin gives an example: the gouty feel beforehand the change of seasons.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 84,
+   "ref": "N046",
+   "type": "position",
+   "quote": "The Internall Elements of man have a foresence of the change of Externall.",
+   "note": "The margin says the inner Elements of man feel beforehand the change of the outer.",
+   "term": "Internall Elements",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 85,
+   "ref": "N046",
+   "type": "position",
+   "quote": "As Reason rules the outward Astra's, so Physick rules the inward.",
+   "note": "The margin sets two rules side by side: Reason over the outward Astra's, Physick over the inward.",
+   "term": "Astra's",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 86,
+   "ref": "N046",
+   "type": "position",
+   "quote": "The Astrum of Man and Heaven is but one.",
+   "note": "The margin says the Astrum of Man and of Heaven is one.",
+   "term": "Astrum",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 87,
+   "ref": "CH1.14",
+   "type": "marking",
+   "quote": "There is a twofold Heaven",
+   "what": "a twofold Heaven",
+   "note": "Heaven is named as twofold, Externall and Internall.",
+   "term": "Heaven"
+  },
+  {
+   "n": 88,
+   "ref": "CH1.14",
+   "type": "own definition",
+   "quote": "Internall, which is the Astrum or invisible and insensible body in all the Stars of Heaven",
+   "note": "The text says what the Internall Heaven is: the Astrum, an invisible and insensible body in all the Stars. The Externall is the bodies of the Astra's in the Firmament.",
+   "term": "Astrum"
+  },
+  {
+   "n": 89,
+   "ref": "CH1.14",
+   "type": "own definition",
+   "quote": "That invisible and insensible body of the Astra's is the Spirit of the World, or Nature, as Paracelsus calls it, the Hylech",
+   "note": "The invisible body of the Astra's is said to be the Spirit of the World or Nature; the name Hylech is given as Paracelsus's (QUOTED: Paracelsus for the name).",
+   "term": "Hylech"
+  },
+  {
+   "n": 90,
+   "ref": "CH1.14",
+   "type": "own definition",
+   "quote": "the internall Heaven of Man, which is the Olimpick spirit, doth particularly comprehend all the Astra's",
+   "note": "The inner Heaven of Man is said to be the Olimpick spirit, holding all the Astra's as the Hylech does in the great World.",
+   "term": "Olimpick spirit"
+  },
+  {
+   "n": 91,
+   "ref": "CH1.14",
+   "type": "position",
+   "quote": "the invisible Man is not onely all the Astra's, but is altogether one and the same thing with the Spirit of the world, as whitenesse is with snow",
+   "note": "Voice CROLL. The invisible Man is one and the same with the Spirit of the world.",
+   "term": "invisible Man"
+  },
+  {
+   "n": 92,
+   "ref": "CH1.14",
+   "type": "position",
+   "quote": "As all things spring and proceed from within, from (things) hidden and invisible; so also the visible corporall substances proceed from incorporall, spirituall (things) out of the Astra's, and are the bodies of the Astra's",
+   "note": "Voice CROLL. Visible bodies come from hidden, invisible, spiritual things, out of the Astra's, and are the bodies of the Astra's. '(things)' stands in brackets in the text."
+  },
+  {
+   "n": 93,
+   "ref": "CH1.15",
+   "type": "own definition",
+   "quote": "are indued with a syderiall spirit, which is called Heaven or the Astrum, the secret Forger, from which every Formation, Figure and Colour of things proceedeth",
+   "note": "The text says what is called Heaven or the Astrum: a syderiall spirit in all things, stones and mettalls included, the secret Forger of form, figure and colour.",
+   "term": "syderiall spirit"
+  },
+  {
+   "n": 94,
+   "ref": "CH1.15",
+   "type": "local signal",
+   "quote": "this proper and internall Astrum, viz. The Sun of the Microcosm",
+   "note": "The inner Astrum is named 'The Sun of the Microcosm'; 'Sun' here is said of something within Man, not of the sun in the sky.",
+   "term": "Sun of the Microcosm"
+  },
+  {
+   "n": 95,
+   "ref": "CH1.15",
+   "type": "voice",
+   "quote": "which Paracelsus calls the Ens or Being of the seed and virtue or power",
+   "name": "Paracelsus",
+   "note": "Voice QUOTED: Paracelsus, for the name: the inner Astrum is what he calls the Ens of the seed. From it Man is said to be generated, formed and governed.",
+   "term": "Ens"
+  },
+  {
+   "n": 96,
+   "ref": "N047",
+   "type": "position",
+   "quote": "as iron in the imagination of the Smith",
+   "note": "The margin likens the forming of things in the Astra to iron in the imagination of the Smith. A letter of the word before is unreadable.",
+   "term": "imagination",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 97,
+   "ref": "N047",
+   "type": "position",
+   "quote": "Hence also Nativities are to be cast",
+   "note": "The margin draws from the forming power of the Astra that Nativities are to be cast.",
+   "term": "Nativities",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 98,
+   "ref": "N047",
+   "type": "voice",
+   "quote": "in Paramiro de eme",
+   "name": "P{G019: 1 letter illegible}racel. in Paramiro",
+   "note": "The margin sends the reader to a writing; the author's name and the last word of the title each have an unreadable letter.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 99,
+   "ref": "CH1.16",
+   "type": "local signal",
+   "quote": "it is not meant of the visible coales of Heaven, nor of the invisible body of the Astra's in the Firmament, but of every things own proper Astrum",
+   "note": "The text itself says its word is not meant plainly: 'the astra's' from which form proceeds are neither the visible stars nor their invisible body in the Firmament, but each thing's own Astrum.",
+   "term": "Astrum"
+  },
+  {
+   "n": 100,
+   "ref": "CH1.16",
+   "type": "internal conflict",
+   "quote": "nor of the invisible body of the Astra's in the Firmament, but of every things own proper Astrum",
+   "with": "CH1.14; N046",
+   "note": "Here form does not proceed from the invisible body of the Astra's in the Firmament; in CH1.14 that invisible body is the Spirit of the World and the invisible Man is one and the same thing with it, and N046 says the Astrum of Man and Heaven is but one. Recorded as not plainly agreeing."
+  },
+  {
+   "n": 101,
+   "ref": "CH1.16",
+   "type": "voice",
+   "quote": "as the false Philosophers thinke that the stars of the Firmament do infuse virtue into herbs and trees",
+   "name": "the false Philosophers",
+   "note": "Voice QUOTED: the false Philosophers, reported to be rejected ('no in no wise')."
+  },
+  {
+   "n": 102,
+   "ref": "CH1.16",
+   "type": "position",
+   "quote": "every growing and living thing carry its proper heaven and Astrum with it selfe, and in it selfe",
+   "note": "Voice CROLL. Each growing and living thing has its own heaven and Astrum within it."
+  },
+  {
+   "n": 103,
+   "ref": "CH1.16",
+   "type": "position",
+   "quote": "the superiour stars in their course through the Zodiak excite and stir up the growth of inferiour things, they provide for them by dew raine, seasons, but do not infuse the internall Astrum into things that grow",
+   "note": "Voice CROLL. The upper stars stir up growth and give dew, rain and seasons, but do not give the inner Astrum."
+  },
+  {
+   "n": 104,
+   "ref": "CH1.16",
+   "type": "position",
+   "quote": "all things proceed from the inner Astrum or secret forger, and not from without",
+   "note": "Voice CROLL. Smell, colour and form come from the inner Astrum, again called secret forger.",
+   "term": "secret forger"
+  },
+  {
+   "n": 105,
+   "ref": "CH1.16",
+   "type": "position",
+   "quote": "the externall stars do neither incline nor necessitate Man",
+   "note": "Voice CROLL. The outer stars neither incline nor compel Man."
+  },
+  {
+   "n": 106,
+   "ref": "CH1.16",
+   "type": "position",
+   "quote": "but Man rather inclines the Stars, and by his Magicall imagination infecteth them, and causeth those deadly impressions",
+   "note": "Voice CROLL. Man inclines the Stars and infects them by his Magicall imagination.",
+   "term": "Magicall imagination"
+  },
+  {
+   "n": 107,
+   "ref": "N048",
+   "type": "position",
+   "quote": "Man governeth the Stars and not the Stars him.",
+   "note": "The margin states that Man governs the Stars.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 108,
+   "ref": "CH1.16",
+   "type": "position",
+   "quote": "we receive not our conditions, properties, and manners from the Ascendant, nor from the Constellation of the Planets, but from the hand of God through the breathing in of the breath of life",
+   "note": "Voice CROLL. Man's conditions and manners come from God by the breath of life, not from Ascendant or Planets.",
+   "term": "Ascendant"
+  },
+  {
+   "n": 109,
+   "ref": "CH1.16",
+   "type": "internal conflict",
+   "quote": "we receive not our conditions, properties, and manners from the Ascendant, nor from the Constellation of the Planets",
+   "with": "N037; N047",
+   "note": "N037 says a scholar is taught in vain if his Nativity is not disposed to the Art, and N047 says Nativities are to be cast; here conditions are said not to come from Ascendant or Planets. N047 speaks of the Astra in which things are formed, which CH1.16 says are each thing's own."
+  },
+  {
+   "n": 110,
+   "ref": "N049",
+   "type": "voice",
+   "quote": "Read the eight Psalme.",
+   "name": "the eight Psalme",
+   "note": "The margin names a Psalm beside the statement on the breath of life and Man's rule over the Stars.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 111,
+   "ref": "CH1.16",
+   "type": "position",
+   "quote": "So that Mans Reason ought to rule the externall Stars",
+   "note": "Voice CROLL. Man's Reason ought to rule the outer Stars."
+  },
+  {
+   "n": 112,
+   "ref": "CH1.16",
+   "type": "position",
+   "quote": "if we that are the children of Adam did not provoke our Father with our sins we should alwayes find him meek and gentle towards us",
+   "note": "Voice CROLL. Without our sins 'our Father' would be gentle towards us. The lines do not say who 'our Father' is here; CH1.5 calls Heaven and Earth Man's Parents, and this sentence follows talk of God and of the Stars.",
+   "term": "Father"
+  },
+  {
+   "n": 113,
+   "ref": "CH1.16",
+   "type": "voice",
+   "quote": "see Paracels. in Paramiro lib. 2. de origine morbor. cap. 7.",
+   "name": "Paracels. in Paramiro",
+   "note": "The text sends the reader to a place in a writing of Paracels. for the foregoing."
+  },
+  {
+   "n": 114,
+   "ref": "N050",
+   "type": "voice",
+   "quote": "Vid. Paracels.",
+   "name": "Paracels.",
+   "note": "The margin names Paracels. beside the same sentence.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 115,
+   "ref": "CH1.17",
+   "type": "position",
+   "quote": "The course of the externall Firmament is free with its constellations, and is governed by none",
+   "note": "Voice CROLL. The outer Firmament runs free and is governed by none."
+  },
+  {
+   "n": 116,
+   "ref": "CH1.17",
+   "type": "internal conflict",
+   "quote": "is governed by none",
+   "with": "CH1.16; N048; N046",
+   "note": "Here the outer Firmament is governed by none; CH1.16 says Man inclines the Stars and his Reason ought to rule them, N048 that Man governs the Stars, N046 that Reason rules the outward Astra's."
+  },
+  {
+   "n": 117,
+   "ref": "CH1.17",
+   "type": "position",
+   "quote": "the course of the Firmament and Stars in Man is free, with their Constellations, and not at all governed by the outward Firmament, which course is not finished materially, but in the spirits of bodies",
+   "note": "Voice CROLL. Man has a Firmament and Stars within, free of the outer one; their course is run in the spirits of bodies, not materially.",
+   "term": "Firmament"
+  },
+  {
+   "n": 118,
+   "ref": "CH1.17",
+   "type": "own definition",
+   "quote": "its own internall Astrum, or inward Heaven, from the Centre to the Circumference",
+   "note": "The inner Astrum is called the inward Heaven; the fruit on the tree grows out of it from the centre outwards, and is not set there by Aire or Sun.",
+   "term": "inward Heaven"
+  },
+  {
+   "n": 119,
+   "ref": "CH1.17",
+   "type": "position",
+   "quote": "much lesse can the externall superiour Heaven infuse any vertue into the things that grow",
+   "note": "Voice CROLL. The outer Heaven gives no virtue to growing things."
+  },
+  {
+   "n": 120,
+   "ref": "CH1.17",
+   "type": "position",
+   "quote": "the fruits of those Astra's or Caelestiall, Ayry, Earthy, Watry seeds doe indeavour and bend to one generall Good as Citizens of the same Anotmy",
+   "note": "Voice CROLL. The Astra's are here also called seeds of the four kinds; their fruits work together to one good.",
+   "term": "seeds"
+  },
+  {
+   "n": 121,
+   "ref": "CH1.18",
+   "type": "own definition",
+   "quote": "This visible and invisible fellowship of Nature is that golden chaine so much commended, this is the marriage of heaven and riches, these are Plato's rings",
+   "note": "The text says what three names mean: the golden chaine, the marriage of heaven and riches and Plato's rings are the fellowship of Nature just described.",
+   "term": "golden chaine"
+  },
+  {
+   "n": 122,
+   "ref": "CH1.18",
+   "type": "concealment",
+   "quote": "this is that dark and close Phylosophy so hard to be known in the most inward and secret parts of Natare",
+   "note": "The text calls this fellowship a dark and close Phylosophy, hard to know, lying in the inward and secret parts of Nature.",
+   "term": "close Phylosophy"
+  },
+  {
+   "n": 123,
+   "ref": "CH1.18",
+   "type": "position",
+   "quote": "Democritus, Pythagoras, Plato, Apollonius, &c. have travelled to the Brachmans and Gymnosophists in the Indies, and to Hermes his Pillars in Aegypt",
+   "note": "Voice CROLL. Named persons are said to have travelled to the Indies and Aegypt to gain this Phylosophy. CH1.12 says Chymists who have attained the Mind need not travel to India or America.",
+   "term": "Hermes his Pillars"
+  },
+  {
+   "n": 124,
+   "ref": "CH1.18",
+   "type": "position",
+   "quote": "This was that which the most ancient Phylosophers studied, which by the Light of Nature that singular inspiration of God they also obtained",
+   "note": "Voice CROLL. The most ancient Phylosophers obtained it by the Light of Nature, here called a singular inspiration of God.",
+   "term": "Light of Nature"
+  },
+  {
+   "n": 125,
+   "ref": "CH1.18",
+   "type": "internal conflict",
+   "quote": "the Light of Nature that singular inspiration of God",
+   "with": "CH1.5; CH1.1",
+   "note": "CH1.5 says the Light of Nature is 'nothing else but' an Analogy of the visible world with the body of man; here it is an inspiration of God, and CH1.1 sets it beside the inward Man and internall Angell. Recorded as three sayings that do not plainly agree.",
+   "term": "Light of Nature"
+  },
+  {
+   "n": 126,
+   "ref": "N051",
+   "type": "own definition",
+   "quote": "Plato's Rings and Homers Chaines are nothing but a Divine Series and Order serving Providence, a graduall and concatenate Sympathy of things.",
+   "note": "The margin says what the two names mean: an order serving Providence, a linked Sympathy of things. It names Homer for the chains, which the paragraph leaves unnamed.",
+   "term": "Plato's Rings",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 127,
+   "ref": "CH1.19",
+   "type": "marking",
+   "quote": "there are THREE Principles of all things which are found in every compound body",
+   "what": "THREE Principles of all things",
+   "note": "Three Principles are numbered and set apart, found in every compound body.",
+   "term": "Principles"
+  },
+  {
+   "n": 128,
+   "ref": "CH1.19",
+   "type": "position",
+   "quote": "No body compos'd by Nature can by any dissolving skill be parted into more or lesse then Three, viz. Into Mercury or liquor, Sulphur or Oyle, and Salt",
+   "note": "Voice CROLL. No natural body can be parted by any dissolving skill into more or fewer than three."
+  },
+  {
+   "n": 129,
+   "ref": "CH1.19",
+   "type": "own definition",
+   "quote": "Mercury or liquor, Sulphur or Oyle, and Salt",
+   "note": "The three are named with a second name each for two of them: Mercury is liquor, Sulphur is Oyle.",
+   "term": "Mercury"
+  },
+  {
+   "n": 130,
+   "ref": "CH1.19",
+   "type": "position",
+   "quote": "the Holy Triunity when it spake that Triune word FIAT created all things Triune, as in a Spagiricall resolution is plainly to be seen",
+   "note": "Voice CROLL. All things were created threefold by the word FIAT; this is said to be seen in a Spagiricall resolution.",
+   "term": "Spagiricall resolution"
+  },
+  {
+   "n": 131,
+   "ref": "N052",
+   "type": "own definition",
+   "quote": "i. e. A seperation of purity from impurity, or truth from falshood.",
+   "note": "The margin says what the Spagiricall resolution is: a separation of purity from impurity, 'or truth from falshood'; the second half gives the word a sense beyond the handling of bodies.",
+   "term": "Spagiricall resolution",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 132,
+   "ref": "CH1.19",
+   "type": "own definition",
+   "quote": "By the word FIAT (or Let there be) God produced the first matter, which is threefold in respect of the three Principles contained in the first",
+   "note": "FIAT is glossed 'Let there be'; the first matter is said to be threefold, holding the three Principles.",
+   "term": "first matter"
+  },
+  {
+   "n": 133,
+   "ref": "CH1.19",
+   "type": "position",
+   "quote": "afterward these three Species are seperated into four divers bodies, or Elements",
+   "note": "Voice CROLL. The three are afterwards separated into four bodies, the Elements.",
+   "term": "Elements"
+  },
+  {
+   "n": 134,
+   "ref": "CH1.19",
+   "type": "operation",
+   "quote": "a skillfull Artist should out of lead make red lead, white lead, Glasse, and the Spirit of lead",
+   "note": "A piece of work given as a likeness: from lead an Artist makes four things, red lead, white lead, Glasse and the Spirit of lead. How is not said.",
+   "term": "Spirit of lead"
+  },
+  {
+   "n": 135,
+   "ref": "CH1.19",
+   "type": "position",
+   "quote": "the world with all created bodies in it is nothing else but a fume or smoak coagulated or curded together of the three substances, Sulphur Salt, Mercury",
+   "note": "Voice CROLL. The world and all bodies are a fume or smoak coagulated of the three substances.",
+   "term": "coagulated"
+  },
+  {
+   "n": 136,
+   "ref": "CH1.19",
+   "type": "position",
+   "quote": "The Spagyricks can make this plaine by visible experience and uncontroulable certainty",
+   "note": "Voice CROLL. He appeals to the Spagyricks, who can show the three by visible experience.",
+   "term": "Spagyricks"
+  },
+  {
+   "n": 137,
+   "ref": "CH1.19",
+   "type": "own definition",
+   "quote": "the first watry like fugitive Mercury or Quicksilver; which preserveth the wood from burning",
+   "note": "In green wood the first moisture is watery, likened to fugitive Mercury 'or Quicksilver', and keeps the wood from burning.",
+   "term": "Quicksilver"
+  },
+  {
+   "n": 138,
+   "ref": "CH1.19",
+   "type": "operation",
+   "quote": "Another very fat and oyly making it like brimstone to flame and burne, these two are consumed by the fire",
+   "note": "Burning green wood: the oily moisture, likened to brimstone, makes it flame; it and the watery one are consumed by the fire.",
+   "term": "brimstone"
+  },
+  {
+   "n": 139,
+   "ref": "CH1.19",
+   "type": "operation",
+   "quote": "The third, viz. the Salt is unctuous, very little, thin and lasting, and remains in the ashes",
+   "note": "After the burning the third moisture, the Salt, remains in the ashes.",
+   "term": "Salt"
+  },
+  {
+   "n": 140,
+   "ref": "CH1.19",
+   "type": "position",
+   "quote": "the Earth as it is indued with that threefold substance of Salt, Mercury and Sulphur, is the cause of the materiall body of man",
+   "note": "Voice CROLL. The Earth, having the three substances, is cause of man's material body. CH1.6 calls the Matter of Man the Extract of the four Elements."
+  },
+  {
+   "n": 141,
+   "ref": "CH1.19",
+   "type": "own definition",
+   "quote": "The Salt by coagulation gives Solidity, Colour and Tast to all bodies",
+   "note": "What the Salt does in bodies: by coagulation it gives solidity, colour and taste.",
+   "term": "Salt"
+  },
+  {
+   "n": 142,
+   "ref": "CH1.19",
+   "type": "own definition",
+   "quote": "The Sulphur by a pleasant mixture tempereth the coagulation of the Salt, and gives the Body Substance and Transmutation",
+   "note": "What the Sulphur does: tempers the Salt's coagulation, gives substance and Transmutation.",
+   "term": "Sulphur"
+  },
+  {
+   "n": 143,
+   "ref": "CH1.19",
+   "type": "own definition",
+   "quote": "Mercury, which like the Elixir giveth the vertues",
+   "note": "What Mercury does: gives the virtues, operations and secrets; it is likened to 'the Elixir', which these lines do not explain.",
+   "term": "Elixir"
+  },
+  {
+   "n": 144,
+   "ref": "CH1.19",
+   "type": "position",
+   "quote": "by a diligent and constant supply of the vital and vegetative moysture doth cherish the two former, which by frequent action continually grow dry and old",
+   "note": "Voice CROLL. Mercury feeds the other two with moisture, as they grow dry and old by action."
+  },
+  {
+   "n": 145,
+   "ref": "N053",
+   "type": "own definition",
+   "quote": "When the Salt or Mummy is spent things",
+   "note": "The margin joins Salt and Mummy by 'or' as one thing that can be spent; the words after have unreadable letters. CH1.3 calls the Medicine naturall Mummy.",
+   "term": "Mummy",
+   "tags": [
+    "note-only",
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 146,
+   "ref": "CH1.20",
+   "type": "position",
+   "quote": "These three Principles which are in all bodies are altogether distinct in use and properties by reason of the mixture of the vertue or operation, although to sence they present but one simular substance of bodies",
+   "note": "Voice CROLL. The three Principles differ in use and properties, though to the senses a body shows one like substance."
+  },
+  {
+   "n": 147,
+   "ref": "CH1.21",
+   "type": "voice",
+   "quote": "Some Theophrastaeans, who have more narrowly and exactly searched out the causes of hidden things doe add a Fourth",
+   "name": "Some Theophrastaeans",
+   "note": "Voice QUOTED: Some Theophrastaeans. They add a fourth to the three Principles; they are said to have searched hidden things more exactly.",
+   "term": "Theophrastaeans"
+  },
+  {
+   "n": 148,
+   "ref": "CH1.21",
+   "type": "own definition",
+   "quote": "which they call the Spirit, which though it may be got out of Mineralls and Vegetables",
+   "note": "The fourth is what the Theophrastaeans call the Spirit; it can be got out of Mineralls and Vegetables.",
+   "term": "Spirit"
+  },
+  {
+   "n": 149,
+   "ref": "CH1.21",
+   "type": "operation",
+   "quote": "nor can it be extracted or seperated by the skill of Art, and therefore cannot be had",
+   "note": "A limit of the work, in the Theophrastaeans' report: in Animalls the Spirit cannot be extracted or separated by Art, for its subtility."
+  },
+  {
+   "n": 150,
+   "ref": "CH1.21",
+   "type": "marking",
+   "quote": "thus Sulphur or brimstone may answer to Fire, Salt to the earth, Mercury to Water, Spirit to Aire",
+   "what": "Sulphur or brimstone may answer to Fire, Salt to the earth, Mercury to Water, Spirit to Aire",
+   "note": "The four are set against the four Elements, one to one; Sulphur is also called brimstone.",
+   "term": "brimstone"
+  },
+  {
+   "n": 151,
+   "ref": "CH1.21",
+   "type": "internal conflict",
+   "quote": "doe add a Fourth",
+   "with": "CH1.19",
+   "note": "CH1.19 says no natural body can be parted into more or fewer than Three; here a Fourth is added, in the name of Some Theophrastaeans, and the author does not reject it in these lines."
+  },
+  {
+   "n": 152,
+   "ref": "N054",
+   "type": "local signal",
+   "quote": "The Spirit of God upon the face of the waters.",
+   "note": "The margin sets these words beside the fourth, called the Spirit. The note does not say how the two belong together.",
+   "term": "Spirit",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 153,
+   "ref": "CH1.22",
+   "type": "marking",
+   "quote": "seeing we have entred into a Discourse of the Elements",
+   "what": "a Discourse of the Elements",
+   "note": "The author names what he is now in as a Discourse of the Elements.",
+   "term": "Elements"
+  },
+  {
+   "n": 154,
+   "ref": "CH1.22",
+   "type": "voice",
+   "quote": "we shall add a few things concerning them out of that short Treatise of Severinus",
+   "name": "Severinus",
+   "note": "Voice QUOTED: Severinus. What follows on the Elements is announced as taken from a short Treatise of his; the lines given do not mark where the borrowing ends."
+  },
+  {
+   "n": 155,
+   "ref": "CH1.22",
+   "type": "own definition",
+   "quote": "The true and purely spirituall Elements are the keepers, nurses, places, Mines, wombs and receptacles of the whole Creation; yea the very essence, existence, life and act of all Beings",
+   "note": "What the true Elements are, in the part announced as from Severinus: spiritual keepers, places and wombs of the Creation.",
+   "term": "Elements"
+  },
+  {
+   "n": 156,
+   "ref": "CH1.22",
+   "type": "position",
+   "quote": "Places are not without Things, but are filled with their properties, which administer life and nourishment to the things that are in them",
+   "note": "In the part announced as from Severinus: the Elements as places are filled with properties that feed what is in them.",
+   "term": "Places"
+  },
+  {
+   "n": 157,
+   "ref": "CH1.22",
+   "type": "concealment",
+   "quote": "to the Seeds that they may produce out of themselves the things that were secretly treasured up in them",
+   "note": "The Seeds are said to hold things secretly treasured up in them, which they bring forth. A hiding in things, not by the writer.",
+   "term": "Seeds"
+  },
+  {
+   "n": 158,
+   "ref": "CH1.22",
+   "type": "marking",
+   "quote": "These (places) are divided into two Globes, viz. the superiour Fire, or the Firmament, and Aire, much like the shell and white of an egge; the inferiour, Water and the Earth, like the yolk of an egge",
+   "what": "two Globes",
+   "note": "The Elements are divided into two Globes and likened to an egg: Fire or Firmament and Aire the shell and white, Water and Earth the yolk. CH1.4 names the same two Globes.",
+   "term": "Globes"
+  },
+  {
+   "n": 159,
+   "ref": "CH1.23",
+   "type": "position",
+   "quote": "In these four incorporeall, empty, voyd Natures, the Creatour by vertue of the Word opening the united multitude",
+   "note": "The four Elements are called incorporeall, empty, voyd Natures in which the Creatour works by the Word. Whether these are still words out of Severinus the lines do not show."
+  },
+  {
+   "n": 160,
+   "ref": "N055",
+   "type": "voice",
+   "quote": "Gen. 1.",
+   "name": "Gen. 1.",
+   "note": "The margin names a writing beside the words on the Word and the Spirit upon the Waters.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 161,
+   "ref": "CH1.23",
+   "type": "position",
+   "quote": "and of the Spirit moving upon the face of the Waters, did plant the Light and Seminall causes of all things",
+   "note": "By the Word and the Spirit the Creatour planted in the Elements the Light and the Seminall causes of all things.",
+   "term": "Seminall causes"
+  },
+  {
+   "n": 162,
+   "ref": "CH1.23",
+   "type": "position",
+   "quote": "shall ever be supplyed by an incomprehensible Magick out of the Eternall Treasures of Divine Wisdome",
+   "note": "The filling of the Elements is said to be kept up for ever by an incomprehensible Magick out of Divine Wisdome.",
+   "term": "Magick"
+  },
+  {
+   "n": 163,
+   "ref": "CH1.23",
+   "type": "position",
+   "quote": "knitting the Principles of bodies together wherewith they might be covered as with a house or garment, and which are to last as long as this worldly frame",
+   "note": "The Principles of bodies are knit together as a house or garment that covers the seminal causes.",
+   "term": "Principles of bodies"
+  },
+  {
+   "n": 164,
+   "ref": "CH1.23",
+   "type": "concealment",
+   "quote": "The Seeds and Astra's, those bonds of things, lay hid in the invisible Treasures of the Elements from the beginning of the Creation, as in a great deep, springing up in their appointed times",
+   "note": "The text says the Seeds and Astra's lay hid in the Elements from the Creation and spring up at set times. They are called bonds of things. A hiding in Nature, not by the writer.",
+   "term": "Seeds"
+  },
+  {
+   "n": 165,
+   "ref": "CH1.23",
+   "type": "position",
+   "quote": "by their help the World is governed, indeavoring to imitate Eternity by a continuall addition of fresh supply",
+   "note": "By the Seeds and Astra's the Elements agree and the World is governed."
+  },
+  {
+   "n": 166,
+   "ref": "CH1.23",
+   "type": "position",
+   "quote": "The knowledge of the Elements cannot be attained unto without these Seeds, because they declare or open the use and services of the Elements",
+   "note": "The Elements cannot be known without the Seeds, which open their use."
+  },
+  {
+   "n": 167,
+   "ref": "CH1.23",
+   "type": "position",
+   "quote": "as the seeds are to the Elements, so the Principles of bodies are to them; which Principles being the inseperable companions of the Seeds, cleaves to them as intermingled by an indissoluble tye",
+   "note": "A proportion is stated between Seeds, Elements and Principles of bodies; the Principles cling to the Seeds by a tie that cannot be loosed."
+  },
+  {
+   "n": 168,
+   "ref": "CH1.23",
+   "type": "position",
+   "quote": "the Seeds and Principles of Things receive strength of Generation and Multiplication from the authority of His Word, whose command all things obey",
+   "note": "Seeds and Principles have their power to generate and multiply from the Word."
+  },
+  {
+   "n": 169,
+   "ref": "N056",
+   "type": "voice",
+   "quote": "Hippocr. in lib. de Antiqua medic.",
+   "name": "Hippocr. in lib. de Antiqua medic.",
+   "note": "The margin names a writing of Hippocr. beside the sentence on Seeds, Elements and Principles being hard to separate.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 170,
+   "ref": "CH1.23",
+   "type": "position",
+   "quote": "But as the Seeds and Elements can hardly be seperated one from the other by the sharpest wit",
+   "note": "Seeds and Elements can hardly be told apart even in thought."
+  },
+  {
+   "n": 171,
+   "ref": "N057",
+   "type": "position",
+   "quote": "All things proceeds from their powers.",
+   "note": "The margin says all things proceed from 'their powers'; the note does not say whose.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 172,
+   "ref": "CH1.23",
+   "type": "operation",
+   "quote": "so neither can the Elements and Principles of bodies, the lawes of Nature scarce ever suffered them perfectly to be seperated by any industry of Art",
+   "note": "A limit of the work: Elements and Principles of bodies are scarce ever perfectly separated by Art."
+  },
+  {
+   "n": 173,
+   "ref": "CH1.23",
+   "type": "internal conflict",
+   "quote": "the lawes of Nature scarce ever suffered them perfectly to be seperated by any industry of Art",
+   "with": "CH1.19",
+   "note": "CH1.19 says bodies are parted into the three by dissolving skill, plainly seen in a Spagiricall resolution and made plain by the Spagyricks; here the Principles are scarce ever perfectly separated from the Elements by Art. The two speak of different separations and this one may be out of Severinus; recorded for the joining step."
+  }
+ ],
+ "sections_read": [
+  "CH1"
+ ],
+ "end_marker": "END OF OUTPUT"
+}

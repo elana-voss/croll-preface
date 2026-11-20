@@ -1,0 +1,1576 @@
+{
+ "items": [
+  {
+   "n": 1,
+   "ref": "CH5.0",
+   "type": "marking",
+   "quote": "CHAP. V. The Duty of Natures Minister, the Physitian.",
+   "what": "The Duty of Natures Minister, the Physitian",
+   "term": "Minister",
+   "note": "The chapter is headed as one thing: the duty of the physician, who is called Natures Minister."
+  },
+  {
+   "n": 2,
+   "ref": "CH5.1",
+   "type": "voice",
+   "quote": "ALL common Philosophy was not bound up in Aaistotle, as P. Ramus hath soundly proved",
+   "name": "P. Ramus",
+   "note": "P. Ramus is named as having proved that common philosophy is not confined to Aristotle (the book's spelling here: Aaistotle)."
+  },
+  {
+   "n": 3,
+   "ref": "CH5.1",
+   "type": "voice",
+   "quote": "nor was the whole Light of Nature drawne into Galen and limited in him only, witnesse Paracelsus",
+   "name": "Paracelsus",
+   "term": "Light of Nature",
+   "note": "Paracelsus is called as witness that the Light of Nature is not limited to Galen."
+  },
+  {
+   "n": 4,
+   "ref": "CH5.1",
+   "type": "own definition",
+   "quote": "the liberty of human ingenuity, that Light of Nature, the power to discern and judge as well as himselfe",
+   "term": "Light of Nature",
+   "note": "The liberty of human ingenuity is here set beside 'that Light of Nature' and 'the power to discern and judge': the three phrases stand in apposition."
+  },
+  {
+   "n": 5,
+   "ref": "CH5.1",
+   "type": "local signal",
+   "quote": "the Grecian Monarchy is at an end",
+   "term": "Grecian Monarchy",
+   "note": "A figure, standing after the naming of Aristotle and Galen. Interpreted (my inference, from the sentences before it): the rule of the Greek authorities over learning is declared over; the text does not say so in plain words."
+  },
+  {
+   "n": 6,
+   "ref": "CH5.1",
+   "type": "position",
+   "quote": "he that would be an Excellent Physitian he must be free from every kind of Sect.",
+   "term": "Sect",
+   "note": "Croll's view: the excellent physician belongs to no sect."
+  },
+  {
+   "n": 7,
+   "ref": "CH5.1",
+   "type": "position",
+   "quote": "no man can be said to be truly and throughly learned who is bound up to the rudiments of any one faculty only",
+   "note": "The reason given in the parenthesis: being bound to one faculty's rudiments is not true learning."
+  },
+  {
+   "n": 8,
+   "ref": "CH5.1",
+   "type": "position",
+   "quote": "not to be tyed. to the opinion of any one Author, but to follow the naked Truth, and subscribe to it alone",
+   "term": "naked Truth",
+   "note": "The physician follows no single author but 'the naked Truth' alone."
+  },
+  {
+   "n": 9,
+   "ref": "CH5.2",
+   "type": "voice",
+   "quote": "I think and judge as cause I finde: / My rule is not anothers minde.",
+   "name": "Horace",
+   "note": "The couplet is given as 'that of Horace' (named at the end of CH5.1): judgement by one's own finding, not by another's mind."
+  },
+  {
+   "n": 10,
+   "ref": "N196",
+   "type": "voice",
+   "quote": "Nutlius addictus jurare in verba magistri.",
+   "name": "Horace",
+   "note": "The margin gives Latin lines beside the couplet attributed to Horace; the note itself names no one.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 11,
+   "ref": "CH5.3",
+   "type": "position",
+   "quote": "Not that other mens inventions are altogether to be slighted, by stickling onely for one sect",
+   "note": "Freedom from sects is not to mean slighting what others have found."
+  },
+  {
+   "n": 12,
+   "ref": "CH5.3",
+   "type": "voice",
+   "quote": "all sects, be they never so many, may well be admitted, because in every one of them there is some thing excellent which is not common to another",
+   "name": "Picus Mirandula",
+   "note": "The saying that every sect holds something excellent of its own is given to Picus Mirandula ('as said that most noble and wise Picus Mirandula')."
+  },
+  {
+   "n": 13,
+   "ref": "CH5.3",
+   "type": "marking",
+   "quote": "that most noble and wise Picus Mirandula the Phaenix of Phylosophers",
+   "what": "the Phaenix of Phylosophers",
+   "note": "Picus Mirandula is set apart with a title of praise."
+  },
+  {
+   "n": 14,
+   "ref": "CH5.4",
+   "type": "position",
+   "quote": "There is no book so base and bad but hath some good in it which the best Authors have somtimes let slip without taking notice of it.",
+   "note": "Every book has some good in it. The lines do not show whether this is still Picus Mirandula's saying or Croll's own (voice UNCLEAR)."
+  },
+  {
+   "n": 15,
+   "ref": "CH5.4",
+   "type": "voice",
+   "quote": "This latter age, saith Fabius, hath endeavored to make the former more compleat",
+   "name": "Fabius",
+   "note": "Fabius is quoted: the later age completes the earlier. Where his words end is not marked."
+  },
+  {
+   "n": 16,
+   "ref": "CH5.4",
+   "type": "position",
+   "quote": "many loathsome errours of the Heathen have been as by a second song",
+   "term": "Heathen",
+   "note": "Errors of 'the Heathen' are said to have been wiped away by wiser men coming later; 'as by a second song' is a figure the text does not explain."
+  },
+  {
+   "n": 17,
+   "ref": "N197",
+   "type": "concealment",
+   "quote": "All Secret are by divine Ordination to be discovered.",
+   "note": "The margin states that all secrets are ordained by God to be discovered.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 18,
+   "ref": "CH5.5",
+   "type": "concealment",
+   "quote": "Doubtlesse there are more secrets yet concealed in the Treasures of Wisdome and Nature then we perceive",
+   "term": "Treasures of Wisdome and Nature",
+   "note": "More secrets remain concealed than are perceived."
+  },
+  {
+   "n": 19,
+   "ref": "CH5.5",
+   "type": "concealment",
+   "quote": "are to be sought out by wise-hearted men",
+   "note": "The concealed secrets are ordained 'for Times and Nations' by decree and are to be sought by 'wise-hearted men': meant for some seekers."
+  },
+  {
+   "n": 20,
+   "ref": "CH5.6",
+   "type": "position",
+   "quote": "Nature certainly, being Circularly, can hardly be wholly comprehended by any mortall man by reason of the shortnesse of his life.",
+   "note": "No mortal can wholly comprehend Nature, life being short. What 'being Circularly' means is not said in the lines given.",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 21,
+   "ref": "CH5.7",
+   "type": "position",
+   "quote": "neither the Physick of the Ancients, nor that of Theophrastus, is totally to be rejected",
+   "term": "Theophrastus",
+   "note": "Neither the ancients' physick nor Theophrastus's is to be wholly rejected."
+  },
+  {
+   "n": 22,
+   "ref": "CH5.7",
+   "type": "position",
+   "quote": "nor yet so to be imbraced but that if there be a better found out it also is to be received",
+   "note": "Nor is either to be embraced so as to shut out something better found later."
+  },
+  {
+   "n": 23,
+   "ref": "CH5.7",
+   "type": "position",
+   "quote": "both should be compared together, what is best in both let that be cetained",
+   "note": "The two are to be compared and the best of both kept."
+  },
+  {
+   "n": 24,
+   "ref": "CH5.7",
+   "type": "position",
+   "quote": "For being but men, they have their failings, in some places they mistake, in other they write one thing contrary to another",
+   "note": "The authors, being men, err and contradict one another and themselves. 'They' follows the naming of the Ancients and Theophrastus."
+  },
+  {
+   "n": 25,
+   "ref": "N198",
+   "type": "position",
+   "quote": "Many errours of the Ancients are discovered by dayly experience, which yet hath not attained its end neither.",
+   "note": "The margin: daily experience uncovers the ancients' errors and is itself not yet at its end.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 26,
+   "ref": "CH5.7",
+   "type": "position",
+   "quote": "The holy Spirit alone hath the plenary or full knowledge of all things, who distributeth to every man according to his particular measure",
+   "note": "Full knowledge is the holy Spirit's alone; each man receives a measure."
+  },
+  {
+   "n": 27,
+   "ref": "CH5.7",
+   "type": "concealment",
+   "quote": "reserving many things to himselfe that we might alway acknowledge him to be our only teacher",
+   "note": "The Spirit is said to hold many things back, so that he be acknowledged the only teacher."
+  },
+  {
+   "n": 28,
+   "ref": "CH5.7",
+   "type": "position",
+   "quote": "A true Phisitian should be the minister, not a master to Nature",
+   "term": "minister",
+   "note": "The physician serves Nature and does not master it; this takes up the chapter's heading."
+  },
+  {
+   "n": 29,
+   "ref": "CH5.7",
+   "type": "voice",
+   "quote": "a Philosopher skilfull to cure acording to the conclusion of Hippocrates & Galen",
+   "name": "Hippocrates & Galen",
+   "note": "That the physician be a philosopher skilful to cure is given as the conclusion of Hippocrates and Galen."
+  },
+  {
+   "n": 30,
+   "ref": "CH5.7",
+   "type": "marking",
+   "quote": "some after the Vulgar manner will be looking below the Moon after the Elementary Nature of things",
+   "what": "Phylosophers after the Vulgar manner",
+   "note": "One kind of the 'severall sects of Phylosophers' is set apart: those who look below the Moon at the elementary nature of things."
+  },
+  {
+   "n": 31,
+   "ref": "CH5.7",
+   "type": "concealment",
+   "quote": "others far more excellent and more truly deserving the name of Philosophers investigate the Arcana and more secret things of Nature",
+   "term": "Arcana",
+   "note": "The second kind search the 'Arcana and more secret things'; they are said to deserve the name of philosopher more truly."
+  },
+  {
+   "n": 32,
+   "ref": "CH5.7",
+   "type": "local signal",
+   "quote": "they go into the very inner roomes and Sanctuary of Nature",
+   "note": "Nature is spoken of as a house with inner rooms and a sanctuary: a figure for the secret things just named."
+  },
+  {
+   "n": 33,
+   "ref": "CH5.7",
+   "type": "position",
+   "quote": "have the true knowledge and Expeeience of Nature's Light, which maketh a true Physitian indeed",
+   "term": "Nature's Light",
+   "note": "Knowledge and experience of 'Nature's Light' is what makes a true physician."
+  },
+  {
+   "n": 34,
+   "ref": "CH5.7",
+   "type": "marking",
+   "quote": "A Physitian is compleated by 3 things, the Naturall innate vertue of things that grow of the Earth, the Celestiall influence causing that vertue, the uniting of it by Chymistry with the Constellation of the firmament",
+   "what": "3 things by which a Physitian is compleated",
+   "note": "Three things are announced as completing a physician; a further phrase about the physician's mediating follows the three in the text (it holds a gap and is not quoted here)."
+  },
+  {
+   "n": 35,
+   "ref": "CH5.7",
+   "type": "operation",
+   "quote": "the uniting of it by Chymistry with the Constellation of the firmament",
+   "term": "Chymistry",
+   "note": "A step of work is named: the innate virtue of earthly growths is united, by Chymistry, with the constellation of the firmament. How is not said in these lines."
+  },
+  {
+   "n": 36,
+   "ref": "CH5.8",
+   "type": "marking",
+   "quote": "But first, as Paracelsus saith, let him be the legetimate INTERPRETER of NATURE",
+   "what": "the legetimate INTERPRETER of NATURE",
+   "term": "INTERPRETER of NATURE",
+   "note": "'But first' opens a numbered requirement for the physician (a 'Secondly' follows at CH5.12): to be the interpreter of Nature."
+  },
+  {
+   "n": 37,
+   "ref": "CH5.8",
+   "type": "voice",
+   "quote": "who alone searcheth out its oeconomy, and the universall latitude thereof",
+   "name": "Paracelsus",
+   "note": "The words on the interpreter of Nature are given to Paracelsus ('as Paracelsus saith')."
+  },
+  {
+   "n": 38,
+   "ref": "CH5.8",
+   "type": "operation",
+   "quote": "prying into all the Species and kinds of all the Creatures that may by themselves be known, and then comes to consider and looke into man",
+   "note": "The order of inquiry: first all the kinds of creatures, then man."
+  },
+  {
+   "n": 39,
+   "ref": "N199",
+   "type": "voice",
+   "quote": "In Chirurgia magna.",
+   "name": "Chirurgia magna",
+   "note": "The margin names a writing beside the words given to Paracelsus.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 40,
+   "ref": "CH5.9",
+   "type": "own definition",
+   "quote": "Phylosophy teacheth the vertues and qualityes of the Earth and Water, as Astronomy doth of the fire and Ayre",
+   "term": "Astronomy",
+   "note": "The two words are told apart by their matter: Phylosophy of Earth and Water, Astronomy of fire and Ayre. The lines do not mark whether Paracelsus's words run on here (voice UNCLEAR)."
+  },
+  {
+   "n": 41,
+   "ref": "CH5.9",
+   "type": "position",
+   "quote": "Phylosophy and Astronomy make a perfect Phylosopher, not onely in the great, but also in the little world.",
+   "term": "little world",
+   "note": "Both together make the perfect philosopher, in 'the great' and in 'the little world'."
+  },
+  {
+   "n": 42,
+   "ref": "CH5.9",
+   "type": "position",
+   "quote": "A Physitian should have the knowledge of Phylosophy and Astronomy",
+   "note": "The physician needs both."
+  },
+  {
+   "n": 43,
+   "ref": "CH5.9",
+   "type": "own definition",
+   "quote": "Chyromancy, Pyromancy and Geomancy are the Elements of Astronomy and Phylosophy.",
+   "term": "Chyromancy",
+   "note": "Three named arts are called the 'Elements' of Astronomy and Phylosophy; what each is, these lines do not say."
+  },
+  {
+   "n": 44,
+   "ref": "N200",
+   "type": "position",
+   "quote": "the originall from the knowledge of Heaven and Earth, whose Nature and quality he doth perfectly understand",
+   "note": "The margin: the true philosopher has his origin in knowing Heaven and Earth (the word before the quote holds a gap).",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 45,
+   "ref": "N200",
+   "type": "position",
+   "quote": "Phylosophy hath i{G148: 1 letter illegible}s Rise and R{G149: 2 letters illegible}t in Admiration.",
+   "term": "Admiration",
+   "note": "The margin places the rise of Phylosophy in Admiration; two words hold gaps and are left as they stand.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 46,
+   "ref": "CH5.10",
+   "type": "marking",
+   "quote": "Theophrasteans contemplate and admire the workmanship of Nature throughout this mighty frame of the whole Creation",
+   "what": "Theophrasteans",
+   "term": "Theophrasteans",
+   "note": "A group is named after Theophrastus and described by what it does."
+  },
+  {
+   "n": 47,
+   "ref": "CH5.10",
+   "type": "operation",
+   "quote": "a wise inquisition into the qualities, affections, motions, courses and recourses of the Heavens and fiery bodies",
+   "note": "Their work, first part: inquiry into the heavens and 'fiery bodies', their qualities and motions."
+  },
+  {
+   "n": 48,
+   "ref": "CH5.10",
+   "type": "operation",
+   "quote": "lastly into the seeds, principles, dimensions, and instincts of all sublunary bodies",
+   "term": "sublunary bodies",
+   "note": "Their work, last part: inquiry into the seeds and principles of bodies below the moon."
+  },
+  {
+   "n": 49,
+   "ref": "CH5.10",
+   "type": "position",
+   "quote": "by which industry and that perpetuall thirst which they have of meditation and cogitation",
+   "term": "meditation",
+   "note": "The means named: industry and a constant thirst for meditation and cogitation (prayers and earnest desires are added after the note mark)."
+  },
+  {
+   "n": 50,
+   "ref": "N201",
+   "type": "own definition",
+   "quote": "By this meditation, which is a frequent cogitation, the manner, cause & reason of every manner of thing is found out.",
+   "term": "meditation",
+   "note": "The margin says what meditation is, 'a frequent cogitation', and what it finds out.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 51,
+   "ref": "CH5.10",
+   "type": "position",
+   "quote": "they doe at last attaine not onely to understand, but also really to imitate the greatest mysteries and secrets of Nature",
+   "term": "mysteries",
+   "note": "The Theophrasteans are said not only to understand but 'really to imitate' Nature's greatest mysteries and secrets."
+  },
+  {
+   "n": 52,
+   "ref": "CH5.10",
+   "type": "position",
+   "quote": "that which is more then all, they can tell how to improve and imploy them",
+   "note": "And, rated above the rest, to improve and employ those secrets."
+  },
+  {
+   "n": 53,
+   "ref": "CH5.11",
+   "type": "position",
+   "quote": "When the Phylosopher comes to a stand in the Naturall Light of the Macrocosm, then the Physitian begins",
+   "term": "Macrocosm",
+   "note": "Where the philosopher stops, the physician begins: the two are set in an order."
+  },
+  {
+   "n": 54,
+   "ref": "CH5.11",
+   "type": "position",
+   "quote": "to move and proceed in the Analogicall Concordance of the Naturall Light of the Microcosm with that of the great world",
+   "term": "Analogicall Concordance",
+   "note": "The physician's field is the 'Analogicall Concordance' between the Natural Light of the Microcosm and that of the great world; 'the great world' stands where 'Macrocosm' stood just before."
+  },
+  {
+   "n": 55,
+   "ref": "CH5.12",
+   "type": "marking",
+   "quote": "Secondly, a Physitian must be a good SPAGIRUS,",
+   "what": "a good SPAGIRUS",
+   "term": "SPAGIRUS",
+   "note": "The second numbered requirement, after 'But first' at CH5.8."
+  },
+  {
+   "n": 56,
+   "ref": "CH5.12",
+   "type": "own definition",
+   "quote": "one that can seperate the pure from the impure, and restore his Patient to health by a wise Alchymicall preparation",
+   "term": "SPAGIRUS",
+   "note": "The text says what a SPAGIRUS is: one who separates pure from impure and heals by an 'Alchymicall preparation'."
+  },
+  {
+   "n": 57,
+   "ref": "CH5.12",
+   "type": "operation",
+   "quote": "seperate the pure from the impure",
+   "note": "The step of work named for the SPAGIRUS: separation of pure from impure. No procedure is given in these lines."
+  },
+  {
+   "n": 58,
+   "ref": "CH5.12",
+   "type": "local signal",
+   "quote": "As Gold is tryed seven times in the fire, so should a Physitian be",
+   "note": "A comparison stated by the text itself: the physician is to be tried by Chymistry as gold is tried in the fire (the next word holds a gap)."
+  },
+  {
+   "n": 59,
+   "ref": "CH5.12",
+   "type": "own definition",
+   "quote": "Chymistry, which sepereteth the good from the bad",
+   "term": "Chymistry",
+   "note": "Chymistry is described by what it does: it separates good from bad."
+  },
+  {
+   "n": 60,
+   "ref": "CH5.12",
+   "type": "position",
+   "quote": "also he must have somthing of his own Experience confirmed by a diligent inspection into Natures works",
+   "term": "Experience",
+   "note": "The physician must also have experience of his own, confirmed by looking into Nature's works."
+  },
+  {
+   "n": 61,
+   "ref": "CH5.12",
+   "type": "own definition",
+   "quote": "Phylosophy is a practicall Physicke helping the Physitian to any medicine in a readynesse",
+   "term": "Phylosophy",
+   "note": "Phylosophy is here called 'a practicall Physicke'."
+  },
+  {
+   "n": 62,
+   "ref": "CH5.12",
+   "type": "position",
+   "quote": "a good Physitian, born of the Light of Nature, to whom Nature communicateth his Experience",
+   "term": "Light of Nature",
+   "note": "The good physician is 'born of the Light of Nature', and Nature gives him experience."
+  },
+  {
+   "n": 63,
+   "ref": "N202",
+   "type": "position",
+   "quote": "A Philosopher and Physitian spring one out of another, are the root of each other, the onely Spagyrick cook of all things.",
+   "term": "Spagyrick",
+   "note": "The margin: philosopher and physician arise from each other; 'the onely Spagyrick cook of all things' is not explained in the note.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 64,
+   "ref": "N202",
+   "type": "position",
+   "quote": "Phylosophy is the mother of Physitians",
+   "note": "The margin calls Phylosophy the mother of physicians; the rest of the note is broken by gaps.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 65,
+   "ref": "CH5.12",
+   "type": "concealment",
+   "quote": "never was there any man that ever knew and publisht such hard and hidden secrets in all Phylosophy and Physicke",
+   "note": "Paracelsus is said to have known and published 'hard and hidden secrets' as no one else did."
+  },
+  {
+   "n": 66,
+   "ref": "CH5.12",
+   "type": "marking",
+   "quote": "the true Monarch of Physicke, and first Physitian of man",
+   "what": "the true Monarch of Physicke, and first Physitian of man",
+   "note": "Titles given to Paracelsus."
+  },
+  {
+   "n": 67,
+   "ref": "CH5.12",
+   "type": "position",
+   "quote": "a man and a Phylosopher most worthy of an Eternall Name and honor, whose skill no man ever yet attaind unto, much lesse exceeded",
+   "note": "Croll's judgement of Paracelsus: unequalled and unsurpassed in skill."
+  },
+  {
+   "n": 68,
+   "ref": "CH5.12",
+   "type": "internal conflict",
+   "quote": "whose skill no man ever yet attaind unto, much lesse exceeded",
+   "with": "CH5.7",
+   "note": "Paracelsus is here beyond reach; at CH5.7 the physick of Theophrastus is among what is not to be so embraced that something better is shut out, and its authors 'have their failings'. Recorded as a difference between the two passages, not judged."
+  },
+  {
+   "n": 69,
+   "ref": "CH5.12",
+   "type": "position",
+   "quote": "who alone since Noe's time hath written of the Internall Astrall Man and the service which God created him for",
+   "term": "Internall Astrall Man",
+   "note": "Paracelsus alone 'since Noe's time' wrote of the 'Internall Astrall Man'."
+  },
+  {
+   "n": 70,
+   "ref": "CH5.12",
+   "type": "position",
+   "quote": "as also of the originall both Naturall and Metaphysicall of great and incurable diseases, which none of the former Physitians did ever so much as dream of",
+   "note": "He also wrote of the natural and metaphysical origin of great and incurable diseases, unknown to earlier physicians."
+  },
+  {
+   "n": 71,
+   "ref": "CH5.12",
+   "type": "position",
+   "quote": "our Students of Heathenish Phylosophy from whence all errour springeth",
+   "term": "Heathenish Phylosophy",
+   "note": "Heathenish Phylosophy is called the source of all error."
+  },
+  {
+   "n": 72,
+   "ref": "CH5.12",
+   "type": "cross-reference",
+   "quote": "as hath been said, they have taken no notice of that twofold unknown body of the Creatures",
+   "note": "'as hath been said' points back to an earlier place in the writing; that place is not among the lines given."
+  },
+  {
+   "n": 73,
+   "ref": "CH5.12",
+   "type": "own definition",
+   "quote": "that Mortall, Elementated Physicall and visible Corporeall body of the Elements; and the Astrall Sydereal and invisible of the Firmament and the stars",
+   "term": "twofold unknown body",
+   "note": "The 'twofold unknown body of the Creatures' is spelled out ('to wit'): a visible body of the Elements and an invisible one of the Firmament and stars."
+  },
+  {
+   "n": 74,
+   "ref": "CH5.13",
+   "type": "own definition",
+   "quote": "The Intellectuall Soul of Man, that divine Light flowing out of that spiracle of God and Divine springs pertaineth to the Invisible Phylosophy, whose foundation is CHRIST",
+   "term": "Invisible Phylosophy",
+   "note": "The Intellectuall Soul is called a divine Light out of 'that spiracle of God' and assigned to 'the Invisible Phylosophy', founded on CHRIST."
+  },
+  {
+   "n": 75,
+   "ref": "N203",
+   "type": "position",
+   "quote": "All Sciences are perfectly attained unto by the Fundamentall of Faith and new Regeneration or Celestiall Transplantation.",
+   "term": "Regeneration",
+   "note": "The margin: all sciences are reached through faith and 'new Regeneration or Celestiall Transplantation' (two names joined by 'or').",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 76,
+   "ref": "CH5.13",
+   "type": "position",
+   "quote": "Our study therefore and profession of Phylosophy should be Christian-like, not after the manner of the Heathen in hollow empty language and temporaneous Arts",
+   "note": "Phylosophy is to be Christian, not in the heathen manner of empty language and 'temporaneous Arts'."
+  },
+  {
+   "n": 77,
+   "ref": "CH5.13",
+   "type": "position",
+   "quote": "Nor are we onely to know all Nature externally and internally, but we are also to make it our onely businesse",
+   "note": "Knowing all Nature, outwardly and inwardly, is not the whole task; a further 'onely businesse' is named next."
+  },
+  {
+   "n": 78,
+   "ref": "CH5.13",
+   "type": "position",
+   "quote": "by the supernall help of the Light of Grace we may together with Christ and all the Elect possesse that Eternall Life unto which God hath created us",
+   "term": "Light of Grace",
+   "note": "That business: by the Light of Grace to possess eternal life."
+  },
+  {
+   "n": 79,
+   "ref": "CH5.13",
+   "type": "own definition",
+   "quote": "this is true Theologicall Phylosophy",
+   "term": "Theologicall Phylosophy",
+   "note": "The text names what it has just described 'true Theologicall Phylosophy'."
+  },
+  {
+   "n": 80,
+   "ref": "N204",
+   "type": "position",
+   "quote": "A man cannot have better Phylosophy then f{G162: 1 letter illegible}om God in the Regeneration.",
+   "term": "Regeneration",
+   "note": "The margin: the best Phylosophy is had from God in the Regeneration (one word holds a gap, copied as it stands).",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 81,
+   "ref": "CH5.13",
+   "type": "position",
+   "quote": "the New Birth is first to be sought for, and then all other Naturall things will be added without much labour",
+   "term": "New Birth",
+   "note": "An order is set: the New Birth first, natural things added after 'without much labour'."
+  },
+  {
+   "n": 82,
+   "ref": "CH5.14",
+   "type": "cross-reference",
+   "quote": "But let us return againe to Theophrastus.",
+   "note": "The text marks its own return to the subject of Theophrastus after the passage on Christian philosophy."
+  },
+  {
+   "n": 83,
+   "ref": "CH5.14",
+   "type": "position",
+   "quote": "He was a man singularly well skild in Chymistry, though he were not the Auther of that Art",
+   "term": "Chymistry",
+   "note": "Paracelsus is skilled in Chymistry but not its first author."
+  },
+  {
+   "n": 84,
+   "ref": "CH5.14",
+   "type": "position",
+   "quote": "There have been abundance of Phylosophers who have made use of there ingenuity and memory instead of bookes,",
+   "note": "Many philosophers before him worked by ingenuity and memory, not books."
+  },
+  {
+   "n": 85,
+   "ref": "CH5.14",
+   "type": "concealment",
+   "quote": "who were famous by that Art before Theophrastus was born, and from whom Paracelsus hath secretly borrowed many things",
+   "note": "Paracelsus is said to have borrowed 'secretly' from earlier men famous in the art."
+  },
+  {
+   "n": 86,
+   "ref": "CH5.14",
+   "type": "internal conflict",
+   "quote": "from whom Paracelsus hath secretly borrowed many things",
+   "with": "CH5.12",
+   "note": "Here Paracelsus has predecessors he borrowed from; at CH5.12 he is the one who 'alone since Noe's time hath written' and whose skill none attained. The subjects named are not the same in both places (Chymistry here; the Astrall Man and the origin of diseases there), so this is recorded as a difference only."
+  },
+  {
+   "n": 87,
+   "ref": "N205",
+   "type": "position",
+   "quote": "This kind of Phylosophy hath been in good esteem among many Nations.",
+   "note": "The margin: this kind of Phylosophy was esteemed among many nations.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 88,
+   "ref": "CH5.14",
+   "type": "marking",
+   "quote": "that noble Pyronomicall Art hath been most ancient against which none but Dolts and Dunces have unworthyly cryed out",
+   "what": "that noble Pyronomicall Art",
+   "term": "Pyronomicall Art",
+   "note": "The art is given a name and called most ancient; its critics are called dolts and dunces."
+  },
+  {
+   "n": 89,
+   "ref": "CH5.14",
+   "type": "concealment",
+   "quote": "which heretofore was known only to Kings Princes, & some few of most diligent searchers out of Naturall Phylosophy",
+   "note": "The art was formerly known to few: kings, princes and some diligent searchers."
+  },
+  {
+   "n": 90,
+   "ref": "CH5.14",
+   "type": "marking",
+   "quote": "which of late hath not been a little improved by that Monarch of Mysteryes Paracelsus",
+   "what": "that Monarch of Mysteryes Paracelsus",
+   "note": "A further title for Paracelsus, who is said to have improved the art."
+  },
+  {
+   "n": 91,
+   "ref": "CH5.14",
+   "type": "position",
+   "quote": "endeavoured to bring to light, restore and amplifie the Ancient doctrine, which by a fatall depravation and neglect of times and men, was lost and obliterated for many years",
+   "term": "Ancient doctrine",
+   "note": "Paracelsus's work is presented as restoring a lost ancient doctrine, under 'the singular providence and impulse of God'."
+  },
+  {
+   "n": 92,
+   "ref": "CH5.14",
+   "type": "own definition",
+   "quote": "to wit, the True and Philosophicall Physick which none in his time assayed to restore",
+   "term": "Philosophicall Physick",
+   "note": "The 'Ancient doctrine' is named ('to wit'): 'the True and Philosophicall Physick'."
+  },
+  {
+   "n": 93,
+   "ref": "CH5.14",
+   "type": "concealment",
+   "quote": "the great obscurity of which art he laboured also to evolve and illustrate,",
+   "note": "The art is said to lie in 'great obscurity', which Paracelsus worked to unfold and make clear."
+  },
+  {
+   "n": 94,
+   "ref": "N206",
+   "type": "position",
+   "quote": "The Physitian that God maketh can doe all things.",
+   "note": "The margin: the physician made by God can do all things.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 95,
+   "ref": "N206",
+   "type": "voice",
+   "quote": "not to the Devill, Creature, or Stars, James 1.17.",
+   "name": "James 1.17",
+   "note": "The margin cites James 1.17 for ascribing all wonders, mysteries and secrets to God and not to Devil, creature or stars.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 96,
+   "ref": "CH5.14",
+   "type": "position",
+   "quote": "to purge it from the fucous guile and vizard of imposture",
+   "note": "He also worked to clear the art of imposture."
+  },
+  {
+   "n": 97,
+   "ref": "CH5.14",
+   "type": "local signal",
+   "quote": "to recall the universall consonancy of the Sciences and Muses by a kind of divine copulation from the compasse of the whole circle unto the one only Centre",
+   "term": "Centre",
+   "note": "'by a kind of' marks the phrase as a figure: the sciences are brought from the whole circle to one centre. What the Centre is, these lines do not say.",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 98,
+   "ref": "CH5.14",
+   "type": "position",
+   "quote": "hath stirred up his Emissaries and catch-poles, whom he doth yet dayly egg and set on with a dogged hatred",
+   "note": "The opposition to this is laid to the Devil, who stirs up 'Emissaries and catch-poles'."
+  },
+  {
+   "n": 99,
+   "ref": "CH5.14",
+   "type": "local signal",
+   "quote": "to keep others from the manger in which they cannot lye themselves",
+   "note": "A figure for the opponents: they keep others from what they cannot use themselves."
+  },
+  {
+   "n": 100,
+   "ref": "CH5.15",
+   "type": "position",
+   "quote": "the Author of Physick (from whom as from the Father of Lights is every good and perfect gift)",
+   "term": "Author of Physick",
+   "note": "God is called the Author of Physick, to whom the gifts of healing are to be ascribed."
+  },
+  {
+   "n": 101,
+   "ref": "CH5.15",
+   "type": "position",
+   "quote": "which gifts were bestowed upon Theophrastus, who by peculiar influence was born a Physitian",
+   "note": "Theophrastus's gifts of curing are God's, and he was 'born a Physitian' by 'peculiar influence'."
+  },
+  {
+   "n": 102,
+   "ref": "CH5.15",
+   "type": "voice",
+   "quote": "attribute these gifts, according to the venome of their heart against the truth, like the Pharisees of old, to the Devil himselfe",
+   "name": "Emissaries and catch-poles",
+   "note": "A view reported in order to be rejected: 'they' (the Emissaries and catch-poles of CH5.14) lay Theophrastus's cures to the Devil; Croll likens them to 'the Pharisees of old'. No words of theirs are given."
+  },
+  {
+   "n": 103,
+   "ref": "CH5.15",
+   "type": "position",
+   "quote": "thus they make the Devill stonger then the blessed and glorious God, though he be bound fast with the cord of the Omnipotent",
+   "note": "Croll's answer: this makes the Devil stronger than God, though he is bound; he is also said to be 'deprived of the Light of Grace and Nature'."
+  },
+  {
+   "n": 104,
+   "ref": "CH5.16",
+   "type": "position",
+   "quote": "Those things are to be ascribed to God alone and to his Law, as to the Author of the whole Universe and of Nature",
+   "note": "The cures are to be ascribed to God alone and his Law."
+  },
+  {
+   "n": 105,
+   "ref": "CH5.16",
+   "type": "position",
+   "quote": "the Devill, who hath no power over the Will and Understanding of Man",
+   "note": "The Devil has no power over man's will and understanding."
+  },
+  {
+   "n": 106,
+   "ref": "CH5.16",
+   "type": "concealment",
+   "quote": "by a malicious ignorance obscuring his Wisdome or hidden Image in Man",
+   "term": "hidden Image",
+   "note": "God's Wisdom is also called his 'hidden Image in Man', which the opponents obscure."
+  },
+  {
+   "n": 107,
+   "ref": "CH5.17",
+   "type": "position",
+   "quote": "to contemn those Secrets which God hath granted to their Nature",
+   "note": "The German physicians wrong their own country by despising secrets God granted 'to their Nature', and by praising only what is foreign."
+  },
+  {
+   "n": 108,
+   "ref": "CH5.17",
+   "type": "marking",
+   "quote": "just as it befell Pet. Ramus from his malicious populer adversaries, because he stopt the current of youthfull studies in the silly, common, and corruptible Phylosophy",
+   "what": "what befell Pet. Ramus",
+   "term": "Pet. Ramus",
+   "note": "Pet. Ramus's case is set beside Paracelsus's as a like one."
+  },
+  {
+   "n": 109,
+   "ref": "CH5.17",
+   "type": "position",
+   "quote": "as the Aristotelians unworthily rose up and set themselves against him, even so doe the mingle mangle Physitians against Theophrastus Paracelsus",
+   "term": "mingle mangle Physitians",
+   "note": "A parallel: Aristotelians against Ramus, 'mingle mangle Physitians' against Paracelsus."
+  },
+  {
+   "n": 110,
+   "ref": "CH5.17",
+   "type": "position",
+   "quote": "whose learning is deservedly admired and wondered at by Forraine",
+   "note": "Paracelsus's learning is said to be admired by foreign nations (the word 'Nations' follows the note mark)."
+  },
+  {
+   "n": 111,
+   "ref": "N207",
+   "type": "position",
+   "quote": "it is impossible for any to imitate him",
+   "note": "The margin says none can imitate what he has written; the sentence's opening words are garbled in the text as given.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 112,
+   "ref": "N207",
+   "type": "voice",
+   "quote": "See Paracels. de Fundamento Sa{G164: 1 letter illegible}ientia.",
+   "name": "Paracels.",
+   "note": "The margin sends the reader to a named writing of Paracelsus and to a second book whose title is broken by gaps.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 113,
+   "ref": "N207",
+   "type": "local signal",
+   "quote": "He that doth not carelesly read but inwardly examine his writings will perceive as much.",
+   "note": "A direction on how Paracelsus is to be read: not carelessly but examined 'inwardly'.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 114,
+   "ref": "CH5.18",
+   "type": "position",
+   "quote": "they blush not also to wrangle against his Divinity, which they have neither seen nor read, nor by reason of their blockishnesse can they understand",
+   "term": "Divinity",
+   "note": "The opponents also attack Paracelsus's Divinity without having seen or read it."
+  },
+  {
+   "n": 115,
+   "ref": "N208",
+   "type": "position",
+   "quote": "Divinity should dwe{G167: 1 letter illegible}l in Physick as the Soule in the body.",
+   "note": "The margin: Divinity is to Physick as soul to body (one word holds a gap, copied as it stands).",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 116,
+   "ref": "CH5.18",
+   "type": "concealment",
+   "quote": "he onely is able to judge of Truth who is inspired with Divine Wisdome",
+   "note": "Judgement of truth is limited to one 'inspired with Divine Wisdome'."
+  },
+  {
+   "n": 117,
+   "ref": "CH5.18",
+   "type": "position",
+   "quote": "he hath successelesly endeavoured to make known to the ingratefull gratefull and unworthy world",
+   "note": "In his divine writings Paracelsus tried, 'successelesly', to make something known to the world; 'ingratefull gratefull' stands so in the text.",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 118,
+   "ref": "CH5.18",
+   "type": "marking",
+   "quote": "that invincible united Fundamentall of Theologicall and Phylosophicall Truth and perfect Piety,",
+   "what": "that invincible united Fundamentall of Theologicall and Phylosophicall Truth and perfect Piety",
+   "term": "Fundamentall",
+   "note": "What he tried to make known is set apart as one thing."
+  },
+  {
+   "n": 119,
+   "ref": "CH5.18",
+   "type": "own definition",
+   "quote": "taken out of the Book of Grace and Nature, that is, that our mind should be raised up to God, and our eyes lifted up to look after the Truth",
+   "term": "Book of Grace and Nature",
+   "note": "The text says ('that is') what the Fundamentall comes to: the mind raised to God, the eyes to Truth, and a desire of blessedness 'through the Regeneration'."
+  },
+  {
+   "n": 120,
+   "ref": "N209",
+   "type": "own definition",
+   "quote": "Numen & Lumen, Divine Power and Light, these two make a perfect Man.",
+   "term": "Numen & Lumen",
+   "note": "The margin gives two Latin words with their English, 'Divine Power and Light', which together make a perfect man.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 121,
+   "ref": "N209",
+   "type": "position",
+   "quote": "When the Light of Nature is well known, God or the Divine power of Grace is well known also.",
+   "term": "Light of Nature",
+   "note": "The margin: knowing the Light of Nature well brings knowing God or 'the Divine power of Grace'.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 122,
+   "ref": "N209",
+   "type": "position",
+   "quote": "By meditating or contemplating we know, by knowing we are delighted, by delighting we adhere, by adhearing we possesse, by possessing we injoy the Truth which is the food of our soules.",
+   "term": "meditating",
+   "note": "The margin sets out a chain of steps from meditating to enjoying the Truth.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 123,
+   "ref": "N209",
+   "type": "voice",
+   "quote": "Read Div. Dionys.",
+   "name": "Div. Dionys.",
+   "note": "The margin tells the reader to read named writers (the second name is broken by gaps) and adds a Scripture place.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 124,
+   "ref": "CH5.19",
+   "type": "position",
+   "quote": "Without Phylosophy it is impossible to be absolutely godly; nor shall any man be ever able compleatly and Christianly to Phylosophize in either Light, who is not truely godly",
+   "note": "Godliness and Phylosophy are each made a condition of the other."
+  },
+  {
+   "n": 125,
+   "ref": "CH5.19",
+   "type": "marking",
+   "quote": "The two Lights are well known, within which are all thing, without which is nothing, and no perfect knowledge of any thing.",
+   "what": "The two Lights",
+   "term": "two Lights",
+   "note": "The two Lights are set apart as holding all things and all perfect knowledge."
+  },
+  {
+   "n": 126,
+   "ref": "CH5.19",
+   "type": "own definition",
+   "quote": "The Light of Grace, begetteth a true Theologer, yet not without Phylosophy",
+   "term": "Light of Grace",
+   "note": "The Light of Grace is described by what it produces: a true Theologer."
+  },
+  {
+   "n": 127,
+   "ref": "CH5.19",
+   "type": "own definition",
+   "quote": "The Light of Nature, which is the Treasury of God confirmed in the Scriptures, maketh a true Phylosopher, yet not without Theoligie",
+   "term": "Light of Nature",
+   "note": "The Light of Nature is called 'the Treasury of God confirmed in the Scriptures' and makes a true Phylosopher. At CH5.1 the same name stood beside 'the liberty of human ingenuity'."
+  },
+  {
+   "n": 128,
+   "ref": "CH5.19",
+   "type": "own definition",
+   "quote": "Philosophy comprehendeth the works or way of Nature; Theologie onely knoweth the works and way of Christ",
+   "term": "Theologie",
+   "note": "God's works are 'bipactite' (so spelled); each of the two studies is given its half."
+  },
+  {
+   "n": 129,
+   "ref": "CH5.19",
+   "type": "position",
+   "quote": "In these two wayes we are to walk and spend our short time, that we may die in Peace and Joy.",
+   "note": "Both ways are to be walked."
+  },
+  {
+   "n": 130,
+   "ref": "CH5.19",
+   "type": "position",
+   "quote": "every true Theologer is a Phylosopher, and every true Phylosopher is a Theologer",
+   "term": "Theologer",
+   "note": "The conclusion drawn ('Hence it is plaine')."
+  },
+  {
+   "n": 131,
+   "ref": "CH5.20",
+   "type": "marking",
+   "quote": "After Paracelsus others attempted this study, following the same strait and compendious tract",
+   "what": "others after Paracelsus who attempted this study",
+   "note": "A line of followers after Paracelsus is announced."
+  },
+  {
+   "n": 132,
+   "ref": "CH5.20",
+   "type": "marking",
+   "quote": "such as Paulus Brawn of Norimberge, Valentinus Weigelius, and Petrus Winzius",
+   "what": "Paulus Brawn of Norimberge, Valentinus Weigelius, and Petrus Winzius",
+   "note": "Three men are named as those followers; no words of theirs are given."
+  },
+  {
+   "n": 133,
+   "ref": "CH5.20",
+   "type": "marking",
+   "quote": "not in the sensuall school of fools, nor in the rationall school of Schollers, but in the third school of perfect Men, that Mentall or Intellectuall school of Pentecost",
+   "what": "the third school of perfect Men, that Mentall or Intellectuall school of Pentecost",
+   "term": "school of Pentecost",
+   "note": "Three schools are told apart and numbered; the third is named the 'school of Pentecost'."
+  },
+  {
+   "n": 134,
+   "ref": "CH5.20",
+   "type": "position",
+   "quote": "all truly learned men walking in the Life and steps of Christ, have been taught and learned without labour and toyle",
+   "note": "In that school prophets, apostles and the truly learned are taught 'without labour and toyle'."
+  },
+  {
+   "n": 135,
+   "ref": "CH5.20",
+   "type": "concealment",
+   "quote": "the manuscripts of their ingenuity and engraven monuments which they have left behind",
+   "note": "The three men's writings are spoken of as manuscripts and monuments left behind."
+  },
+  {
+   "n": 136,
+   "ref": "CH5.20",
+   "type": "concealment",
+   "quote": "will in their time come to Light, unlesse the indignity and ingratitude of the world keep them back",
+   "note": "Those writings are not yet in the open: they 'will in their time come to Light' unless the world's ingratitude keeps them back."
+  },
+  {
+   "n": 137,
+   "ref": "CH5.20",
+   "type": "local signal",
+   "quote": "who yet are with-held in this hell of the body, under the yoak of misery",
+   "note": "The body is called a 'hell' in which readers' minds are held: a figure."
+  },
+  {
+   "n": 138,
+   "ref": "CH5.20",
+   "type": "operation",
+   "quote": "the annihilation, abnegation, immolation and mortification of themselves by Christ, casting all shadows behind them, and turning inward unto themselves into the Temple of the heart",
+   "term": "Temple of the heart",
+   "note": "The practice the readers are to follow is given as steps: after knowledge and lament of the Fall and daily contemplation, self-mortification and a turning inward 'into the Temple of the heart'. It is a practice of piety, not a work on a material."
+  },
+  {
+   "n": 139,
+   "ref": "CH5.20",
+   "type": "concealment",
+   "quote": "by a daily practice of Piety fetch out that huge Talent and Treasury which is hid and shut up within themselvs",
+   "term": "Treasury",
+   "note": "A 'Talent and Treasury' is said to be hidden and shut up within the readers, to be fetched out by daily piety."
+  },
+  {
+   "n": 140,
+   "ref": "CH5.20",
+   "type": "position",
+   "quote": "like miserable mortall men who know not themselves, and consequently nothing else, lazily neglecting God within themselves",
+   "note": "Not knowing oneself is knowing nothing; such men neglect 'God within themselves'."
+  },
+  {
+   "n": 141,
+   "ref": "CH5.20",
+   "type": "position",
+   "quote": "should in vaine seek those things without them by many books, mortall masters, long journeys, with great and constant paines, study and wearinesse",
+   "note": "Seeking outwardly, by books, masters and journeys, what one has within is called vain."
+  },
+  {
+   "n": 142,
+   "ref": "CH5.20",
+   "type": "internal conflict",
+   "quote": "should in vaine seek those things without them by many books, mortall masters, long journeys",
+   "with": "CH5.3; CH5.4",
+   "note": "Books and masters are here a vain way to what lies within; at CH5.4 no book is so bad 'but hath some good in it', and at CH5.3 other men's inventions are not to be slighted. The two passages may speak of different things ('those things' here is the inward treasure); recorded as a difference only."
+  },
+  {
+   "n": 143,
+   "ref": "N210",
+   "type": "position",
+   "quote": "The more we seek after things without us, the more we forget and loose our selves",
+   "note": "The margin states the same: outward seeking loses the self.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 144,
+   "ref": "N210",
+   "type": "voice",
+   "quote": "1 John 2.20, 27. Psal. 98. Hab. 2.20.",
+   "name": "1 John 2.20, 27",
+   "note": "The margin lists Scripture places beside the passage on seeking within (more follow in the note).",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 145,
+   "ref": "N210",
+   "type": "position",
+   "quote": "God is to be waited for with a quiet mind when the sences are laid asleep",
+   "note": "The margin: God is waited for with a quiet mind, the senses 'laid asleep'.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 146,
+   "ref": "N210",
+   "type": "position",
+   "quote": "Christ is to be found in the Temple of the Heart.",
+   "term": "Temple of the Heart",
+   "note": "The margin places Christ in 'the Temple of the Heart'.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 147,
+   "ref": "CH5.20",
+   "type": "own definition",
+   "quote": "the whole Animall Man, who is nothing but EARTH",
+   "term": "Animall Man",
+   "note": "The 'Animall Man' is said to be 'nothing but EARTH' (capitals in the text); to him the readers are to be dead."
+  },
+  {
+   "n": 148,
+   "ref": "CH5.20",
+   "type": "local signal",
+   "quote": "supprest by the Sabbath and oblivion of Temporall things",
+   "term": "Sabbath",
+   "note": "'Sabbath' is joined with 'oblivion of Temporall things'. Interpreted (my inference from that pairing): a rest from temporal things, not a day; the text does not say so itself.",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 149,
+   "ref": "CH5.20",
+   "type": "voice",
+   "quote": "entred into themselves with David, Psal. 40 1. patiently waiting for God our master who dwelleth in his holy Temple",
+   "name": "David, Psal. 40 1",
+   "note": "David and a Psalm are named for the waiting on God within."
+  },
+  {
+   "n": 150,
+   "ref": "CH5.20",
+   "type": "own definition",
+   "quote": "in the Abysse of the heart or inward parts of our Soule, Psal. 5.7.",
+   "term": "Abysse of the heart",
+   "note": "God's 'holy Temple' is placed: 'the Abysse of the heart or inward parts of our Soule', with a Psalm cited."
+  },
+  {
+   "n": 151,
+   "ref": "CH5.20",
+   "type": "marking",
+   "quote": "which is the utmost happinesse and Blessednesse of Man, and the very determinate and appointed End of the Cabala or secret wisdome",
+   "what": "the very determinate and appointed End of the Cabala or secret wisdome",
+   "term": "Cabala",
+   "note": "God enlightening the mind and working 'all our works in us' is named as man's utmost blessedness and as the appointed End of the Cabala."
+  },
+  {
+   "n": 152,
+   "ref": "CH5.20",
+   "type": "own definition",
+   "quote": "the Cabala or secret wisdome",
+   "term": "Cabala",
+   "note": "'Cabala' is glossed by 'or secret wisdome'.",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 153,
+   "ref": "CH5.20",
+   "type": "position",
+   "quote": "unhappy, foolish and miserable men had rather abide in themselves to their greatest damage and detriment of their right, then to be happy and wise in God",
+   "note": "Croll's lament: men prefer to abide in themselves, not in God."
+  },
+  {
+   "n": 154,
+   "ref": "CH5.21",
+   "type": "own definition",
+   "quote": "The heart of a Regenerate man is Gods Eden or Garden of Pleasure, wherein he dwelleth",
+   "term": "Eden",
+   "note": "The regenerate heart is called God's Eden, his dwelling."
+  },
+  {
+   "n": 155,
+   "ref": "CH5.21",
+   "type": "position",
+   "quote": "God made the World and Man that he might dwell in them as in his own proper house or Temple",
+   "note": "World and man were made as God's house or Temple."
+  },
+  {
+   "n": 156,
+   "ref": "CH5.21",
+   "type": "concealment",
+   "quote": "though now he is not discerned by reason of the Dark Point of the Quaternary",
+   "term": "Quaternary",
+   "note": "God is said to be not now discerned, 'by reason of the Dark Point of the Quaternary'; these lines do not say what that is."
+  },
+  {
+   "n": 157,
+   "ref": "CH5.21",
+   "type": "marking",
+   "quote": "at the end of this world which is to be Renewed by the Ternary of Man,",
+   "what": "the Ternary of Man",
+   "term": "Ternary",
+   "note": "The renewal of the world is tied to 'the Ternary of Man'; 'Soul, Spirit, and Body' follow after the note mark."
+  },
+  {
+   "n": 158,
+   "ref": "N211",
+   "type": "voice",
+   "quote": "Apoc. 21.23.",
+   "name": "Apoc. 21.23",
+   "note": "The margin cites a Scripture place beside the passage on the New Jerusalem.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 159,
+   "ref": "CH5.21",
+   "type": "own definition",
+   "quote": "the Regeneration according to Soul, Spirit, and Body (the New Jerusalem, wherein the Unitrine Essence of God and the Holy and most Holy Trinity inseperably dwell)",
+   "term": "Regeneration",
+   "note": "The Regeneration is said to be threefold, by Soul, Spirit and Body, and is called in the parenthesis 'the New Jerusalem'."
+  },
+  {
+   "n": 160,
+   "ref": "CH5.21",
+   "type": "local signal",
+   "quote": "will sparkle and glitter out with a radiant fiery colour like a Rubie or Carbuncle thorow the clear, spotlesse, beautifull body",
+   "term": "Carbuncle",
+   "note": "The Regeneration is said to shine through the body 'like a Rubie or Carbuncle': a comparison the text itself marks with 'like'."
+  },
+  {
+   "n": 161,
+   "ref": "CH5.21",
+   "type": "position",
+   "quote": "in whom as in a Bodily Angel God himselfe is the Man, in the Temple of whose incontanimate mind God is the Ghest",
+   "note": "The blessed man is one in whom God dwells as guest 'as in a Bodily Angel'."
+  },
+  {
+   "n": 162,
+   "ref": "CH5.21",
+   "type": "local signal",
+   "quote": "where Mans Left hand knoweth not what Gods Right hand doth",
+   "note": "A turn of phrase, left unexplained in these lines, for God's working in such a man."
+  },
+  {
+   "n": 163,
+   "ref": "CH5.22",
+   "type": "position",
+   "quote": "Unto this God the one and onely scope and end of all mens eyes should look,",
+   "note": "God is the one aim all should look to."
+  },
+  {
+   "n": 164,
+   "ref": "CH5.22",
+   "type": "position",
+   "quote": "all is vanity but to love God and cleave to him by serving him alone, and so to be united to the true Being by an humble subjection",
+   "term": "true Being",
+   "note": "All is vanity except loving and serving God and being united 'to the true Being'."
+  },
+  {
+   "n": 165,
+   "ref": "CH5.22",
+   "type": "position",
+   "quote": "we should slide into our selves or the Creatures as claiming to our selves the property both of them and of our selves",
+   "note": "The danger named: through disobedience, a proud will and self-love to slide into oneself or the creatures."
+  },
+  {
+   "n": 166,
+   "ref": "CH5.22",
+   "type": "own definition",
+   "quote": "fall back into that vaine, wicked or our own Nothing",
+   "term": "Nothing",
+   "note": "The end of that sliding is called 'our own Nothing'."
+  },
+  {
+   "n": 167,
+   "ref": "N212",
+   "type": "position",
+   "quote": "The Creature is ju{G170: 1 letter illegible}ily oblidged to obey the Creator, that our will may be one with God. Gen. 6.3.",
+   "note": "The margin: the creature owes obedience so that the will be one with God; a Scripture place is cited (one word holds a gap).",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 168,
+   "ref": "N212",
+   "type": "own definition",
+   "quote": "The Fall of Man and our great evill is to depart from Unity to Alterity.",
+   "term": "Alterity",
+   "note": "The margin says what the Fall is: departing 'from Unity to Alterity'.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 169,
+   "ref": "N212",
+   "type": "voice",
+   "quote": "I never go abroad among men but I come home lesse a man then when I went forth, Seneca.",
+   "name": "Seneca",
+   "note": "The margin gives a saying under Seneca's name.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 170,
+   "ref": "CH5.23",
+   "type": "position",
+   "quote": "If the Soule run back within it selfe and be converted into the Mind it draweth near to God, seeth all things, and hath no need of outward teaching",
+   "term": "Mind",
+   "note": "The Soul turned into 'the Mind' nears God, sees all and needs no outward teaching, 'like the Angells'."
+  },
+  {
+   "n": 171,
+   "ref": "CH5.23",
+   "type": "position",
+   "quote": "But when the Soule turneth into sence it is carried far off from God and departeth from God, the impure forsaketh the pure.",
+   "note": "The Soul turned to sense departs from God."
+  },
+  {
+   "n": 172,
+   "ref": "CH5.23",
+   "type": "concealment",
+   "quote": "The Academicall spirit cannot not understand this Mystery; for Holy and Devout Humility alone, the most noble of all vertues, is capable of Illumination.",
+   "term": "Mystery",
+   "note": "The Mystery is closed to 'the Academicall spirit' and open to humility alone ('cannot not' stands so in the text)."
+  },
+  {
+   "n": 173,
+   "ref": "CH5.24",
+   "type": "concealment",
+   "quote": "this Truth cannot be comprehended except our Understanding be kindled by the Word of the Lord, and our Reason receive the Divine Light through the Mind",
+   "note": "The Truth is comprehended only by an understanding kindled by the Word and a reason lit through the Mind."
+  },
+  {
+   "n": 174,
+   "ref": "N213",
+   "type": "position",
+   "quote": "O what pains doe they take to become sools, who once drown themselves in Humane wisdome.",
+   "note": "The margin exclaims against those drowned in human wisdom ('sools' stands so).",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 175,
+   "ref": "CH5.24",
+   "type": "concealment",
+   "quote": "nor may I in this unfit place openly speak more of these Mysteries",
+   "term": "Mysteries",
+   "note": "Croll says he may not speak openly of these Mysteries here: something is withheld by the author's own statement."
+  },
+  {
+   "n": 176,
+   "ref": "CH5.24",
+   "type": "cross-reference",
+   "quote": "I returne againe to that Physitian Paracelsus from the digression unto which I had occasion to step aside",
+   "note": "The text calls what went before a digression and marks its return to Paracelsus (an earlier return stands at CH5.14)."
+  },
+  {
+   "n": 177,
+   "ref": "CH5.25",
+   "type": "position",
+   "quote": "It had been more becoming our Physitians to have extolld and huggd those great gifts of God in him",
+   "note": "The physicians ought to have honoured God's gifts in Paracelsus."
+  },
+  {
+   "n": 178,
+   "ref": "CH5.25",
+   "type": "concealment",
+   "quote": "then to hate him for some kind of behaviour and using such words which every one doth not understand;",
+   "note": "Paracelsus is hated for his behaviour and for 'words which every one doth not understand'."
+  },
+  {
+   "n": 179,
+   "ref": "CH5.25",
+   "type": "position",
+   "quote": "tis easier to carp at him then to imitate him.",
+   "note": "Carping is easier than imitating; the margin note beside it (N214) holds foreign script given only as gaps."
+  },
+  {
+   "n": 180,
+   "ref": "CH5.25",
+   "type": "internal conflict",
+   "quote": "tis easier to carp at him then to imitate him.",
+   "with": "N207",
+   "note": "Here imitating Paracelsus is hard but spoken of as the better course; N207 says 'it is impossible for any to imitate him'. Recorded as a difference in wording between text and margin."
+  },
+  {
+   "n": 181,
+   "ref": "CH5.25",
+   "type": "concealment",
+   "quote": "The age wherein he wrote may excuse the harshnesse of his language, the malicious ingratitude of men may be the cause of the bewayled obscurity of his Commentators",
+   "note": "Two excuses: his age for his harsh language, men's ingratitude for the 'obscurity of his Commentators'."
+  },
+  {
+   "n": 182,
+   "ref": "CH5.25",
+   "type": "concealment",
+   "quote": "the unusuall custome of Phylosophers plead for the strange novelties of names",
+   "note": "The strange new names are put down to the custom of philosophers."
+  },
+  {
+   "n": 183,
+   "ref": "CH5.25",
+   "type": "concealment",
+   "quote": "the Phylosophers have ever driven from their hives of most sacred Sciences those sluggish and lazy Drones who are good for nothing but to devoure other mens industry",
+   "term": "Drones",
+   "note": "The reason given for that custom: philosophers have always kept the idle ('Drones') away from the sciences ('hives')."
+  },
+  {
+   "n": 184,
+   "ref": "CH5.26",
+   "type": "voice",
+   "quote": "Arts wrapt in Riddles safe doe lye, / Their fruitfull'st soyle is Secrecy.",
+   "name": "Plato",
+   "note": "The couplet is given to Plato ('for as Plato saith,' at the end of CH5.25)."
+  },
+  {
+   "n": 185,
+   "ref": "CH5.26",
+   "type": "concealment",
+   "quote": "Arts wrapt in Riddles safe doe lye,",
+   "term": "Riddles",
+   "note": "The quoted verse says arts are kept safe by being wrapped in riddles and grow best in secrecy."
+  },
+  {
+   "n": 186,
+   "ref": "N215",
+   "type": "voice",
+   "quote": "Artes ut lateant sua perque Aenigmata crescunt.",
+   "name": "Plato",
+   "note": "The margin gives a Latin line beside the couplet attributed to Plato; the note names no one.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 187,
+   "ref": "CH5.27",
+   "type": "position",
+   "quote": "A man may live any where, Lawes and Liberties are alowed in every Dominion",
+   "note": "A general remark placed before the question that follows; its bearing is not spelled out in these lines."
+  },
+  {
+   "n": 188,
+   "ref": "CH5.27",
+   "type": "concealment",
+   "quote": "let any man look into himselfe and consider if he had that which Theophrastus knew, whether he would tell it to every man",
+   "note": "The reader is asked whether he would himself tell everyone what Theophrastus knew: a defence of withholding."
+  },
+  {
+   "n": 189,
+   "ref": "CH5.27",
+   "type": "voice",
+   "quote": "in so doing he would break the Oath of Hippocrates, who would not instruct every one in the Art of Physick",
+   "name": "Hippocrates",
+   "term": "Oath of Hippocrates",
+   "note": "The Oath of Hippocrates is named as forbidding the teaching of physick to everyone."
+  },
+  {
+   "n": 190,
+   "ref": "CH5.27",
+   "type": "internal conflict",
+   "quote": "whether he would tell it to every man",
+   "with": "CH5.12; N197",
+   "note": "Here what Theophrastus knew is not to be told to every man; at CH5.12 he 'knew and publisht such hard and hidden secrets', and N197 says all secrets are by divine ordination to be discovered. Recorded as a difference, not judged."
+  }
+ ],
+ "sections_read": [
+  "CH5"
+ ],
+ "end_marker": "END OF OUTPUT"
+}

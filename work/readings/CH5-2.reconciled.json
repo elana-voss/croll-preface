@@ -1,0 +1,2312 @@
+{
+ "observations": [
+  {
+   "ref": "CH5.28",
+   "type": "concealment",
+   "quote": "A Secret indeed is to be concealed, it belongs onely to God to reveale it",
+   "term": "Secret",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A1",
+    "B1"
+   ],
+   "note": "A secret is to be kept covered; revealing it belongs to God alone."
+  },
+  {
+   "ref": "CH5.28",
+   "type": "position",
+   "quote": "if it be disclosed, commonly it exposeth to death, or prison, or reproach",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A2",
+    "B2"
+   ],
+   "note": "Disclosure commonly brings death, prison, reproach, fear or exile on the one who discloses; the reason given for concealment."
+  },
+  {
+   "ref": "CH5.28",
+   "type": "concealment",
+   "quote": "unlesse we will brand our reputation with a perpetuall blur of lying and deceit to conceale the same",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B3"
+   ],
+   "note": "The only escape named from those dangers is to cover the secret by lying and deceit, at the cost of one's reputation."
+  },
+  {
+   "ref": "CH5.28",
+   "type": "voice",
+   "quote": "Lully; Arnold, Zachary of Paris, and others, are witnesses hereof",
+   "name": "Lully; Arnold, Zachary of Paris",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A3",
+    "B4"
+   ],
+   "note": "Named persons are cited as witnesses of what disclosure brings; no words of theirs are reported."
+  },
+  {
+   "ref": "CH5.28",
+   "type": "concealment",
+   "quote": "The true Hermetick Phylosophers took an Oath that they would follow the footsteps of their fathers and masters",
+   "term": "Hermetick Phylosophers",
+   "voice": "QUOTED: true Hermetick Phylosophers",
+   "tags": [],
+   "from": [
+    "A4",
+    "B5"
+   ],
+   "note": "A group is said to be bound by oath to keep to their fathers' and masters' way and not to expose Nature."
+  },
+  {
+   "ref": "CH5.28",
+   "type": "local signal",
+   "quote": "the virginity of Nature, which hath been preserved from the begining of the world",
+   "term": "virginity of Nature",
+   "voice": "QUOTED: true Hermetick Phylosophers",
+   "tags": [],
+   "from": [
+    "A5",
+    "B6"
+   ],
+   "note": "A figure: what the oath keeps from defilement is called Nature's virginity, preserved since the beginning of the world; not meant plainly."
+  },
+  {
+   "ref": "CH5.28",
+   "type": "concealment",
+   "quote": "yet have they bequeathed their secrets to their sworn disciples",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A6",
+    "B7"
+   ],
+   "note": "The secrets are handed on, but only to sworn disciples bound by faith and gratitude and made worthy by nature or education."
+  },
+  {
+   "ref": "CH5.28",
+   "type": "concealment",
+   "quote": "which yet are with much sweat to be searched out",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A7",
+    "B8"
+   ],
+   "note": "Even what is handed on must still be searched out with much labour; it is not given openly."
+  },
+  {
+   "ref": "N216",
+   "type": "position",
+   "quote": "Without paines-taking none is fit to injoy that Art.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A8",
+    "B9"
+   ],
+   "note": "The margin note makes labour the condition for enjoying 'that Art'."
+  },
+  {
+   "ref": "CH5.29",
+   "type": "voice",
+   "quote": "that he approveth of no sort of Physitians, but that he would professe himselfe to be the sole and onely Physitian in all the world",
+   "name": "Men of shallow judgement",
+   "voice": "QUOTED: Men of shallow judgement",
+   "tags": [],
+   "from": [
+    "A9",
+    "B10"
+   ],
+   "note": "A view of Paracelsus that the author gives to men of shallow judgement in order to reject it."
+  },
+  {
+   "ref": "CH5.29",
+   "type": "position",
+   "quote": "he only condemns the common rable of Physitians who are altogether ignorant both of Theory & Practice",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A10",
+    "B11"
+   ],
+   "note": "The author's own account of whom Paracelsus condemns: only physicians ignorant of both theory and practice."
+  },
+  {
+   "ref": "CH5.29",
+   "type": "position",
+   "quote": "Nor truely are they to be accounted Physitians, who Verbally and Syllogistically onely make a great flourish of Physick, but doe no cures at all",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A11",
+    "B12"
+   ],
+   "note": "Those who only talk and argue physick and cure nothing are denied the name of physician."
+  },
+  {
+   "ref": "CH5.29",
+   "type": "voice",
+   "quote": "boasting that they have the Method of Physick",
+   "name": "they, who Verbally and Syllogistically onely make a great flourish of Physick",
+   "term": "Method",
+   "voice": "QUOTED: they, who Verbally and Syllogistically onely make a great flourish of Physick",
+   "tags": [],
+   "from": [
+    "B13"
+   ],
+   "note": "The boast of those verbal physicians, reported in order to be rejected."
+  },
+  {
+   "ref": "CH5.29",
+   "type": "marking",
+   "quote": "Some of them are so incensed against that Theophrastus",
+   "what": "that Theophrastus",
+   "term": "Theophrastus",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B14"
+   ],
+   "note": "The man called Paracelsus earlier in this paragraph is here spoken of as 'that Theophrastus'; the paragraph uses both names."
+  },
+  {
+   "ref": "CH5.29",
+   "type": "position",
+   "quote": "they had rather let their Patients perish then make use of his prescriptions",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A12",
+    "B15"
+   ],
+   "note": "Some physicians, out of anger at him, would sooner let patients die than use his prescriptions."
+  },
+  {
+   "ref": "CH5.29",
+   "type": "position",
+   "quote": "the better they are, the more doe they undervalue them",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A13",
+    "B16"
+   ],
+   "note": "His medicines are despised for fear their effect would blemish the despisers' repute: the better they are, the more they are run down."
+  },
+  {
+   "ref": "CH5.30",
+   "type": "voice",
+   "quote": "falsly charge the genuine Chymists that they have lost the right method",
+   "name": "the Censurers of Theophrastus, those fallacious Medodists",
+   "term": "Medodists",
+   "voice": "QUOTED: the Censurers of Theophrastus, those fallacious Medodists",
+   "tags": [],
+   "from": [
+    "A14",
+    "B17"
+   ],
+   "note": "The charge of the censurers of Theophrastus against the Chymists, reported and called false."
+  },
+  {
+   "ref": "CH5.30",
+   "type": "position",
+   "quote": "who linger out the cure, and lengthen the disease by their compendium",
+   "term": "compendium",
+   "voice": "CROLL",
+   "tags": [
+    "wording-dependent"
+   ],
+   "from": [
+    "B18"
+   ],
+   "note": "The author's own charge against those censurers: their short way draws out the cure and lengthens the disease."
+  },
+  {
+   "ref": "CH5.30",
+   "type": "concealment",
+   "quote": "tis plaine to those that have their understanding inlightned",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A15"
+   ],
+   "note": "What follows is said to be plain only to those whose understanding is enlightened."
+  },
+  {
+   "ref": "CH5.30",
+   "type": "position",
+   "quote": "Paracelsus observed onely that method that was agreeable to Reason and Experience",
+   "term": "method",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A16",
+    "B19"
+   ],
+   "note": "The author holds that Paracelsus kept a method grounded in reason and experience."
+  },
+  {
+   "ref": "CH5.30",
+   "type": "position",
+   "quote": "we are not so much to regard by whom, as what it is that is spoken",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A17",
+    "B21"
+   ],
+   "note": "Truth is set above any man's authority: what is said counts for more than who says it."
+  },
+  {
+   "ref": "CH5.31",
+   "type": "own definition",
+   "quote": "True Method consisteth in the knowledg of the Disease, and the Cure of it",
+   "term": "Method",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A18",
+    "B22",
+    "B23"
+   ],
+   "note": "The text says what True Method is: knowing the disease and curing it, spelled out after 'viz.' as what food with fitting medicines drives sickness away."
+  },
+  {
+   "ref": "CH5.31",
+   "type": "voice",
+   "quote": "Wimpeneus learnedly sheweth that greatest and most grievous Diseases now a dayes are in three respects cured by the Paracelsians",
+   "name": "Wimpeneus",
+   "term": "Paracelsians",
+   "voice": "QUOTED: Wimpeneus",
+   "tags": [],
+   "from": [
+    "A19",
+    "B24"
+   ],
+   "note": "A named writer is given as the source of the three respects that follow (First CH5.32, Secondly CH5.45, Thirdly CH5.46)."
+  },
+  {
+   "ref": "CH5.31",
+   "type": "marking",
+   "quote": "in three respects",
+   "what": "three respects",
+   "voice": "QUOTED: Wimpeneus",
+   "tags": [],
+   "from": [
+    "A20"
+   ],
+   "note": "Announces a numbered set of three, taken up as First, Secondly, Thirdly in CH5.32, CH5.45, CH5.46."
+  },
+  {
+   "ref": "CH5.32",
+   "type": "marking",
+   "quote": "First, Because the Diseases are more perfectly known",
+   "what": "the first respect",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "A21",
+    "B25"
+   ],
+   "note": "The first of the three respects: diseases are better known."
+  },
+  {
+   "ref": "CH5.32",
+   "type": "position",
+   "quote": "those that sprang from Tartar cleaving to any part could not be cured, because it cannot be referred to any of those four humours",
+   "term": "Tartar",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "A22",
+    "B26"
+   ],
+   "note": "Diseases from Tartar could not be cured while all diseases were reduced to the four humours."
+  },
+  {
+   "ref": "CH5.32",
+   "type": "marking",
+   "quote": "And since we are here fallen upon Tartar I will speak a little more of it.",
+   "what": "a little more of Tartar",
+   "term": "Tartar",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A23",
+    "B27"
+   ],
+   "note": "The author announces a digression on Tartar; it runs to 'So much for Tartar.' at the end of CH5.44."
+  },
+  {
+   "ref": "CH5.33",
+   "type": "own definition",
+   "quote": "The first Ens or Being toward life",
+   "term": "Ens",
+   "voice": "CROLL",
+   "tags": [
+    "wording-dependent"
+   ],
+   "from": [
+    "A24",
+    "B28",
+    "B29"
+   ],
+   "note": "'Ens' is given with 'or Being' beside it; the first Ens is that from which the body has its nourishment, arising from the last matter of the meat."
+  },
+  {
+   "ref": "CH5.33",
+   "type": "own definition",
+   "quote": "by the Archaeus, or digestion of the Stomack",
+   "term": "Archaeus",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A25",
+    "B30"
+   ],
+   "note": "Here 'the Archaeus' is given with 'or digestion of the Stomack' beside it."
+  },
+  {
+   "ref": "CH5.33",
+   "type": "operation",
+   "quote": "it's separation, and generation of separation",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A26"
+   ],
+   "note": "The first Ens arises from the last matter of the meat by separation."
+  },
+  {
+   "ref": "CH5.33",
+   "type": "operation",
+   "quote": "reduc'd unto Sulphur, Mercury, and Salt, as is plain in the three chief Emunctories",
+   "term": "Emunctories",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A27",
+    "B31"
+   ],
+   "note": "Nourishment is reduced into three, Sulphur, Mercury and Salt; the body's three chief outlets are given as the evidence."
+  },
+  {
+   "ref": "CH5.33",
+   "type": "operation",
+   "quote": "the superfluity of Salt is separated by the Urine, that of Sulphure is divided and purged through the Entrals",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A28",
+    "B32"
+   ],
+   "note": "Excess Salt leaves by the urine, excess Sulphur through the entrails."
+  },
+  {
+   "ref": "CH5.33",
+   "type": "own definition",
+   "quote": "Mercury or the moisture of that which nourisheth",
+   "term": "Mercury",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B33"
+   ],
+   "note": "Mercury is here called the moisture of what nourishes."
+  },
+  {
+   "ref": "CH5.33",
+   "type": "operation",
+   "quote": "if there be too much of it passeth through the pores by sweat",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A29"
+   ],
+   "note": "Excess Mercury leaves through the pores by sweat."
+  },
+  {
+   "ref": "N217",
+   "type": "position",
+   "quote": "Every member hath its own proper digestion, seperation, emunctory, excrement in it selfe.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A30",
+    "B34"
+   ],
+   "note": "Each member has its own digestion, separation, outlet and excrement."
+  },
+  {
+   "ref": "N217",
+   "type": "internal conflict",
+   "quote": "The first digestion of the stomack is not digestion, but apparation for the digestions of the particular members.",
+   "with": "CH5.33",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A31",
+    "B35"
+   ],
+   "note": "The note denies that the stomach's first digestion is digestion; the paragraph beside it speaks of 'the Archaeus, or digestion of the Stomack'."
+  },
+  {
+   "ref": "CH5.34",
+   "type": "position",
+   "quote": "Whatsoever we eat and drink hath in it a mucilagenous, clayish, and sandy Tartar hurtful to our Health",
+   "term": "Tartar",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A32",
+    "B36"
+   ],
+   "note": "All food and drink carries a Tartar harmful to health."
+  },
+  {
+   "ref": "CH5.34",
+   "type": "own definition",
+   "quote": "the Stomack which is the instrument of Mans Archaeus, or the Internal, innate Chymist which God hath planted in Man",
+   "term": "Archaeus",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A33",
+    "B37"
+   ],
+   "note": "The Archaeus is called the inward, inborn Chymist planted in man by God; the stomach is its instrument."
+  },
+  {
+   "ref": "CH5.34",
+   "type": "operation",
+   "quote": "it seperateth that which is impure, dreggy, and Tartarous from the pure Nourishment",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A34",
+    "B38"
+   ],
+   "note": "The stomach parts the impure and Tartarous from the pure nourishment as soon as it takes anything in."
+  },
+  {
+   "ref": "CH5.34",
+   "type": "operation",
+   "quote": "if the Stomack be strong in it's ful separative force, the pure passeth to the Members for nourishment, the impure goeth out by successe",
+   "term": "successe",
+   "voice": "CROLL",
+   "tags": [
+    "wording-dependent"
+   ],
+   "from": [
+    "B39"
+   ],
+   "note": "With a strong stomach the pure goes to the members and the impure leaves the body."
+  },
+  {
+   "ref": "CH5.34",
+   "type": "operation",
+   "quote": "If the Stomack be weak and feeble the impure also is sent through the Mesaraick veins to the Liver, and there separated and digested the second time",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A35",
+    "B40"
+   ],
+   "note": "A weak stomach passes the impure on to the liver for a second separation and digestion."
+  },
+  {
+   "ref": "CH5.34",
+   "type": "local signal",
+   "quote": "seperateth the pure from the impure, viz. the Rubie from the Chrystall",
+   "term": "Rubie",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A36",
+    "B41"
+   ],
+   "note": "Pure and impure are given the names of two stones; the text goes on to say what each is."
+  },
+  {
+   "ref": "CH5.34",
+   "type": "own definition",
+   "quote": "The Rubie is the nourishment of all the members",
+   "term": "Rubie",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A37",
+    "B42"
+   ],
+   "note": "The text says what 'the Rubie' means here."
+  },
+  {
+   "ref": "CH5.34",
+   "type": "own definition",
+   "quote": "the Christall or that which is not the nourishment it sendeth to the reines",
+   "term": "Christall",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A38",
+    "B43"
+   ],
+   "note": "The text says the Christall is what is not nourishment, sent to the kidneys."
+  },
+  {
+   "ref": "CH5.34",
+   "type": "own definition",
+   "quote": "this is urine, which is nothing else but the Salt pressed out of the Mercurialls, forced into resolution by the violence of separation",
+   "term": "urine",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A39",
+    "B44"
+   ],
+   "note": "Urine is said to be nothing but the Salt pressed out of 'the Mercurialls' by the violence of separation."
+  },
+  {
+   "ref": "CH5.34",
+   "type": "operation",
+   "quote": "If the Liver be weak and cannot well separate it sendeth it to the kidneys mucilaginous and stony",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B45"
+   ],
+   "note": "With a weak liver the matter reaches the kidneys slimy and stony."
+  },
+  {
+   "ref": "CH5.34",
+   "type": "own definition",
+   "quote": "that is, when the spirits of Salt, viz. of the flesh and of the urine are united",
+   "term": "spirits of Salt",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B46"
+   ],
+   "note": "The text glosses 'want of good separation' in the kidneys: the spirits of Salt of the flesh and of the urine are joined."
+  },
+  {
+   "ref": "CH5.34",
+   "type": "operation",
+   "quote": "the Spirit of the Salt coming between by the power of predestination, it is coagulated into Sand or Tartar, either cloddy or mucilaginous",
+   "term": "Spirit of the Salt",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A40",
+    "B47"
+   ],
+   "note": "When separation fails, the Spirit of the Salt coagulates the matter in the kidneys into sand or Tartar."
+  },
+  {
+   "ref": "N218",
+   "type": "marking",
+   "quote": "the second which is of the stomack into haile; the third of the kidneys and bladder into a little stone",
+   "what": "the first, second and third separation of Tartar",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A41",
+    "B48"
+   ],
+   "note": "The note numbers three separations of Tartar and what each turns into: mosse, haile, a little stone; the first stands beside a gap in the print."
+  },
+  {
+   "ref": "N218",
+   "type": "internal conflict",
+   "quote": "the second which is of the stomack into haile",
+   "with": "CH5.34",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A42",
+    "B49"
+   ],
+   "note": "The note puts the liver's separation first and gives the stomach the second; CH5.34 has the stomach separate first and the liver 'the second time'."
+  },
+  {
+   "ref": "N218",
+   "type": "position",
+   "quote": "Every Man hath mosse & haile, but not a stone in him.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A43",
+    "B50"
+   ],
+   "note": "Mosse and haile are in every man; the stone is not."
+  },
+  {
+   "ref": "CH5.35",
+   "type": "own definition",
+   "quote": "Tartar therefore is the excrement of meat and drink, which by the spirit of Salt is coagulated in Man",
+   "term": "Tartar",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A44",
+    "B51"
+   ],
+   "note": "The text states what Tartar is."
+  },
+  {
+   "ref": "CH5.35",
+   "type": "operation",
+   "quote": "except it be mixt together with the Excrements by the proper expulsive vertue and so cast our with them",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B52"
+   ],
+   "note": "Tartar is not coagulated in man when the body's own expelling power casts it out with the excrements."
+  },
+  {
+   "ref": "CH5.35",
+   "type": "marking",
+   "quote": "four kinds of Tartar, the stone of the bladder, the Sand of the Kidneys, the clods or gobbets, as also the Slime or lutous matter of the stomack",
+   "what": "four kinds of Tartar",
+   "term": "Tartar",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A45",
+    "B53"
+   ],
+   "note": "Four kinds of Tartar are counted and named by the form they take in the body."
+  },
+  {
+   "ref": "CH5.35",
+   "type": "position",
+   "quote": "with many other diseases which the Ancients knew not",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A46",
+    "B54"
+   ],
+   "note": "These and many other diseases were not known to the Ancients."
+  },
+  {
+   "ref": "CH5.36",
+   "type": "voice",
+   "quote": "Paracelsus distinguisheth Tartar into that which is strange or forraine proceeding from meat and drink, and that which is innate of the cruor or hereditary blood",
+   "name": "Paracelsus",
+   "term": "Tartar",
+   "voice": "QUOTED: Paracelsus",
+   "tags": [],
+   "from": [
+    "A47",
+    "B55"
+   ],
+   "note": "A twofold division of Tartar, foreign from food and innate from hereditary blood, is given to Paracelsus."
+  },
+  {
+   "ref": "CH5.36",
+   "type": "position",
+   "quote": "which innate Tartarous disposition cannot be cured by the Physitian who knows not how to force Nature",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "B56"
+   ],
+   "note": "The inborn Tartarous disposition is beyond the physician who cannot 'force Nature'; whether this is still Paracelsus' teaching or the author's the sentence does not show."
+  },
+  {
+   "ref": "CH5.36",
+   "type": "position",
+   "quote": "but onely by the Quint-Essence of Gold which reneweth the whole body",
+   "term": "Quint-Essence of Gold",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "A48",
+    "B57"
+   ],
+   "note": "One remedy is named as the only cure of innate Tartar and said to renew the whole body; the lines given do not say how it is made, nor whether the claim is the author's or Paracelsus'."
+  },
+  {
+   "ref": "CH5.37",
+   "type": "own definition",
+   "quote": "Tartar therefore or the Naturall superfluity (the mucilage of Salt) is the mother of almost all diseases of all coagulate bodies",
+   "term": "Tartar",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A49",
+    "B58"
+   ],
+   "note": "Tartar is given two further names, the natural superfluity and the mucilage of Salt, and called the mother of almost all diseases."
+  },
+  {
+   "ref": "CH5.37",
+   "type": "position",
+   "quote": "hath Poyson or a Tartarous Mucilaginous Impurity hard by or close unto the medicine or Physick thereof",
+   "term": "Poyson",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A50",
+    "B59"
+   ],
+   "note": "By divine ordination every food has a poison, glossed as Tartarous impurity, close beside its medicine."
+  },
+  {
+   "ref": "N219",
+   "type": "voice",
+   "quote": "Paracels saith that the Matter, viz. the Tartar of diseases is twofold",
+   "name": "Paracels",
+   "voice": "QUOTED: Paracels",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A51",
+    "B60"
+   ],
+   "note": "The margin note gives Paracelsus a twofold division of the Tartar of diseases, Bolous and Viscous."
+  },
+  {
+   "ref": "N219",
+   "type": "marking",
+   "quote": "Bolous, such as in milk meats, fish, and flesh",
+   "what": "Bolous and Viscous",
+   "term": "Bolous",
+   "voice": "QUOTED: Paracels",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A52",
+    "B61",
+    "B62"
+   ],
+   "note": "Two named kinds of the matter of diseases, each with the foods that yield it: Bolous from milk meats, fish and flesh; Viscous from pulse, coleworts, roots, fruits."
+  },
+  {
+   "ref": "CH5.38",
+   "type": "marking",
+   "quote": "There are four sorts of Tartar, springing from the fourfold fruits of the Elements by which we are nourished.",
+   "what": "four sorts of Tartar",
+   "term": "Tartar",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A53",
+    "B63"
+   ],
+   "note": "Four sorts of Tartar are announced, by the fourfold fruits of the Elements; CH5.39 to CH5.42 number them."
+  },
+  {
+   "ref": "CH5.38",
+   "type": "internal conflict",
+   "quote": "There are four sorts of Tartar, springing from the fourfold fruits of the Elements",
+   "with": "CH5.35",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B64"
+   ],
+   "note": "This four is counted by the source of the food; the four kinds of CH5.35 are counted by the form in the body. The lines given do not say how the two fours relate."
+  },
+  {
+   "ref": "CH5.39",
+   "type": "marking",
+   "quote": "The first sort ariseth from the use of those things which grow in the Earth",
+   "what": "the first sort",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A54",
+    "B65"
+   ],
+   "note": "First sort: from what grows in the Earth."
+  },
+  {
+   "ref": "CH5.40",
+   "type": "marking",
+   "quote": "The second cometh from the nourishment which we have from the Water",
+   "what": "the second",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A55",
+    "B66"
+   ],
+   "note": "Second sort: from foods of the Water."
+  },
+  {
+   "ref": "CH5.41",
+   "type": "marking",
+   "quote": "The third is in the Flesh of Beasts and Fowles.",
+   "what": "the third",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A56",
+    "B67"
+   ],
+   "note": "Third sort: in the flesh of beasts and fowls; no element is named in this line."
+  },
+  {
+   "ref": "CH5.42",
+   "type": "marking",
+   "quote": "The fourth from the Firmament, which is most like to the Spirit of wine in its subtilty",
+   "what": "the fourth",
+   "term": "Firmament",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A57",
+    "B68"
+   ],
+   "note": "Fourth sort: from the Firmament, likened to Spirit of wine for subtlety and said to have the strongest impression."
+  },
+  {
+   "ref": "CH5.42",
+   "type": "position",
+   "quote": "if the Aire be infected by the vapours of the Earth, and Water, and Firmament, afterward it affecteth us also",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A58",
+    "B69"
+   ],
+   "note": "The air, infected by vapours of Earth, Water and Firmament, then affects men."
+  },
+  {
+   "ref": "CH5.42",
+   "type": "marking",
+   "quote": "those acute and pernicious Astrall diseases, the Pleuresie, Plague",
+   "what": "Astrall diseases",
+   "term": "Astrall",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B70"
+   ],
+   "note": "A class of diseases is named 'Astrall' and examples given."
+  },
+  {
+   "ref": "CH5.42",
+   "type": "marking",
+   "quote": "which diseases proceeding from the impressions of the Stars the universall medicine powerfull expelleth",
+   "what": "the universall medicine",
+   "term": "universall medicine",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A59",
+    "B71"
+   ],
+   "note": "A thing named 'the universall medicine' is said to expel the diseases from the impressions of the Stars; the lines given do not say what it is."
+  },
+  {
+   "ref": "CH5.43",
+   "type": "operation",
+   "quote": "Those four kinds of Tartar shew themselves in the Urine, and are judged of by the art of separation",
+   "term": "art of separation",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A60",
+    "B72"
+   ],
+   "note": "The kind of Tartar behind a disease is judged in the urine by the art of separation."
+  },
+  {
+   "ref": "CH5.43",
+   "type": "position",
+   "quote": "He that knoweth what sort of food any one eateth, may also know his disease",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A61",
+    "B73"
+   ],
+   "note": "Food and disease are each knowable from the other."
+  },
+  {
+   "ref": "CH5.43",
+   "type": "position",
+   "quote": "The disease is cured by the same Element that was the cause of it.",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A62",
+    "B74"
+   ],
+   "note": "A rule of cure: by the same Element that caused the disease."
+  },
+  {
+   "ref": "CH5.43",
+   "type": "voice",
+   "quote": "which Paracelsus comprehendeth under the name of Poyson and Tartar",
+   "name": "Paracelsus",
+   "term": "Poyson",
+   "voice": "QUOTED: Paracelsus",
+   "tags": [],
+   "from": [
+    "A63",
+    "B75"
+   ],
+   "note": "The excrements of meat and drink are what Paracelsus means by the names Poyson and Tartar."
+  },
+  {
+   "ref": "CH5.43",
+   "type": "position",
+   "quote": "Choller and Melancholly had long since been rooted out of the Physitians Garden",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A64",
+    "B76"
+   ],
+   "note": "Had Galen and his followers known these excrements, Choler and Melancholy would long since have been given up; said in the figure of a garden."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "position",
+   "quote": "cannot possibly understand how the Author of diseases afflicteth us, by destroying the frame of the little world and taking away our life",
+   "term": "Author of diseases",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A65",
+    "B77"
+   ],
+   "note": "Without knowing the Tartarous matter one cannot understand how 'the Author of diseases' afflicts us; the Author of diseases is not named."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "local signal",
+   "quote": "by destroying the frame of the little world",
+   "term": "little world",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A66"
+   ],
+   "note": "Man is called the little world."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "own definition",
+   "quote": "our Naturall Heat, or the microcosmicall heat of the Sun and Moon that is in us",
+   "term": "Naturall Heat",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A67",
+    "B78"
+   ],
+   "note": "What separates Tartar from nourishment is named: our natural heat, also called the microcosmical heat of the Sun and Moon in us, which digests the nutriment."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "local signal",
+   "quote": "the microcosmicall heat of the Sun and Moon that is in us",
+   "term": "Sun and Moon",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B79"
+   ],
+   "note": "'Sun and Moon' are here spoken of as within man, not as the lights of the sky."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "operation",
+   "quote": "then it must be strengthned by its like, that is, by the macrocosmicall Heat of Sun and Moon, if it could be got",
+   "term": "macrocosmicall Heat",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A68",
+    "B80"
+   ],
+   "note": "Weakened inner heat is to be strengthened by its like in the great world; 'if it could be got' marks it as hard to come by."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "local signal",
+   "quote": "even the most simple matter which the most Great God generated of the spirit of the world (one and the same with the spirit of our body)",
+   "term": "spirit of the world",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A69",
+    "B81"
+   ],
+   "note": "A matter is pointed to but not named; the text says only what it is made of and that it is for restoring and keeping human nature."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "position",
+   "quote": "the spirit of the world (one and the same with the spirit of our body)",
+   "term": "spirit of the world",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B82"
+   ],
+   "note": "The spirit of the world and the spirit of man's body are said to be one and the same."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "operation",
+   "quote": "is deduced by art into act, viz. turned into such a simple spirit as is the spirit of our life, which is done by resolution and conjuction with the Nutriment",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A70",
+    "B83"
+   ],
+   "note": "Things holding the power of Sun and Moon are brought by art into act, turned into a simple spirit like the spirit of life, by resolution and joining with the nutriment."
+  },
+  {
+   "ref": "N220",
+   "type": "position",
+   "quote": "The Vitall spirit in Man and the Elementall is but one spirit.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A71",
+    "B84"
+   ],
+   "note": "The note makes the vital spirit in man and the elemental spirit one."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "position",
+   "quote": "then the excrements stay in the Chylus, and cause stomachall diseases in the stomack, Jecorall in the liver",
+   "term": "Chylus",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A72",
+    "B85"
+   ],
+   "note": "If the separating Archaeus of stomach, liver or kidneys is infected or hindered, the excrements stay in the Chylus and breed the diseases of each place."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "position",
+   "quote": "and breed the Gout in the hands, feet, knees, from congelation of the glew by the spirit of Salt",
+   "term": "spirit of Salt",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B86"
+   ],
+   "note": "The Gout is said to come from the congealing of 'the glew' by the spirit of Salt."
+  },
+  {
+   "ref": "N221",
+   "type": "marking",
+   "quote": "Tartar differeth according to the places of the bodies pores and passages",
+   "what": "Tartar by places of the body",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A73",
+    "B87"
+   ],
+   "note": "Tartar is distinguished by where it lodges in the body; the note lists the places."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "marking",
+   "quote": "Therefore the Archaeus of the stomack must destroy the Tartar of the Elements least it be turned into the Tartar of Man",
+   "what": "the Tartar of the Elements; the Tartar of Man",
+   "term": "Tartar of the Elements",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A74",
+    "B88"
+   ],
+   "note": "Two Tartars are set apart by name: the Tartar of the Elements and the Tartar of Man."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "local signal",
+   "quote": "the spirit of the Sun which is Lord and Master of coagulation in various subjects will breed the Stone",
+   "term": "spirit of the Sun",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A75"
+   ],
+   "note": "The spirit of the Sun is made lord of coagulation; in this context the Stone it breeds is the stone in the body."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "internal conflict",
+   "quote": "the spirit of the Sun which is Lord and Master of coagulation in various subjects will breed the Stone",
+   "with": "CH5.35",
+   "term": "spirit of the Sun",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B89"
+   ],
+   "note": "Here the spirit of the Sun is lord of coagulation and breeds the Stone; CH5.35 has Tartar coagulated in man by the spirit of Salt. The lines given do not say how the two relate."
+  },
+  {
+   "ref": "CH5.44",
+   "type": "cross-reference",
+   "quote": "So much for Tartar.",
+   "term": "Tartar",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A76",
+    "B90"
+   ],
+   "note": "Closes the digression on Tartar opened at the end of CH5.32."
+  },
+  {
+   "ref": "CH5.45",
+   "type": "marking",
+   "quote": "Secondly, Because we have more perfect medicines now then heretofore, that is to say, of Mineralls",
+   "what": "the second respect",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "A77",
+    "B91"
+   ],
+   "note": "The second of the three respects: more perfect medicines, of minerals."
+  },
+  {
+   "ref": "CH5.45",
+   "type": "local signal",
+   "quote": "those skilfull Chymists the Sons of Cadmus",
+   "term": "Sons of Cadmus",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "A78",
+    "B92"
+   ],
+   "note": "The Chymists to whom the preparing of mineral medicines was discovered are given a figurative name the text does not explain."
+  },
+  {
+   "ref": "CH5.45",
+   "type": "local signal",
+   "quote": "A knotty piece must be cloven with hard wedges",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "A80",
+    "B93"
+   ],
+   "note": "A saying about wood is used for diseases and remedies; the paragraph says its sense plainly: extreme diseases call for extreme remedies."
+  },
+  {
+   "ref": "CH5.45",
+   "type": "voice",
+   "quote": "Paracelsus would have a steely medicine applied as proper for an iron disease",
+   "name": "Paracelsus",
+   "voice": "QUOTED: Paracelsus",
+   "tags": [],
+   "from": [
+    "A79",
+    "B94"
+   ],
+   "note": "A rule of cure given to Paracelsus: a steely medicine for an iron disease."
+  },
+  {
+   "ref": "CH5.46",
+   "type": "marking",
+   "quote": "Thirdly, Because now the Harmony between the great and little world is made so plaine",
+   "what": "the third respect",
+   "term": "great and little world",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "A81",
+    "B95"
+   ],
+   "note": "The third respect: the harmony of the great and the little world is now plainly understood."
+  },
+  {
+   "ref": "CH5.46",
+   "type": "position",
+   "quote": "as Silver, Saphir, Vitrioll, Emeralds, for the braine; for the heart, Gold, Pearles, Saffron; for the lungs, Brimstone",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "A82",
+    "B96"
+   ],
+   "note": "From that harmony it is easy to know which medicine is familiar and friendly to which member; three members are given with their medicines."
+  },
+  {
+   "ref": "CH5.47",
+   "type": "position",
+   "quote": "Whereas Paracelsus offendeth Galen, Galen did the same to others",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A83",
+    "B97"
+   ],
+   "note": "Disagreement is common among physicians, not peculiar to Paracelsus: Galen went against others too."
+  },
+  {
+   "ref": "CH5.47",
+   "type": "position",
+   "quote": "Hippocrates wrote many things, which most Galenists reject at this day",
+   "term": "Galenists",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B98"
+   ],
+   "note": "Most Galenists are said to reject much of what Hippocrates wrote."
+  },
+  {
+   "ref": "CH5.47",
+   "type": "position",
+   "quote": "nor doe the stoutest of common vulgar Physitians agree among themselves",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B99"
+   ],
+   "note": "The common physicians do not agree with one another."
+  },
+  {
+   "ref": "CH5.47",
+   "type": "position",
+   "quote": "by those that differ in their most pugnacious opinions, and that are ignorant Mechanick forgers of diseases",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B100"
+   ],
+   "note": "The author's words for the disputing physicians."
+  },
+  {
+   "ref": "CH5.48",
+   "type": "position",
+   "quote": "As between Schekius and Fuchsius about the continent Cause of diseases.",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A84",
+    "B101"
+   ],
+   "note": "First of five disputes named as examples: Schekius and Fuchsius; no words of theirs are reported."
+  },
+  {
+   "ref": "CH5.48",
+   "type": "position",
+   "quote": "Between Argenterius and Fernelius about Agues and Fevers.",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A85",
+    "B103"
+   ],
+   "note": "Second dispute named: Argenterius and Fernelius; no words of theirs are reported."
+  },
+  {
+   "ref": "CH5.48",
+   "type": "position",
+   "quote": "Between Galen and Rondeletius concerning the Palsie, Epilepsie and Stone.",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A86",
+    "B104"
+   ],
+   "note": "Third dispute named: Galen and Rondeletius; no words of theirs are reported."
+  },
+  {
+   "ref": "CH5.48",
+   "type": "position",
+   "quote": "Between Francaneianus, Rondelatius and Fallopius about the French Pox.",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A87",
+    "B105"
+   ],
+   "note": "Fourth dispute named; the second name is spelled 'Rondelatius' here and 'Rondeletius' in the sentence before."
+  },
+  {
+   "ref": "CH5.48",
+   "type": "position",
+   "quote": "Between Altomarus and Fernelius concerning the Gout.",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A88",
+    "B106"
+   ],
+   "note": "Fifth dispute named: Altomarus and Fernelius; no words of theirs are reported."
+  },
+  {
+   "ref": "N222",
+   "type": "voice",
+   "quote": "You may find more jarring in opinions in Agryppa",
+   "name": "Agryppa",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A89",
+    "B102"
+   ],
+   "note": "The note sends the reader to a named writer's chapter on medicine for more disagreements; part of the title stands at a gap. No words of his are given."
+  },
+  {
+   "ref": "CH5.49",
+   "type": "position",
+   "quote": "How many millions, according to the disagreeing and jarring method of these men, will still perish",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A90",
+    "B107"
+   ],
+   "note": "Many will die before these physicians settle the cause of the diseases they dispute."
+  },
+  {
+   "ref": "CH5.49",
+   "type": "position",
+   "quote": "I willingly passe by the Herbarists, who commonly squabble and raile at one another with endlesse jangling about the Wool of Plants",
+   "term": "Herbarists",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A91",
+    "B108"
+   ],
+   "note": "The author passes over the quarrelsome Herbarists for brevity."
+  },
+  {
+   "ref": "CH5.50",
+   "type": "marking",
+   "quote": "I exhort and admonish all Students of Hippocraticall and Galenicall Physick, in whom the Philosophicall veine is yet warme",
+   "what": "I exhort and admonish all Students of Hippocraticall and Galenicall Physick",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A92",
+    "B109"
+   ],
+   "note": "The author names whom he addresses and announces an exhortation to students of the old physic."
+  },
+  {
+   "ref": "CH5.50",
+   "type": "position",
+   "quote": "what our industry hath found out should not shut the door against that of the Ancients",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A93",
+    "B110"
+   ],
+   "note": "The students addressed are those who hold that new findings should not shut out the Ancients'."
+  },
+  {
+   "ref": "CH5.50",
+   "type": "position",
+   "quote": "that they would forsake their Fathers faults and other mens errours",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B111"
+   ],
+   "note": "First thing urged: to leave inherited faults and others' errors."
+  },
+  {
+   "ref": "CH5.50",
+   "type": "position",
+   "quote": "spend some time in reading the works of this new Phylosopher and Physitian, not superficially and prefunctorily, but with greatest diligence and attention of mind",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A94",
+    "B112"
+   ],
+   "note": "Second thing urged: to read the works of this new philosopher and physician with the greatest care."
+  },
+  {
+   "ref": "CH5.50",
+   "type": "local signal",
+   "quote": "we are to imitate the experience and industry of the Bees",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A95",
+    "B113"
+   ],
+   "note": "The way to read is given in a figure: as bees gather, segregating the best from the worst."
+  },
+  {
+   "ref": "CH5.51",
+   "type": "position",
+   "quote": "I doe not so far perswade men that they should so adore every thing of Paracelsus",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A96",
+    "B114"
+   ],
+   "note": "The author limits his exhortation: Paracelsus is not to be taken as if all were Gospel-Oracles."
+  },
+  {
+   "ref": "CH5.51",
+   "type": "position",
+   "quote": "he himselfe hath recanted something of his over hasty writings",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A97",
+    "B115"
+   ],
+   "note": "Paracelsus himself is said to have taken back some of his over-hasty writings; no words of his are given."
+  },
+  {
+   "ref": "CH5.51",
+   "type": "position",
+   "quote": "as we see many who even worship the conclusions, and opinions of Hethen Authors",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B116"
+   ],
+   "note": "Beside this the author sets the many who worship the opinions of heathen authors."
+  },
+  {
+   "ref": "CH5.51",
+   "type": "position",
+   "quote": "the diligent and accurate reading of him may give us greater light, and be no small advantage to us for the more intimate and right understanding of Hippocrates his works",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A98",
+    "B117"
+   ],
+   "note": "The reason given for reading Paracelsus: more light, and a better understanding of Hippocrates' works."
+  },
+  {
+   "ref": "CH5.52",
+   "type": "position",
+   "quote": "They are not to be praised who rashly condemn all that Paracelsus hath written, when yet they have not read so much as his marginall notes",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A99",
+    "B118"
+   ],
+   "note": "Those who condemn all of Paracelsus have not read even his margin notes."
+  },
+  {
+   "ref": "CH5.52",
+   "type": "position",
+   "quote": "or if they have, yet truly they understand not fully the third part of them",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B119"
+   ],
+   "note": "Those who have read them are said not to understand a third of them."
+  },
+  {
+   "ref": "CH5.53",
+   "type": "local signal",
+   "quote": "throw away the kernell and pick up onely the husks of Phylosophers",
+   "term": "Phylosopasters",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A100",
+    "B120"
+   ],
+   "note": "Those addressed as Phylosopasters keep the husk and throw away the kernel: an outer and an inner part of the philosophers' writings."
+  },
+  {
+   "ref": "CH5.53",
+   "type": "concealment",
+   "quote": "for the spirit, that ye may understand the dead letter of Theophrastus, and the Phylosophers",
+   "term": "dead letter",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A101",
+    "B121"
+   ],
+   "note": "The letter of Theophrastus and the philosophers is called dead; understanding it needs the spirit, to be asked of God."
+  },
+  {
+   "ref": "CH5.54",
+   "type": "marking",
+   "quote": "His works which were Printed for the publick good, by the incouragement and at the cost of that most Renowned and Reverend Ernestus Prince Elector of Coleine",
+   "what": "His works",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A102",
+    "B122"
+   ],
+   "note": "The printing of Paracelsus' works is named, with the prince who encouraged and paid for it."
+  },
+  {
+   "ref": "CH5.54",
+   "type": "voice",
+   "quote": "have given occasion to his adversaries to charge him with implicite and evident contradiction",
+   "name": "his adversaries",
+   "voice": "QUOTED: his adversaries",
+   "tags": [],
+   "from": [
+    "A103",
+    "B123"
+   ],
+   "note": "The charge of contradiction is given to Paracelsus' adversaries; the author answers it by his manner of writing."
+  },
+  {
+   "ref": "CH5.54",
+   "type": "concealment",
+   "quote": "to the unskilfull and unlearned he wrote in a Magicall stile; not for the vulgar sort, but for himselfe and the understanding children of Wisdome trained up in the School of Magick",
+   "term": "Magicall stile",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A104",
+    "B124",
+    "B125"
+   ],
+   "note": "The cause given for the seeming contradiction: he wrote in a magical style, for himself and the children of Wisdom, not for the common sort."
+  },
+  {
+   "ref": "CH5.54",
+   "type": "concealment",
+   "quote": "not for the Sophisticall Alchymists, such as are bewitch'd with a greedy desire of Gold",
+   "term": "Sophisticall Alchymists",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A105",
+    "B126"
+   ],
+   "note": "A second group shut out: the Sophisticall Alchymists greedy for gold."
+  },
+  {
+   "ref": "CH5.54",
+   "type": "position",
+   "quote": "incensed with a righteous hatred against some most wretched, wicked, inhumane Physitians and Druggists of his time",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A106",
+    "B127"
+   ],
+   "note": "A motive given for his manner of writing: righteous hatred of physicians and druggists who often lay in wait to poison him."
+  },
+  {
+   "ref": "CH5.54",
+   "type": "concealment",
+   "quote": "those circumforanceous and vulgar Alchymists would have surpassed all other Physitians, and prostituted the Art",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A107",
+    "B128"
+   ],
+   "note": "Had he written more plainly, the vulgar alchemists would have outdone all physicians and made the Art common: the reason for not writing plainly."
+  },
+  {
+   "ref": "CH5.55",
+   "type": "concealment",
+   "quote": "He concealed his mysteries under vulgar and various names",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A108",
+    "B129"
+   ],
+   "note": "Stated: Paracelsus hid his mysteries under common and varied names."
+  },
+  {
+   "ref": "CH5.55",
+   "type": "local signal",
+   "quote": "we must not take the similitudes for the truth it selfe, or that which is intended by them",
+   "term": "similitudes",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A109",
+    "B130"
+   ],
+   "note": "A rule of reading: his likenesses are not the thing meant by them."
+  },
+  {
+   "ref": "CH5.55",
+   "type": "own definition",
+   "quote": "the Physicall Secrets, that is, the hidden power of God, or the Magicall WORDS in Paracelsus",
+   "term": "Physicall Secrets",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A110",
+    "B131"
+   ],
+   "note": "The text says what the Physicall Secrets are: the hidden power of God, or the magical words in Paracelsus."
+  },
+  {
+   "ref": "CH5.55",
+   "type": "concealment",
+   "quote": "they need and require a Delian swimmer, a most acute and sharp wit, a Magicall Understanding, even that purified eye of the Mind",
+   "term": "Delian swimmer",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A111",
+    "B132"
+   ],
+   "note": "Few understand; the reader needs a special wit to search out the hidden sentences and mysteries."
+  },
+  {
+   "ref": "CH5.55",
+   "type": "own definition",
+   "quote": "I mean that which is True and lawfull",
+   "term": "Magick",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A112",
+    "B133"
+   ],
+   "note": "The author says what he means by Magick everywhere; the word itself stands at a gap in the print."
+  },
+  {
+   "ref": "CH5.55",
+   "type": "position",
+   "quote": "which is fit for none but Vulcan, and deserveth to be burned",
+   "term": "wichcraft",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A113",
+    "B134"
+   ],
+   "note": "What he does not mean: the infamous and profane kind (a word in foreign script, not given) or witchcraft, fit for the fire."
+  },
+  {
+   "ref": "CH5.55",
+   "type": "own definition",
+   "quote": "the absolute perfection of the whole most noble Phylosophy, the chiefest Wisdome of Gods works and the plenary knowledge of occult Nature",
+   "term": "Magick",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A114",
+    "B135"
+   ],
+   "note": "What true Magick is."
+  },
+  {
+   "ref": "CH5.55",
+   "type": "own definition",
+   "quote": "by a fit application of Agents and Patients, observing the consent and dissent of things",
+   "term": "Magick",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A115",
+    "B136"
+   ],
+   "note": "How Magick works its wonders beyond the usual order of Nature."
+  },
+  {
+   "ref": "CH5.56",
+   "type": "voice",
+   "quote": "Paracelsus hath joyned the exercetation of either medicine together, as well that of Physick as of Chyrurgie, in imitation and after the example of Great Hippocrates",
+   "name": "Paracelsus",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A116",
+    "B137"
+   ],
+   "note": "The author reports that Paracelsus joined physick and surgery, following Hippocrates; no words of his are given."
+  },
+  {
+   "ref": "CH5.56",
+   "type": "own definition",
+   "quote": "a twofold Medicine, Physicall or the knowledge of all diseases, and Chyrurgicall or the curing of the same",
+   "term": "Chyrurgicall",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "A117",
+    "B138"
+   ],
+   "note": "The two medicines are defined: Physicall the knowledge of diseases, Chyrurgicall the curing of them; the 'he' who set them down may be Paracelsus or Hippocrates."
+  },
+  {
+   "ref": "CH5.56",
+   "type": "position",
+   "quote": "Nor can either without the other safely consist or be exercised but with great hurt and danger of the sick",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B139"
+   ],
+   "note": "Neither can be practised without the other without danger to the sick."
+  },
+  {
+   "ref": "CH5.56",
+   "type": "position",
+   "quote": "it is necessary that every Surgeon should be a Physician, and every Physitian a Chyrurgion",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A118"
+   ],
+   "note": "The two must be one person."
+  },
+  {
+   "ref": "CH5.56",
+   "type": "local signal",
+   "quote": "that there may be a sound Bridgroom for a sound Bride",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A119",
+    "B140"
+   ],
+   "note": "The joining of the two in one man is put in the figure of bridegroom and bride."
+  },
+  {
+   "ref": "CH5.56",
+   "type": "position",
+   "quote": "their preparations and compositions made by the Physitian himselfe, and not carelesly left to others",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A120",
+    "B141"
+   ],
+   "note": "The physician himself must prepare and compound the medicines."
+  },
+  {
+   "ref": "CH5.56",
+   "type": "operation",
+   "quote": "by their own hand to prepare the medicaments which they know, to seperate and purge them from their poyson and dreggs, to reduce them to their pure simplicity",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A121",
+    "B142"
+   ],
+   "note": "The work of the genuine physician: with his own hand to prepare the medicines, part them from poison and dregs, bring them to pure simplicity."
+  },
+  {
+   "ref": "CH5.56",
+   "type": "position",
+   "quote": "For the Bad and Good are mixt together, neither is Sugar free from faeculent impurity, nor is honey voyd of a venemous bitternesse",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A122",
+    "B143"
+   ],
+   "note": "The reason given: good and bad are mixed in things, even in sugar and honey; hence the need of separation."
+  },
+  {
+   "ref": "CH5.56",
+   "type": "operation",
+   "quote": "he must with true faith and acurate skill or judgement accommodate them to mans necessities, that the root of the disease may be plucked up",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B144"
+   ],
+   "note": "After preparing, the medicines are to be fitted to the patient's need so that the root of the disease is removed."
+  },
+  {
+   "ref": "CH5.57",
+   "type": "position",
+   "quote": "judgement without practice is altogether barren and fruitlesse",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A123",
+    "B145"
+   ],
+   "note": "A physician needs theory and practice together."
+  },
+  {
+   "ref": "CH5.57",
+   "type": "operation",
+   "quote": "Physick is learned by the labour of the hands and practicall working or making it up, when the Fire discovereth new and most pleasant Remedies continually",
+   "term": "Fire",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A124",
+    "B146"
+   ],
+   "note": "Physick is learned by handwork, and the Fire uncovers new remedies continually."
+  },
+  {
+   "ref": "CH5.57",
+   "type": "local signal",
+   "quote": "which Nature dayly more and more purgeth from their superfluities, and then delivereth them to her Servant to make them up",
+   "term": "Servant",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A125",
+    "B147"
+   ],
+   "note": "Nature cleanses the remedies and hands them to her Servant; the chapter title calls the physician Natures Minister."
+  },
+  {
+   "ref": "CH5.57",
+   "type": "position",
+   "quote": "will not become schollers and school-boyes againe, to dig they are ashamed",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A126",
+    "B148"
+   ],
+   "note": "The great doctors grown grey in common physick refuse to learn handwork."
+  },
+  {
+   "ref": "CH5.57",
+   "type": "position",
+   "quote": "so these men will openly contradict the truth, and with a canine obstinate bawling bark at it",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B149"
+   ],
+   "note": "Likened to an old tree and an old dog, they oppose the truth rather than mend their errors."
+  },
+  {
+   "ref": "CH5.57",
+   "type": "voice",
+   "quote": "they exclaime and cry out against the Chymists as if they were no Physitians",
+   "name": "these Rationall Physitians",
+   "term": "Rationall Physitians",
+   "voice": "QUOTED: these Rationall Physitians",
+   "tags": [],
+   "from": [
+    "B150"
+   ],
+   "note": "The charge of the Rationall Physitians against the Chymists, reported by the author, who adds that the Chymists are the most skilful of any."
+  },
+  {
+   "ref": "CH5.57",
+   "type": "voice",
+   "quote": "that they are the onely Physitians who in judgement and Reason (undervaluing Chymistry) know how to apply any Remedy to every disease",
+   "name": "these Rationall Physitians",
+   "voice": "QUOTED: these Rationall Physitians",
+   "tags": [],
+   "from": [
+    "B151"
+   ],
+   "note": "Their claim for themselves, reported in order to be rejected."
+  },
+  {
+   "ref": "CH5.57",
+   "type": "position",
+   "quote": "because they can prepare their medicines but onely with their Reason, not at all with their hand",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A127",
+    "B152"
+   ],
+   "note": "Why the rational physicians stand helpless at the sick bed: they prepare with reason only, not with the hand."
+  },
+  {
+   "ref": "CH5.58",
+   "type": "position",
+   "quote": "Yet here I will by no means undertake to defend them, who reteining the works of Hippocrates and of the Ancients, yet boast themselves to be the Schollers of Paracelsus",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A128",
+    "B153"
+   ],
+   "note": "The author refuses to defend those who keep the Ancients and yet call themselves scholars of Paracelsus."
+  },
+  {
+   "ref": "CH5.58",
+   "type": "position",
+   "quote": "but neither acknowledge the minde of the Author in his Theory, nor doe any thing praise-worthy in Practice",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B154"
+   ],
+   "note": "His charge against them: they grasp neither the author's theory nor achieve anything in practice."
+  },
+  {
+   "ref": "N223",
+   "type": "position",
+   "quote": "These Receits being lost by chance, all the Wisdome vanisheth from them",
+   "term": "Receits",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A130",
+    "B155"
+   ],
+   "note": "Those whose wisdom lies in receipts lose it all when these are lost."
+  },
+  {
+   "ref": "N223",
+   "type": "position",
+   "quote": "Experience, without Phylosophy the mother of Experience is uncertaine.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A129",
+    "B156"
+   ],
+   "note": "Philosophy is called the mother of experience; experience without it is uncertain."
+  },
+  {
+   "ref": "CH5.59",
+   "type": "marking",
+   "quote": "There are also false and lying Theophrasteans prophaning by their avarice and timerity that Divine Physick",
+   "what": "false and lying Theophrasteans",
+   "term": "Theophrasteans",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A131",
+    "B157"
+   ],
+   "note": "A further group is named and set apart: false Theophrasteans who profane that Divine Physick."
+  },
+  {
+   "ref": "CH5.59",
+   "type": "voice",
+   "quote": "who under disguised names vaunt and vapour that they make use of Theophrastus his medicines",
+   "name": "false and lying Theophrasteans",
+   "voice": "QUOTED: false and lying Theophrasteans",
+   "tags": [],
+   "from": [
+    "A132",
+    "B158"
+   ],
+   "note": "Their boast of using Theophrastus' medicines under disguised names, reported in order to be rejected."
+  },
+  {
+   "ref": "CH5.59",
+   "type": "position",
+   "quote": "being altogether ignorant not onely of Phylosophicall, but even of vulgar and common medicines",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B159"
+   ],
+   "note": "They know neither the philosophical nor even the common medicines."
+  },
+  {
+   "ref": "CH5.59",
+   "type": "position",
+   "quote": "who disdaining the writings of the Ancients",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B160"
+   ],
+   "note": "They are blamed for scorning the writings of the Ancients."
+  },
+  {
+   "ref": "N224",
+   "type": "position",
+   "quote": "These men get their knowledge piece-meale out of men, & gaine their experience by the death of others",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A135",
+    "B161"
+   ],
+   "note": "The note says the false practitioners learn piecemeal from men and gain experience by others' deaths."
+  },
+  {
+   "ref": "CH5.59",
+   "type": "position",
+   "quote": "I know not what Secrets and Experiences they trust to",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B162"
+   ],
+   "note": "The author says he does not know what Secrets and Experiences they rely on."
+  },
+  {
+   "ref": "CH5.59",
+   "type": "position",
+   "quote": "before they scarce know how to put fire into the furnace",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A133",
+    "B163"
+   ],
+   "note": "They undertake the gravest cures before they can so much as fire a furnace."
+  },
+  {
+   "ref": "CH5.59",
+   "type": "local signal",
+   "quote": "or else cure the party and his disease at once with a turse of the Church-yard",
+   "term": "turse",
+   "voice": "CROLL",
+   "tags": [
+    "wording-dependent"
+   ],
+   "from": [
+    "A134",
+    "B164"
+   ],
+   "note": "'Cure' is not meant plainly: patient and disease are ended together, with something of the church-yard."
+  },
+  {
+   "ref": "CH5.60",
+   "type": "position",
+   "quote": "all the Medicines both of the Arabians and Grecians, are desperate and without hope of doing any good",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A136",
+    "B165"
+   ],
+   "note": "In great diseases the medicines of the Arabians and Grecians sometimes fail altogether."
+  },
+  {
+   "ref": "CH5.60",
+   "type": "position",
+   "quote": "many times the cure is left to the absurd Remedies of Old Wives and Empericks to the great dishonour and ignominy of Physitians",
+   "term": "Empericks",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B166"
+   ],
+   "note": "The cure is then often left to old wives and Empericks, to the physicians' shame."
+  },
+  {
+   "ref": "CH5.60",
+   "type": "marking",
+   "quote": "these circumforaneous and adulterous Theophrasteans, with their unlawfully prepared Remedies",
+   "what": "circumforaneous and adulterous Theophrasteans",
+   "term": "Theophrasteans",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B167"
+   ],
+   "note": "The false Theophrasteans are named again, their remedies called unlawfully prepared."
+  },
+  {
+   "ref": "CH5.60",
+   "type": "position",
+   "quote": "doe sometime exceed many Galenists in many great and perilous diseases",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A137",
+    "B169"
+   ],
+   "note": "The author grants that these men sometimes do better than many Galenists."
+  },
+  {
+   "ref": "CH5.60",
+   "type": "position",
+   "quote": "yet no conscientious man will ever approve their uncertaine, bold, rash, dangerous, impious practice of Physick",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A138",
+    "B170"
+   ],
+   "note": "Even so their practice is condemned: it endangers the sick by doubtful experiments."
+  },
+  {
+   "ref": "N225",
+   "type": "position",
+   "quote": "No rabble of Physitians in the City is more numerous then these.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A139",
+    "B168"
+   ],
+   "note": "No crowd of physicians in the City is larger than these."
+  }
+ ],
+ "dropped": [
+  {
+   "from": "B20",
+   "reason": "repeats the point kept from A17/B21 (truth above authority) in the same paragraph"
+  }
+ ],
+ "voices": [
+  {
+   "ref": "CH5.28",
+   "voice": "QUOTED: true Hermetick Phylosophers",
+   "quote": "took an Oath that they would follow the footsteps of their fathers and masters",
+   "basis": "the content of the oath the named group swore ('took an Oath that')"
+  },
+  {
+   "ref": "CH5.29",
+   "voice": "QUOTED: Men of shallow judgement",
+   "quote": "that he approveth of no sort of Physitians",
+   "basis": "'Men of shallow judgement are ready to think'; rejected with 'whereas'"
+  },
+  {
+   "ref": "CH5.29",
+   "voice": "QUOTED: they, who Verbally and Syllogistically onely make a great flourish of Physick",
+   "quote": "boasting that they have the Method of Physick",
+   "basis": "verb of saying 'boasting'; reported to be rejected"
+  },
+  {
+   "ref": "CH5.30",
+   "voice": "QUOTED: the Censurers of Theophrastus, those fallacious Medodists",
+   "quote": "that they have lost the right method",
+   "basis": "verb of saying 'charge'; called false"
+  },
+  {
+   "ref": "CH5.31",
+   "voice": "QUOTED: Wimpeneus",
+   "quote": "that greatest and most grievous Diseases now a dayes",
+   "basis": "'Wimpeneus learnedly sheweth that'"
+  },
+  {
+   "ref": "CH5.32",
+   "voice": "UNCLEAR",
+   "quote": "First, Because the Diseases are more perfectly known",
+   "basis": "first of the three respects Wimpeneus is said to show; the text does not show whether the words are his or the author's"
+  },
+  {
+   "ref": "CH5.36",
+   "voice": "QUOTED: Paracelsus",
+   "quote": "Paracelsus distinguisheth Tartar into",
+   "basis": "name with a verb of teaching"
+  },
+  {
+   "ref": "CH5.36",
+   "voice": "UNCLEAR",
+   "quote": "which innate Tartarous disposition cannot be cured",
+   "basis": "continues the sentence giving Paracelsus' division; whether still his teaching or the author's is not shown"
+  },
+  {
+   "ref": "N219",
+   "voice": "QUOTED: Paracels",
+   "quote": "Paracels saith that the Matter",
+   "basis": "name with 'saith'"
+  },
+  {
+   "ref": "CH5.43",
+   "voice": "QUOTED: Paracelsus",
+   "quote": "under the name of Poyson and Tartar",
+   "basis": "names Paracelsus uses ('which Paracelsus comprehendeth under the name of')"
+  },
+  {
+   "ref": "CH5.45",
+   "voice": "UNCLEAR",
+   "quote": "Secondly, Because we have more perfect medicines",
+   "basis": "second of the three respects Wimpeneus is said to show; whose words is not shown"
+  },
+  {
+   "ref": "CH5.45",
+   "voice": "QUOTED: Paracelsus",
+   "quote": "Paracelsus would have a steely medicine",
+   "basis": "name with 'would have': his rule of cure"
+  },
+  {
+   "ref": "CH5.46",
+   "voice": "UNCLEAR",
+   "quote": "Thirdly, Because now the Harmony",
+   "basis": "third of the three respects Wimpeneus is said to show; whose words is not shown"
+  },
+  {
+   "ref": "CH5.54",
+   "voice": "QUOTED: his adversaries",
+   "quote": "charge him with implicite and evident contradiction",
+   "basis": "verb of saying 'charge'; answered by the author"
+  },
+  {
+   "ref": "CH5.56",
+   "voice": "UNCLEAR",
+   "quote": "For he assigned or set down a twofold Medicine",
+   "basis": "'set down' is a verb of writing; 'he' may be Paracelsus or Hippocrates, both named just before"
+  },
+  {
+   "ref": "CH5.57",
+   "voice": "QUOTED: these Rationall Physitians",
+   "quote": "against the Chymists as if they were no Physitians",
+   "basis": "verbs of saying 'exclaime and cry out'; rejected"
+  },
+  {
+   "ref": "CH5.58",
+   "voice": "QUOTED: them, who reteining the works of Hippocrates and of the Ancients",
+   "quote": "boast themselves to be the Schollers of Paracelsus",
+   "basis": "verb of saying 'boast'; rejected"
+  },
+  {
+   "ref": "CH5.59",
+   "voice": "QUOTED: false and lying Theophrasteans",
+   "quote": "that they make use of Theophrastus his medicines",
+   "basis": "verbs of saying 'vaunt and vapour'; rejected"
+  },
+  {
+   "ref": "CH5.59",
+   "voice": "QUOTED: false and lying Theophrasteans",
+   "quote": "they brag that they can perfectly cure all diseases",
+   "basis": "verb of saying 'brag'; called lying"
+  }
+ ],
+ "sections_read": [
+  "CH5"
+ ],
+ "end_marker": "END OF OUTPUT"
+}

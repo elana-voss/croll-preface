@@ -1,0 +1,1451 @@
+{
+ "items": [
+  {
+   "n": 1,
+   "ref": "CH2.0",
+   "type": "marking",
+   "quote": "Where that True Physick is to be Found",
+   "what": "True Physick",
+   "note": "The chapter is headed as the place where the True Physick is to be found.",
+   "term": "True Physick"
+  },
+  {
+   "n": 2,
+   "ref": "CH2.1",
+   "type": "position",
+   "quote": "thing that God created Good is extreamly perfect and incorruptible, as the heaven",
+   "note": "What God created good is perfect and incorruptible; the heaven is the example."
+  },
+  {
+   "n": 3,
+   "ref": "CH2.1",
+   "type": "position",
+   "quote": "whatsoever is in these sublunary inferiour things hath a twofold Nature",
+   "note": "Things below the moon are said to have two natures."
+  },
+  {
+   "n": 4,
+   "ref": "CH2.1",
+   "type": "own definition",
+   "quote": "a perfect and an imperfect, that is, a fift Essence and the dreggs may be separated one from the other by fire",
+   "note": "The twofold nature is glossed: the perfect is a fift Essence, the imperfect the dreggs; fire can part them.",
+   "term": "fift Essence"
+  },
+  {
+   "n": 5,
+   "ref": "CH2.1",
+   "type": "concealment",
+   "quote": "the true medicine (or Physick) is wrapt up in rindes, barks, matrixes, receptacles, husks, garment and cottages",
+   "note": "The true medicine is said to be wrapped up in coverings.",
+   "term": "Physick"
+  },
+  {
+   "n": 6,
+   "ref": "CH2.1",
+   "type": "local signal",
+   "quote": "as Almonds and all kernells are covered with bark and rind",
+   "note": "The covering of the medicine is put as a likeness: kernel inside bark and rind."
+  },
+  {
+   "n": 7,
+   "ref": "CH2.1",
+   "type": "operation",
+   "quote": "the same must be seperated from the impure Elements by the artificiall Anotomy of Chymists before we can come at the pure Medicine",
+   "note": "The medicine is to be separated from the impure Elements by the Chymists' Anotomy before the pure Medicine is reached.",
+   "term": "Anotomy"
+  },
+  {
+   "n": 8,
+   "ref": "CH2.1",
+   "type": "position",
+   "quote": "the bonds are loosed by art and industry, and the faculties of healing set at liberty",
+   "note": "Art and industry loose the bonds and free the healing faculties."
+  },
+  {
+   "n": 9,
+   "ref": "N132",
+   "type": "local signal",
+   "quote": "Wheat doth norgrow without a place, nor can we have meale without bran, neither is hony without a sting.",
+   "note": "Margin note gives three likenesses of a good thing joined with something else (meal with bran, honey with sting).",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 10,
+   "ref": "N132",
+   "type": "position",
+   "quote": "Such Secrets are regenerated without any complexion of qualities.",
+   "note": "Margin note: such Secrets are regenerated without complexion of qualities.",
+   "term": "Secrets",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 11,
+   "ref": "CH2.2",
+   "type": "marking",
+   "quote": "those three Families of Nature, the Vegetable, Animall, and Minerall",
+   "what": "three Families of Nature, the Vegetable, Animall, and Minerall",
+   "note": "Nature is set out as three Families."
+  },
+  {
+   "n": 12,
+   "ref": "CH2.2",
+   "type": "position",
+   "quote": "there is contained that True and specifix Physick of materiall distempers",
+   "note": "The True and specifix Physick of material distempers is contained in the three Families.",
+   "term": "specifix"
+  },
+  {
+   "n": 13,
+   "ref": "CH2.2",
+   "type": "cross-reference",
+   "quote": "which as hath been said, doth not consist in the four outward",
+   "note": "Points back to an earlier place where this was said."
+  },
+  {
+   "n": 14,
+   "ref": "CH2.2",
+   "type": "voice",
+   "quote": "doth not consist in the four outward, naked, superficiary and Relollaceous qualities (as Theophrastus learnedly discourseth)",
+   "name": "Theophrastus",
+   "note": "The denial that the Physick lies in the four outward qualities is given with Theophrastus named as discoursing of it.",
+   "term": "Relollaceous"
+  },
+  {
+   "n": 15,
+   "ref": "CH2.2",
+   "type": "concealment",
+   "quote": "it is a certaine specifix vertue concealed in the very Seeds, naturally proceeding without art",
+   "note": "The Physick is said to be a specifix vertue concealed in the Seeds, arising naturally without art.",
+   "term": "Seeds"
+  },
+  {
+   "n": 16,
+   "ref": "CH2.2",
+   "type": "position",
+   "quote": "planted in every growing thing by vertue of that omnipotent Word, whereby all things were brought out of darknesse into Light",
+   "note": "The Creator planted this vertue in every growing thing at the Creation by the Word.",
+   "term": "Word"
+  },
+  {
+   "n": 17,
+   "ref": "CH2.3",
+   "type": "position",
+   "quote": "The faculties and vertue therefore wherewith mixt bodies are indued (like the soule in mans body from the beginning of the Creation) is not from without",
+   "note": "The vertue of mixt bodies is not from without; it is likened to the soul in man's body."
+  },
+  {
+   "n": 18,
+   "ref": "CH2.3",
+   "type": "position",
+   "quote": "nor infused into them by a momomentaneous position of the Stars, nor made up of a fortuitous meeting of Atomes",
+   "note": "Two origins are denied: a position of the Stars, and a chance meeting of Atomes."
+  },
+  {
+   "n": 19,
+   "ref": "CH2.3",
+   "type": "position",
+   "quote": "it proceedeth not from the body nor the mixture of the body or visible forme, for then it could not be separated without the destruction and corruption of the body and forme",
+   "note": "The vertue is not from the body or its mixture; the reason given is that it can be separated."
+  },
+  {
+   "n": 20,
+   "ref": "CH2.3",
+   "type": "operation",
+   "quote": "as we see in Cinamon and Pepper, whose virtues being extracted either by art, or vanishing by age and long keeping",
+   "note": "Example: the virtues of Cinamon and Pepper are extracted by art or vanish with keeping."
+  },
+  {
+   "n": 21,
+   "ref": "CH2.3",
+   "type": "marking",
+   "quote": "the mecanick sciences of the Three principles",
+   "what": "the Three principles",
+   "note": "The Three principles are named as one thing; these lines do not say what they are.",
+   "term": "Three principles"
+  },
+  {
+   "n": 22,
+   "ref": "CH2.3",
+   "type": "position",
+   "quote": "the actions of Cures proceed from the Spirits and vitall Tinctures of the spirits, not from the bodies or dead Relloceous qualities",
+   "note": "Cures come from Spirits and vitall Tinctures, not from bodies or qualities. The word stands here as Relloceous, in CH2.2 as Relollaceous.",
+   "term": "Tinctures"
+  },
+  {
+   "n": 23,
+   "ref": "N133",
+   "type": "position",
+   "quote": "Heaven is the framer of the externall edifices, not of the Secrets, Wonders and mysteries that dwell in them.",
+   "note": "Margin note: Heaven frames the outward buildings, not the Secrets within them.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 24,
+   "ref": "CH2.4",
+   "type": "voice",
+   "quote": "it is granted by the Interpreters of Secret Nature, that there is nothing in the whole Universe, every particular whereof is not also in that Microcosm Man",
+   "name": "the Interpreters of Secret Nature",
+   "note": "The view that everything in the Universe is also in Man is given as granted by the Interpreters of Secret Nature.",
+   "term": "Microcosm"
+  },
+  {
+   "n": 25,
+   "ref": "CH2.4",
+   "type": "cross-reference",
+   "quote": "is not also in that Microcosm Man, as hath been said",
+   "note": "Points back to an earlier place where this was said."
+  },
+  {
+   "n": 26,
+   "ref": "CH2.4",
+   "type": "concealment",
+   "quote": "the seeds of all things lye hid in him, as of the Stars, Meteors, Mineralls Vegetables, Animalls, Spirits, even of Daemoris, in respect of the Spirit of Man",
+   "note": "The seeds of all things are said to lie hid in Man.",
+   "term": "seeds"
+  },
+  {
+   "n": 27,
+   "ref": "CH2.4",
+   "type": "marking",
+   "quote": "this Symmetricall concord and Physicall anagoge",
+   "what": "Symmetricall concord and Physicall anagoge",
+   "note": "The likeness of Man and Universe is named a Symmetricall concord and Physicall anagoge.",
+   "term": "anagoge"
+  },
+  {
+   "n": 28,
+   "ref": "CH2.4",
+   "type": "position",
+   "quote": "how they might borrow strengthning remedies from his Parent or the externall Heart of the Microcosm which is one like the other",
+   "note": "True Physitians ask how remedies for the sick inner Heart may be borrowed from the outer Heart, the two being alike. The outer one is here printed as of the Microcosm."
+  },
+  {
+   "n": 29,
+   "ref": "CH2.4",
+   "type": "local signal",
+   "quote": "(if not in outward, yet in inward figure and forme)",
+   "note": "The likeness of the two Hearts is said to be inward, not outward."
+  },
+  {
+   "n": 30,
+   "ref": "CH2.4",
+   "type": "local signal",
+   "quote": "which remedies are analogically represented",
+   "note": "The remedies are said to be represented analogically.",
+   "term": "analogically",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 31,
+   "ref": "CH2.4",
+   "type": "marking",
+   "quote": "such as may many ways be got out of those three shops of Cures",
+   "what": "three shops of Cures",
+   "note": "The three Families are called three shops of Cures."
+  },
+  {
+   "n": 32,
+   "ref": "CH2.4",
+   "type": "position",
+   "quote": "For God created an inexhaustible supply of medicines, and distributed to every Country sufficient for it selfe.",
+   "note": "God made medicines without end and gave each Country enough for itself."
+  },
+  {
+   "n": 33,
+   "ref": "N134",
+   "type": "marking",
+   "quote": "All the whole inferiour Nature is divided into three principall parts, i. e. Vegetable, Animall, and Minerall.",
+   "what": "three principall parts, i. e. Vegetable, Animall, and Minerall",
+   "note": "Margin note states the division into three parts.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 34,
+   "ref": "CH2.5",
+   "type": "local signal",
+   "quote": "Gold (which cheareth up the Spirits when a man hath enough of it in his purse)",
+   "note": "Gold's cheering of the Spirits is turned to the purse: the words in brackets give a second, everyday sense.",
+   "term": "Gold"
+  },
+  {
+   "n": 35,
+   "ref": "CH2.5",
+   "type": "position",
+   "quote": "Antimony and the like, which are produced out of the Element of Water, as Gemms and precious stones in shells are generated of drops of water",
+   "note": "Minerals such as Antimony are said to come from the Element of Water, like stones in shells from drops of water.",
+   "term": "Antimony"
+  },
+  {
+   "n": 36,
+   "ref": "CH2.5",
+   "type": "position",
+   "quote": "which by a specifick and Harmonicall vertue serve to cure and comfort the heart",
+   "note": "These things cure the heart by a specifick and Harmonicall vertue."
+  },
+  {
+   "n": 37,
+   "ref": "CH2.5",
+   "type": "concealment",
+   "quote": "Magicall and Hieroglyphicall Characters, which sage Antiquity hath without rashnesse or superstition attributed to them",
+   "note": "Minerals are said to bear Magicall and Hieroglyphicall Characters, ascribed to them by Antiquity.",
+   "term": "Characters"
+  },
+  {
+   "n": 38,
+   "ref": "CH2.5",
+   "type": "concealment",
+   "quote": "Magically disclose their hidden vertue to those more secret Phylosophers that are instructed therein",
+   "note": "The Characters disclose the hidden vertue only to instructed, more secret Phylosophers."
+  },
+  {
+   "n": 39,
+   "ref": "CH2.5",
+   "type": "concealment",
+   "quote": "by Natures just decree, with-hold their benigne and vitall Element from those that possesse them",
+   "note": "The choicest things withhold their vitall Element from their possessors, by Nature's decree."
+  },
+  {
+   "n": 40,
+   "ref": "CH2.5",
+   "type": "position",
+   "quote": "many there are who confound the Universall Lawes of Nature, and yet thinks to partake of her Banquet in the end",
+   "note": "Many confound Nature's laws and still expect her Banquet."
+  },
+  {
+   "n": 41,
+   "ref": "CH2.5",
+   "type": "operation",
+   "quote": "if it were rightly refined, and had its power reduced into act by a Naturall and due Resolution, that it might exercise its vertues",
+   "note": "Gold must be rightly refined and its power brought into act by a Resolution.",
+   "term": "Resolution"
+  },
+  {
+   "n": 42,
+   "ref": "CH2.5",
+   "type": "position",
+   "quote": "(for there is but one way to Resolve and to compound things, because Art and Nature, like mother and daughter, consent to each other)",
+   "note": "There is one way only to Resolve and compound; Art and Nature agree like mother and daughter."
+  },
+  {
+   "n": 43,
+   "ref": "CH2.5",
+   "type": "concealment",
+   "quote": "few men have this gift of God bestowed on them, so as to make solid and massy Gold potable, that it may be drunk",
+   "note": "Making Gold potable is a gift of God that few men have."
+  },
+  {
+   "n": 44,
+   "ref": "N135",
+   "type": "position",
+   "quote": "As he that hath much Gold may know nothing of its medicinall vertue.",
+   "note": "Margin note: the owner of much Gold may not know its medicinal vertue.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 45,
+   "ref": "N136",
+   "type": "position",
+   "quote": "Art imitateth Nature and supplyeth its defects; it correcteth, chastiseth, assisteth and promoteth, yea it exceedeth Nature.",
+   "note": "Margin note: Art imitates, mends and even exceeds Nature.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 46,
+   "ref": "CH2.6",
+   "type": "marking",
+   "quote": "Amongst Vegetables there is Saffron, Rue, Balme, Scordium, Celandine, Mace, Ocymum, with six hundred of the like.",
+   "what": "Vegetables",
+   "note": "The Vegetables are listed by name."
+  },
+  {
+   "n": 47,
+   "ref": "CH2.7",
+   "type": "marking",
+   "quote": "Amongst Animalls there is",
+   "what": "Animalls",
+   "note": "The Animalls are listed: horns and the Bone in Staggs hearts."
+  },
+  {
+   "n": 48,
+   "ref": "CH2.7",
+   "type": "operation",
+   "quote": "All which being rightly prepared in due manner, doe cure the diseases of the Heart",
+   "note": "The listed things cure diseases of the Heart once rightly prepared; the manner is not given in these lines."
+  },
+  {
+   "n": 49,
+   "ref": "CH2.7",
+   "type": "cross-reference",
+   "quote": "not (as I have said) by their Externall superficiary qualities",
+   "note": "Points back to what the author has said before."
+  },
+  {
+   "n": 50,
+   "ref": "CH2.7",
+   "type": "position",
+   "quote": "but by an Internall, proper, specifick, harmonious, similer virtue",
+   "note": "They cure by an inner, specifick, similer virtue, not by outward qualities."
+  },
+  {
+   "n": 51,
+   "ref": "CH2.7",
+   "type": "position",
+   "quote": "are all contained in the Spirits, which onely know how and where to find out the disease",
+   "note": "What serves health is contained in the Spirits, which alone find the disease.",
+   "term": "Spirits"
+  },
+  {
+   "n": 52,
+   "ref": "CH2.7",
+   "type": "position",
+   "quote": "the earthy part is altogether dead, husks and rinds beget nothing, the Spirits onely in the bodies of things doe all",
+   "note": "The earthy part is dead; only the Spirits in bodies act."
+  },
+  {
+   "n": 53,
+   "ref": "CH2.7",
+   "type": "operation",
+   "quote": "The Formes in thee medicines or Astra's of the medicaments separated by Alchymie from their bodies are the true Directoryes",
+   "note": "The Formes or Astra's are separated from their bodies by Alchymie.",
+   "term": "Astra's"
+  },
+  {
+   "n": 54,
+   "ref": "CH2.7",
+   "type": "own definition",
+   "quote": "not the body, but the Astrum or hidden Heaven gives all the direction",
+   "note": "Astrum is glossed as hidden Heaven; it, not the body, directs.",
+   "term": "Astrum"
+  },
+  {
+   "n": 55,
+   "ref": "CH2.7",
+   "type": "position",
+   "quote": "every medicine striveth to get to its place, and seeketh after that member that is like unto it",
+   "note": "Each medicine seeks the member like itself."
+  },
+  {
+   "n": 56,
+   "ref": "CH2.7",
+   "type": "own definition",
+   "quote": "magnetick vertue which may well be called the inexpressible property",
+   "note": "The magnetick vertue is given a name: the inexpressible property. A letter of the word before it could not be read.",
+   "term": "inexpressible property"
+  },
+  {
+   "n": 57,
+   "ref": "CH2.7",
+   "type": "voice",
+   "quote": "as the true Phylosophicall Phisitians have diligently observed by long Experience the most undouted Rule of all",
+   "name": "the true Phylosophicall Phisitians",
+   "note": "That like applies itself to like is given as observed by the true Phylosophicall Phisitians."
+  },
+  {
+   "n": 58,
+   "ref": "CH2.7",
+   "type": "voice",
+   "quote": "Celsus the Roman Physitian confesseth of all Arts",
+   "name": "Celsus",
+   "note": "Celsus is named as confessing something of all Arts; the sentence as given does not say plainly what."
+  },
+  {
+   "n": 59,
+   "ref": "CH2.7",
+   "type": "position",
+   "quote": "where by many good old country women have gone beyond great learned Physitians",
+   "note": "Country women are said to have gone beyond learned Physitians."
+  },
+  {
+   "n": 60,
+   "ref": "CH2.7",
+   "type": "marking",
+   "quote": "The same may be sayd of the other six principall members and parts of mans body",
+   "what": "the other six principall members and parts of mans body",
+   "note": "Six further principall members are announced beside the Heart."
+  },
+  {
+   "n": 61,
+   "ref": "CH2.7",
+   "type": "own definition",
+   "quote": "The external Macrocosmicall Braine is the Oyle of Silver, Water of the Sophire Emerold, Mosse, Vitrioll",
+   "note": "The outer Braine is said to be these named things, which strengthen the inner Braine of man.",
+   "term": "Macrocosmicall"
+  },
+  {
+   "n": 62,
+   "ref": "CH2.7",
+   "type": "own definition",
+   "quote": "The flower or CHIBUR or Brimstone are a Balsam for the lungs and the whole breast.",
+   "note": "CHIBUR stands beside flower and Brimstone, as a Balsam for lungs and breast.",
+   "term": "CHIBUR"
+  },
+  {
+   "n": 63,
+   "ref": "N138",
+   "type": "position",
+   "quote": "Experiment, as also judgement, without knowledge is but fallacious difficult and fortuitous, but with Science it is true and infallible.",
+   "note": "Margin note: Experiment without knowledge is fallacious, with Science true.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 64,
+   "ref": "CH2.8",
+   "type": "position",
+   "quote": "After this manner not only ordinary diseases are cured by every Dunce, but also those Chronicall, Astrall and fixed diseases which by many are accounted desperate",
+   "note": "In this way long and Astrall diseases counted desperate are cured too.",
+   "term": "Astrall"
+  },
+  {
+   "n": 65,
+   "ref": "CH2.8",
+   "type": "position",
+   "quote": "the common sort of Physitians who know not the seat, seeds, nativities, roots, and centres of diseases judge to be incurable",
+   "note": "Common Physitians, not knowing the seat and seeds of diseases, judge them incurable."
+  },
+  {
+   "n": 66,
+   "ref": "CH2.8",
+   "type": "position",
+   "quote": "there is no disease, as it is a disease, but there is a medicine for it",
+   "note": "Every disease has a medicine."
+  },
+  {
+   "n": 67,
+   "ref": "CH2.8",
+   "type": "concealment",
+   "quote": "unlesse such as prodeth onely from the anger of the Divine Majesty by secret predestination, which cannot be found out by man",
+   "note": "The exception: disease from God's anger by secret predestination, which man cannot find out."
+  },
+  {
+   "n": 68,
+   "ref": "CH2.8",
+   "type": "position",
+   "quote": "the cure whereof was never given to Physitians, but to the Apostles, who by true faith in Christ healed all Diseases",
+   "note": "The cure of such disease was given to the Apostles, not to Physitians."
+  },
+  {
+   "n": 69,
+   "ref": "CH2.8",
+   "type": "voice",
+   "quote": "unlesse with Pliny we should belye Nature in its perfections as an unjust Step-mother",
+   "name": "Pliny",
+   "note": "The view of Nature as an unjust Step-mother is given to Pliny and rejected."
+  },
+  {
+   "n": 70,
+   "ref": "CH2.8",
+   "type": "position",
+   "quote": "whereas indeed she is the benigne Parent of all Things",
+   "note": "The author's own view: Nature is the kind Parent of all things."
+  },
+  {
+   "n": 71,
+   "ref": "CH2.8",
+   "type": "position",
+   "quote": "provident and wise Nature hath by naturall instinct bestowed upon poor bruite creatures the knowledge of their Remedies",
+   "note": "Nature gave beasts the knowledge of their remedies by instinct."
+  },
+  {
+   "n": 72,
+   "ref": "CH2.8",
+   "type": "position",
+   "quote": "It were therefore great folly and sottishnesse to think that the great Creator would hide these things from men",
+   "note": "The author denies that the Creator would hide these things from men."
+  },
+  {
+   "n": 73,
+   "ref": "CH2.8",
+   "type": "internal conflict",
+   "quote": "to think that the great Creator would hide these things from men",
+   "with": "CH2.5; CH2.20",
+   "note": "Here hiding from men is denied; CH2.5 says the choicest things withhold their vitall Element and that few have the gift, and CH2.20 says the Word is not known to every one."
+  },
+  {
+   "n": 74,
+   "ref": "N139",
+   "type": "position",
+   "quote": "There is no cause to complaine of the want of medicines but onely of our ignorance of them.",
+   "note": "Margin note: not medicines are wanting, only knowledge of them.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 75,
+   "ref": "N139",
+   "type": "marking",
+   "quote": "There are two sorts of Physitians, one cure miraculously, the other naturally by means.",
+   "what": "two sorts of Physitians",
+   "note": "Margin note sets out two sorts of Physitians.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 76,
+   "ref": "N139",
+   "type": "marking",
+   "quote": "there are two originalls of every disease, the one naturall, the other caelestiall",
+   "what": "two originalls of every disease",
+   "note": "Margin note sets out two originalls of every disease.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 77,
+   "ref": "N139",
+   "type": "position",
+   "quote": "the Caelestiall is cured by the Word of the Lord, the Naturall is recovered by naturall means",
+   "note": "Margin note: each originall has its own cure.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 78,
+   "ref": "CH2.9",
+   "type": "position",
+   "quote": "The Stork having eaten a Serpent, is cured with Organy.",
+   "note": "First of a list of beasts each cured by a named herb."
+  },
+  {
+   "n": 79,
+   "ref": "CH2.9",
+   "type": "position",
+   "quote": "The Toad when stung or poysoned with any other venomous creature, eateth Rue, Sage or Plantin, or rubs the wounded part therewith and is recovered",
+   "note": "The Toad heals itself with herbs, by eating or rubbing."
+  },
+  {
+   "n": 80,
+   "ref": "CH2.9",
+   "type": "position",
+   "quote": "therefore it is not good to eat Sage before it be washed",
+   "note": "A plain piece of advice is drawn from the Toad's use of Sage."
+  },
+  {
+   "n": 81,
+   "ref": "CH2.9",
+   "type": "position",
+   "quote": "And other living creatures have found out other innumerable Hearbs.",
+   "note": "The list closes: other creatures have found countless other herbs."
+  },
+  {
+   "n": 82,
+   "ref": "N140",
+   "type": "position",
+   "quote": "Every Creature knoweth his proper remedy.",
+   "note": "Margin note sums up the list.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 83,
+   "ref": "CH2.10",
+   "type": "position",
+   "quote": "which he created after his own Image, and prefer the Beasts before them, for whose sake all things were created",
+   "note": "It is denied that the Father would neglect his children, made after his Image, and prefer the Beasts."
+  },
+  {
+   "n": 84,
+   "ref": "CH2.10",
+   "type": "position",
+   "quote": "he that gave us his Son, and commanded us to pray for his Holy Spirit, how much rather will he subject the whole Creature, both things visible and invisible?",
+   "note": "From the gift of the Son the author argues that the whole Creature will be subjected to men."
+  },
+  {
+   "n": 85,
+   "ref": "CH2.11",
+   "type": "voice",
+   "quote": "created Medicines out of the Earth",
+   "name": "Eccl. 38.",
+   "note": "The margin note beside these words names Eccl. 38.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 86,
+   "ref": "CH2.11",
+   "type": "position",
+   "quote": "not defectives but perfect, he hath commanded the Physitians to search them out and seasonably administer them to every distemper being by due faith prepared and made up",
+   "note": "The Medicines are created perfect; Physitians are commanded to search them out and give them, prepared by faith."
+  },
+  {
+   "n": 87,
+   "ref": "CH2.11",
+   "type": "internal conflict",
+   "quote": "not defectives but perfect",
+   "with": "CH2.1",
+   "note": "Here Medicines out of the Earth are perfect; CH2.1 says whatever is in sublunary things has a perfect and an imperfect nature."
+  },
+  {
+   "n": 88,
+   "ref": "CH2.11",
+   "type": "position",
+   "quote": "become efficacious and obtaine their wholesome effect, not of it selfe, but by the gift of God",
+   "note": "Medicines work by the gift of God, not of themselves."
+  },
+  {
+   "n": 89,
+   "ref": "CH2.11",
+   "type": "position",
+   "quote": "unlesse God be present and infuse virtue into the Hearbs what good can Dittany doe, or any other soveraigne medicine",
+   "note": "Without God infusing virtue an herb does no good."
+  },
+  {
+   "n": 90,
+   "ref": "CH2.12",
+   "type": "position",
+   "quote": "All these inferiour things, as living creatures, hearbs, stones, mettalls have their force by subministration from the Heaven, and the Heaven from the Intelligences, and these from the great Worker",
+   "note": "A chain of force: lower things from the Heaven, the Heaven from the Intelligences, these from the great Worker.",
+   "term": "Intelligences"
+  },
+  {
+   "n": 91,
+   "ref": "CH2.12",
+   "type": "internal conflict",
+   "quote": "have their force by subministration from the Heaven",
+   "with": "CH2.3; N133",
+   "note": "Here lower things have their force from the Heaven; CH2.3 says the vertue is not from without nor infused by a position of the Stars, and N133 that Heaven does not frame the Secrets."
+  },
+  {
+   "n": 92,
+   "ref": "CH2.12",
+   "type": "position",
+   "quote": "the Elements live by the Firmament, the Firmament from the Intelligible World, and this onely in God, or his Eternall Word",
+   "note": "The same chain for life: Elements, Firmament, Intelligible World, God or his Word.",
+   "term": "Firmament"
+  },
+  {
+   "n": 93,
+   "ref": "CH2.12",
+   "type": "position",
+   "quote": "the onely life of all, and in all, yet variously sprouting forth according to the subject into which it flows",
+   "note": "God is the one life in all, showing differently by the subject it flows into."
+  },
+  {
+   "n": 94,
+   "ref": "CH2.12",
+   "type": "position",
+   "quote": "if we intend to doe any good with hearbs, we must not trust so much to them as to God",
+   "note": "Trust is to be placed in God more than in herbs."
+  },
+  {
+   "n": 95,
+   "ref": "CH2.12",
+   "type": "voice",
+   "quote": "Asa dyed because he trusted more to the Physitians then to God.",
+   "name": "2 Chro. 16.12.",
+   "note": "The margin note beside these words names 2 Chro. 16.12.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 96,
+   "ref": "N142",
+   "type": "position",
+   "quote": "Will of the Lord is earnestly to be implored",
+   "note": "Margin note: not Nature but the Will of the Lord is to be implored.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 97,
+   "ref": "CH2.13",
+   "type": "own definition",
+   "quote": "The Caelestiall Medicine onely, or the WORD of God (which is the Firmament of all Physick",
+   "note": "The Caelestiall Medicine is equated with the WORD of God, and called the Firmament of all Physick.",
+   "term": "Caelestiall Medicine"
+  },
+  {
+   "n": 98,
+   "ref": "CH2.13",
+   "type": "voice",
+   "quote": "without which no drug will doe good) is that which healeth all things",
+   "name": "Psal. 33. & 107.20. Eccl. 38.9, 10, 11, 12.",
+   "note": "The margin note beside these words names Psal. 33. & 107.20. and Eccl. 38.9, 10, 11, 12.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 99,
+   "ref": "CH2.13",
+   "type": "concealment",
+   "quote": "by the efficacy of the WORD (in which lyeth hid, and from which proceedeth all force beyond any naturall actions) all Medicines become powerfull",
+   "note": "All force is said to lie hid in the WORD; by it Medicines have power.",
+   "term": "WORD"
+  },
+  {
+   "n": 100,
+   "ref": "CH2.13",
+   "type": "local signal",
+   "quote": "As the bark is not the kernell, so hearbs are not the medicines, but a signe onely of the Word signified.",
+   "note": "Herbs are said not to be the medicines but only a signe of the Word.",
+   "term": "signe"
+  },
+  {
+   "n": 101,
+   "ref": "CH2.14",
+   "type": "marking",
+   "quote": "Physick is two-fold in the Earth",
+   "what": "Physick two-fold: Visible, Invisible",
+   "note": "Physick is set out as two: Visible and Invisible."
+  },
+  {
+   "n": 102,
+   "ref": "CH2.14",
+   "type": "operation",
+   "quote": "ought not to be administred before there be a separation of the pure from the impure",
+   "note": "Visible Physick is to be given only after the pure is separated from the impure."
+  },
+  {
+   "n": 103,
+   "ref": "CH2.14",
+   "type": "own definition",
+   "quote": "Invisible, from the Son by the Word, and is but one",
+   "note": "Invisible Physick is from the Son by the Word, and is one only."
+  },
+  {
+   "n": 104,
+   "ref": "CH2.14",
+   "type": "concealment",
+   "quote": "the Hearb is not the medicine, for that is invisibly hid in God himselfe",
+   "note": "The medicine is said to be hid invisibly in God himself."
+  },
+  {
+   "n": 105,
+   "ref": "CH2.14",
+   "type": "internal conflict",
+   "quote": "for that is invisibly hid in God himselfe",
+   "with": "CH2.2",
+   "note": "Here the medicine is hid in God himself; CH2.2 says the specifix vertue is concealed in the very Seeds, and this paragraph itself speaks of the Hearbs in which the medicine is."
+  },
+  {
+   "n": 106,
+   "ref": "CH2.15",
+   "type": "position",
+   "quote": "we shall not wonder that Almighty God could (and can) make men whole by the Prophets and True Cabalists with a word onely",
+   "note": "God heals through Prophets and True Cabalists with a word only. The margin note at the end of the sentence names Acts 3.6.",
+   "term": "True Cabalists"
+  },
+  {
+   "n": 107,
+   "ref": "CH2.15",
+   "type": "position",
+   "quote": "God is a living God, the NAME also of the living God is lively, and so the Letters of the living Name are also lively",
+   "note": "Life passes from God to his NAME and from the Name to its Letters.",
+   "term": "NAME"
+  },
+  {
+   "n": 108,
+   "ref": "CH2.15",
+   "type": "position",
+   "quote": "as God hath life in himselfe, so hath he given to his Name to have life in it selfe, and the Name also to the Letters",
+   "note": "The same chain restated as a gift of life."
+  },
+  {
+   "n": 109,
+   "ref": "CH2.16",
+   "type": "own definition",
+   "quote": "True Magicians (by whom I doe not mean Nicromancers or them of the Black Art) those accurate searchers out of Nature",
+   "note": "The author says whom he means by True Magicians: searchers out of Nature, not Nicromancers.",
+   "term": "True Magicians"
+  },
+  {
+   "n": 110,
+   "ref": "CH2.16",
+   "type": "operation",
+   "quote": "framed at a certaine time according to the power of Heaven",
+   "note": "The Word written and the Characters or Signes are framed at a certain time by the power of Heaven."
+  },
+  {
+   "n": 111,
+   "ref": "CH2.16",
+   "type": "position",
+   "quote": "far from all superstition, which ariseth onely from ignorance, without any prophanation or scandall of the Divine Majesty, or any wrong to Faith and Religion",
+   "note": "The author holds this free of superstition and of wrong to religion."
+  },
+  {
+   "n": 112,
+   "ref": "CH2.16",
+   "type": "position",
+   "quote": "otherwise it were better for us alwayes to be sick then to be cured with the dishonour of God",
+   "note": "Better sick than cured with dishonour of God."
+  },
+  {
+   "n": 113,
+   "ref": "CH2.16",
+   "type": "voice",
+   "quote": "Characters or constellated Names according to Agrippa, have no force from the Figureors Pronunciation, but by reason of the Vertue or Office which God or Nature hath ordained to such a Name or Character",
+   "name": "Agrippa",
+   "note": "The view that Characters have force from an ordained Vertue or Office, not from figure or pronunciation, is given to Agrippa.",
+   "term": "Characters"
+  },
+  {
+   "n": 114,
+   "ref": "CH2.16",
+   "type": "position",
+   "quote": "There is no vertue or power either in Heaven or Earth which descendeth not from God, nor can it give or actually exercise any thing it hath but by his permission.",
+   "note": "All vertue descends from God and acts by his permission."
+  },
+  {
+   "n": 115,
+   "ref": "N146",
+   "type": "position",
+   "quote": "Such Names are the Divine Power.",
+   "note": "Margin note: such Names are the Divine Power.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 116,
+   "ref": "CH2.17",
+   "type": "own definition",
+   "quote": "Medicines are visible bodies; Words are invisible bodies",
+   "note": "Medicines and Words are both called bodies, visible and invisible.",
+   "term": "Words"
+  },
+  {
+   "n": 117,
+   "ref": "CH2.17",
+   "type": "position",
+   "quote": "by the Spirit of God made One with Nature by his Word FIAT",
+   "note": "Herb or Word heals by the Spirit of God made one with Nature by the Word FIAT.",
+   "term": "FIAT"
+  },
+  {
+   "n": 118,
+   "ref": "CH2.17",
+   "type": "marking",
+   "quote": "Concerning Characteristicalll Cure which affecteth Naturall operations by words pronounced, written, carved and hanged about the neck",
+   "what": "Characteristicalll Cure",
+   "note": "A kind of cure is named: by words spoken, written, carved, hung about the neck.",
+   "term": "Characteristicalll Cure"
+  },
+  {
+   "n": 119,
+   "ref": "CH2.17",
+   "type": "voice",
+   "quote": "let him read Rog. Bacon of the wonderfull power of Art and Nature",
+   "name": "Rog. Bacon",
+   "note": "The reader is sent to Rog. Bacon for this kind of cure."
+  },
+  {
+   "n": 120,
+   "ref": "N147",
+   "type": "voice",
+   "quote": "Paracels. saith that Characters are",
+   "name": "Paracels.",
+   "note": "Margin note gives Paracels. a saying on Characters; letters of it could not be read.",
+   "term": "Characters",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 121,
+   "ref": "CH2.18",
+   "type": "own definition",
+   "quote": "Physitians also have wrought great cures by the Created Word, or the incarnate Mercy",
+   "note": "Created Word is put beside incarnate Mercy; the same paragraph later says increated Mercy.",
+   "term": "Created Word"
+  },
+  {
+   "n": 122,
+   "ref": "CH2.18",
+   "type": "position",
+   "quote": "all these things are done by the efficacy of the Triune and Divine Word onely, which healeth and preserveth all things",
+   "note": "All cures are done by the Divine Word only."
+  },
+  {
+   "n": 123,
+   "ref": "CH2.18",
+   "type": "voice",
+   "quote": "as we see in our Saviour miracles, who when he restored the deafe and dumb",
+   "name": "Luke 11.14.",
+   "note": "The margin note beside these words names Luke 11.14.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 124,
+   "ref": "CH2.18",
+   "type": "own definition",
+   "quote": "he did it by One Word, and he is that Word, to wit, the increated Mercy of God",
+   "note": "The Saviour is said to be the Word, the increated Mercy of God.",
+   "term": "increated Mercy"
+  },
+  {
+   "n": 125,
+   "ref": "CH2.18",
+   "type": "voice",
+   "quote": "by which are all created things, from which all simples flow, which also with the Father dayly worketh all in all",
+   "name": "John 1.3. Mat. 4.4.",
+   "note": "The margin note beside these words names John 1.3. and Mat. 4.4.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 126,
+   "ref": "CH2.18",
+   "type": "position",
+   "quote": "all that for certaine is wrought of God incarnate in his explicit and manifest bond of one Spirit filling all things inseperably gathered into one",
+   "note": "All vertue in creatures, in great and little world, is wrought by God incarnate in one Spirit that fills all."
+  },
+  {
+   "n": 127,
+   "ref": "CH2.18",
+   "type": "own definition",
+   "quote": "which Spirit therefore is the only fulnes of the whole world",
+   "note": "This Spirit is named the fulnes of the world, called The Fulnesse; the margin note beside it names Eccl. 24.8, 9, 10, 11.",
+   "term": "The Fulnesse"
+  },
+  {
+   "n": 128,
+   "ref": "CH2.18",
+   "type": "position",
+   "quote": "Nothing is made out of God, for in him all things live, are moved and doe subsist.",
+   "note": "Nothing is made outside God."
+  },
+  {
+   "n": 129,
+   "ref": "N149",
+   "type": "position",
+   "quote": "Grace exceedeth Nature, and the thing signified excelleth the signe.",
+   "note": "Margin note: Grace above Nature, the thing signified above the signe.",
+   "term": "signe",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 130,
+   "ref": "CH2.19",
+   "type": "own definition",
+   "quote": "This WORD of God, the First begotten of every Creature, is truly our Dayly Bread for which our Saviour commanded us to pray",
+   "note": "The WORD is said to be the Dayly Bread.",
+   "term": "Dayly Bread"
+  },
+  {
+   "n": 131,
+   "ref": "CH2.19",
+   "type": "own definition",
+   "quote": "it is the supercaelestiall Mummy, the supernaturall Balsome comforting poor Mortalls more then Mans own Mummy or naturall Balsom",
+   "note": "The WORD is called supercaelestiall Mummy and supernaturall Balsome, set above man's own Mummy or naturall Balsom.",
+   "term": "Mummy"
+  },
+  {
+   "n": 132,
+   "ref": "CH2.19",
+   "type": "position",
+   "quote": "The vertue in bread is the blessing of God, yea God himselfe: the Word in our Earthly food is the true Bread which is given to good and bad",
+   "note": "The vertue in bread is God's blessing; the Word in food is the true Bread."
+  },
+  {
+   "n": 133,
+   "ref": "CH2.19",
+   "type": "position",
+   "quote": "Man liveth not by bread alone, but by that which is in Bread",
+   "note": "Man lives by what is in bread."
+  },
+  {
+   "n": 134,
+   "ref": "CH2.19",
+   "type": "position",
+   "quote": "If the Word were not, or of it selfe were not the onely Bread, then the Earth would be our God, but that may not be",
+   "note": "Argument: were the Word not the only Bread, the Earth would be our God."
+  },
+  {
+   "n": 135,
+   "ref": "N151",
+   "type": "position",
+   "quote": "Without this benediction the staffe of bread is broken",
+   "note": "Margin note: without the blessing the staffe of bread is broken.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 136,
+   "ref": "N151",
+   "type": "position",
+   "quote": "It is of mere mercy and goodnesse not of justice that we have both the bread of nourishment and of healing.",
+   "note": "Margin note: bread of nourishment and of healing come of mercy, not justice.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 137,
+   "ref": "CH2.20",
+   "type": "concealment",
+   "quote": "This Word then is the true medicine that healeth all things, but is not known to every one",
+   "note": "The Word, the true medicine, is not known to every one; the lines add that not every Scholler can write of it.",
+   "term": "Word"
+  },
+  {
+   "n": 138,
+   "ref": "CH2.20",
+   "type": "voice",
+   "quote": "our friend Theophrastus Paracelsus a Disciple of the Mosaicall and Living Phylosophy hath written of the Secrets of Nature and the Wonders of God",
+   "name": "Theophrastus Paracelsus",
+   "note": "Theophrastus Paracelsus is named as having written of this."
+  },
+  {
+   "n": 139,
+   "ref": "CH2.20",
+   "type": "own definition",
+   "quote": "to wit, of the WORD of God INCARNATE which may be found in the Creatures",
+   "note": "The Secrets and Wonders are glossed as the WORD of God INCARNATE, to be found in the Creatures.",
+   "term": "WORD of God INCARNATE"
+  },
+  {
+   "n": 140,
+   "ref": "CH2.20",
+   "type": "own definition",
+   "quote": "by this Word, FIAT, the seed of the whole world, were Heaven and Earth created, and this is that which is efficacious in all the Creatures",
+   "note": "FIAT is called the seed of the whole world and that which works in all Creatures. The margin note beside the paragraph names John 1.10. Heb. 11.3. Psal. 107.20.",
+   "term": "FIAT"
+  },
+  {
+   "n": 141,
+   "ref": "CH2.20",
+   "type": "position",
+   "quote": "to which the Creatures are justly in subjection as to their own soule",
+   "note": "Creatures are subject to this Word as to their own soul."
+  },
+  {
+   "n": 142,
+   "ref": "CH2.21",
+   "type": "own definition",
+   "quote": "that the MAGUS, the Wise man or Caelestiall Physitian performeth suddenly and much sooner by Characters and Stones with a most powerfull impression",
+   "note": "MAGUS is glossed as the Wise man or Caelestiall Physitian; he does at once by Characters and Stones what the Physitian does in time by HEARBS.",
+   "term": "MAGUS"
+  },
+  {
+   "n": 143,
+   "ref": "CH2.21",
+   "type": "own definition",
+   "quote": "to wit, the Gamahaea of Influentiall Wedlock to the Terrestiall signe, by matrimoniall combination of the Superiors and Inferiors ASTRALLY",
+   "note": "The impression is glossed as the Gamahaea, a wedlock of Superiors and Inferiors.",
+   "term": "Gamahaea"
+  },
+  {
+   "n": 144,
+   "ref": "CH2.21",
+   "type": "local signal",
+   "quote": "like a stretched cord, all the Superiour vertue floweth through every inferiour thing even to the utmost",
+   "note": "The tie of Nature is put as a likeness: a stretched cord."
+  },
+  {
+   "n": 145,
+   "ref": "CH2.21",
+   "type": "position",
+   "quote": "the inferiour passe through all to their Superiours, because the working Vertue is one, and the participation of the species is diffused through all",
+   "note": "Lower things pass up to higher, because the working Vertue is one."
+  },
+  {
+   "n": 146,
+   "ref": "CH2.21",
+   "type": "marking",
+   "quote": "Divine Matrimony; Hence is that wonderfull tye, continuity, influence and simpathy between inferiour & superiour Naturall things",
+   "what": "Divine Matrimony",
+   "note": "The tie of higher and lower is named Divine Matrimony.",
+   "term": "Divine Matrimony"
+  },
+  {
+   "n": 147,
+   "ref": "CH2.21",
+   "type": "position",
+   "quote": "many things may be done in Magick and Cabal by the intercession of the worlds marriage",
+   "note": "Much may be done in Magick and Cabal through the world's marriage.",
+   "term": "Cabal"
+  },
+  {
+   "n": 148,
+   "ref": "N154",
+   "type": "marking",
+   "quote": "The explication of a common saving (1) in Hearbs Stones and Words there are great vertues.",
+   "what": "in Hearbs Stones and Words there are great vertues",
+   "note": "Margin note calls the passage the explication of a common saying about Hearbs, Stones and Words.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 149,
+   "ref": "CH2.22",
+   "type": "voice",
+   "quote": "the True Cabalist (whom Paracelsus calls the Naturall Divine, who is equall to the Prophets",
+   "name": "Paracelsus",
+   "note": "The name Naturall Divine for the True Cabalist is given to Paracelsus.",
+   "term": "True Cabalist"
+  },
+  {
+   "n": 150,
+   "ref": "CH2.22",
+   "type": "position",
+   "quote": "whose mind being united and coaequant to God doth whatsoever he will, for he willeth onely what God doth",
+   "note": "The Cabalist's mind is united to God and wills only what God does."
+  },
+  {
+   "n": 151,
+   "ref": "CH2.22",
+   "type": "own definition",
+   "quote": "he doth above Nature, DEALLY or like God accomplish complish in a moment by firme confidence and strong faith",
+   "note": "DEALLY is glossed as like God; the work is done above Nature, in a moment, by faith.",
+   "term": "DEALLY"
+  },
+  {
+   "n": 152,
+   "ref": "CH2.22",
+   "type": "marking",
+   "quote": "the very GATE of miracles in that Only Divine Name ISHUH in which all things are reckoned up and contained",
+   "what": "that Only Divine Name ISHUH",
+   "note": "A Name is set apart: ISHUH, in which all things are contained.",
+   "term": "ISHUH"
+  },
+  {
+   "n": 153,
+   "ref": "CH2.22",
+   "type": "own definition",
+   "quote": "he doth performe it in the WONDERFULL WORD by the Mind, Faith and Prayer, to wit, prayers made in Spirit and in Truth",
+   "note": "Doing it in the Name is glossed: in the WONDERFULL WORD, by Mind, Faith and Prayer.",
+   "term": "WONDERFULL WORD"
+  },
+  {
+   "n": 154,
+   "ref": "CH2.22",
+   "type": "own definition",
+   "quote": "The New Birth is the Field of Caelestiall Physick which healeth with a word without Externall means",
+   "note": "The New Birth is called the Field of Caelestiall Physick.",
+   "term": "New Birth"
+  },
+  {
+   "n": 155,
+   "ref": "CH2.22",
+   "type": "position",
+   "quote": "that one operation is in respect of God as the Artificer, and in respect of Man as the Instrument",
+   "note": "In this work God is the Artificer, Man the Instrument."
+  },
+  {
+   "n": 156,
+   "ref": "CH2.22",
+   "type": "position",
+   "quote": "every creature is at the beck and command of their faith who are men innocent and taught in the Law of the Lord",
+   "note": "Every creature obeys the faith of innocent men taught in the Law of the Lord."
+  },
+  {
+   "n": 157,
+   "ref": "CH2.22",
+   "type": "voice",
+   "quote": "who are heard in all things whatsoever they pray for, witnesse Elias, Elisha",
+   "name": "Elias, Elisha",
+   "note": "Elias and Elisha are called as witnesses; the margin note names the books of the Kings, 1 Kings 3.12. and Wifd. 7."
+  },
+  {
+   "n": 158,
+   "ref": "CH2.22",
+   "type": "own definition",
+   "quote": "I mean (not a lazy, sluggish prayer, but) a constant asking, seeking, knocking",
+   "note": "The author says what he means by prayer.",
+   "term": "Prayer"
+  },
+  {
+   "n": 159,
+   "ref": "CH2.22",
+   "type": "position",
+   "quote": "by faithfull Prayer we ascend in a straite and most sure way to the highest Wisdome of Divine and humane Things",
+   "note": "Faithful Prayer is the sure way to the highest Wisdome."
+  },
+  {
+   "n": 160,
+   "ref": "CH2.22",
+   "type": "voice",
+   "quote": "in these Three principall Poynts also consisteth the whole Foundation of the Magicall and Cabalisticall Art, as appeareth by Paracelsus in his third book of the Signature of Things",
+   "name": "Paracelsus",
+   "note": "The Three principall Poynts as the foundation of the Magicall and Cabalisticall Art are referred to a named book of Paracelsus.",
+   "term": "Three principall Poynts"
+  },
+  {
+   "n": 161,
+   "ref": "N155",
+   "type": "position",
+   "quote": "Every Creature feareth and reverenceth his Name that made it.",
+   "note": "Margin note: every creature reveres its maker's Name.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 162,
+   "ref": "CH2.23",
+   "type": "position",
+   "quote": "Honour and Praise and Glory therefore belongeth to the Creator, who worketh all in all, for the desired successe of his Medicine or Word which he hath given",
+   "note": "The praise for a cure belongs to the Creator."
+  },
+  {
+   "n": 163,
+   "ref": "CH2.23",
+   "type": "own definition",
+   "quote": "the Physitian who is the obedient Minister of God and Nature",
+   "note": "The Physitian is called Minister of God and Nature.",
+   "term": "Physitian"
+  },
+  {
+   "n": 164,
+   "ref": "CH2.23",
+   "type": "position",
+   "quote": "there is no other reward due but that of his faithfull paines and Charity",
+   "note": "The Physitian is due only the reward of his pains and Charity."
+  },
+  {
+   "n": 165,
+   "ref": "CH2.23",
+   "type": "position",
+   "quote": "there is nothing at all of his own in it besides Art and right preparation",
+   "note": "Only Art and right preparation are the Physitian's own."
+  },
+  {
+   "n": 166,
+   "ref": "CH2.23",
+   "type": "position",
+   "quote": "God who alone is to be praised and blessed in all, and over all, will not give his Honour to another",
+   "note": "God keeps his Honour to himself."
+  },
+  {
+   "n": 167,
+   "ref": "N157",
+   "type": "position",
+   "quote": "We are not to ascribe our bodily health to the Physitian but to God.",
+   "note": "Margin note: health is to be ascribed to God.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 168,
+   "ref": "N157",
+   "type": "position",
+   "quote": "proudly and rashly promise a set and certaine time of recovery which is to be left to God onely",
+   "note": "Margin note rebukes Physitians who promise a set time of recovery.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 169,
+   "ref": "CH2.24",
+   "type": "voice",
+   "quote": "is to be honoured as the Scripture commandeth",
+   "name": "the Scripture",
+   "note": "The honour due to the true Physitian is given as the Scripture's command. The paragraph opens with Neverthelesse, after CH2.23."
+  },
+  {
+   "n": 170,
+   "ref": "CH2.24",
+   "type": "position",
+   "quote": "the true and sincere Physitian, who among all arts and faculties is most accepted of God",
+   "note": "The true Physitian is most accepted of God among all arts."
+  },
+  {
+   "n": 171,
+   "ref": "CH2.25",
+   "type": "marking",
+   "quote": "First, because God worketh and doth his own will by him as by his Minister, when he sleepeth and knoweth it not",
+   "what": "First",
+   "note": "First of three numbered reasons for honouring the Physitian."
+  },
+  {
+   "n": 172,
+   "ref": "CH2.25",
+   "type": "position",
+   "quote": "by affording Physick enough from the Earth, and his Word from above, without which nothing can be efficacious to our health",
+   "note": "God gives Physick from the Earth and his Word from above; without the Word nothing works."
+  },
+  {
+   "n": 173,
+   "ref": "CH2.25",
+   "type": "voice",
+   "quote": "saith our Saviour, ye can nothing",
+   "name": "our Saviour",
+   "note": "Words given to our Saviour; the margin note names John 15."
+  },
+  {
+   "n": 174,
+   "ref": "CH2.26",
+   "type": "marking",
+   "quote": "Secondly, because (Health being the greatest Good to men) he ought to excell all mortalls in the search and knowledge of Nature and the Light thereof",
+   "what": "Secondly",
+   "note": "Second reason: the Physitian ought to excel in the knowledge of Nature and its Light.",
+   "term": "Light"
+  },
+  {
+   "n": 175,
+   "ref": "CH2.26",
+   "type": "voice",
+   "quote": "Not in vaine therefore did Homer require a Physitian to be furnished with all knowledge in respect of those small cures which he is to doe.",
+   "name": "Homer",
+   "note": "Homer is named as requiring all knowledge of a Physitian; a margin note in foreign script stands beside it."
+  },
+  {
+   "n": 176,
+   "ref": "CH2.27",
+   "type": "marking",
+   "quote": "Thirdly, because he alone manifesteth to all, the wonderfull works of God both in the great and little world",
+   "what": "Thirdly",
+   "note": "Third reason: the Physitian shows the works of God in the great and little world.",
+   "term": "little world"
+  },
+  {
+   "n": 177,
+   "ref": "CH2.27",
+   "type": "concealment",
+   "quote": "not onely by opening his mysteryes and hidden secrets, but also by curing the sick",
+   "note": "The Physitian is said to open God's mysteries and hidden secrets."
+  },
+  {
+   "n": 178,
+   "ref": "CH2.28",
+   "type": "position",
+   "quote": "among all Sciences and Faculties, Physick is to be accounted the most excellent, wherein the greatest wonders of God are miraculously seen",
+   "note": "Physick is the most excellent of the Sciences."
+  },
+  {
+   "n": 179,
+   "ref": "CH2.28",
+   "type": "own definition",
+   "quote": "It taketh its rise from Theology or the Light of Grace, and endeth in the Light of Nature.",
+   "note": "Theology is equated with the Light of Grace; Physick begins there and ends in the Light of Nature.",
+   "term": "Light of Grace"
+  }
+ ],
+ "sections_read": [
+  "CH2"
+ ],
+ "end_marker": "END OF OUTPUT"
+}

@@ -1,0 +1,1202 @@
+{
+ "items": [
+  {
+   "n": 1,
+   "ref": "MICRO.31",
+   "type": "marking",
+   "quote": "But before wee proceed any further it is requisite that wee treat here a little more largly of the Syderyall or invisible man, to wit, of his Originall and power.",
+   "what": "the Syderyall or invisible man, to wit, of his Originall and power",
+   "term": "Syderyall",
+   "note": "Announces a larger treatment of one thing, set apart from what goes before: the sydereal or invisible man, his origin and power."
+  },
+  {
+   "n": 2,
+   "ref": "MICRO.31",
+   "type": "position",
+   "quote": "If Aristotle had taken notice of this Olympick Spirit, and Galen made more account of it, there had not such errors crept into Philosophy and Physick springing from the heathenish masters of errors",
+   "term": "Olympick Spirit",
+   "note": "The author holds that errors in philosophy and physick came from Aristotle and Galen not regarding this spirit; he calls them heathenish masters of errors."
+  },
+  {
+   "n": 3,
+   "ref": "MICRO.31",
+   "type": "marking",
+   "quote": "The invisible man or Olimpick Spirit is borne in us after this manner.",
+   "what": "The invisible man or Olimpick Spirit",
+   "term": "Olimpick Spirit",
+   "note": "Gives two names to one thing and announces the account of how it is born in us."
+  },
+  {
+   "n": 4,
+   "ref": "MICRO.31",
+   "type": "cross-reference",
+   "quote": "Adam and Eve did not proceed from other parents as we their posterity do, but were taken (as hath been sayd) ex LIMO TERRAE",
+   "note": "The words 'as hath been sayd' point back to an earlier place in this writing; the lines given do not show which."
+  },
+  {
+   "n": 5,
+   "ref": "MICRO.31",
+   "type": "own definition",
+   "quote": "ex LIMO TERRAE, out of the dust of the ground or great world as to the mortall Body which is visible and invisible.",
+   "term": "LIMO TERRAE",
+   "note": "The Latin words are Englished in the text itself as the dust of the ground or great world; the mortal body taken from it is said to be both visible and invisible."
+  },
+  {
+   "n": 6,
+   "ref": "MICRO.31",
+   "type": "position",
+   "quote": "For the whole frame of the world is collected and reduced into the Microcosm, so that there is nothing to be found in all the world but the same also is in one man.",
+   "term": "Microcosm",
+   "note": "The whole world is gathered into man; whatever is in the world is in one man."
+  },
+  {
+   "n": 7,
+   "ref": "MICRO.31",
+   "type": "position",
+   "quote": "The Physicall, Elementary, visible and Tangible body is from the Earth: but the Invisible, Insensible, Sydereall body (which is the house or cottage of the Spirits life) is from the Astra's of the Firmament",
+   "term": "Sydereall body",
+   "note": "Two bodies with two origins: the visible from the Earth, the sydereal from the Astra's of the Firmament. The sydereal body is called the house or cottage of the spirit's life."
+  },
+  {
+   "n": 8,
+   "ref": "MICRO.31",
+   "type": "position",
+   "quote": "Thus Adam had two bodies, that is, a visible Elementall, and an invisible Sydereall body.",
+   "note": "Adam is said to have had two bodies."
+  },
+  {
+   "n": 9,
+   "ref": "MICRO.31",
+   "type": "position",
+   "quote": "So that now by propagation there are alwayes two Men born, a Corporeall, Elementall, Visible Man, the Organ and Instrument of the invisible, and an incorporeall Astralick man which moveth, guideth, and performeth all skilfull matters.",
+   "term": "Astralick man",
+   "note": "At every birth two men are born: the visible one is the instrument, the astralick one moves, guides and does all skilful things."
+  },
+  {
+   "n": 10,
+   "ref": "MICRO.31",
+   "type": "internal conflict",
+   "quote": "an incorporeall Astralick man",
+   "with": "MICRO.31; N122",
+   "note": "The invisible man is here called incorporeall, while the same paragraph calls it a body ('an invisible Sydereall body') and the margin note N122 says not only visible things are bodies. Recorded as wording that does not sit evenly; no judgement.",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 11,
+   "ref": "MICRO.31",
+   "type": "position",
+   "quote": "For the Astra's now in Man doe by Man alwayes in generation produce those two",
+   "term": "Astra's",
+   "note": "The Astra's that are in man produce both bodies in generation, through man."
+  },
+  {
+   "n": 12,
+   "ref": "MICRO.31",
+   "type": "position",
+   "quote": "The visible Elementary body of flesh and blood in the mothers womb out of the four Elements",
+   "note": "The visible body is made in the womb out of the four Elements."
+  },
+  {
+   "n": 13,
+   "ref": "MICRO.31",
+   "type": "position",
+   "quote": "the invisible Sydereall body that is capable of attaining Phylosophy is from the Astra's of the Firmament",
+   "note": "The sydereal body, not the visible one, is said to be the one able to attain philosophy."
+  },
+  {
+   "n": 14,
+   "ref": "MICRO.31",
+   "type": "position",
+   "quote": "For that little world Man is one and the same in all things with his-Parant, the great world",
+   "term": "little world",
+   "note": "Man is called the little world and the great world his parent; the two are the same in all things."
+  },
+  {
+   "n": 15,
+   "ref": "MICRO.31",
+   "type": "position",
+   "quote": "But as the great world is distinguished by its shell or out-side from the Angelicall world, so man the little world is distinguished by his skin or out-side from the great world.",
+   "term": "Angelicall world",
+   "note": "Three worlds are set one within another by an outside: the Angelicall world, the great world with its shell, man with his skin."
+  },
+  {
+   "n": 16,
+   "ref": "N120",
+   "type": "position",
+   "quote": "That which is sensible and that which is insensible hath a sydereall spirit or a sydereall body in it.",
+   "note": "The note says both the sensible and the insensible have a sydereal spirit or body in them; spirit and body are given as alternative names.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 17,
+   "ref": "N121",
+   "type": "position",
+   "quote": "Eve is Adam transplanted.",
+   "note": "The note's statement about Eve, beside the sentence on Adam and Eve not proceeding from other parents.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 18,
+   "ref": "N121",
+   "type": "position",
+   "quote": "The first men were created, the rest proceed from the Being of the seed or Esence.",
+   "note": "The note sets the first men, who were created, against the rest, who proceed from the seed.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 19,
+   "ref": "N122",
+   "type": "own definition",
+   "quote": "The Spirit of life is the Spiracle or breathing hole.",
+   "term": "Spiracle",
+   "note": "The note says what the Spirit of life is: the Spiracle, Englished as breathing hole.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 20,
+   "ref": "N122",
+   "type": "position",
+   "quote": "The body of the Limbus & spiracle ought to make one Marriage",
+   "term": "Limbus",
+   "note": "The note says the body of the Limbus and the spiracle should be joined as in one marriage; the words that follow, on what happens otherwise, are partly illegible.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 21,
+   "ref": "N122",
+   "type": "position",
+   "quote": "For as in all thing the marriage or joynting together of two is the perfection",
+   "note": "The note gives the joining of two as the perfection in all things; the rest of the sentence has illegible letters.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 22,
+   "ref": "N122",
+   "type": "voice",
+   "quote": "it is a body because bodies are the fruits thereof and without a body such fruit cannot grow.",
+   "name": "Paracelsus",
+   "note": "The note points to a writing of Paracelsus (the name and title stand with illegible letters) and reports what he 'saith' of the element of fire or the firmament: it is a body, since bodies are its fruits. The words before this quote are partly illegible.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 23,
+   "ref": "N122",
+   "type": "position",
+   "quote": "So the wind is a body and like a visible body hath power to overturne another body",
+   "note": "The wind is given as a body that is not seen. The note does not show whether this still reports Paracelsus or is the author's own.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 24,
+   "ref": "N122",
+   "type": "position",
+   "quote": "Not onely visible things are bodies, for God created as well visible as invisible bodies of the same power.",
+   "note": "Bodies are said to be of two kinds, visible and invisible, with the same power. Whose words these are is not shown in the note.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 25,
+   "ref": "N122",
+   "type": "position",
+   "quote": "The inner Man ascendeth the inward Heaven.",
+   "term": "inner Man",
+   "note": "The note names an inner Man and an inward Heaven.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 26,
+   "ref": "N122",
+   "type": "position",
+   "quote": "This Spirit is tha Doctor of true Astronomy.",
+   "note": "The note calls this spirit the teacher of true Astronomy.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 27,
+   "ref": "MICRO.32",
+   "type": "position",
+   "quote": "is the same with the Firmament of the Astra's, as hath been often said, like rednesse with wine, whitenesse with snow, or the lustre of the Sun with the Aire",
+   "note": "The sydereal man is said to be one with the Firmament of the Astra's, as a quality is one with the thing that has it."
+  },
+  {
+   "n": 28,
+   "ref": "MICRO.32",
+   "type": "cross-reference",
+   "quote": "Hence it is that the Sydereall, Internall, Olimpick. Incorporeall, or (Gabalis Homo) coagulated or curdled Man is the same with the Firmament of the Astra's, as hath been often said",
+   "note": "The words 'as hath been often said' point back to earlier places in this writing; the lines given do not show which."
+  },
+  {
+   "n": 29,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "(Gabalis Homo) coagulated or curdled Man",
+   "term": "Gabalis Homo",
+   "note": "The Latin name is Englished in the text itself as coagulated or curdled Man; it stands in a row of names for the sydereal man."
+  },
+  {
+   "n": 30,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "The other part therefore of Man, or this sydereall body is called the Genius of man, because it proceedeth from the Firmament",
+   "term": "Genius",
+   "note": "The text gives a name and its reason: Genius, because it comes from the Firmament."
+  },
+  {
+   "n": 31,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "it is called Penates, because it is in our power and born with us, the shadow of the visible body",
+   "term": "Penates",
+   "note": "A second name with its reason: Penates, because it is in our power and born with us."
+  },
+  {
+   "n": 32,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "Lar domesticus the good or bad houshould or private Angell",
+   "term": "Lar domesticus",
+   "note": "A further name, Englished in the text as the good or bad household or private Angel."
+  },
+  {
+   "n": 33,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "the Umbratile or shadowy Man",
+   "term": "Umbratile",
+   "note": "A further name, Englished as shadowy."
+  },
+  {
+   "n": 34,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "the familiar Homuncle (or little Man) of the Sophies (or wise men,)",
+   "term": "Homuncle",
+   "note": "A further name: Homuncle is Englished as little Man, Sophies as wise men; the name is given as theirs."
+  },
+  {
+   "n": 35,
+   "ref": "MICRO.32",
+   "type": "voice",
+   "quote": "Paracelsus his internall Adech",
+   "name": "Paracelsus",
+   "term": "Adech",
+   "note": "The name Adech is given as Paracelsus's own word for the same thing."
+  },
+  {
+   "n": 36,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "Paracelsus his internall Adech (i. e. that which first inwardly formeth in our mind what we afterward outwardly fashion with our hands)",
+   "term": "Adech",
+   "note": "The text says what Adech means: what first forms inwardly in the mind what the hands afterwards fashion outwardly."
+  },
+  {
+   "n": 37,
+   "ref": "MICRO.32",
+   "type": "marking",
+   "quote": "the Spectrum, ghost, or fantasie, the Light of Nature",
+   "what": "the Spectrum, ghost, or fantasie, the Light of Nature",
+   "term": "Light of Nature",
+   "note": "Further names in the same row, all for the sydereal body; Light of Nature is one of them."
+  },
+  {
+   "n": 38,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "the presaging or Propheticall Euestrum that foretelleth any thing by signes (in Man)",
+   "term": "Euestrum",
+   "note": "A further name with what it does: the Euestrum foretells by signs in man."
+  },
+  {
+   "n": 39,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "It is also called ahe imagination, which incloseth all the Astra's, and is indeed all the Astra's or Starrs and holdeth the same course, Nature and power with heaven.",
+   "term": "imagination",
+   "note": "The same thing is also called the imagination; it is said to contain all the Astra's and to be all of them."
+  },
+  {
+   "n": 40,
+   "ref": "MICRO.32",
+   "type": "local signal",
+   "quote": "by which I do not meane the seaven visible coales of Heaven which are but the bodyes of the Astra's but I meane the invisible and insensible body of all things or Astrall Spirit",
+   "term": "Astra's",
+   "note": "Stated: the author says the word Astra's or Stars is not meant of the seven visible lights of heaven, which are only their bodies, but of the invisible body of all things or Astrall Spirit."
+  },
+  {
+   "n": 41,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "they are nothing else but the verue or powers of the Angells",
+   "term": "Astra's",
+   "note": "The Astra's are said to be nothing but the powers of the Angels."
+  },
+  {
+   "n": 42,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "The Angells which live only upon the vision of God, are the created wisdome of God",
+   "term": "Angells",
+   "note": "The text says what the Angels are: the created wisdom of God."
+  },
+  {
+   "n": 43,
+   "ref": "MICRO.32",
+   "type": "position",
+   "quote": "Hence it is that he that knowes God, he knows the Astra's also: He that knowes the Astra's cannot but knowe the world, and consequently man the off-spring of the world.",
+   "note": "A chain of knowing: from God to the Astra's, to the world, to man, who is called the offspring of the world."
+  },
+  {
+   "n": 44,
+   "ref": "MICRO.32",
+   "type": "position",
+   "quote": "The Astra's form & bring forth all bodily things out of themselves, and multiply themselves together with those bodily things that are brought forth",
+   "note": "The Astra's make all bodily things out of themselves and multiply along with them."
+  },
+  {
+   "n": 45,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "the seeds of any graine or Wheat is the Astrum, viz. the invisible body, which being cast into the Earth it produceth a visible body, and begetteth many other Astra's out of it selfe",
+   "term": "Astrum",
+   "note": "The text's own example of an Astrum: the seed of a grain, called the invisible body, which brings forth a visible body and many more Astra's."
+  },
+  {
+   "n": 46,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "But the Astrum is nothing else but the insensible, invisible body, or living Spirit, yet without Reason in things that grow; but with reason in living things, as in man",
+   "term": "Astrum",
+   "note": "The Astrum is defined as the invisible body or living Spirit; without Reason in growing things, with reason in living things such as man."
+  },
+  {
+   "n": 47,
+   "ref": "MICRO.32",
+   "type": "own definition",
+   "quote": "Bodyes are nothing else but the Excrement of the Astra's, which are brought forth into a bodily Being by their operation.",
+   "term": "Excrement",
+   "note": "Bodies are said to be nothing but what the Astra's put forth by their working.",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 48,
+   "ref": "MICRO.32",
+   "type": "position",
+   "quote": "This every Astrum can doe of it selfe, as by imagination to bring forth of it selfe another Astrum in a body, forming it by operation.",
+   "note": "Each Astrum brings forth another Astrum in a body, by imagination and by operation."
+  },
+  {
+   "n": 49,
+   "ref": "MICRO.32",
+   "type": "position",
+   "quote": "There is no body without an Astrum",
+   "note": "First half of a two-way statement; the sentence goes on past the note mark with the converse."
+  },
+  {
+   "n": 50,
+   "ref": "MICRO.32",
+   "type": "position",
+   "quote": "as there is no Astrum without a visible body.",
+   "note": "Second half: no Astrum is without a visible body."
+  },
+  {
+   "n": 51,
+   "ref": "N123",
+   "type": "position",
+   "quote": "The eating of the apple produceth this body the sydereall seed into force & vigour.",
+   "note": "The note ties the sydereal seed's coming into force to the eating of the apple.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 52,
+   "ref": "N123",
+   "type": "own definition",
+   "quote": "Astrum, Vulcanus and Archaeus are the same thing",
+   "term": "Vulcanus",
+   "note": "The note gives three names for one thing.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 53,
+   "ref": "N123",
+   "type": "own definition",
+   "quote": "Astrum, Vulcanus and Archaeus are the same thing, & but one Spirit yet without Reason, & divers, as are the divers formes of severall things.",
+   "term": "Archaeus",
+   "note": "The three names are said to be one Spirit, without Reason, and differing as the forms of things differ.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 54,
+   "ref": "N123",
+   "type": "internal conflict",
+   "quote": "but one Spirit yet without Reason",
+   "with": "MICRO.32",
+   "note": "The note calls the Astrum a Spirit 'without Reason' with no limit; the paragraph says it is without Reason in things that grow but with reason in living things, as in man.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 55,
+   "ref": "N124",
+   "type": "position",
+   "quote": "The Astralick Spirit is every growing thing standeth in need of a corporeall habitation.",
+   "note": "The note says the Astralick Spirit needs a bodily dwelling; it stands beside the sentence that no body is without an Astrum.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 56,
+   "ref": "N124",
+   "type": "own definition",
+   "quote": "The inner Man is Heaven it selfe or all the Astras.",
+   "term": "inner Man",
+   "note": "The note says what the inner Man is: Heaven itself, or all the Astras.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 57,
+   "ref": "N124",
+   "type": "voice",
+   "quote": "Read in Picus how Trimethius put upon himselfe the various Evestra's of the three-fold world one after another, & transformed himselfe into several shapes",
+   "name": "Picus",
+   "term": "Evestra's",
+   "note": "The note sends the reader to Picus for an account of Trimethius putting on the Evestra's of the three-fold world and changing his shape.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 58,
+   "ref": "N124",
+   "type": "concealment",
+   "quote": "thus by reall Magick he shewed to that great Picus the hidden virtue or power of Man who was created after the image of God.",
+   "term": "reall Magick",
+   "note": "The power of man is called hidden; the note says it was shown to Picus by real Magick.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 59,
+   "ref": "N124",
+   "type": "position",
+   "quote": "We are transformed into that which we most intently gaze and meditate upon.",
+   "note": "The note states a rule: we become what we most intently look at and think on.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 60,
+   "ref": "N124",
+   "type": "position",
+   "quote": "The understanding of Man is assimulated to all things.",
+   "note": "The note says man's understanding is made like all things.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 61,
+   "ref": "N124",
+   "type": "position",
+   "quote": "The impression of the Imagination from fear, terrour, & griefe",
+   "note": "The note ties sickness and death to what fear, terror and grief impress on the Imagination; one letter of the word that follows is illegible.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 62,
+   "ref": "N124",
+   "type": "position",
+   "quote": "The Astra's send the plague into us through our skin as the Sun doth his beams thhrough the glasse.",
+   "note": "The note says the Astra's send the plague through the skin, as sunbeams pass through glass.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 63,
+   "ref": "MICRO.33",
+   "type": "position",
+   "quote": "And whereas the imagination of Man is not one, but all the Astra's, it is as true that it produceth not onely one, but many operations",
+   "term": "imagination",
+   "note": "Because man's imagination is all the Astra's, it works many operations, not one."
+  },
+  {
+   "n": 64,
+   "ref": "MICRO.33",
+   "type": "position",
+   "quote": "the Gate of Wonders, the spring and originall of all Magicall operations, and hath power to beget and bring forth visible bodies without detriment or diminution of the Astrall and sydereall Spirit",
+   "term": "Gate of Wonders",
+   "note": "The imagination, though incorporeall and invisible, is called the Gate of Wonders and the source of all magical operations, able to bring forth visible bodies without loss to the Astrall Spirit. Just before the quote the text reads 'being joyned to a heightned the Gate of Wonders'; the lines given do not show what it is joined to."
+  },
+  {
+   "n": 65,
+   "ref": "MICRO.33",
+   "type": "position",
+   "quote": "and can work any wonderfull operations whatsoever, present or absent, above the reach of humane Reason.",
+   "note": "Its operations are said to work at hand or at a distance, and beyond human reason."
+  },
+  {
+   "n": 66,
+   "ref": "MICRO.33",
+   "type": "position",
+   "quote": "The Light of Nature makes bodily things visible, but Eternall things are to be seen onely by Faith",
+   "term": "Light of Nature",
+   "note": "Two ways of seeing are set apart: the Light of Nature for bodily things, Faith for eternal things."
+  },
+  {
+   "n": 67,
+   "ref": "MICRO.33",
+   "type": "position",
+   "quote": "The child in the mothers womb is strangely marked by the impression of the imagination without any bodily touch",
+   "note": "The marking of the unborn child is given as an instance of imagination working without bodily touch."
+  },
+  {
+   "n": 68,
+   "ref": "MICRO.33",
+   "type": "position",
+   "quote": "What we doe visiby by the body, that doe we by Faith after the manner of Spirits",
+   "term": "Faith",
+   "note": "What the body does visibly, Faith does in the manner of Spirits."
+  },
+  {
+   "n": 69,
+   "ref": "MICRO.33",
+   "type": "position",
+   "quote": "Thus the Imagination breedeth the Plague and such like Firmamentall diseases; it brings sicknesse and health.",
+   "term": "Firmamentall diseases",
+   "note": "The Imagination is said to breed the Plague and like diseases, called Firmamentall, and to bring both sickness and health."
+  },
+  {
+   "n": 70,
+   "ref": "MICRO.34",
+   "type": "position",
+   "quote": "The Pestilence which comes by fear, trouble and terrour, riseth by the imagination of the Spirit of the lesser world or of the Sydereall and Animall Spirit (which is the mechanick Astrall Spirit) in Man",
+   "term": "mechanick Astrall Spirit",
+   "note": "The pestilence that comes by fear rises from the imagination of the sydereal and animal spirit in man, here also named the mechanick Astrall Spirit."
+  },
+  {
+   "n": 71,
+   "ref": "MICRO.34",
+   "type": "position",
+   "quote": "as we see in women with childe who give marks and tokens to the young in their womb by the same sydereall Spirit",
+   "note": "The same spirit is said to be what marks the child in the womb."
+  },
+  {
+   "n": 72,
+   "ref": "MICRO.34",
+   "type": "own definition",
+   "quote": "This sydereall Spirit which is born of the Astra's together with Man (and therefore remains united to the Astra's) is the Load stone and hath a magnetick nature in man.",
+   "term": "Load stone",
+   "note": "The sydereal Spirit is said to be the Load stone in man; it stays united to the Astra's because it is born of them."
+  },
+  {
+   "n": 73,
+   "ref": "MICRO.34",
+   "type": "own definition",
+   "quote": "so also the body and spirit in Man doe draw unto him by a visible body, this is the Load stone of the Microcosm",
+   "term": "Load stone of the Microcosm",
+   "note": "Set beside the earthly Load stone: body and spirit in man draw to him; this is named the Load stone of the Microcosm."
+  },
+  {
+   "n": 74,
+   "ref": "MICRO.34",
+   "type": "position",
+   "quote": "The sydereall body and spirit attract unto them the force of the Astra's, as we see in those that are Lunatick",
+   "note": "The sydereal body and spirit draw the force of the Astra's; the Lunatick are given as the instance."
+  },
+  {
+   "n": 75,
+   "ref": "MICRO.35",
+   "type": "marking",
+   "quote": "This fourth kind of Naturall Magick called Gamahaea doth all things invisibly and spiritually, by the help of Art, which Nature is able to doe visibly and corporally without such help.",
+   "what": "This fourth kind of Naturall Magick called Gamahaea",
+   "term": "Gamahaea",
+   "note": "Names and numbers one kind of Natural Magick: the fourth, called Gamahaea. It does invisibly by Art what Nature does visibly without it. The lines given do not show the other kinds."
+  },
+  {
+   "n": 76,
+   "ref": "MICRO.35",
+   "type": "local signal",
+   "quote": "The House is as it were dead, but the Inhabitant to wit, the Spirit of perpetuall motion of invisible Nature or the magnetick spark of the Soule of the world liveth and worketh effectually.",
+   "term": "Soule of the world",
+   "note": "A figure flagged by 'as it were'. Stated: the Inhabitant is said ('to wit') to be the Spirit of perpetual motion of invisible Nature or the magnetick spark of the Soule of the world. The House is not explained in this sentence."
+  },
+  {
+   "n": 77,
+   "ref": "MICRO.35",
+   "type": "concealment",
+   "quote": "workmanship, Arts, Sciences, and the knowledge of all things lie hid in the Astra's of the Firmament.",
+   "note": "All arts, sciences and knowledge are said to lie hidden in the Astra's of the Firmament; the sentence begins before the note mark with 'All Animall wisdome'."
+  },
+  {
+   "n": 78,
+   "ref": "MICRO.35",
+   "type": "concealment",
+   "quote": "There is nothing so hidden in the world which is not praefigured in the Astra's",
+   "note": "Whatever is hidden in the world is said to be prefigured in the Astra's."
+  },
+  {
+   "n": 79,
+   "ref": "MICRO.35",
+   "type": "own definition",
+   "quote": "all the Astra's of the Firmament, which are the Tincture of the speculation of our mind",
+   "term": "Tincture",
+   "note": "The Astra's of the Firmament are called the Tincture of the speculation of our mind.",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 80,
+   "ref": "MICRO.35",
+   "type": "position",
+   "quote": "can of their own in-bred or naturall force by imagining produce bodily and visible things out of that which doth not appear, as in a clear Heaven a great cloud suddenly ariseth",
+   "note": "The Astra's by imagining bring visible things out of what does not appear; a cloud rising in a clear sky is the instance."
+  },
+  {
+   "n": 81,
+   "ref": "MICRO.35",
+   "type": "position",
+   "quote": "which though they were Nothing before production, yet being produced out of invisible things, they become great bodies.",
+   "note": "Rain, snow, hail and the like are said to have been Nothing before, and to become great bodies out of invisible things."
+  },
+  {
+   "n": 82,
+   "ref": "MICRO.35",
+   "type": "position",
+   "quote": "all things in the first Creation were produced out of the DIVINE NOTHING, or invisible Cabalisticall Poynt, into something, which God did in a moment, for his works cannot be delayed by time",
+   "term": "DIVINE NOTHING",
+   "note": "From the cloud the author draws the first Creation: all things out of the DIVINE NOTHING, also named the invisible Cabalisticall Poynt, in a moment."
+  },
+  {
+   "n": 83,
+   "ref": "MICRO.35",
+   "type": "position",
+   "quote": "All things proceeded out of the invisible Darknesse, and were called out to the visible Light by the WORD speaking, and the Spirit cherishing.",
+   "term": "WORD",
+   "note": "All things came from invisible Darkness to visible Light by the WORD speaking and the Spirit cherishing."
+  },
+  {
+   "n": 84,
+   "ref": "MICRO.35",
+   "type": "position",
+   "quote": "Now whereas Man had his Sydereall body from the Astra's of the Firmament, and the whole Imagination of Man dependeth on the Astra's of the Firmament, yea is the same and abideth one with them",
+   "note": "Man's Imagination is said to depend on the Astra's of the Firmament and to be one with them."
+  },
+  {
+   "n": 85,
+   "ref": "MICRO.35",
+   "type": "position",
+   "quote": "it must needs be that the Firmament also hath an Imagination but without Reason, as Man the off-spring of the world hath with Reason.",
+   "note": "The author concludes that the Firmament too has an Imagination, without Reason, as man has one with Reason."
+  },
+  {
+   "n": 86,
+   "ref": "MICRO.35",
+   "type": "position",
+   "quote": "One man striketh and hurteth another, and that with Reason, a nettle and fire burne and hurt without Reason.",
+   "note": "The instance given for hurting with Reason and without it."
+  },
+  {
+   "n": 87,
+   "ref": "N125",
+   "type": "position",
+   "quote": "the Astra's do those things which Humane wisdom desireth.",
+   "note": "The note says the Astra's do what human wisdom desires; the words before it, on Wisdome and Inchantment, have an illegible letter.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 88,
+   "ref": "N125",
+   "type": "position",
+   "quote": "In respect of the Elementatary body it is a Spirit and performeth all spirituall operations.",
+   "note": "The note says that, set against the elementary body, it is a Spirit and does all spiritual operations; the note does not name what 'it' is.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 89,
+   "ref": "N125",
+   "type": "position",
+   "quote": "all actions and events of Men are pictured in the Astra's, every living Creature hath its Ascendant signe in Heaven",
+   "term": "Ascendant",
+   "note": "The note says men's actions and events are pictured in the Astra's and every living creature has its Ascendant sign.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 90,
+   "ref": "N125",
+   "type": "position",
+   "quote": "Every Body is proceeded of an invisible & incomprehensible subsisting Spirit.",
+   "note": "The note says every body comes from an invisible Spirit.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 91,
+   "ref": "N125",
+   "type": "own definition",
+   "quote": "is a three fold NIHIL or Nothing, a Divine, Privative and Negative NOTHING",
+   "term": "NIHIL",
+   "note": "The note names three kinds of NIHIL or Nothing: Divine, Privative and Negative. The word that is said to be this is illegible.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 92,
+   "ref": "N125",
+   "type": "own definition",
+   "quote": "The whole Heaven is nothing else but the Imagination",
+   "term": "Imagination",
+   "note": "The note says the whole Heaven is nothing but the Imagination; it stands beside the paragraph that says the Firmament has an Imagination.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 93,
+   "ref": "N125",
+   "type": "position",
+   "quote": "It breedeth the Plague and and Fevers in",
+   "note": "The note says it breeds the Plague and Fevers; the words that follow have an illegible letter.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 94,
+   "ref": "MICRO.36",
+   "type": "position",
+   "quote": "Moreover whereas Man is the Quintessence of the greater world, it follows that Man may not onely imitate Heaven, but rule it also at his beck, and reigne over it at his pleasure.",
+   "term": "Quintessence",
+   "note": "Man is called the Quintessence of the greater world; from this the author draws that man may rule Heaven, not only imitate it."
+  },
+  {
+   "n": 95,
+   "ref": "MICRO.36",
+   "type": "position",
+   "quote": "All things naturally obey the Soule, and must of necessity move and work toward that which the soule earnestly desireth",
+   "note": "All things are said to obey the Soul and work toward what it earnestly desires."
+  },
+  {
+   "n": 96,
+   "ref": "MICRO.36",
+   "type": "position",
+   "quote": "it makes all the powers of the world serve us, when by holinesse we draw vertue from him who is the true Archetype, and when we ascend to him, then every Creature must and will obey us",
+   "term": "Archetype",
+   "note": "The condition is stated: the powers of the world serve us when by holiness we draw virtue from him who is called the true Archetype."
+  },
+  {
+   "n": 97,
+   "ref": "MICRO.36",
+   "type": "position",
+   "quote": "By the help of Imagination all Magicall operations and all wonderfull things are done through the Naturall inborn Faith, by which we are at peace with the very Spirits themselves.",
+   "term": "Naturall inborn Faith",
+   "note": "All magical operations are done by Imagination through the Naturall inborn Faith."
+  },
+  {
+   "n": 98,
+   "ref": "MICRO.36",
+   "type": "position",
+   "quote": "so the incorporeall cogitation of Man worketh on the subject, by the spirit onely as with a visible instrument",
+   "note": "Set beside the bodily Sun, which burns without an instrument: man's thought works on a thing by the spirit alone, as if with a visible instrument."
+  },
+  {
+   "n": 99,
+   "ref": "MICRO.36",
+   "type": "position",
+   "quote": "what the visible body doth that also doth the invisible body",
+   "note": "The invisible body does whatever the visible body does; after the note mark the instance is the sydereal man doing hurt to another."
+  },
+  {
+   "n": 100,
+   "ref": "MICRO.36",
+   "type": "own definition",
+   "quote": "The Imagination of Man is the Loadstone that attracteth above a 1000 miles off, yea in its Exaltation it draweth unto it whatsoever it wilout of the Elements.",
+   "term": "Exaltation",
+   "note": "The Imagination of man is called the Loadstone that draws from far off; in its Exaltation it draws what it will out of the Elements."
+  },
+  {
+   "n": 101,
+   "ref": "MICRO.36",
+   "type": "operation",
+   "quote": "unles first it attract the thing conceived by the attractive force of the imagination, that it may beget the Architect of the Imagination as a native spirit out of it selfe",
+   "term": "Architect of the Imagination",
+   "note": "A first step is named as needed for the Imagination to work: it draws in the thing conceived and so begets the Architect of the Imagination, a spirit out of itself."
+  },
+  {
+   "n": 102,
+   "ref": "MICRO.36",
+   "type": "local signal",
+   "quote": "afterward the Imagination being as it were with child maketh impression, which though it be not tangible, yet it is corporeall like the wind.",
+   "note": "The second step, in a figure flagged by 'as it were': the Imagination, as if with child, makes an impression, said to be not tangible yet corporeall like the wind."
+  },
+  {
+   "n": 103,
+   "ref": "N126",
+   "type": "position",
+   "quote": "By Faith we may do good or evillus God permitteth.",
+   "note": "The note says by Faith good or evil may be done, as God permits.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 104,
+   "ref": "N127",
+   "type": "marking",
+   "quote": "This {G106: 1 word illegible} the Ga{G107: 1 letter illegible}ae {G108: 1 span illegible} Art.",
+   "what": "Art",
+   "note": "A note beside 'what the visible body doth that also doth the invisible body'; it names an Art, but its words are too broken by gaps to read further.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 105,
+   "ref": "MICRO.37",
+   "type": "position",
+   "quote": "Hence the true Magician or wise Man can attract the operation of the Astra's, stones, mettalls, &c. into the Imagination to make them excercise the same force and power with the Astra's",
+   "term": "Magician",
+   "note": "The true Magician, also called wise Man, can draw the operation of Astra's, stones and metals into the Imagination."
+  },
+  {
+   "n": 106,
+   "ref": "MICRO.37",
+   "type": "operation",
+   "quote": "as for example, by a burning Glasse the beams of the Sun are derived unto us with its heat",
+   "note": "The text's example of drawing a power down: a burning glass brings the Sun's beams and heat to us."
+  },
+  {
+   "n": 107,
+   "ref": "MICRO.37",
+   "type": "position",
+   "quote": "The Imagination can produce whatever we see with our eyes in the greater world",
+   "note": "The Imagination is said to be able to produce whatever is seen in the greater world."
+  },
+  {
+   "n": 108,
+   "ref": "MICRO.37",
+   "type": "position",
+   "quote": "Thus by Imagination and true Gabalia all hearbs, all growing things, all mettalls may be produced.",
+   "term": "Gabalia",
+   "note": "Herbs, growing things and metals may all be produced by Imagination and true Gabalia."
+  },
+  {
+   "n": 109,
+   "ref": "MICRO.37",
+   "type": "marking",
+   "quote": "This part of Magick is called Gabalisticall, and is supported with three Pillars.",
+   "what": "This part of Magick is called Gabalisticall",
+   "term": "Gabalisticall",
+   "note": "Names one part of Magick and announces three Pillars, which the next three paragraphs number."
+  },
+  {
+   "n": 110,
+   "ref": "N128",
+   "type": "position",
+   "quote": "Magick or Faith transplanting minds hath power over all Spirits and Ascendants.",
+   "term": "Ascendants",
+   "note": "The note sets Magick and Faith side by side as one thing with power over Spirits and Ascendants.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 111,
+   "ref": "MICRO.38",
+   "type": "marking",
+   "quote": "First, with TRUE PRAYERS made in Spirit and Truth, when God and the Created Spirit are united in the Holy of Holyes",
+   "what": "TRUE PRAYERS",
+   "term": "TRUE PRAYERS",
+   "note": "The first Pillar, numbered and set in capitals."
+  },
+  {
+   "n": 112,
+   "ref": "MICRO.38",
+   "type": "operation",
+   "quote": "when God is prayed unto in the internall Spirit, not with noyse of words, but in a sacred silence, without opening the mouth and groaning.",
+   "note": "How the prayer is made: inwardly, in silence, without words or opening the mouth."
+  },
+  {
+   "n": 113,
+   "ref": "MICRO.39",
+   "type": "marking",
+   "quote": "Secondly, by NATURALL FAITH, or in-born Wisdome, which God the Father equally communicated to all men in the Creation, as to his own proper flock and common patrimony.",
+   "what": "NATURALL FAITH, or in-born Wisdome",
+   "term": "NATURALL FAITH",
+   "note": "The second Pillar, numbered and set in capitals; the text also calls it in-born Wisdome and says it was given equally to all men in the Creation."
+  },
+  {
+   "n": 114,
+   "ref": "MICRO.40",
+   "type": "marking",
+   "quote": "Thirdly, by a strongly exalted IMAGINATION, how great and how wonderfull the strength or force thereof is, the Light of Nature doth manifestly shew",
+   "what": "a strongly exalted IMAGINATION",
+   "term": "IMAGINATION",
+   "note": "The third Pillar, numbered and set in capitals; its strength is said to be shown by the Light of Nature."
+  },
+  {
+   "n": 115,
+   "ref": "MICRO.40",
+   "type": "voice",
+   "quote": "as well in Jacobs Rods mentioned by Moses, as in pregnant women who imprint the mark of that which they long for upon the child, as hath been said.",
+   "name": "Moses",
+   "note": "Jacob's Rods are given as an instance on the word of Moses; the margin note N129 gives the place."
+  },
+  {
+   "n": 116,
+   "ref": "N129",
+   "type": "voice",
+   "quote": "Gen. 30.37, &c.",
+   "name": "Gen.",
+   "note": "The note names the writing and place beside the mention of Jacob's Rods.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 117,
+   "ref": "MICRO.40",
+   "type": "cross-reference",
+   "quote": "as in pregnant women who imprint the mark of that which they long for upon the child, as hath been said.",
+   "note": "The words 'as hath been said' point back within this writing; in the lines given the marking of the child stands at MICRO.33 and MICRO.34."
+  },
+  {
+   "n": 118,
+   "ref": "MICRO.40",
+   "type": "position",
+   "quote": "The Imagination or Fantasie of Man is like the Load stone in its Nature, attracting the Fantasie of other men, as we see in those that gape and yawn.",
+   "term": "Fantasie",
+   "note": "Imagination, also called Fantasie, draws the Fantasie of other men as the Load stone draws; yawning is the instance."
+  },
+  {
+   "n": 119,
+   "ref": "MICRO.41",
+   "type": "position",
+   "quote": "A vehement Imagination doth not onely cause a transmutation of ones own body, but sometimes also of anothers, by way of imitation",
+   "term": "transmutation",
+   "note": "A vehement Imagination changes one's own body and sometimes another's; the word used is transmutation.",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 120,
+   "ref": "MICRO.41",
+   "type": "position",
+   "quote": "by a certaine kind of Vertue which the similitude of the Thing hath unto that Thing that is to be changed, which is moved by a vehement Imagination",
+   "term": "similitude",
+   "note": "The means named: a virtue that lies in the likeness between the thing and what is to be changed. Instances follow: swooning, teeth set on edge, yawning."
+  },
+  {
+   "n": 121,
+   "ref": "MICRO.42",
+   "type": "position",
+   "quote": "Many by their melancholly Imagination and diffidence have exposed themselves to the temptation of the uncleane Spirit, and sometimes have been overcome by it.",
+   "note": "Imagination joined with melancholy and distrust is said to lay people open to the unclean Spirit."
+  },
+  {
+   "n": 122,
+   "ref": "MICRO.43",
+   "type": "position",
+   "quote": "have so prevailed that on a sudden they have become the Temples of the living God.",
+   "note": "The opposite case: many by intent Imagination, firm Faith toward God, hope and prayer have suddenly become Temples of the living God."
+  },
+  {
+   "n": 123,
+   "ref": "N130",
+   "type": "position",
+   "quote": "True Faith is the cure of a false Imagination.",
+   "note": "The note sets true Faith against a false Imagination as its cure.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 124,
+   "ref": "N130",
+   "type": "position",
+   "quote": "Many fall sick and recover againe by the Faith of Imagination.",
+   "note": "The note says many fall sick and recover by the Faith of Imagination.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 125,
+   "ref": "MICRO.44",
+   "type": "marking",
+   "quote": "The Sum of all is, that we worship God devoutly in honesty and holinesse",
+   "what": "The Sum of all",
+   "note": "The author announces the sum of the foregoing: to worship God devoutly in honesty and holiness."
+  },
+  {
+   "n": 126,
+   "ref": "MICRO.44",
+   "type": "concealment",
+   "quote": "as the more secret Theosophers or wise-hearted to God well know",
+   "term": "Theosophers",
+   "note": "This is said to be well known to a named few: the more secret Theosophers, Englished as wise-hearted to God."
+  },
+  {
+   "n": 127,
+   "ref": "MICRO.44",
+   "type": "position",
+   "quote": "for by the ardent and devout intention of him that prayeth with Fear and Trembling, the Understanding or Mind flaming with a Religious love, is joyned to the separated Intelligences.",
+   "term": "separated Intelligences",
+   "note": "By devout prayer the Understanding or Mind is joined to the separated Intelligences."
+  },
+  {
+   "n": 128,
+   "ref": "MICRO.44",
+   "type": "position",
+   "quote": "For internall Prayer proceeding with abundance of affection from a Godly mind, and continued with a fervent desire, uniteth the mind with God, and learneth and knoweth all things of God.",
+   "term": "internall Prayer",
+   "note": "Internal Prayer unites the mind with God and learns all things of God."
+  },
+  {
+   "n": 129,
+   "ref": "MICRO.44",
+   "type": "concealment",
+   "quote": "more few by far there are who know how to exercise the same by a supernaturall influence which doth rule and governe the body",
+   "note": "Few think what the Mind disposed by true faith can do, and far fewer know how to exercise it."
+  },
+  {
+   "n": 130,
+   "ref": "MICRO.44",
+   "type": "position",
+   "quote": "though there be many who know this disposition, yet by reason of worldly cares and thoughtfulnesse wherewith they are overwhelmed, they can doe nothing that favoureth of true Wisdome.",
+   "note": "Many know this disposition but, overwhelmed by worldly cares, can do nothing of true Wisdom."
+  },
+  {
+   "n": 131,
+   "ref": "MICRO.44",
+   "type": "concealment",
+   "quote": "Such like contemplations as these which are of greatest Antiquity will seem harsh and crabbed to the rude and vulgar sort of men; for few read them, and fewer understand them",
+   "note": "The author says these contemplations, which he calls of greatest Antiquity, are read by few and understood by fewer."
+  },
+  {
+   "n": 132,
+   "ref": "MICRO.44",
+   "type": "concealment",
+   "quote": "and they require a larger narration then can be made of them at this time.",
+   "note": "The author says he does not give the fuller account here."
+  },
+  {
+   "n": 133,
+   "ref": "MICRO.44",
+   "type": "cross-reference",
+   "quote": "To returne therefore to our purpose.",
+   "note": "With 'But thus much of these things' just before, the author closes this matter and turns back to the main line of his writing."
+  },
+  {
+   "n": 134,
+   "ref": "N131",
+   "type": "position",
+   "quote": "The purified Mind, like a river, entereth into the very inmost secrets of things, beyond all shadowes.",
+   "note": "The note says the purified Mind enters the inmost secrets of things.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 135,
+   "ref": "MICRO.45",
+   "type": "position",
+   "quote": "It is of greatest concernment that all Chymists should bewell acquaintedwith this true Fundamentall of the occult Phylosophycal Physick",
+   "term": "occult Phylosophycal Physick",
+   "note": "The author says all Chymists should know this, which he calls the true Fundamentall of the occult Phylosophycal Physick."
+  },
+  {
+   "n": 136,
+   "ref": "MICRO.45",
+   "type": "position",
+   "quote": "because of the Harmonicall concord and conspiration between the superiour and inferiour things of the greater and lesser world",
+   "term": "Harmonicall concord",
+   "note": "The reason given: the agreement between the higher and lower things of the greater and the lesser world."
+  },
+  {
+   "n": 137,
+   "ref": "MICRO.45",
+   "type": "position",
+   "quote": "next to Paracelsus, Petrus Severinus the Dane, together with Pratensis that faithfull Achates, deserveth to be numbred among the Ancient wise men",
+   "note": "The author ranks Petrus Severinus, with Pratensis, next to Paracelsus in clearing this foundation."
+  },
+  {
+   "n": 138,
+   "ref": "MICRO.45",
+   "type": "voice",
+   "quote": "having got perpetuall praise by discovering to the Children of Art and Truth, this firme and unmovable Foundation with much solid and unshaken verity in his Idaea of Paracelsean Physick",
+   "name": "Petrus Severinus",
+   "term": "Children of Art and Truth",
+   "note": "The foundation is credited to a named writing of Petrus Severinus, his Idaea of Paracelsean Physick, said to disclose it to the Children of Art and Truth. No words of his are given in these lines."
+  },
+  {
+   "n": 139,
+   "ref": "MICRO.45",
+   "type": "position",
+   "quote": "maugre the malice of all his adversaries, who have been sufficiently confuted and for ever silenced by my honoured friend Joseph Quercetan Councellour and most worthy Physitian to the King of France",
+   "note": "The author says the adversaries of Severinus were confuted by Joseph Quercetan, whom he calls his honoured friend."
+  },
+  {
+   "n": 140,
+   "ref": "MICRO.45",
+   "type": "position",
+   "quote": "by Th: Bovius an Italian of Verona, and Th: Muffet an Englishman, the best Hermetick Physitians of this age, in their golden writings of Eternall memory.",
+   "term": "Hermetick Physitians",
+   "note": "Two more are named with Quercetan as having answered the adversaries; the author calls them the best Hermetick Physitians of this age."
+  }
+ ],
+ "sections_read": [
+  "MICRO"
+ ],
+ "end_marker": "END OF OUTPUT"
+}

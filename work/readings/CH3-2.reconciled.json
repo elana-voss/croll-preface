@@ -1,0 +1,1757 @@
+{
+ "observations": [
+  {
+   "ref": "CH3.28",
+   "type": "voice",
+   "quote": "mettalls are of no use in Physick, at least in the civill life",
+   "name": "any who out of their simplicity",
+   "term": "mettalls",
+   "voice": "QUOTED: any who out of their simplicity",
+   "tags": [],
+   "from": [
+    "A1",
+    "B1"
+   ],
+   "note": "A view the author reports in order to answer it: that metals are of no use in physick. He says it is said out of simplicity."
+  },
+  {
+   "ref": "CH3.28",
+   "type": "voice",
+   "quote": "there is no agreement or likenesse especially of those perfect Mettalls with mans body",
+   "name": "any who out of their simplicity",
+   "term": "perfect Mettalls",
+   "voice": "QUOTED: any who out of their simplicity",
+   "tags": [],
+   "from": [
+    "B2"
+   ],
+   "note": "Second part of the reported view: the perfect metals have no likeness with man's body. Reported to be rejected."
+  },
+  {
+   "ref": "CH3.28",
+   "type": "position",
+   "quote": "created, though not for Mans food yet for his Physick",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A2",
+    "B3"
+   ],
+   "note": "The author holds that metals, fruit of the Elements like living things and vegetables, were created for man's physick, not his food."
+  },
+  {
+   "ref": "CH3.28",
+   "type": "marking",
+   "quote": "man partaketh of those Three first",
+   "what": "those Three first",
+   "term": "Three first",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A3",
+    "B4"
+   ],
+   "note": "A set is named as 'those Three first', of which man partakes; the paragraph does not list them at this place. Interpreted: the words that follow name Animall, Vegetable and Minerall seed."
+  },
+  {
+   "ref": "CH3.28",
+   "type": "position",
+   "quote": "the Animall, Vegetable and Minerall sperm or seed have but one rise or originall, and differ onely in Quality of Place and Receptacle",
+   "term": "Receptacle",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A4",
+    "B5"
+   ],
+   "note": "The author's answer: the three kinds of seed have one origin and differ only by place and receptacle."
+  },
+  {
+   "ref": "N175",
+   "type": "voice",
+   "quote": "See Theophrast. his Manuel.",
+   "name": "Theophrast. his Manuel",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A5",
+    "B6"
+   ],
+   "note": "The margin note names Theophrast. and his Manuel beside the paragraph on metals in physick."
+  },
+  {
+   "ref": "N175",
+   "type": "position",
+   "quote": "since Man hath Physick for his body from the world because he is a world, therefore all Mineralls are for Mans good",
+   "voice": "UNCLEAR",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A6",
+    "B7"
+   ],
+   "note": "The note gives the ground: man is a world and has his physick from the world, so all minerals are for his good. Whether these are the author's words or drawn from the writing named is not shown."
+  },
+  {
+   "ref": "N175",
+   "type": "local signal",
+   "quote": "that which is contained in the Physicall body is applyed to his minerall",
+   "term": "minerall",
+   "voice": "UNCLEAR",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "B8"
+   ],
+   "note": "The note speaks of man's 'minerall', as if man has a mineral part to which what is in the physical body is applied."
+  },
+  {
+   "ref": "CH3.29",
+   "type": "position",
+   "quote": "Animall, Vegetable, and Minerall principles are one and the same in all things, but have various Receptacles",
+   "term": "Receptacles",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A7",
+    "B9"
+   ],
+   "note": "The three kinds of principle are one and the same in all things; only their receptacles differ."
+  },
+  {
+   "ref": "CH3.29",
+   "type": "own definition",
+   "quote": "which is the generall seed of all things or subject of the first matter",
+   "term": "first matter",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A8",
+    "B10"
+   ],
+   "note": "The text says what the 'one most principall and generall principall kind' is: the general seed of all things, or subject of the first matter."
+  },
+  {
+   "ref": "CH3.29",
+   "type": "marking",
+   "quote": "to be distributed into three principall kinds, Animall Vegetable, and Minerall",
+   "what": "three principall kinds, Animall Vegetable, and Minerall",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B11"
+   ],
+   "note": "The one general kind is set out as divided into three named kinds."
+  },
+  {
+   "ref": "CH3.29",
+   "type": "position",
+   "quote": "from which Nature hath the nature of Quick-silver to create every other Compound",
+   "term": "Quick-silver",
+   "voice": "CROLL",
+   "tags": [
+    "wording-dependent"
+   ],
+   "from": [
+    "A9",
+    "B12"
+   ],
+   "note": "From this general kind Nature has 'the nature of Quick-silver' to make every compound; Quick-silver is named here as a nature, not as one metal among others. The lines given do not explain further."
+  },
+  {
+   "ref": "CH3.30",
+   "type": "position",
+   "quote": "All things are from one Principle, and tendeth to one",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A10",
+    "B13"
+   ],
+   "note": "One principle as origin and end of all things."
+  },
+  {
+   "ref": "CH3.30",
+   "type": "voice",
+   "quote": "In Orpheus his Night and Hippocrates his river Orcus all things are but One",
+   "name": "Orpheus; Hippocrates",
+   "voice": "QUOTED: Orpheus; Hippocrates",
+   "tags": [],
+   "from": [
+    "A11",
+    "A12",
+    "B14"
+   ],
+   "note": "Two named figures are brought as holding the same: in Orpheus's Night and Hippocrates's river Orcus all things are one."
+  },
+  {
+   "ref": "CH3.30",
+   "type": "voice",
+   "quote": "like Anaxagoras his Pamsperm",
+   "name": "Anaxagoras",
+   "term": "Pamsperm",
+   "voice": "QUOTED: Anaxagoras",
+   "tags": [],
+   "from": [
+    "A13",
+    "B15"
+   ],
+   "note": "Anaxagoras's Pamsperm is set beside them as a like name for the one. The margin note N176 at this place is an unread gap of foreign script."
+  },
+  {
+   "ref": "CH3.30",
+   "type": "position",
+   "quote": "which Aristotle unjustly condemned",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A14"
+   ],
+   "note": "The author judges Aristotle's condemnation of the Pamsperm unjust, and (after the note mark) 'because he did not well understand it'."
+  },
+  {
+   "ref": "CH3.30",
+   "type": "own definition",
+   "quote": "which Nature is the Specifick of every Creature",
+   "term": "Specifick",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A15",
+    "B16"
+   ],
+   "note": "The one Nature, 'the Essence and Matter of all things', is said to be the Specifick of every creature."
+  },
+  {
+   "ref": "CH3.30",
+   "type": "position",
+   "quote": "according to the agitation and operation of the Universall spirit",
+   "term": "Universall spirit",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A16",
+    "B17"
+   ],
+   "note": "The differences between bodies are laid to two things: the place and receptacle, and the working of the Universall spirit."
+  },
+  {
+   "ref": "CH3.30",
+   "type": "marking",
+   "quote": "This is the set Order for the government of the sublunary Family",
+   "what": "the set Order for the government of the sublunary Family",
+   "term": "sublunary Family",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A17",
+    "B18"
+   ],
+   "note": "Named order of nourishment: minerals nourish vegetables, vegetables beasts, beasts men."
+  },
+  {
+   "ref": "CH3.30",
+   "type": "position",
+   "quote": "which could not be if the nature of one thing did not by affinity partake of the nature of another",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A18",
+    "B19"
+   ],
+   "note": "The order of feeding rests on affinity of natures, which share in the first kind from which all things proceed."
+  },
+  {
+   "ref": "N177",
+   "type": "position",
+   "quote": "Thus also the Spirit of life is united through out the whole body of man, but is various according to parts of the body in which it is.",
+   "term": "Spirit of life",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A19",
+    "B20"
+   ],
+   "note": "The note sets a parallel in man's body: one Spirit of life, varied by the part it is in."
+  },
+  {
+   "ref": "CH3.31",
+   "type": "position",
+   "quote": "All things flow from one Fountaine, which after they have done their work and quitted the Stage of Vanity, are returned to their own places",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A20",
+    "B21"
+   ],
+   "note": "All things come from one fountain and return to their own places after their work, where the text says they have unchangeable rest."
+  },
+  {
+   "ref": "CH3.31",
+   "type": "own definition",
+   "quote": "That universall Spirit which liveth in and quickneth this whole Masse, which worketh all in all, and filleth the whole world",
+   "term": "universall Spirit",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A21",
+    "B22"
+   ],
+   "note": "The text says what the universall Spirit does: lives in and quickens the whole mass and fills the world; it is also called 'that Power of God', and then the text gives what others call it."
+  },
+  {
+   "ref": "CH3.31",
+   "type": "voice",
+   "quote": "Agrippa calleth it the subject of all mirability, the Ens or Being that cannot be comprehended by sence",
+   "name": "Agrippa",
+   "term": "Ens",
+   "voice": "QUOTED: Agrippa",
+   "tags": [],
+   "from": [
+    "A22",
+    "B23"
+   ],
+   "note": "Agrippa's name for the universall Spirit, as the text gives it."
+  },
+  {
+   "ref": "CH3.31",
+   "type": "voice",
+   "quote": "Avicen saith, it is the Soule of the world powred into all things, building on the authority of Plato, the Arabians and Caldeans",
+   "name": "Avicen",
+   "term": "Soule of the world",
+   "voice": "QUOTED: Avicen",
+   "tags": [],
+   "from": [
+    "A23",
+    "A24",
+    "B24"
+   ],
+   "note": "Avicen's name for it, the Soul of the world; the text adds that he builds on the authority of Plato, the Arabians and Caldeans."
+  },
+  {
+   "ref": "CH3.31",
+   "type": "position",
+   "quote": "this we must hearken to without any superstition or Idolatrous worship, giving honour onely to One God",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A25",
+    "B25"
+   ],
+   "note": "The author limits how these sayings are to be received: without superstition or idolatry, honour to God alone."
+  },
+  {
+   "ref": "N178",
+   "type": "voice",
+   "quote": "Rom. 8.",
+   "name": "Rom. 8",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A26",
+    "B26"
+   ],
+   "note": "The margin note names Rom. 8 beside the paragraph on all things returning to rest and the universall Spirit."
+  },
+  {
+   "ref": "N178",
+   "type": "voice",
+   "quote": "See Paracelsus his Apocalyps of Herines.",
+   "name": "Paracelsus his Apocalyps of Herines",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A27",
+    "B27"
+   ],
+   "note": "The note points to Paracelsus's Apocalyps of Herines beside the same paragraph."
+  },
+  {
+   "ref": "N178",
+   "type": "own definition",
+   "quote": "The Soule of the world is a kind of united life, filling, gathering and knitting together all things",
+   "term": "Soule of the world",
+   "voice": "UNCLEAR",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A28",
+    "B28"
+   ],
+   "note": "The note says what the Soul of the world is: a united life that fills and knits all things together. Words after this in the note have unread letters."
+  },
+  {
+   "ref": "N178",
+   "type": "own definition",
+   "quote": "by infusing into them occult qualities which are commonly called the Fift Effences",
+   "term": "Fift Effences",
+   "voice": "UNCLEAR",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A29",
+    "B29"
+   ],
+   "note": "The Soul of the world makes things fruitful by putting occult qualities into them, said to be commonly called the Fift Effences (spelling as given)."
+  },
+  {
+   "ref": "N178",
+   "type": "own definition",
+   "quote": "is the invisible Fire or fiery vigour by which all things are",
+   "term": "invisible Fire",
+   "voice": "UNCLEAR",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A30",
+    "B30"
+   ],
+   "note": "Nature, called 'the Image of Go' (one letter unread), is said to be the invisible fire or fiery vigour by which all things are multiplied."
+  },
+  {
+   "ref": "N178",
+   "type": "own definition",
+   "quote": "Nature many times makes it selfe merry with its magistery or mastership",
+   "term": "magistery",
+   "voice": "UNCLEAR",
+   "tags": [
+    "note-only",
+    "wording-dependent"
+   ],
+   "from": [
+    "A31",
+    "B31"
+   ],
+   "note": "The note pairs 'magistery' with 'mastership' as one sense, and speaks of Nature making merry with it."
+  },
+  {
+   "ref": "CH3.32",
+   "type": "own definition",
+   "quote": "Nature, I say, is that medium which by an Harmonicall consent joyneth the lowest things to the highest",
+   "term": "Nature",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A32",
+    "B32"
+   ],
+   "note": "The author says in his own person what Nature is: the medium that joins lowest to highest. Other accounts of Nature stand at N178 and CH3.40."
+  },
+  {
+   "ref": "CH3.32",
+   "type": "own definition",
+   "quote": "sometimes is called Animall, sometimes Vegetable, sometimes Minerall, according to the diversity of the subject or receptacle",
+   "term": "receptacle",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A33",
+    "B33"
+   ],
+   "note": "The one Nature takes the three names from the subject or receptacle it is in."
+  },
+  {
+   "ref": "CH3.32",
+   "type": "marking",
+   "quote": "the three Families of Nature",
+   "what": "the three Families of Nature",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A34",
+    "B34"
+   ],
+   "note": "The three kinds are named together as the three Families of Nature."
+  },
+  {
+   "ref": "CH3.32",
+   "type": "position",
+   "quote": "that Silesiac child in our age, which was born though not with a golden yet with a gilded tooth in the left and lower jaw, which I did both see and handle",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A35",
+    "B35"
+   ],
+   "note": "The author gives as an example of Nature's working a child born with a gilded tooth, which he says he saw and handled himself at Prague."
+  },
+  {
+   "ref": "CH3.33",
+   "type": "marking",
+   "quote": "the Hermetick Phylosophy",
+   "what": "the Hermetick Phylosophy",
+   "term": "Hermetick Phylosophy",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A36",
+    "B36"
+   ],
+   "note": "A named philosophy; to those who seek it the example is said not to be strange."
+  },
+  {
+   "ref": "CH3.33",
+   "type": "position",
+   "quote": "it is not unlawfull to pry into those things which exceed even naturall order",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A37",
+    "B37"
+   ],
+   "note": "The author holds that inquiry into things beyond natural order is lawful."
+  },
+  {
+   "ref": "CH3.33",
+   "type": "marking",
+   "quote": "these are not so much astonyed at the sports of Nature",
+   "what": "the sports of Nature",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B38"
+   ],
+   "note": "The gilded tooth and the like are named 'sports of Nature'."
+  },
+  {
+   "ref": "CH3.33",
+   "type": "concealment",
+   "quote": "from the intimacy of more hid and secret Phylosophy",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A38",
+    "B39"
+   ],
+   "note": "A more hidden and secret philosophy is named as the source of what these seekers know."
+  },
+  {
+   "ref": "CH3.33",
+   "type": "position",
+   "quote": "that same Spirit and minerall Nature which produceth Gold in the bowells of the Earth is also in Man",
+   "term": "minerall Nature",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A39"
+   ],
+   "note": "The spirit and mineral nature that makes gold in the earth is said to be also in man."
+  },
+  {
+   "ref": "CH3.33",
+   "type": "position",
+   "quote": "That Spirit in Gold is the same with the generating spirit of all Creatures, and is the same and onely generative Nature diffused through all things",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A40",
+    "B40"
+   ],
+   "note": "The spirit in gold is identified with the one generating spirit of all creatures."
+  },
+  {
+   "ref": "CH3.33",
+   "type": "local signal",
+   "quote": "This Spirit now hath assumed a Naturall body",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B41"
+   ],
+   "note": "The spirit is said to have taken a natural body; the lines given do not say which body."
+  },
+  {
+   "ref": "CH3.33",
+   "type": "position",
+   "quote": "It is that which first moveth and ruleth Nature in all naturall things, it preserveth all things",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B42"
+   ],
+   "note": "This spirit is said to be the first mover and ruler of Nature and the preserver of all things."
+  },
+  {
+   "ref": "CH3.34",
+   "type": "voice",
+   "quote": "Albertus Magnus writeth, that in his time there hath been Gold found in the bodyes and heads of some that were hanged",
+   "name": "Albertus Magnus",
+   "voice": "QUOTED: Albertus Magnus",
+   "tags": [],
+   "from": [
+    "A41",
+    "B43"
+   ],
+   "note": "A report given to Albertus Magnus: gold found in the bodies and heads of the hanged."
+  },
+  {
+   "ref": "CH3.34",
+   "type": "voice",
+   "quote": "There is not, saith he, that thing Elementated of the four Elements in which Gold Naturally may not be found in the last subtiliation thereof",
+   "name": "Albertus Magnus",
+   "term": "subtiliation",
+   "voice": "QUOTED: Albertus Magnus",
+   "tags": [],
+   "from": [
+    "A42",
+    "B44"
+   ],
+   "note": "Words given to Albertus from 'his Book of Mineralls': gold may be found in every thing made of the four elements, at its last subtiliation."
+  },
+  {
+   "ref": "CH3.34",
+   "type": "voice",
+   "quote": "the Phylosophers say that the matter of their Mystery may be had every where, because it consisteth in every Elementated thing",
+   "name": "the Phylosophers",
+   "term": "Mystery",
+   "voice": "QUOTED: the Phylosophers",
+   "tags": [],
+   "from": [
+    "A43",
+    "B45"
+   ],
+   "note": "A saying given to 'the Phylosophers': the matter of their Mystery is to be had everywhere, because it is in every elementated thing."
+  },
+  {
+   "ref": "CH3.35",
+   "type": "voice",
+   "quote": "Albertus also proveth, that the greatest Minerall vertue is in every Man, but especially in the head among the teeth",
+   "name": "Albertus",
+   "term": "Minerall vertue",
+   "voice": "QUOTED: Albertus",
+   "tags": [],
+   "from": [
+    "A45",
+    "B46"
+   ],
+   "note": "Given to Albertus: the greatest mineral virtue is in every man, chiefly among the teeth; he reports gold grains found among the teeth of the long buried."
+  },
+  {
+   "ref": "CH3.35",
+   "type": "position",
+   "quote": "which could not be if there were not a minerall vertue in Man, which minerall vertue is in the Elixer of Phylosophers",
+   "term": "Elixer",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "A46",
+    "B47"
+   ],
+   "note": "The mineral virtue in man is tied to the one in the Elixer of Phylosophers. The sentence does not show whether this conclusion is Albertus's or the author's."
+  },
+  {
+   "ref": "N179",
+   "type": "voice",
+   "quote": "In his Mineralls.",
+   "name": "Albertus",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A47",
+    "B48"
+   ],
+   "note": "The margin note names the writing of Albertus that the passage draws on."
+  },
+  {
+   "ref": "CH3.36",
+   "type": "marking",
+   "quote": "Morienes that excellent Phylosopher, the most skilfull and expert Chymiologer",
+   "what": "Chymiologer",
+   "term": "Chymiologer",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B49"
+   ],
+   "note": "The text introduces Morienes with the name 'Chymiologer'."
+  },
+  {
+   "ref": "CH3.36",
+   "type": "marking",
+   "quote": "King Calid who inquired after the matter of the Elixer",
+   "what": "the matter of the Elixer",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A48"
+   ],
+   "note": "The matter of the Elixer is the thing asked after."
+  },
+  {
+   "ref": "CH3.36",
+   "type": "voice",
+   "quote": "It is of thee O King, said he",
+   "name": "Morienes",
+   "term": "matter",
+   "voice": "QUOTED: Morienes",
+   "tags": [],
+   "from": [
+    "A49",
+    "B50"
+   ],
+   "note": "Morienes's answer to King Calid on the matter of the Elixer: it is of the king himself."
+  },
+  {
+   "ref": "CH3.36",
+   "type": "voice",
+   "quote": "and thou are in its Mine",
+   "name": "Morienes",
+   "term": "Mine",
+   "voice": "QUOTED: Morienes",
+   "tags": [
+    "wording-dependent"
+   ],
+   "from": [
+    "B51"
+   ],
+   "note": "The rest of Morienes's answer, after the note mark: the king is in the mine of the matter. 'Mine' is used of a man."
+  },
+  {
+   "ref": "CH3.36",
+   "type": "voice",
+   "quote": "he saith that he got his matter out of a mean and worthlesse thing",
+   "name": "Raymund Lully",
+   "term": "matter",
+   "voice": "QUOTED: Raymund Lully",
+   "tags": [],
+   "from": [
+    "A50",
+    "B52"
+   ],
+   "note": "Given to Raymund Lully: his matter came out of a mean and worthless thing. The thing is not named."
+  },
+  {
+   "ref": "CH3.36",
+   "type": "position",
+   "quote": "Wherein he never a jot differed from Raymund Lully that fearcher into this Magistery",
+   "term": "Magistery",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A51",
+    "B53"
+   ],
+   "note": "The author holds that Morienes and Lully say the same; the work is here called 'this Magistery'."
+  },
+  {
+   "ref": "N180",
+   "type": "position",
+   "quote": "Lullius was a divine & most compleat Phylosopher, whom Paracel. blamed without a cause.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A52",
+    "B54"
+   ],
+   "note": "The note praises Lullius and says Paracel. blamed him without cause."
+  },
+  {
+   "ref": "N180",
+   "type": "local signal",
+   "quote": "The matter of a stone is said to be in every thing in respect of the first",
+   "term": "matter of a stone",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "B56"
+   ],
+   "note": "The note says in what respect the saying 'in every thing' is meant: in respect of the first mover in natural things (one letter of that word is unread)."
+  },
+  {
+   "ref": "N180",
+   "type": "own definition",
+   "quote": "which is calld the Vegetall Spirit, by whom our matter of a stone goeth beyond the rest",
+   "term": "Vegetall Spirit",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A53",
+    "B57"
+   ],
+   "note": "The first mover in natural things is named the Vegetall Spirit; by it 'our matter of a stone' is said to go beyond the rest. The note adds that this spirit is in animals and vegetables as well as minerals."
+  },
+  {
+   "ref": "CH3.37",
+   "type": "voice",
+   "quote": "Remember that Man is the most noble Creature of all, in whom there is the Naturall Mercuriality of the four Elements",
+   "name": "Riplaeus à Portis",
+   "term": "Mercuriality",
+   "voice": "QUOTED: Riplaeus à Portis",
+   "tags": [],
+   "from": [
+    "A55",
+    "B58"
+   ],
+   "note": "Given to Riplaeus à Portis, whom the author says agrees with both: in man is the natural Mercuriality of the four elements."
+  },
+  {
+   "ref": "CH3.37",
+   "type": "voice",
+   "quote": "which is of little worth, and may be got out of its Mine by art",
+   "name": "Riplaeus à Portis",
+   "term": "Mine",
+   "voice": "QUOTED: Riplaeus à Portis",
+   "tags": [],
+   "from": [
+    "A56",
+    "B59"
+   ],
+   "note": "Still Riplaeus's words: this thing is of little worth and can be got out of its mine by art. No step is given."
+  },
+  {
+   "ref": "CH3.38",
+   "type": "voice",
+   "quote": "in every thing there is every thing potentially, though it doth not actually appear",
+   "name": "Rhasis",
+   "voice": "QUOTED: Rhasis",
+   "tags": [],
+   "from": [
+    "A57",
+    "B60"
+   ],
+   "note": "Given to Rhasis, 'In his Book of Divinity': every thing is in every thing potentially, unseen. The author says Rhasis does not altogether dissent from Riplaeus."
+  },
+  {
+   "ref": "CH3.39",
+   "type": "position",
+   "quote": "I forbear to cite more Authors, though I might produce a great heap of Phylosophers, who confirme these things",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B61"
+   ],
+   "note": "The author stops citing and claims many more philosophers confirm the same."
+  },
+  {
+   "ref": "CH3.39",
+   "type": "position",
+   "quote": "not by common and outside arguments, but by solyd reasons drawn from the inside of things",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A58",
+    "B62"
+   ],
+   "note": "Reasons drawn from the inside of things are set against common, outside arguments."
+  },
+  {
+   "ref": "CH3.39",
+   "type": "local signal",
+   "quote": "But these things are by the by.",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A59",
+    "B63"
+   ],
+   "note": "The author marks the run of authorities as an aside from his main matter."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "position",
+   "quote": "The Chymicall way of Subtiliating Extracting, and Separating being imperfect, was not much used in Galens dayes",
+   "term": "Subtiliating",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A60",
+    "B64"
+   ],
+   "note": "The chymical way is named by three operations; the author says it was imperfect and little used in Galen's days, and altogether unknown to Galen."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "local signal",
+   "quote": "for they knew not how to separate the bark and husk from the kernell",
+   "term": "kernell",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A61",
+    "B65"
+   ],
+   "note": "The ancients' lack is put as not separating bark and husk from kernel; the section heading uses 'bark and rind' of the true physick."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "voice",
+   "quote": "he tryed all wayes and means to distinguish the facultyes of simple medicines, and discern the hot parts of vineger from the cold",
+   "name": "Galen",
+   "voice": "QUOTED: Galen",
+   "tags": [],
+   "from": [
+    "A62",
+    "B66"
+   ],
+   "note": "Galen's own words as reported: he tried every way to tell apart the faculties of simple medicines and the hot and cold parts of vinegar."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "operation",
+   "quote": "to separate the contrary parts of vineger as well as of milk",
+   "voice": "QUOTED: Galen",
+   "tags": [],
+   "from": [
+    "B67"
+   ],
+   "note": "The step Galen is said to have sought a device for: separating the contrary parts of vinegar, as of milk. No method is given."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "position",
+   "quote": "who in this thing might have obtained his desire if he had been well skild in the Distillatory Art",
+   "term": "Distillatory Art",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A63",
+    "B68"
+   ],
+   "note": "The author holds that the Distillatory Art would have given Galen what he sought."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "position",
+   "quote": "Nor is it any disgrace to Hippocrates or Galen that they knew not these things",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B69"
+   ],
+   "note": "The author does not blame Hippocrates or Galen for not knowing these things."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "own definition",
+   "quote": "which is the order and series of Gods works, and obey the power, word and command of God",
+   "term": "Nature",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A66",
+    "B70"
+   ],
+   "note": "In a parenthesis Nature is said to be the order and series of God's works, borrowing all its virtue from him. Other accounts of Nature stand at CH3.32 and N178."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "position",
+   "quote": "they doe not bestow upon mankind all things together and at once, but doe communicate particular gifts to severall ages",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A67",
+    "B71"
+   ],
+   "note": "God and Nature give particular gifts to particular ages and persons, not all at once; so the ancients' ignorance is no disgrace."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "position",
+   "quote": "Doubtlesse if Galen had lived when Paracelsus did, he would not have envyed, but reverenced his learning",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A68",
+    "B72"
+   ],
+   "note": "The author's claim that Galen would have revered Paracelsus's learning and not been ashamed of his coals; the sentence goes on to say Galen would have served 'Theophraestus'. Interpreted: the sentence uses both names for one man."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "marking",
+   "quote": "to separate the three first (qualities) in vineger",
+   "what": "the three first (qualities) in vineger",
+   "term": "three first",
+   "voice": "CROLL",
+   "tags": [
+    "wording-dependent"
+   ],
+   "from": [
+    "A69",
+    "B73"
+   ],
+   "note": "The three first of vinegar are named as things to separate; a bracketed word glosses them as 'qualities'. N181 speaks of 'the three first things' of milk and CH3.28 of 'those Three first'."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "marking",
+   "quote": "to learn the preparations of those high Magisteryes and Elixirs",
+   "what": "those high Magisteryes and Elixirs",
+   "term": "Magisteryes",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A70",
+    "B74"
+   ],
+   "note": "The preparations of magisteries and elixirs are named as the chief thing to learn."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "operation",
+   "quote": "neither would he have refufed to blow the coals or temper his stuffe, or watch his work",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A71",
+    "B75"
+   ],
+   "note": "Three tasks of the work are named: blowing the coals, tempering the stuff, watching the work."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "position",
+   "quote": "who have not learned so much as their A. B. C. in the Spagyrick Physick",
+   "term": "Spagyrick Physick",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A72",
+    "B76"
+   ],
+   "note": "The author's charge against the 'Colerick and Melancolick Philerastian Physitians'."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "marking",
+   "quote": "the Creation and composition of the internall Astrall Man, much lesse of the Mechanick Spirits of diseases",
+   "what": "the internall Astrall Man; the Mechanick Spirits of diseases",
+   "term": "Astrall Man",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A73",
+    "B77"
+   ],
+   "note": "Two things are named as matters these physicians know nothing of; the lines given do not explain them."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "voice",
+   "quote": "whom these men fear not to call a circumforaneous or rambling rayler, one that was no Phylosopher at all",
+   "name": "Philerastian Physitians",
+   "voice": "QUOTED: Philerastian Physitians",
+   "tags": [],
+   "from": [
+    "A74",
+    "B80"
+   ],
+   "note": "What the opposing physicians call Paracelsus; reported to be rejected."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "position",
+   "quote": "that never sufficiently commended Paracelsus, a thousand-fold more worthy then his adversaries, and the immortall glory of Germany",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A75",
+    "B78"
+   ],
+   "note": "The author's praise of Paracelsus over his adversaries."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "position",
+   "quote": "who had the absolute knowledge of all Divine and Humane sciences, beyond what will be believed of him",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A76",
+    "B79"
+   ],
+   "note": "The author claims for Paracelsus absolute knowledge of all divine and human sciences."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "position",
+   "quote": "with viperous hatred they accuse his course of life, aggravating his humane fraylties",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B81"
+   ],
+   "note": "The author grants Paracelsus human frailties and says his accusers make them heavier."
+  },
+  {
+   "ref": "CH3.40",
+   "type": "position",
+   "quote": "We have all our faylings, happy is he that hath least",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A77"
+   ],
+   "note": "The author answers the attacks on Paracelsus's life with the failings common to all."
+  },
+  {
+   "ref": "N181",
+   "type": "voice",
+   "quote": "Lib. 1. cap. 19.",
+   "name": "Galen",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A64",
+    "B82"
+   ],
+   "note": "The margin note gives book and chapter beside Galen's reported words; it does not name the work."
+  },
+  {
+   "ref": "N181",
+   "type": "own definition",
+   "quote": "Whey, Butter and Cheese are the three first things of milk, for all Terresterity is Salt.",
+   "term": "three first things",
+   "voice": "UNCLEAR",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A65",
+    "B83"
+   ],
+   "note": "The note says what the three first things of milk are, and adds that all 'Terresterity' is Salt."
+  },
+  {
+   "ref": "CH3.41",
+   "type": "position",
+   "quote": "I wish the ambitious Physitians of that time, who robbed others of their due praise, who cast a Serpents eye upon Theophrastus",
+   "term": "Theophrastus",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B84"
+   ],
+   "note": "The author blames the physicians of that time for envy toward Theophrastus. Interpreted: the text uses the names Theophrastus and Paracelsus for the same man."
+  },
+  {
+   "ref": "CH3.41",
+   "type": "own definition",
+   "quote": "who is the End of all Humane actions and Physick, viz. that we should love the Best and Greatest God, and all our neighbours as our selves",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B85"
+   ],
+   "note": "The giver of the command is called the End of all human actions and of Physick, and the command is stated."
+  },
+  {
+   "ref": "CH3.41",
+   "type": "position",
+   "quote": "his human imperfections which none will excuse, they should have born with the like tendernes of compassion where with they pardon Galens impiety who scoffed at the doctrin of Moses & Christ",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A78",
+    "A79",
+    "B86"
+   ],
+   "note": "None will excuse Paracelsus's imperfections, but they deserved the forbearance given to Galen's impiety; the author charges Galen with scoffing at Moses and Christ."
+  },
+  {
+   "ref": "CH3.41",
+   "type": "concealment",
+   "quote": "Doubtles he would have more clearly have manifested to thankful posterity his Secrets which God disclosed to him, and written more plainly and perfectly of Preparations",
+   "term": "Secrets",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A81",
+    "B87"
+   ],
+   "note": "Theophrastus is said not to have set out his Secrets clearly nor written plainly of Preparations, and this is laid to the ill treatment he had."
+  },
+  {
+   "ref": "CH3.41",
+   "type": "position",
+   "quote": "by being againe put to seek out the certainty and truth of that which Theophrastus discoursed and writ of, and to long for the true Preparations in the practicall proceeding",
+   "term": "Spagyrick Profession",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A82",
+    "B88"
+   ],
+   "note": "The present Spagyrick Profession must seek out again the truth of what Theophrastus wrote and lacks the true Preparations in practice."
+  },
+  {
+   "ref": "CH3.41",
+   "type": "position",
+   "quote": "that there are so few to be found who have the true medicines prepared according to Theophrastus his minde, of which he treateth at large in his Books",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A83",
+    "B89"
+   ],
+   "note": "Few have the true medicines prepared as Theophrastus meant, though his books treat of them at large."
+  },
+  {
+   "ref": "CH3.41",
+   "type": "operation",
+   "quote": "for they require solutions, mortifications, cohibitions, resuscitations, &c. truly Phylosophycall, which cannot be understood without true Physick",
+   "term": "cohibitions",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A85",
+    "A86",
+    "B90"
+   ],
+   "note": "The workings the true medicines require are named, without what is done to what; the list is left open with '&c.'. They cannot be understood without true Physick and (after the note mark) Astronomy and Chymistry."
+  },
+  {
+   "ref": "CH3.41",
+   "type": "local signal",
+   "quote": "truly Phylosophycall",
+   "term": "Phylosophycall",
+   "voice": "CROLL",
+   "tags": [
+    "wording-dependent"
+   ],
+   "from": [
+    "B91"
+   ],
+   "note": "The named workings are qualified as 'truly Phylosophycall', which sets them apart from a plain sense of the same words; the lines given do not say how."
+  },
+  {
+   "ref": "CH3.41",
+   "type": "position",
+   "quote": "nor are they compleated in a short time, but with much tediousnesse to Phylosophists who are impatient of delay",
+   "term": "Phylosophists",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A87",
+    "B92"
+   ],
+   "note": "The preparations take long; those impatient of delay are called 'Phylosophists'."
+  },
+  {
+   "ref": "N182",
+   "type": "voice",
+   "quote": "In his second Book of the difference of Pulses.",
+   "name": "Galen",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A80",
+    "B93"
+   ],
+   "note": "The margin note names the writing of Galen beside the charge that he scoffed at the doctrine of Moses and Christ."
+  },
+  {
+   "ref": "N183",
+   "type": "voice",
+   "quote": "See Paracelsus in Paragr.",
+   "name": "Paracelsus in Paragr.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A84",
+    "B94"
+   ],
+   "note": "The margin note points to Paracelsus 'in Paragr.' beside the statement that few have the true medicines."
+  },
+  {
+   "ref": "N184",
+   "type": "voice",
+   "quote": "A Physitian must be an Astronomer, otherwise Paracelsus saith that his Physick is but imposture and a cheat.",
+   "name": "Paracelsus",
+   "voice": "QUOTED: Paracelsus",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A88",
+    "B95"
+   ],
+   "note": "The note gives Paracelsus's saying that a physician's physick without astronomy is imposture."
+  },
+  {
+   "ref": "N184",
+   "type": "local signal",
+   "quote": "Therefore many with Icarus are drowned in a great Sea.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A89",
+    "B96"
+   ],
+   "note": "A figure: those who fail are drowned like Icarus; the note does not say it plainly."
+  },
+  {
+   "ref": "CH3.42",
+   "type": "position",
+   "quote": "But truly I think this wicked generation is not worthy of such medicines.",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A90",
+    "B97"
+   ],
+   "note": "The author's judgement that his generation is not worthy of the true medicines."
+  },
+  {
+   "ref": "CH3.42",
+   "type": "concealment",
+   "quote": "his mighty and marvellous works from unworthy Men",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A91",
+    "B98"
+   ],
+   "note": "God is said to withhold his mighty works from unworthy men for the world's sins and ingratitude; a word of foreign script before these is unread."
+  },
+  {
+   "ref": "CH3.42",
+   "type": "concealment",
+   "quote": "He will never suffer those Secrets to be known, especially in these corrupt and perilous times",
+   "term": "Secrets",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A92",
+    "B99"
+   ],
+   "note": "God will never let those Secrets be known, above all in these times."
+  },
+  {
+   "ref": "CH3.43",
+   "type": "position",
+   "quote": "almost all men have a burning desire after making Gold",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A93",
+    "B101"
+   ],
+   "note": "Nearly all desire gold-making and (after the note mark) neglect the due preparation of their medicines."
+  },
+  {
+   "ref": "CH3.43",
+   "type": "position",
+   "quote": "the onely cause thereof is their not knowing the Metaphysicks of Paracelsus, the true Phylosophy",
+   "term": "Metaphysicks",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A94",
+    "B102"
+   ],
+   "note": "The cause given: they do not know the Metaphysicks of Paracelsus, called the true Phylosophy."
+  },
+  {
+   "ref": "CH3.43",
+   "type": "voice",
+   "quote": "those large Books which Theophrastus directeth unto in his Labyrinth of Physitians",
+   "name": "Theophrastus in his Labyrinth of Physitians",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A95",
+    "B103"
+   ],
+   "note": "A writing of Theophrastus, his Labyrinth of Physitians, is named as directing to large books to be read first, before any preparation is begun."
+  },
+  {
+   "ref": "CH3.43",
+   "type": "operation",
+   "quote": "before they set upon the preparations, separations and resolution of Naturall things",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A96"
+   ],
+   "note": "The steps of the work, to come only after that reading."
+  },
+  {
+   "ref": "N185",
+   "type": "marking",
+   "quote": "There are four Pillars of Physick, Phylosophy, Alchymistry, Astronomy, and the Physicall vertue or medicine.",
+   "what": "four Pillars of Physick",
+   "term": "Pillars of Physick",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A97",
+    "B104"
+   ],
+   "note": "The note numbers and names four Pillars of Physick."
+  },
+  {
+   "ref": "CH3.44",
+   "type": "position",
+   "quote": "most Chymists betake themselves to Court, and are turned from the truth by the glitter of Court-service",
+   "term": "Chymists",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A98",
+    "B105"
+   ],
+   "note": "Most Chymists go to court and are turned from the truth there."
+  },
+  {
+   "ref": "CH3.44",
+   "type": "position",
+   "quote": "for many years I have taken notice that many have begun well, but deluded with these toyes, have made an ill end",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A99",
+    "B106"
+   ],
+   "note": "The author gives this as his own observation over many years."
+  },
+  {
+   "ref": "CH3.45",
+   "type": "marking",
+   "quote": "this Divine Spagyrie, the most wonderfull and approved Art",
+   "what": "this Divine Spagyrie",
+   "term": "Spagyrie",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A100",
+    "B107"
+   ],
+   "note": "The art is named and praised as divine and approved; said to be disparaged by the ruder sort."
+  },
+  {
+   "ref": "CH3.45",
+   "type": "position",
+   "quote": "though for many ages suspected of greatest uncertainty, and most abominable deceit",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B108"
+   ],
+   "note": "The author grants the art has long been suspected of uncertainty and deceit, and says it is cast aside even by those who intend the same business."
+  },
+  {
+   "ref": "CH3.45",
+   "type": "position",
+   "quote": "What is said of, or spoken against abuse, imposture, and wicked arts, is not that for which things otherwise good may or ought to be condemned",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A101",
+    "B109"
+   ],
+   "note": "Abuse of a thing is no ground to condemn the thing; the better the thing, the more destructive its abuse."
+  },
+  {
+   "ref": "CH3.45",
+   "type": "voice",
+   "quote": "the Athenian Thrasos who will have Light to be Darkenesse, and Darkenesse to be Light",
+   "name": "the Athenian Thrasos",
+   "term": "Thrasos",
+   "voice": "QUOTED: the Athenian Thrasos",
+   "tags": [],
+   "from": [
+    "A102",
+    "B110"
+   ],
+   "note": "Opponents named by a figure, 'the Athenian Thrasos', whose view is reported to be rejected; the lines given do not say who is meant."
+  },
+  {
+   "ref": "CH3.45",
+   "type": "position",
+   "quote": "For the world seeketh not the Truth but its own Honour",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A103",
+    "B111"
+   ],
+   "note": "The author's charge against the world that defends them."
+  },
+  {
+   "ref": "CH3.45",
+   "type": "position",
+   "quote": "we our selves should be the cause of the imminent destruction of our own Kingdome",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B112"
+   ],
+   "note": "God gives 'us' up to hate one another and so to cause a near destruction of 'our own Kingdome'."
+  },
+  {
+   "ref": "CH3.46",
+   "type": "position",
+   "quote": "O fountaine of Truth and Wisedome, consider our condition",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B113"
+   ],
+   "note": "The author turns to prayer at the close of the text given."
+  },
+  {
+   "ref": "CH3.46",
+   "type": "position",
+   "quote": "that God would stirr up the minds of some which may bring to light the Truth that is in sciences and Faculties",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B114"
+   ],
+   "note": "He hopes God will before long move some to bring to light the truth in the sciences."
+  },
+  {
+   "ref": "CH3.46",
+   "type": "position",
+   "quote": "for as yet the Invention of Arts hath not attained the utmost end",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A104",
+    "B115"
+   ],
+   "note": "The finding out of arts is not yet complete."
+  },
+  {
+   "ref": "CH3.46",
+   "type": "position",
+   "quote": "confute the delusions and errours of the schoolmen not with words, but deeds; not Syllogistically, but Really and indeed",
+   "term": "schoolmen",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A105",
+    "B116"
+   ],
+   "note": "The schoolmen are to be refuted by deeds, not by words or syllogisms."
+  },
+  {
+   "ref": "CH3.46",
+   "type": "marking",
+   "quote": "the time of Revocation and Regeneration drawing nigh",
+   "what": "the time of Revocation and Regeneration",
+   "term": "Regeneration",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A106",
+    "B117"
+   ],
+   "note": "A coming time is named, at which 'every imperfect thing will of necessity come to nought'."
+  },
+  {
+   "ref": "CH3.46",
+   "type": "position",
+   "quote": "where Titles, Degrees and glistering Names make men proud, their is no humility, no life of Christ, no holy Spirit",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B118"
+   ],
+   "note": "Pride in titles and degrees is set against humility, the life of Christ and the holy Spirit."
+  },
+  {
+   "ref": "CH3.46",
+   "type": "position",
+   "quote": "who suffer the Old man to be ruled by the Sydereall Spirit",
+   "term": "Sydereall Spirit",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A107",
+    "B119"
+   ],
+   "note": "Pride of titles is tied to the Old man ruled by the Sydereall Spirit in most; the lines given do not explain either name."
+  },
+  {
+   "ref": "CH3.46",
+   "type": "position",
+   "quote": "graciously deliver them from the chaines of Utter Darknesse and incessant janglings of Putatitious and conceited Schollers",
+   "term": "Putatitious",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A108",
+    "B120"
+   ],
+   "note": "The closing prayer for the lovers of Truth, against the wrangling of 'Putatitious' and conceited scholars."
+  }
+ ],
+ "dropped": [
+  {
+   "from": "A44",
+   "reason": "repeats A43/B45, which carry the matter of their Mystery and the term"
+  },
+  {
+   "from": "A54",
+   "reason": "'our matter of a stone' is carried by the Vegetall Spirit observation (A53, B57) and B56"
+  },
+  {
+   "from": "B55",
+   "reason": "the text does not set the two places against each other: blaming Lullius without cause is not said to bear on Paracelsus's knowledge"
+  },
+  {
+   "from": "B100",
+   "reason": "the text does not show that the Truth hoped for in CH3.46 is 'those Secrets'; no conflict borne out"
+  }
+ ],
+ "voices": [
+  {
+   "ref": "CH3.28",
+   "voice": "QUOTED: any who out of their simplicity",
+   "quote": "mettalls are of no use in Physick",
+   "basis": "'If there be any who out of their simplicity shall say': a view reported in order to answer it"
+  },
+  {
+   "ref": "N175",
+   "voice": "UNCLEAR",
+   "quote": "Minerals conduce much to the health of Man",
+   "basis": "follows 'See Theophrast. his Manuel.'; the note does not show whether these are Croll's words or drawn from that writing"
+  },
+  {
+   "ref": "CH3.30",
+   "voice": "QUOTED: Orpheus; Hippocrates",
+   "quote": "In Orpheus his Night and Hippocrates his river Orcus",
+   "basis": "the oneness of all things is set in their named figures"
+  },
+  {
+   "ref": "CH3.30",
+   "voice": "QUOTED: Anaxagoras",
+   "quote": "like Anaxagoras his Pamsperm",
+   "basis": "the Pamsperm is given to Anaxagoras by name"
+  },
+  {
+   "ref": "CH3.31",
+   "voice": "QUOTED: Agrippa",
+   "quote": "Agrippa calleth it",
+   "basis": "name and verb of saying 'calleth'"
+  },
+  {
+   "ref": "CH3.31",
+   "voice": "QUOTED: Avicen",
+   "quote": "Avicen saith, it is the Soule of the world",
+   "basis": "name and verb of saying 'saith'"
+  },
+  {
+   "ref": "N178",
+   "voice": "UNCLEAR",
+   "quote": "The Soule of the world is a kind of united life",
+   "basis": "follows 'See Paracelsus his Apocalyps of Herines.'; the note does not show whether these are Croll's words or drawn from that writing"
+  },
+  {
+   "ref": "CH3.34",
+   "voice": "QUOTED: Albertus Magnus",
+   "quote": "Albertus Magnus writeth",
+   "basis": "name and verbs 'writeth', 'saith he', from 'his Book of Mineralls'"
+  },
+  {
+   "ref": "CH3.34",
+   "voice": "QUOTED: the Phylosophers",
+   "quote": "the Phylosophers say",
+   "basis": "group named with verb 'say'"
+  },
+  {
+   "ref": "CH3.35",
+   "voice": "QUOTED: Albertus",
+   "quote": "Albertus also proveth",
+   "basis": "name, verbs 'proveth' and 'writeth', and N179 'In his Mineralls.'"
+  },
+  {
+   "ref": "CH3.35",
+   "voice": "UNCLEAR",
+   "quote": "which could not be if there were not a minerall vertue in Man",
+   "basis": "the sentence does not show whether this conclusion is Albertus's or Croll's"
+  },
+  {
+   "ref": "CH3.36",
+   "voice": "QUOTED: Morienes",
+   "quote": "It is of thee O King, said he",
+   "basis": "Morienes named, 'said he'; continues after the note mark 'and thou are in its Mine'"
+  },
+  {
+   "ref": "CH3.36",
+   "voice": "QUOTED: Raymund Lully",
+   "quote": "he got his matter out of a mean and worthlesse thing",
+   "basis": "'when he saith', of Raymund Lully"
+  },
+  {
+   "ref": "CH3.37",
+   "voice": "QUOTED: Riplaeus à Portis",
+   "quote": "Remember that Man is the most noble Creature of all",
+   "basis": "'Riplaeus à Portis agreeth with them both:' followed by his words"
+  },
+  {
+   "ref": "CH3.38",
+   "voice": "QUOTED: Rhasis",
+   "quote": "You may easily, saith he, perceive",
+   "basis": "Rhasis named, 'In his Book of Divinity', 'saith he'"
+  },
+  {
+   "ref": "CH3.40",
+   "voice": "QUOTED: Galen",
+   "quote": "he tryed all wayes and means",
+   "basis": "'as may be gathered from his own words, when he saith'; N181 gives book and chapter"
+  },
+  {
+   "ref": "CH3.40",
+   "voice": "QUOTED: Philerastian Physitians",
+   "quote": "a circumforaneous or rambling rayler",
+   "basis": "'whom these men fear not to call': words reported in order to reject them"
+  },
+  {
+   "ref": "N181",
+   "voice": "UNCLEAR",
+   "quote": "Whey, Butter and Cheese are the three first things of milk",
+   "basis": "follows the pointer 'Lib. 1. cap. 19.'; the note does not show whether these are Croll's words or drawn from that book"
+  },
+  {
+   "ref": "N184",
+   "voice": "QUOTED: Paracelsus",
+   "quote": "A Physitian must be an Astronomer",
+   "basis": "'Paracelsus saith'"
+  },
+  {
+   "ref": "CH3.45",
+   "voice": "QUOTED: the Athenian Thrasos",
+   "quote": "who will have Light to be Darkenesse",
+   "basis": "view given to 'the Athenian Thrasos' in order to reject it"
+  }
+ ],
+ "sections_read": [
+  "CH3"
+ ],
+ "end_marker": "END OF OUTPUT"
+}
