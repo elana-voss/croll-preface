@@ -1,0 +1,83 @@
+{
+ "id": "U2",
+ "name": "that one onely chiefe Medicine of the most Ancient Phylosophers",
+ "kind": "Medicine, wrought by Art",
+ "voice": "CROLL",
+ "marked_at": [
+  {
+   "ref": "CH6.0",
+   "quote": "Of that one onely chiefe Medicine of the most Ancient Phylosophers"
+  },
+  {
+   "ref": "OPEN.29",
+   "quote": "Of the universall and chiefe Medicine or Phisick of the most Ancient Philosophers"
+  },
+  {
+   "ref": "OPEN.6",
+   "quote": "except only that universall and most famous Medicine which the most ancient wise Philosophers had from the beginning of the world"
+  }
+ ],
+ "parts": [
+  {
+   "ref": "CH6.1",
+   "quote": "I shall here supply what yet pertaineth to that chief and universal Phylosophical Phisick",
+   "why": "Opens the chapter that treats it."
+  },
+  {
+   "ref": "CH6.21",
+   "quote": "the fat or blood of the Sun and the Dew of the Lunary, be joyned into one body by the circular wheel of the Elements with the help of Art and Nature",
+   "why": "QUOTED: True Phylosophers: what must be joined, and by what, before 'the desired end' is attained; covered words, their plain meaning not given in these lines."
+  },
+  {
+   "ref": "N263",
+   "quote": "Gold animated by the Salt of Niture is made the chief subject of the Phylosophers metallick Physicks",
+   "why": "Interpreted: its chief subject and the operation that makes it so. The note says 'metallick Physicks', in the plural, and stands beside the Phylosophers' freedom to 'give Names at their pleasure'; that these are the one chief Medicine rests on the chapter it stands in (note-only)."
+  },
+  {
+   "ref": "CH6.38",
+   "quote": "the various and manifold metamorphosis of the Inferior Astronomy made in the cold",
+   "why": "Interpreted: the changes it works, in the cold, on what CH6.1 calls 'the Plannets of inferior Astronomy', whose drosse it makes vanish; the author reports them as seen. An effect of the Medicine, not a step of its making."
+  },
+  {
+   "ref": "CH6.38",
+   "quote": "the Moyst way of the Ancients not as yet intensly exalted to the eye of the Basilisk",
+   "why": "The named way of its work and a stage of exalting."
+  },
+  {
+   "ref": "CH6.48",
+   "quote": "in this Rode or Kings Highway and Phylosophical Reason is to be accomplished",
+   "why": "The road along which the work is accomplished; given as what the seekers 'have been perswaded' (voice UNCLEAR)."
+  },
+  {
+   "ref": "N278",
+   "quote": "The originall of the Philosophicall Magistery.",
+   "why": "Magistery is a name CH6.49 gives this Medicine, and CH6.44 speaks of 'what is hid in the magistery of this Art'. Several defensible readings of 'originall': the first way of holding it, the 'Hapocraticall silence' the note stands beside, against which 'Most doe otherwise now'; or its source, God moving the Artist to a true Understanding, as the paragraph has from Lullius (note-only)."
+  },
+  {
+   "ref": "CH6.49",
+   "quote": "this choycest and admirable Magisterie",
+   "why": "Another of the book's names for it."
+  },
+  {
+   "ref": "CH6.42",
+   "quote": "All diseases proceeding from the corruption of humors, how great and desperate soever their cures be, are healed by this universall medicine",
+   "why": "Its final result: it heals all such diseases."
+  },
+  {
+   "ref": "CH5.68",
+   "quote": "And in this case the universall and chiefest medicine is of no effect, because no industry or skill of Artist or Nature can perpetuate the wedlock of life and death",
+   "why": "The limit of its effect, named in CH5."
+  },
+  {
+   "ref": "CH6.18",
+   "quote": "study to finde out the Celestiall Stone in the last place",
+   "why": "Several defensible readings. (a) The Stone is this Medicine, and men study to find it last, after seeking the Kingdome of God; N283 calls the work 'this Stone'. (b) The Stone stands with the Kingdome of God as what men seek 'in the last place', that is too late, which is why none of the thousands finds the doors of Nature unlockt; N261 beside it names recourse to God as the one way to all Secrets. The lines given do not show that this Stone is the same thing as the Medicine."
+  },
+  {
+   "ref": "CH6.76",
+   "quote": "that Ancient, True, & Philosophical Medicin",
+   "why": "Interpreted: the closing names it 'not yet fully known'; the words match the head's 'most Ancient Phylosophers'."
+  }
+ ],
+ "why_one": "The author's list gives it a head of its own after the heads on 'that Phisick' (OPEN.29) and its own chapter (CH6.0). At the start he sets it apart from what he offers: nothing is more choice than 'these chief secrets of the more hidden Medicines here offered', 'except only' this one (OPEN.6). Its result differs from the True Physick's: one Medicine that heals all diseases of the humours (CH6.42), where the True Physick answers three sorts of diseases with their own medicines (CH4.10). A different final result makes it a different process."
+}

@@ -1,0 +1,69 @@
+{
+ "process": {
+  "answer": "yes",
+  "basis": [
+   {
+    "ref": "CH3.0",
+    "quote": "How the True Physick, which is covered bark and rind, is to be got out, and rightly prepared by Fire",
+    "why": "The head of a whole chapter presents a course of operations (got out, prepared by Fire) leading to one result, the True Physick."
+   },
+   {
+    "ref": "OPEN.26",
+    "quote": "That it is to be fetcht out, and prepared truly, by fire.",
+    "why": "The author's own list of his heads announces the same course of operations for 'that Phisick'."
+   },
+   {
+    "ref": "CH3.14",
+    "quote": "this Separatory art which teacheth rightly to discerne and seperate the Good from the Bad, the Profitable from the Unprofitable",
+    "why": "Names the operation of that course: separating."
+   },
+   {
+    "ref": "CH3.40",
+    "quote": "The Chymicall way of Subtiliating Extracting, and Separating",
+    "why": "The text itself calls it a 'way' and names three operations in a row."
+   },
+   {
+    "ref": "CH3.7",
+    "quote": "that pure and Christiline matter may be administred to our bodies",
+    "why": "Names the end the operations lead to: a pure matter given to the body."
+   },
+   {
+    "ref": "CH6.38",
+    "quote": "the greatest miracle of Nature wrought by Art",
+    "why": "The chief Medicine of CH6 is presented as made by Art, not only praised."
+   },
+   {
+    "ref": "CH6.38",
+    "quote": "the Moyst way of the Ancients not as yet intensly exalted to the eye of the Basilisk",
+    "why": "A named way and a degree of exalting: a course of operations toward the chief Medicine (covered; its steps are not given in these lines)."
+   },
+   {
+    "ref": "CH6.21",
+    "quote": "the fat or blood of the Sun and the Dew of the Lunary, be joyned into one body by the circular wheel of the Elements with the help of Art and Nature",
+    "why": "QUOTED: True Phylosophers ('religously affirming'): none attains 'the desired end' before this joining is done, with the help of Art. A course toward one end in covered words, in the chapter of the chief Medicine; the same paragraph says they swore never to write it plainly."
+   },
+   {
+    "ref": "N263",
+    "quote": "Gold animated by the Salt of Niture is made the chief subject of the Phylosophers metallick Physicks",
+    "why": "Names a matter and an operation on it (animated, made the chief subject). Interpreted as the work of the chief Medicine: the note stands in its chapter, beside the Phylosophers' freedom to 'give Names at their pleasure' (CH6.21), and speaks of 'metallick Physicks' in the plural; it does not itself name the one chief Medicine (note-only)."
+   },
+   {
+    "ref": "CH6.48",
+    "quote": "in this Rode or Kings Highway and Phylosophical Reason is to be accomplished",
+    "why": "The work is presented as a road along which something is accomplished. The words stand as what the many seekers 'have been perswaded'; whose words they are the line does not show (UNCLEAR in the marking list)."
+   }
+  ]
+ },
+ "units": [
+  {
+   "id": "U1",
+   "name": "the True Physick",
+   "kind": "Physick, got out and prepared by Fire"
+  },
+  {
+   "id": "U2",
+   "name": "that one onely chiefe Medicine of the most Ancient Phylosophers",
+   "kind": "Medicine, wrought by Art"
+  }
+ ]
+}

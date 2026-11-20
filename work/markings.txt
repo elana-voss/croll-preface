@@ -1,0 +1,278 @@
+OPEN.0 | CROLL | “THE Admonitory Preface OF OSWALD CROLLIE, Physitian” | THE Admonitory Preface
+OPEN.3 | CROLL | “I doe here out of the most deep secret of my heart, set before thee two of the most excellent Spagyrik Mysteries” | two of the most excellent Spagyrik Mysteries
+OPEN.6 | CROLL | “except only that universall and most famous Medicine which the most ancient wise Philosophers had from the beginning of the world” | that universall and most famous Medicine
+OPEN.8 | CROLL | “the true and more profound Phisitians, who have been Divinely inspired, moved with a Samaritan-compassion toward their sick neighbors” | the true and more profound Phisitians
+OPEN.10 | CROLL | “The Mysticall Hermetick Philosophers who heretofore in part have pryed into these excellent secrets, will rise against me” | The Mysticall Hermetick Philosophers
+OPEN.10 | CROLL | “after the Bloody Judgement of the Son is first finished, which undoubtedly will follow the Watry (Judgement) of the Father, then in the third Age of the Holy Spirit” | the third Age of the Holy Spirit
+OPEN.10 | QUOTED: Zeph. 3.9. Mal. 4.5, 6. Zech 14.9. Ecclesiasticus 48.1, | “Elias the Artist” | Elias the Artist
+OPEN.11 | CROLL | “As for the spurious and adulterous Theophrasteans (the worst and wickedest sort of men)” | the spurious and adulterous Theophrasteans
+OPEN.11 | CROLL | “their forged Cachochymicall and Sophisticall Arts, which have not so much as a spark of truth in them” | Cachochymicall and Sophisticall Arts
+OPEN.11 | CROLL | “the most laudable and honourable name of true and noble Alchymistry, hath been unworthily made infamous and odious” | true and noble Alchymistry
+OPEN.12 | CROLL | “But the more single and subtle part of the Galenists, who like Nicodemus are of a milder temper” | the more single and subtle part of the Galenists
+OPEN.13 | CROLL | “As for the more dull and drossie sort of them” | the more dull and drossie sort of them
+OPEN.13 | CROLL | “shamelesly to scoff at this Divine Art” | this Divine Art
+OPEN.13 | CROLL | “their Captain, that railing Binarius” | that railing Binarius
+N023 | CROLL | note-only | “There is a two-fold Alchymy. Naturall, much esteemed by Artist. Sophisticall, as much detested by them.” | a two-fold Alchymy
+OPEN.14 | CROLL | “doe no lesse then the common people, admire, as Magical Miracles, those eminent works wherein the whole power of Nature flourisheth” | those eminent works wherein the whole power of Nature flourisheth
+OPEN.14 | CROLL | “many famous Phisitians of our time, equall to the most learned of men, who have spent all their life in the works of Art, men skill'd in the secrets of Nature” | the secrets of Nature
+OPEN.17 | CROLL | “spend the rest of their dayes with those Secrets which are both in God and Nature” | those Secrets which are both in God and Nature
+OPEN.19 | CROLL | “next after the great book of Grace, wherein the eternall health of our soules consisteth” | the great book of Grace
+OPEN.19 | CROLL | “more diligently to pry into that other also of Nature, treating of those Secrets which respect our bodily health” | that other also of Nature
+OPEN.20 | CROLL | “this excellent fruit of their labours, watchings, time and experiences” | this excellent fruit of their labours, watchings, time and experiences
+OPEN.21 | CROLL | “To these A pule jan Bravadoes, whether they put on the Lyons or the Foxes skin” | these A pule jan Bravadoes
+OPEN.21 | CROLL | “would I for the unworthinesse of some shut these doors against those that seek after the true and Ancient Phisick” | the true and Ancient Phisick
+OPEN.23 | CROLL | “I handle some things in this Admonitary Preface” | this Admonitary Preface
+OPEN.24 | CROLL | “What that Phisick is which cureth mens diseases, and few Phisitians know it.” | What that Phisick is which cureth mens diseases
+OPEN.24 | CROLL | “Whereunto is added a perfect Philosophicall Description of the little World Man, almost forgotten and unknown.” | a perfect Philosophicall Description of the little World Man
+OPEN.25 | CROLL | “Where that True Phisick lyeth hid, and may be found.” | Where that True Phisick lyeth hid, and may be found
+OPEN.26 | CROLL | “That it is to be fetcht out, and prepared truly, by fire.” | That it is to be fetcht out, and prepared truly, by fire
+OPEN.27 | CROLL | “With what vertue, and after what manner, that Phisick worketh on mans body, and expelleth his diseases.” | With what vertue, and after what manner, that Phisick worketh on mans body
+OPEN.28 | CROLL | “What manner of Phisitian that Phisick doth require for its Minister.” | What manner of Phisitian that Phisick doth require for its Minister
+OPEN.29 | CROLL | “Of the universall and chiefe Medicine or Phisick of the most Ancient Philosophers” | the universall and chiefe Medicine or Phisick of the most Ancient Philosophers
+OPEN.30 | CROLL | “Some thing in defence of the published Truth, as an Epilogue or Conclusion.” | an Epilogue or Conclusion
+CH1.0 | CROLL | “CHAP. I. Of the True Physick.” | the True Physick
+CH1.1 | CROLL | “THE true Physick whereof by the Devine assistance I intend here to treat” | THE true Physick
+CH1.4 | CROLL | “Astronomy and Philosophy, which explaine those two Globes, the superiour and inferiour” | those two Globes, the superiour and inferiour
+N039 | CROLL | note-only | “What the Light of Nature is.” | the Light of Nature
+CH1.6 | CROLL | “Thus in all things there is Fire, Aire, Earthy Water.” | Fire, Aire, Earthy Water
+CH1.6 | CROLL | “There are also four kinds of Mercury, and four sorts of Mettalls, a fourfold Snow, four sorts of Ametheists and precious stones” | four kinds of Mercury, and four sorts of Mettalls
+CH1.6 | CROLL | “There are Foure of every thing, one in the Firmament or Heavenly Element” | Foure of every thing
+CH1.6 | CROLL | “So there is a fourfold Man” | a fourfold Man
+CH1.7 | QUOTED: Paracelsus | “which should be the four kind of Inhabitants of the Elements, who differ from Men created after the Image of God, in understanding, wisdome, arts, operations, and habitations” | the four kind of Inhabitants of the Elements
+CH1.8 | UNCLEAR | “To the Water there belong Nimphs, Undens, Melosyns, whose Monsters or bastards are the Syrens that swim upon the water.” | Nimphs, Undens, Melosyns; Syrens
+CH1.9 | UNCLEAR | “To the Earth doe belong Gnoms, Lemurs, Sylphs, Montans, Zonnets, whose Monsters are the Pigmyes.” | Gnoms, Lemurs, Sylphs, Montans, Zonnets; Pigmyes
+CH1.10 | UNCLEAR | “Satyrs, whose Monsters are the Gyants” | Umbratils, Satyrs; Gyants
+CH1.11 | UNCLEAR | “To the Fire or the Firmament doe belong the Vulcanals, Pennats, Salamanders, Superi, whose Monsters are Zundell” | Vulcanals, Pennats, Salamanders, Superi; Zundell
+CH1.12 | CROLL | “Thus also there is a fourfold Medicine” | a fourfold Medicine
+CH1.12 | CROLL | “every malady and medicine is of the same Physiognomy, Chyromancy and Anotomy; He that knows not this Fundamentall cannot be a good Phisitian” | this Fundamentall
+CH1.14 | CROLL | “There is a twofold Heaven” | a twofold Heaven
+CH1.19 | CROLL | “there are THREE Principles of all things which are found in every compound body” | THREE Principles
+CH1.21 | QUOTED: Some Theophrastaeans | “thus Sulphur or brimstone may answer to Fire, Salt to the earth, Mercury to Water, Spirit to Aire” | Sulphur, Salt, Mercury, Spirit
+CH1.22 | CROLL | “seeing we have entred into a Discourse of the Elements” | a Discourse of the Elements
+CH1.22 | QUOTED: Severinus | “These (places) are divided into two Globes, viz. the superiour Fire, or the Firmament, and Aire, much like the shell and white of an egge; the inferiour, Water and the Earth, like the yolk of an egge” | two Globes
+CH1.25 | QUOTED: Severinus | “There are to us four Elementated Elements, viz. Fire or the Firmament, Aire, Water, Earth” | four Elementated Elements
+CH1.26 | CROLL | “the four Elements or those four Pillars of the World” | those four Pillars of the World
+CH1.26 | CROLL | “From the Outward he finds the frame of the Inward, viz. the true Anotomy of the great and little World” | the true Anotomy of the great and little World
+N059 | CROLL | note-only | “These are the wombs of all things.” | the wombs of all things
+N062 | CROLL | note-only | “This Rule both Divines and Physicians make use of.” | This Rule
+CH1.34 | CROLL | “the seven Rulers of the world are nothing else but the fruits of Fire” | the seven Rulers of the world
+CH1.37 | CROLL | “the Physicall body of Man, which is nourished from the Earth, and Sydereall body which liveth by the Firmament” | the Physicall body of Man; Sydereall body
+N071 | CROLL | note-only | “The cause & subject of diseases.” | The cause & subject of diseases
+CH1.40 | CROLL | “There are other diseases whereof the most part are Astrall or Firmamentall” | Astrall or Firmamentall diseases
+CH1.43 | CROLL | “Of this sort are the Fift Essences, Magisteryes, and the like.” | the Fift Essences, Magisteryes
+MICRO.0 | CROLL | “the Generation, Dignity, & Excelency OF THE MICROCOSM, Or Little World MAN” | the Generation, Dignity, & Excelency OF THE MICROCOSM, Or Little World MAN
+MICRO.1 | CROLL | wording-dependent | “we can learn more in the whole course of our life then that Divine lesson that God hath set us, KNOW THY SELFE.” | that Divine lesson that God hath set us, KNOW THY SELFE
+MICRO.4 | CROLL | “When we therefore know our selves aright according to both kinds of Light.” | both kinds of Light
+MICRO.4 | CROLL | “(1) according to the Spirit and Nature” | (1) according to the Spirit and Nature
+MICRO.4 | CROLL | “the knowledge of him who IS” | him who IS
+MICRO.8 | CROLL | “we suffer not the Philosophicall errours of the Heathen to beare down or dominiere over the rules of Christian Phylosophy” | Christian Phylosophy
+MICRO.9 | CROLL | “For Faith, Hope and Love, follow knowledge, Adhaesion or cleaving to followeth Love, Union follows Adhaesion, in Union is Blessednesse and Wisdome.” | knowledge, Faith, Hope and Love, Adhaesion, Union
+MICRO.11 | CROLL | “Man, the bond or buckle of the world, the last wonderfull and honourable living creature” | the bond or buckle of the world
+MICRO.11 | CROLL | “fashioned by the great Spacyrus into a bodily shape, made to supply the place of the fallen Angells” | the great Spacyrus
+MICRO.12 | CROLL | “Man is the tye, bond, knot, joynt” | the tye, bond, knot, joynt, packet or bundle of all the Creatures
+MICRO.12 | CROLL | “God is the Center and Circle of all things that he brought out of himselfe” | the Center and Circle of all things
+N097 | CROLL | note-only | “God the Centre and Circle of all things.” | God the Centre and Circle of all things
+MICRO.14 | CROLL | “so also the little world man is twofold, visible in respect of his Body, invisible in respect of his Spirit” | the little world man is twofold
+MICRO.14 | CROLL | “one a syderiall Spirit from the Firmament, the other from the breath of life” | two Spirits in Man
+MICRO.14 | CROLL | “Man hath three parts, a mortall Body with a Syderiall Spirit, and an immortall Soule” | three parts
+N102 | CROLL | note-only | “Angelicall according to which he is to live, and Animall which is not to be regarded” | a two-fold wisdom in Man
+MICRO.17 | CROLL | “Man hath two Fathers, an Eternall whose Image he beareth, and a Mortall one, which is the whole world with all the creatures” | two Fathers
+MICRO.17 | CROLL | “Aetheriall and Astrall Body or chariot and vehicle of the Soule, wherein the Intellectuall Soul and earthy Body like two Extreams are knit, glued and confederate together” | chariot and vehicle of the Soule
+N108 | CROLL | note-only | “The perfection and dignity of Man.” | The perfection and dignity of Man
+N111 | CROLL | note-only | “The MIND.” | The MIND
+MICRO.23 | CROLL | “The Limus Terrae, or dust of the Earth, is two-fold, visible and invisible” | The Limus Terrae
+MICRO.24 | CROLL | “it followeth that there are three worlds or Heavens in Man” | three worlds or Heavens in Man
+MICRO.24 | CROLL | “So that he partaketh of a threefold world, of the Archetype or God-like world in God, of the Intellible or Angellicall, of the sensible Elementall or corporall world” | a threefold world
+MICRO.25 | CROLL | “He communicateth with God in his Soule or Mind, because by the breath of life he was made after his image” | 1.
+MICRO.26 | CROLL | “He hath a semblance with the Angells in respect of the invisible Body and Rationall Soul” | 2.
+MICRO.27 | CROLL | “He participateth with the Firmament and Stars of whom he received that Astrall body or Syderiall Spirit, which is the true Astrall Man” | 3.
+MICRO.28 | CROLL | “He partaketh of the Elements, for from these he had his mortall Physicall Earthy body” | 4.
+MICRO.28 | CROLL | “hath in it the four Elementary Spirits of the four inhabitants of the world, as also the fift kind of Flages of a thousand sorts” | the fift kind of Flages
+MICRO.29 | CROLL | “He partaketh of all Elemented Animalls, Vegetables and Mineralls” | 5.
+MICRO.30 | CROLL | wording-dependent | “most admirable Extract & kernell of the four Elements” | Extract & kernell of the four Elements
+MICRO.31 | CROLL | “it is requisite that wee treat here a little more largly of the Syderyall or invisible man, to wit, of his Originall and power” | the Syderyall or invisible man
+MICRO.32 | CROLL | “the Spectrum, ghost, or fantasie, the Light of Nature” | the Spectrum, ghost, or fantasie, the Light of Nature
+MICRO.35 | CROLL | “This fourth kind of Naturall Magick called Gamahaea doth all things invisibly and spiritually, by the help of Art” | fourth kind of Naturall Magick called Gamahaea
+MICRO.37 | CROLL | “This part of Magick is called Gabalisticall, and is supported with three Pillars.” | This part of Magick is called Gabalisticall
+MICRO.38 | CROLL | “First, with TRUE PRAYERS made in Spirit and Truth” | TRUE PRAYERS
+MICRO.39 | CROLL | “Secondly, by NATURALL FAITH, or in-born Wisdome” | NATURALL FAITH, or in-born Wisdome
+MICRO.40 | CROLL | “Thirdly, by a strongly exalted IMAGINATION” | a strongly exalted IMAGINATION
+MICRO.44 | CROLL | “The Sum of all is, that we worship God devoutly in honesty and holinesse” | The Sum of all
+MICRO.44 | CROLL | “they require a larger narration then can be made of them at this time. To returne therefore to our purpose.” | a larger narration
+CH2.0 | CROLL | “CHAP. II. Where that True Physick is to be Found.” | True Physick
+CH2.2 | CROLL | “those three Families of Nature, the Vegetable, Animall, and Minerall” | three Families of Nature, the Vegetable, Animall, and Minerall
+CH2.3 | CROLL | “the mecanick sciences of the Three principles” | the Three principles
+CH2.4 | CROLL | “this Symmetricall concord and Physicall anagoge” | Symmetricall concord and Physicall anagoge
+CH2.4 | CROLL | “those three shops of Cures” | three shops of Cures
+N134 | CROLL | note-only | “All the whole inferiour Nature is divided into three principall parts, i. e. Vegetable, Animall, and Minerall.” | three principall parts, i. e. Vegetable, Animall, and Minerall
+CH2.6 | CROLL | “Amongst Vegetables there is Saffron, Rue, Balme, Scordium, Celandine, Mace, Ocymum, with six hundred of the like.” | Vegetables
+CH2.7 | CROLL | “Amongst Animalls there is Hart's horn, Unicorns horn, the Bone in Staggs hearts” | Animalls
+CH2.7 | CROLL | “The same may be sayd of the other six principall members and parts of mans body” | the other six principall members and parts of mans body
+N139 | CROLL | note-only | “There are two sorts of Physitians, one cure miraculously, the other naturally by means.” | two sorts of Physitians
+N139 | CROLL | note-only | “there are two originalls of every disease, the one naturall, the other caelestiall” | two originalls of every disease
+CH2.14 | CROLL | “Physick is two-fold in the Earth” | Physick two-fold: Visible and Invisible
+CH2.17 | CROLL | “Concerning Characteristicalll Cure which affecteth Naturall operations by words pronounced, written, carved and hanged about the neck” | Characteristicalll Cure
+N154 | UNCLEAR | note-only | “in Hearbs Stones and Words there are great vertues.” | a common saving
+CH2.22 | CROLL | “the very GATE of miracles in that Only Divine Name ISHUH in which all things are reckoned up and contained” | Only Divine Name ISHUH
+CH2.22 | QUOTED: Paracelsus | “For in these Three principall Poynts also consisteth the whole Foundation of the Magicall and Cabalisticall Art” | Three principall Poynts
+CH2.25 | CROLL | “First, because God worketh and doth his own will by him as by his Minister, when he sleepeth and knoweth it not” | First
+CH2.26 | CROLL | “Secondly, because (Health being the greatest Good to men) he ought to excell all mortalls in the search and knowledge of Nature and the Light thereof” | Secondly
+CH2.27 | CROLL | “Thirdly, because he alone manifesteth to all, the wonderfull works of God both in the great and little world” | Thirdly
+CH3.0 | CROLL | “How the True Physick, which is covered bark and rind, is to be got out, and rightly prepared by Fire” | the True Physick
+CH3.4 | CROLL | “writeth in his Key” | his Key
+N165 | CROLL | note-only | “The cause of Simpathy and Antipathy.” | The cause of Simpathy and Antipathy
+CH3.7 | CROLL | “not that which Mountebanks use to paint Faces with to make them White and Red” | Chymistry
+CH3.7 | CROLL | “that pure and Christiline matter may be administred to our bodies” | that pure and Christiline matter
+CH3.8 | CROLL | “this true Analysis and vitall Anatomy of bodies” | this true Analysis and vitall Anatomy of bodies
+CH3.11 | CROLL | “the transgression and fall from unity to alterity” | fall from unity to alterity
+CH3.12 | CROLL | “in this LAND of LABOUR to attain the fruits of Terrene and Caelestiall Wisdome” | this LAND of LABOUR
+CH3.14 | CROLL | “But to passe from Food let us come to Physick” | Physick
+CH3.14 | CROLL | “this Separatory art which teacheth rightly to discerne and seperate the Good from the Bad, the Profitable from the Unprofitable” | this Separatory art
+CH3.16 | CROLL | “Hence many advantages follow.” | many advantages
+N172 | CROLL | note-only | “Reasons why the Spagyrick Physick duely prepared is to be preferd before other Hetroclite mixtures in the shops.” | the Spagyrick Physick duely prepared
+CH3.27 | CROLL | “This also by the way is to be observed” | an observation by the way
+CH3.28 | CROLL | “man partaketh of those Three first” | those Three first
+CH3.29 | CROLL | “to be distributed into three principall kinds, Animall Vegetable, and Minerall” | three principall kinds, Animall Vegetable, and Minerall
+CH3.30 | CROLL | “This is the set Order for the government of the sublunary Family” | the set Order for the government of the sublunary Family
+CH3.32 | CROLL | “the three Families of Nature” | the three Families of Nature
+CH3.33 | CROLL | “the Hermetick Phylosophy” | the Hermetick Phylosophy
+CH3.33 | CROLL | “these are not so much astonyed at the sports of Nature” | the sports of Nature
+CH3.36 | CROLL | “Morienes that excellent Phylosopher, the most skilfull and expert Chymiologer” | Chymiologer
+CH3.36 | CROLL | “King Calid who inquired after the matter of the Elixer” | the matter of the Elixer
+CH3.40 | CROLL | wording-dependent | “to separate the three first (qualities) in vineger” | the three first (qualities) in vineger
+CH3.40 | CROLL | “to learn the preparations of those high Magisteryes and Elixirs” | those high Magisteryes and Elixirs
+CH3.40 | CROLL | “the Creation and composition of the internall Astrall Man, much lesse of the Mechanick Spirits of diseases” | the internall Astrall Man; the Mechanick Spirits of diseases
+N185 | CROLL | note-only | “There are four Pillars of Physick, Phylosophy, Alchymistry, Astronomy, and the Physicall vertue or medicine.” | four Pillars of Physick
+CH3.45 | CROLL | “this Divine Spagyrie, the most wonderfull and approved Art” | this Divine Spagyrie
+CH3.46 | CROLL | “the time of Revocation and Regeneration drawing nigh” | the time of Revocation and Regeneration
+CH4.0 | CROLL | “How, and with what Vertue, Physick worketh upon Mans body and cureth his Diseases” | CHAP. IV. How, and with what Vertue, Physick worketh upon Mans body and cureth his Diseases
+CH4.1 | CROLL | “THat which Physitians commonly dispute and contend for” | That which Physitians commonly dispute and contend for
+CH4.6 | CROLL | “This is the true and lively Anatomy.” | the true and lively Anatomy
+CH4.7 | QUOTED: Paracelsus | “he called them Sulphurean diseases, such are all Inflamations and Feavers” | Sulphurean diseases
+CH4.7 | QUOTED: Paracelsus | “Those that proceed from moysture he Mercuriall.” | Mercuriall
+CH4.8 | UNCLEAR | “Mercury may three manner of wayes be exalted above the Naturall degree” | three manner of wayes
+CH4.8 | QUOTED: Paracelsus | “those diseases that are bred of Salt, he calleh Saline and Nitrons” | Saline and Nitrons
+CH4.8 | UNCLEAR | “Salt destroyeth health 4 wayes, by Resolution, Calcination, (loosing its liquid and humid Temperament) Reverbertion. Alcalization” | 4 wayes
+CH4.8 | CROLL | “as Sulphur of Vitriol, Niter, common Salt, and such like” | Sulphur of Vitriol, Niter, common Salt, and such like
+CH4.10 | CROLL | “As there are Three from which all Physick proceedeth, Mercury, Sulphur, Salt; so likewise there are three sorts of diseases, Mercuriall, Sulphurean, Saline” | Three from which all Physick proceedeth
+CH4.13 | CROLL | “As was seen in the New City at Prague, Anno 1602. in a certaine rustick or countryman of Bohemia, whose name was Mathew, about 36 years of age” | As was seen in the New City at Prague, Anno 1602.
+N195 | CROLL | note-only | “A stupendious and true Story.” | A stupendious and true Story
+CH4.14 | CROLL | “in the year 1606. at Prague a certaine Silesian to get mony did in the presence of many swallow six and forty white flints which he gathered at banck side, weighing almost three Physick pounds” | in the year 1606. at Prague
+CH5.0 | CROLL | “The Duty of Natures Minister, the Physitian.” | The Duty of Natures Minister, the Physitian
+CH5.3 | CROLL | “that most noble and wise Picus Mirandula the Phaenix of Phylosophers” | the Phaenix of Phylosophers
+CH5.7 | CROLL | “some after the Vulgar manner will be looking below the Moon after the Elementary Nature of things” | Phylosophers after the Vulgar manner
+CH5.7 | CROLL | “A Physitian is compleated by 3 things” | 3 things by which a Physitian is compleated
+CH5.8 | QUOTED: Paracelsus | “But first, as Paracelsus saith, let him be the legetimate INTERPRETER of NATURE” | the legetimate INTERPRETER of NATURE
+CH5.10 | CROLL | “Theophrasteans contemplate and admire the workmanship of Nature throughout this mighty frame of the whole Creation” | Theophrasteans
+CH5.12 | CROLL | “Secondly, a Physitian must be a good SPAGIRUS” | a good SPAGIRUS
+CH5.12 | CROLL | “the true Monarch of Physicke, and first Physitian of man” | the true Monarch of Physicke, and first Physitian of man
+CH5.14 | CROLL | “For that noble Pyronomicall Art hath been most ancient” | that noble Pyronomicall Art
+CH5.14 | CROLL | “which of late hath not been a little improved by that Monarch of Mysteryes Paracelsus” | that Monarch of Mysteryes Paracelsus
+CH5.17 | CROLL | “just as it befell Pet. Ramus from his malicious populer adversaries, because he stopt the current of youthfull studies in the silly, common, and corruptible Phylosophy” | what befell Pet. Ramus
+CH5.18 | CROLL | “that invincible united Fundamentall of Theologicall and Phylosophicall Truth and perfect Piety” | that invincible united Fundamentall of Theologicall and Phylosophicall Truth and perfect Piety
+N209 | CROLL | note-only | “By meditating or contemplating we know, by knowing we are delighted, by delighting we adhere, by adhearing we possesse, by possessing we injoy the Truth” | meditating, knowing, delighting, adhering, possessing, enjoying
+CH5.19 | CROLL | “The two Lights are well known, within which are all thing, without which is nothing” | The two Lights
+CH5.20 | CROLL | “After Paracelsus others attempted this study, following the same strait and compendious tract” | others after Paracelsus who attempted this study
+CH5.20 | CROLL | “such as Paulus Brawn of Norimberge, Valentinus Weigelius, and Petrus Winzius” | Paulus Brawn of Norimberge, Valentinus Weigelius, and Petrus Winzius
+CH5.20 | CROLL | “not in the sensuall school of fools, nor in the rationall school of Schollers, but in the third school of perfect Men, that Mentall or Intellectuall school of Pentecost” | the third school of perfect Men, that Mentall or Intellectuall school of Pentecost
+CH5.20 | CROLL | “which is the utmost happinesse and Blessednesse of Man, and the very determinate and appointed End of the Cabala or secret wisdome” | the very determinate and appointed End of the Cabala or secret wisdome
+CH5.21 | CROLL | “at the end of this world which is to be Renewed by the Ternary of Man” | the Ternary of Man
+CH5.29 | CROLL | “Some of them are so incensed against that Theophrastus” | that Theophrastus
+CH5.31 | QUOTED: Wimpeneus | “in three respects” | three respects
+CH5.32 | UNCLEAR | “First, Because the Diseases are more perfectly known” | the first respect
+CH5.32 | CROLL | “And since we are here fallen upon Tartar I will speak a little more of it.” | a little more of Tartar
+N218 | CROLL | note-only | “the second which is of the stomack into haile; the third of the kidneys and bladder into a little stone” | the first, second and third separation of Tartar
+CH5.35 | CROLL | “four kinds of Tartar, the stone of the bladder, the Sand of the Kidneys, the clods or gobbets, as also the Slime or lutous matter of the stomack” | four kinds of Tartar
+N219 | QUOTED: Paracels | note-only | “Bolous, such as in milk meats, fish, and flesh” | Bolous and Viscous
+CH5.38 | CROLL | “There are four sorts of Tartar, springing from the fourfold fruits of the Elements by which we are nourished.” | four sorts of Tartar
+CH5.39 | CROLL | “The first sort ariseth from the use of those things which grow in the Earth” | the first sort
+CH5.40 | CROLL | “The second cometh from the nourishment which we have from the Water” | the second
+CH5.41 | CROLL | “The third is in the Flesh of Beasts and Fowles.” | the third
+CH5.42 | CROLL | “The fourth from the Firmament, which is most like to the Spirit of wine in its subtilty” | the fourth
+CH5.42 | CROLL | “those acute and pernicious Astrall diseases, the Pleuresie, Plague” | Astrall diseases
+CH5.42 | CROLL | “which diseases proceeding from the impressions of the Stars the universall medicine powerfull expelleth” | the universall medicine
+CH5.44 | CROLL | “Therefore the Archaeus of the stomack must destroy the Tartar of the Elements least it be turned into the Tartar of Man” | the Tartar of the Elements; the Tartar of Man
+N221 | CROLL | note-only | “Tartar differeth according to the places of the bodies pores and passages” | Tartar by places of the body
+CH5.45 | UNCLEAR | “Secondly, Because we have more perfect medicines now then heretofore, that is to say, of Mineralls” | the second respect
+CH5.46 | UNCLEAR | “Thirdly, Because now the Harmony between the great and little world is made so plaine” | the third respect
+CH5.50 | CROLL | “I exhort and admonish all Students of Hippocraticall and Galenicall Physick, in whom the Philosophicall veine is yet warme” | I exhort and admonish all Students of Hippocraticall and Galenicall Physick
+CH5.54 | CROLL | “His works which were Printed for the publick good, by the incouragement and at the cost of that most Renowned and Reverend Ernestus Prince Elector of Coleine” | His works
+CH5.59 | CROLL | “There are also false and lying Theophrasteans prophaning by their avarice and timerity that Divine Physick” | false and lying Theophrasteans
+CH5.60 | CROLL | “these circumforaneous and adulterous Theophrasteans, with their unlawfully prepared Remedies” | circumforaneous and adulterous Theophrasteans
+CH5.67 | CROLL | “sometimes the sick person is not recovered by the best and fittest medicines that can be applyed, and that for these eight causes” | these eight causes
+CH5.68 | CROLL | “First, Because the Terme of Life approacheth, which cannot be prolong'd by any art or help of Man” | First (of the eight causes)
+CH5.68 | CROLL | “And in this case the universall and chiefest medicine is of no effect, because no industry or skill of Artist or Nature can perpetuate the wedlock of life and death” | the universall and chiefest medicine
+CH5.69 | CROLL | “Secondly, Because through the ignorance of unskilfull Physitians, and their naughty medicines, the sick is brought to that passe, that the disease is corrupt, pernicious, and incurable” | Secondly (of the eight causes)
+CH5.70 | CROLL | “Thirdly, Because the Physitian is sent for too late, when Nature is overcome and the disease hath got the mastery” | Thirdly (of the eight causes)
+CH5.71 | CROLL | “Fourthly, Because the sick doth not follow directions” | Fourthly (of the eight causes)
+CH5.72 | CROLL | “Fifthly, Because some mens Natures or peculiar qualityes are not so easy to be cured” | Fifthly (of the eight causes)
+CH5.72 | CROLL | “especially in the cure of Astrall diseases” | Astrall diseases
+CH5.73 | CROLL | “Sixthly, Because diseases are come to their appoynted period, and then by the Lawes of Nature there can be no recovery” | Sixthly (of the eight causes)
+CH5.73 | CROLL | “perfect, absolute and compleat bituminous, Colar, stony and sandy coagulations” | coagulations
+CH5.74 | CROLL | “Seventhly, As the base nigardlynesse of the sick (though there is no money more honestly got, and more unwillingly parted with) make the Physitian negligent in his office” | Seventhly (of the eight causes)
+CH5.75 | CROLL | “it breedeth that Basilisk of Heaven, which intoxicateth the microcosmicall Firmament” | that Basilisk of Heaven
+CH5.76 | CROLL | “the Imagination giveth a Sydus or Constellation, the Sydus, (by reason of the Matrimony with the Imagination) giveth the effect or work.” | Sydus or Constellation
+CH5.77 | CROLL | “as we saw some years since in that famous Anwalding Panacaea” | that famous Anwalding Panacaea
+CH5.77 | CROLL | “that new medicinall Spring which brake out this yeare in the coasts of Misnia and Bohemia” | that new medicinall Spring
+CH5.81 | CROLL | “Eightly, Least the sick party recovering should commit greater sins against God, his neighbor and himselfe to the losse of his Soul” | Eightly (of the eight causes)
+CH5.82 | CROLL | “our Saviour the Celestiall Physitian of our Soules” | the Celestiall Physitian of our Soules
+CH6.0 | CROLL | “Of that one onely chiefe Medicine of the most Ancient Phylosophers” | that one onely chiefe Medicine of the most Ancient Phylosophers
+CH6.1 | CROLL | “I shall here supply what yet pertaineth to that chief and universal Phylosophical Phisick” | that chief and universal Phylosophical Phisick
+CH6.1 | CROLL | “this most secret Secret of secret Secrets, by which even wonders, yea all things may be done” | this most secret Secret of secret Secrets
+N253 | CROLL | note-only | “This occult Minerva of Phylosophy & this only most precious Jewell is inestimable.” | This occult Minerva of Phylosophy & this only most precious Jewell
+CH6.6 | CROLL | “this Sacred and Divine Art and Science, not of Sophisters, but Phylosophers” | this Sacred and Divine Art and Science
+CH6.6 | CROLL | “the Magazine of Divine knowledge” | the Magazine of Divine knowledge
+CH6.18 | CROLL | “when men seek the Kingdome of God, and study to finde out the Celestiall Stone in the last place” | the Celestiall Stone
+CH6.19 | CROLL | “the key of the Phylosophicall Garden (as I know some that have)” | the key of the Phylosophicall Garden
+N263 | CROLL | note-only | “On this the hinge of the whole busines turneth, as Gold animated by the Salt of Niture is made the chief subject of the Phylosophers metallick Physicks” | the chief subject of the Phylosophers metallick Physicks
+CH6.23 | CROLL | “Those Gymnosophists with their Fantasticall and Frantick inventions, inrich the eares of credulous men that they may make their pockets poor” | Those Gymnosophists
+CH6.27 | CROLL | “he that is an Adept and compleat Phylosopher, a keeper of Gods Secrets, and is conformed to the dignification of his work” | an Adept and compleat Phylosopher, a keeper of Gods Secrets
+CH6.27 | CROLL | “this greatest and richest Terrene Treasure, the Perfect Benefit or good gift of GOD” | this greatest and richest Terrene Treasure; the Perfect Benefit or good gift of GOD
+CH6.30 | CROLL | “to find out one out of those Three Families of Nature, that out of the same things in which all Physick is founded, viz. Animalls, Vegetables, and Mineralls” | those Three Families of Nature
+CH6.31 | CROLL | “The Phylosophicall Conclave of any Prince furnished with such most precious and wholesome a Treasure” | The Phylosophicall Conclave of any Prince
+CH6.31 | CROLL | “the TRIUNE naked DIANA shining with so many colours of variety and alwayes with a Triple Form in every classis or distribution” | the TRIUNE naked DIANA
+CH6.35 | CROLL | “For this onely is the Kings high-way, not onely to come all the desired Secrets of Nature” | the Kings high-way
+CH6.36 | CROLL | “to enter into the inner rooms of that supream Phylosophicall Oratory” | that supream Phylosophicall Oratory
+CH6.37 | CROLL | “by this monument here left it may hereafter appear that that Divine Benificence hath not been denyed to men of our age also” | this monument here left
+CH6.38 | CROLL | “the greatest miracle of Nature wrought by Art” | the greatest miracle of Nature wrought by Art
+CH6.38 | CROLL | “the various and manifold metamorphosis of the Inferior Astronomy made in the cold” | the Inferior Astronomy
+CH6.38 | CROLL | “the Moyst way of the Ancients not as yet intensly exalted to the eye of the Basilisk” | the Moyst way of the Ancients
+CH6.38 | CROLL | “For this Kingly medicine, and the Empresse of all other” | this Kingly medicine, and the Empresse of all other
+N274 | CROLL | note-only | “The Physophycall Basilisk like Lightning suddenly and unawares burneth up any imperfect mettall whatsoever” | The Physophycall Basilisk
+CH6.40 | CROLL | “who know not these Vulcanean metamorphoses and this Power of GOD joyned to Nature, but admire the Heathenish Physick” | these Vulcanean metamorphoses
+CH6.41 | CROLL | “the four Monarchs of all diseases, the Epilepsie, Gout, Dropsie, Leprosie” | the four Monarchs of all diseases
+CH6.42 | CROLL | “All diseases proceeding from the corruption of humors, how great and desperate soever their cures be, are healed by this universall medicine” | this universall medicine
+N278 | CROLL | note-only | “The originall of the Philosophicall Magistery.” | The originall of the Philosophicall Magistery
+CH6.45 | CROLL | “the children of Hermes who first found out the science” | the children of Hermes
+CH6.46 | CROLL | “these private not publick Secretaries of Nature” | private not publick Secretaries of Nature
+CH6.48 | UNCLEAR | “in this Rode or Kings Highway and Phylosophical Reason is to be accomplished” | this Rode or Kings Highway
+CH6.49 | CROLL | “they have even miraculously use of this choycest and admirable Magisterie, together with a flowing plenty and Abundance of all Things” | this choycest and admirable Magisterie
+CH6.50 | CROLL | “the Phylosophers our predecessors that have been train'd up in Hermes school” | Hermes school
+CH6.51 | CROLL | “The Theater of the secrets of all Natur's Light” | The Theater of the secrets of all Natur's Light
+CH6.51 | CROLL | “the Glasse of God's Mysteries, and the Miracle of universall Nature; the Fift Essence of the whole frame of the world, and the whole world Regenerated, wherein the Treasure of all Nature lyeth” | the Glasse of God's Mysteries, and the Miracle of universall Nature; the Fift Essence of the whole frame of the world, and the whole world Regenerated
+CH6.51 | CROLL | “Subject and Instrument of all Naturall and Transnaturall Virtues” | Subject and Instrument of all Naturall and Transnaturall Virtues
+CH6.51 | CROLL | “the Son of the Sun and Moon, who by his ascending into Heaven and descending into the Earth hath obtained all power of superior and inferior things” | the Son of the Sun and Moon
+CH6.51 | CROLL | “the Habitation of all metallick, minerall, and vegetable Forms, which God created under the Globe of the Moon” | the Habitation of all metallick, minerall, and vegetable Forms
+N283 | CROLL | note-only | “By this Art the knowledge of almost all things, and in this Stone the universal Nature of things shineth forth.” | this Stone
+N283 | QUOTED: Paracelsus | note-only | “the Defensive of old age, the Universall medicament, which like the invisible Fire consumeth all diseases” | the Defensive of old age, the Universall medicament
+CH6.55 | CROLL | “this Fift Essence and Spirituall Medicine, which hath the Nature and Heat of Heaven (not of our mortall and corruptible)” | this Fift Essence and Spirituall Medicine
+CH6.55 | CROLL | “this true Triacle of Phylosophers, which like the Elixir of life is the superlative and last consolation of Mans body” | this true Triacle of Phylosophers
+CH6.67 | CROLL | “The MIND therefore of Adept Phylosophers” | The MIND of Adept Phylosophers
+N297 | CROLL | note-only | “The Mystery of Divine Matrimony with Man.” | The Mystery of Divine Matrimony with Man
+CH6.68 | CROLL | “the most wise Hermes and most pious Phylosopher of reverend antiquity the Antesignan of Naturall Phylosophers and first Prophet” | the most wise Hermes
+N300 | CROLL | note-only | “INFORTUNIUM.” | INFORTUNIUM
+CH6.69 | CROLL | “and that for two Reasons” | two Reasons
+N307 | UNCLEAR | note-only | “There is a two fold death, from the Iliad or first principle, and from the Ens or Being” | a two fold death
+CH6.71 | CROLL | “Many holy men used this universall Medicine before the flood” | this universall Medicine
+CH6.72 | CROLL | “the life is broken off, or shortned, two manner of wayes” | two manner of wayes
+CH6.73 | CROLL | “as Inchantment, Imagination, Estimation, Influence; Superstition, all which proceed from a spirituall affection” | Inchantment, Imagination, Estimation, Influence; Superstition
+CH6.73 | CROLL | “these five supernatural mischiefs” | five supernatural mischiefs
+N309 | CROLL | note-only | “MENS & ENS abrumpunt nobis vitam” | MENS & ENS
+CH6.75 | CROLL | “wander wider then the bounds of a Preface, I shall now draw to a conclusion” | a conclusion
+CH6.76 | CROLL | “I have inserted in their proper places in this Prolix and Admonitory Preface” | this Prolix and Admonitory Preface
+CH6.76 | CROLL | “Heroick Prince CHRISTIAN ANHALTIN, with his more then singular favor and laudable patronage toward the more secret Studies, supplyed me with necessary expences” | the more secret Studies
+CH6.76 | CROLL | “By which singular care toward the whole Spagyrick state” | the whole Spagyrick state
+CH6.76 | CROLL | “this harvest of Chymicall Corn, and the First fruits of my increase, and this Spagyrick present of my difficult and laborious diligence” | this harvest of Chymicall Corn, and the First fruits of my increase, and this Spagyrick present
+CH6.76 | CROLL | “the young Pupil that is a diligent Searcher out of the Ancient First & Sacred Phylosophy” | the Ancient First & Sacred Phylosophy
+CH6.76 | CROLL | “that Ancient, True, & Philosophical Medicin, which by reason of the long continuance and injury of time, as also the unworthines of our age (mens sins doubtles so meeting together) is not yet fully known” | that Ancient, True, & Philosophical Medicin
+CH6.78 | CROLL | “AMEN” | AMEN

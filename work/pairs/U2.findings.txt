@@ -1,0 +1,7 @@
+all quotes pass
+
+## Words found neither in the book nor in plain English
+knowers 2
+
+## Length
+The page has 5896 words; its task allows at most about 4,000. Shorten it to that: cut repeated evidence and repeated points, keep every distinct point, its mark and its reference.

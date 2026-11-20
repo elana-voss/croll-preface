@@ -1,0 +1,93 @@
+{
+ "id": "U1",
+ "name": "the True Physick",
+ "kind": "Physick, got out and prepared by Fire",
+ "voice": "CROLL",
+ "marked_at": [
+  {
+   "ref": "CH1.0",
+   "quote": "CHAP. I. Of the True Physick."
+  },
+  {
+   "ref": "OPEN.24",
+   "quote": "What that Phisick is which cureth mens diseases, and few Phisitians know it."
+  },
+  {
+   "ref": "CH3.0",
+   "quote": "How the True Physick, which is covered bark and rind, is to be got out, and rightly prepared by Fire"
+  }
+ ],
+ "parts": [
+  {
+   "ref": "OPEN.24",
+   "quote": "Whereunto is added a perfect Philosophicall Description of the little World Man, almost forgotten and unknown.",
+   "why": "The author's list adds this Description to the first head on 'that Phisick': by his own marking it belongs to that head."
+  },
+  {
+   "ref": "MICRO.0",
+   "quote": "the Generation, Dignity, & Excelency OF THE MICROCOSM, Or Little World MAN",
+   "why": "The title of the Description that OPEN.24 adds to the first head; it describes man and presents no course of operations of its own."
+  },
+  {
+   "ref": "CH2.0",
+   "quote": "CHAP. II. Where that True Physick is to be Found.",
+   "why": "Where its matter is found: the preparation that serves the process."
+  },
+  {
+   "ref": "OPEN.25",
+   "quote": "Where that True Phisick lyeth hid, and may be found.",
+   "why": "The author's announcement of the same head."
+  },
+  {
+   "ref": "CH2.2",
+   "quote": "those three Families of Nature, the Vegetable, Animall, and Minerall",
+   "why": "The three kinds of matter it is found in."
+  },
+  {
+   "ref": "CH3.8",
+   "quote": "this true Analysis and vitall Anatomy of bodies",
+   "why": "The operation on the matter, named in the chapter of getting it out."
+  },
+  {
+   "ref": "CH6.30",
+   "quote": "to find out one out of those Three Families of Nature, that out of the same things in which all Physick is founded, viz. Animalls, Vegetables, and Mineralls",
+   "why": "The author's wish that each man skilled in Chymistry be set to search one of the three Families, to 'fetch out the most choyse Physicall Mysteries' by 'separating them by Fire': the course of U1 in U1's own words (three Families, fetch out, Fire), though the line stands in CH6. It speaks of 'all Physick' and of Mysteries in the plural, not of the one chief Medicine."
+  },
+  {
+   "ref": "N172",
+   "quote": "Reasons why the Spagyrick Physick duely prepared is to be preferd before other Hetroclite mixtures in the shops.",
+   "why": "The result of the process, 'duely prepared', set against shop mixtures; the note heads the reasons that begin at CH3.17, in U1's chapter (note-only)."
+  },
+  {
+   "ref": "CH3.45",
+   "quote": "this Divine Spagyrie, the most wonderfull and approved Art",
+   "why": "The Art that carries out the process."
+  },
+  {
+   "ref": "N185",
+   "quote": "There are four Pillars of Physick, Phylosophy, Alchymistry, Astronomy, and the Physicall vertue or medicine.",
+   "why": "The four Pillars that hold this Physick up, Alchymistry among them; the note stands where the author blames men who 'regard not the due preparation of their Medicines' (CH3.43) (note-only)."
+  },
+  {
+   "ref": "CH4.0",
+   "quote": "How, and with what Vertue, Physick worketh upon Mans body and cureth his Diseases",
+   "why": "How the prepared Physick works: its use, which the author's list ties to 'that Phisick' (OPEN.27)."
+  },
+  {
+   "ref": "CH4.10",
+   "quote": "As there are Three from which all Physick proceedeth, Mercury, Sulphur, Salt; so likewise there are three sorts of diseases, Mercuriall, Sulphurean, Saline",
+   "why": "Matches the Physick to the diseases it cures."
+  },
+  {
+   "ref": "OPEN.28",
+   "quote": "What manner of Phisitian that Phisick doth require for its Minister.",
+   "why": "The worker the Physick requires; announced as serving 'that Phisick'."
+  },
+  {
+   "ref": "CH5.12",
+   "quote": "Secondly, a Physitian must be a good SPAGIRUS",
+   "why": "The Minister must be able to carry out the preparation."
+  }
+ ],
+ "why_one": "The author's list of heads (OPEN.24-28) and the chapter heads CH1-CH5 all speak of one 'True Physick' / 'that Phisick': what it is, where it is found, how it is got out and prepared by Fire, how it works, and its Minister. Each later head serves that one thing, and the Description of the little World Man is 'added' to the first of them (OPEN.24); the chief Medicine has a head of its own (OPEN.29, CH6.0)."
+}

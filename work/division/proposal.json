@@ -1,0 +1,79 @@
+{"process": {"answer": "yes", "basis": [
+  {"ref": "CH3.0", "quote": "How the True Physick, which is covered bark and rind, is to be got out, and rightly prepared by Fire", "why": "The head of a whole chapter presents a course of operations (got out, prepared by Fire) leading to one result, the True Physick."},
+  {"ref": "OPEN.26", "quote": "That it is to be fetcht out, and prepared truly, by fire.", "why": "The author's own list of his heads announces the same course of operations for 'that Phisick'."},
+  {"ref": "CH3.14", "quote": "this Separatory art which teacheth rightly to discerne and seperate the Good from the Bad, the Profitable from the Unprofitable", "why": "Names the operation of that course: separating."},
+  {"ref": "CH3.7", "quote": "that pure and Christiline matter may be administred to our bodies", "why": "Names the end the operations lead to: a pure matter given to the body."},
+  {"ref": "CH6.38", "quote": "the greatest miracle of Nature wrought by Art", "why": "The chief Medicine of CH6 is presented as made by Art, not only praised."},
+  {"ref": "CH6.38", "quote": "the Moyst way of the Ancients not as yet intensly exalted to the eye of the Basilisk", "why": "A named way and a degree of exalting: a course of operations toward the chief Medicine (covered; its steps are not given in these lines)."},
+  {"ref": "N263", "quote": "Gold animated by the Salt of Niture is made the chief subject of the Phylosophers metallick Physicks", "why": "Names a matter and an operation on it (animated, made the chief subject) in the work of the chief Medicine."},
+  {"ref": "CH6.48", "quote": "in this Rode or Kings Highway and Phylosophical Reason is to be accomplished", "why": "The work is presented as a road along which something is accomplished."}
+ ]},
+ "units": [
+  {"id": "U1", "name": "the True Physick", "kind": "Physick, got out and prepared by Fire", "voice": "CROLL",
+   "marked_at": [
+    {"ref": "CH1.0", "quote": "CHAP. I. Of the True Physick."},
+    {"ref": "OPEN.24", "quote": "What that Phisick is which cureth mens diseases, and few Phisitians know it."},
+    {"ref": "CH3.0", "quote": "How the True Physick, which is covered bark and rind, is to be got out, and rightly prepared by Fire"}
+   ],
+   "parts": [
+    {"ref": "CH2.0", "quote": "CHAP. II. Where that True Physick is to be Found.", "why": "Where its matter is found: the preparation that serves the process."},
+    {"ref": "OPEN.25", "quote": "Where that True Phisick lyeth hid, and may be found.", "why": "The author's announcement of the same head."},
+    {"ref": "CH2.2", "quote": "those three Families of Nature, the Vegetable, Animall, and Minerall", "why": "The three kinds of matter it is found in."},
+    {"ref": "CH3.8", "quote": "this true Analysis and vitall Anatomy of bodies", "why": "The operation on the matter, named in the chapter of getting it out."},
+    {"ref": "N172", "quote": "Reasons why the Spagyrick Physick duely prepared is to be preferd before other Hetroclite mixtures in the shops.", "why": "The result of the process, 'duely prepared', set against shop mixtures."},
+    {"ref": "CH3.45", "quote": "this Divine Spagyrie, the most wonderfull and approved Art", "why": "The Art that carries out the process."},
+    {"ref": "N185", "quote": "There are four Pillars of Physick, Phylosophy, Alchymistry, Astronomy, and the Physicall vertue or medicine.", "why": "The arts that hold this Physick up; Alchymistry among them."},
+    {"ref": "CH4.0", "quote": "How, and with what Vertue, Physick worketh upon Mans body and cureth his Diseases", "why": "How the prepared Physick works: its use, which the author's list ties to 'that Phisick' (OPEN.27)."},
+    {"ref": "CH4.10", "quote": "As there are Three from which all Physick proceedeth, Mercury, Sulphur, Salt; so likewise there are three sorts of diseases, Mercuriall, Sulphurean, Saline", "why": "Matches the Physick to the diseases it cures."},
+    {"ref": "OPEN.28", "quote": "What manner of Phisitian that Phisick doth require for its Minister.", "why": "The worker the Physick requires; announced as serving 'that Phisick'."},
+    {"ref": "CH5.12", "quote": "Secondly, a Physitian must be a good SPAGIRUS", "why": "The Minister must be able to carry out the preparation."}
+   ],
+   "why_one": "The author's list of heads (OPEN.24-28) and the chapter heads CH1-CH5 all speak of one 'True Physick' / 'that Phisick': what it is, where it is found, how it is got out and prepared by Fire, how it works, and its Minister. Each later head serves that one thing; the chief Medicine has a head of its own (OPEN.29, CH6.0)."},
+  {"id": "U2", "name": "that one onely chiefe Medicine of the most Ancient Phylosophers", "kind": "Medicine, wrought by Art", "voice": "CROLL",
+   "marked_at": [
+    {"ref": "CH6.0", "quote": "Of that one onely chiefe Medicine of the most Ancient Phylosophers"},
+    {"ref": "OPEN.29", "quote": "Of the universall and chiefe Medicine or Phisick of the most Ancient Philosophers"},
+    {"ref": "OPEN.6", "quote": "except only that universall and most famous Medicine which the most ancient wise Philosophers had from the beginning of the world"}
+   ],
+   "parts": [
+    {"ref": "CH6.1", "quote": "I shall here supply what yet pertaineth to that chief and universal Phylosophical Phisick", "why": "Opens the chapter that treats it."},
+    {"ref": "CH6.30", "quote": "to find out one out of those Three Families of Nature, that out of the same things in which all Physick is founded, viz. Animalls, Vegetables, and Mineralls", "why": "The choice of its matter: one out of the three Families."},
+    {"ref": "N263", "quote": "Gold animated by the Salt of Niture is made the chief subject of the Phylosophers metallick Physicks", "why": "Its chief subject and the operation that makes it so (note-only)."},
+    {"ref": "CH6.38", "quote": "the various and manifold metamorphosis of the Inferior Astronomy made in the cold", "why": "Changes made in the cold in its work."},
+    {"ref": "CH6.38", "quote": "the Moyst way of the Ancients not as yet intensly exalted to the eye of the Basilisk", "why": "The named way of its work and a stage of exalting."},
+    {"ref": "CH6.48", "quote": "in this Rode or Kings Highway and Phylosophical Reason is to be accomplished", "why": "The road along which the work is accomplished."},
+    {"ref": "N278", "quote": "The originall of the Philosophicall Magistery.", "why": "The origin of the Magistery, a name CH6.49 gives this Medicine (note-only)."},
+    {"ref": "CH6.49", "quote": "this choycest and admirable Magisterie", "why": "Another of the book's names for it."},
+    {"ref": "CH6.42", "quote": "All diseases proceeding from the corruption of humors, how great and desperate soever their cures be, are healed by this universall medicine", "why": "Its final result: it heals all such diseases."},
+    {"ref": "CH5.68", "quote": "And in this case the universall and chiefest medicine is of no effect, because no industry or skill of Artist or Nature can perpetuate the wedlock of life and death", "why": "The limit of its effect, named in CH5."},
+    {"ref": "CH6.18", "quote": "study to finde out the Celestiall Stone in the last place", "why": "Interpreted: the search for it comes after seeking the Kingdome of God; N283 calls the work 'this Stone'. The lines given do not show for certain that this Stone is the same thing."},
+    {"ref": "CH6.76", "quote": "that Ancient, True, & Philosophical Medicin", "why": "Interpreted: the closing names it 'not yet fully known'; the words match the head's 'most Ancient Phylosophers'."}
+   ],
+   "why_one": "The author's list gives it a head of its own after the heads on 'that Phisick' (OPEN.29), sets it apart at the start ('except only', OPEN.6) and gives it its own chapter (CH6.0). Its result differs from the True Physick's: one Medicine that heals all diseases of the humours (CH6.42), where the True Physick answers three sorts of diseases with their own medicines (CH4.10). It is drawn from the same three Families (CH6.30), but a different final result makes it a different process."}
+ ],
+ "left": [
+  {"ref": "OPEN.3", "quote": "two of the most excellent Spagyrik Mysteries", "why": "The author sets two Mysteries before the reader; the lines given do not show which two they are, so the marking ties them to no unit of their own."},
+  {"ref": "N023", "quote": "There is a two-fold Alchymy. Naturall, much esteemed by Artist. Sophisticall, as much detested by them.", "why": "A division of the Art: the Naturall serves U1 (N185 makes Alchymistry a pillar of Physick); the Sophisticall is reported to be rejected."},
+  {"ref": "OPEN.11", "quote": "their forged Cachochymicall and Sophisticall Arts, which have not so much as a spark of truth in them", "why": "Reported in order to reject it."},
+  {"ref": "CH5.59", "quote": "There are also false and lying Theophrasteans prophaning by their avarice and timerity that Divine Physick", "why": "Rejected workers of the Physick, not a thing the book delivers."},
+  {"ref": "CH1.12", "quote": "Thus also there is a fourfold Medicine", "why": "A division of medicine after the four Elements, inside the head of the True Physick; no course of operations of its own."},
+  {"ref": "CH1.43", "quote": "Of this sort are the Fift Essences, Magisteryes, and the like.", "why": "Kinds named under the True Physick's head; no head or course of their own."},
+  {"ref": "CH3.40", "quote": "to learn the preparations of those high Magisteryes and Elixirs", "why": "Several defensible readings: the higher preparations of U1 (in its chapter), or the work of U2 (CH6.49 calls U2 a Magisterie). Either way it has no head of its own."},
+  {"ref": "MICRO.0", "quote": "the Generation, Dignity, & Excelency OF THE MICROCOSM, Or Little World MAN", "why": "A description added to the first head (OPEN.24 'Whereunto is added'); it describes man, it presents no course of operations."},
+  {"ref": "MICRO.35", "quote": "This fourth kind of Naturall Magick called Gamahaea doth all things invisibly and spiritually, by the help of Art", "why": "A kind of Magick named inside the Microcosm description; the author defers its fuller treatment ('a larger narration', MICRO.44)."},
+  {"ref": "MICRO.37", "quote": "This part of Magick is called Gabalisticall, and is supported with three Pillars.", "why": "Its three Pillars (prayers, faith, imagination) are supports, not a course of operations to one result."},
+  {"ref": "CH2.17", "quote": "Concerning Characteristicalll Cure which affecteth Naturall operations by words pronounced, written, carved and hanged about the neck", "why": "A kind of cure named within CH2; the marking gives it no head of its own."},
+  {"ref": "CH2.22", "quote": "For in these Three principall Poynts also consisteth the whole Foundation of the Magicall and Cabalisticall Art", "why": "QUOTED: Paracelsus; three points of a foundation, not a course of operations the author delivers."},
+  {"ref": "MICRO.9", "quote": "For Faith, Hope and Love, follow knowledge, Adhaesion or cleaving to followeth Love, Union follows Adhaesion, in Union is Blessednesse and Wisdome.", "why": "A sequence of states of the soul, not operations of Art; a step of the Microcosm description."},
+  {"ref": "N209", "quote": "By meditating or contemplating we know, by knowing we are delighted, by delighting we adhere, by adhearing we possesse, by possessing we injoy the Truth", "why": "A sequence ending in enjoying the Truth, set in the head on the Physitian's duty; a note, with no head of its own (note-only)."},
+  {"ref": "CH5.7", "quote": "A Physitian is compleated by 3 things", "why": "What completes the Minister of U1 (OPEN.28); qualities, not a course leading to a product."},
+  {"ref": "CH5.31", "quote": "in three respects", "why": "QUOTED: Wimpeneus; respects in an argument inside CH5."},
+  {"ref": "CH5.38", "quote": "There are four sorts of Tartar, springing from the fourfold fruits of the Elements by which we are nourished.", "why": "A discourse entered by the way ('since we are here fallen upon Tartar', CH5.32); it names a cause of disease, not a thing delivered."},
+  {"ref": "CH5.67", "quote": "sometimes the sick person is not recovered by the best and fittest medicines that can be applyed, and that for these eight causes", "why": "A numbered list of why cures fail, within the head on the Physitian's duty."},
+  {"ref": "CH5.77", "quote": "as we saw some years since in that famous Anwalding Panacaea", "why": "An instance the author saw, given as an example; no course of operations is marked for it."},
+  {"ref": "CH6.67", "quote": "The MIND therefore of Adept Phylosophers", "why": "Speaks of the Adept who has U2, not of a further thing delivered."},
+  {"ref": "CH6.37", "quote": "by this monument here left it may hereafter appear that that Divine Benificence hath not been denyed to men of our age also", "why": "Names the author's writing as a monument, not one thing set apart within it."},
+  {"ref": "CH6.76", "quote": "this harvest of Chymicall Corn, and the First fruits of my increase, and this Spagyrick present of my difficult and laborious diligence", "why": "Names the author's whole offering to the Prince; it sets nothing apart within it."},
+  {"ref": "OPEN.30", "quote": "Some thing in defence of the published Truth, as an Epilogue or Conclusion.", "why": "A head that only divides the argument."}
+ ],
+ "sections_read": ["OPEN", "CH1", "MICRO", "CH2", "CH3", "CH4", "CH5", "CH6"], "end_marker": "END OF OUTPUT"}
