@@ -24,8 +24,11 @@ def text_of(data):
 
 
 def outside(book, data, plain):
-    known = book.words()
-    stems = (re.split(r"['’]", w)[0] for w in textnorm.words(text_of(data)))  # a possessive is listed by its stem
+    def stem(word):
+        return re.split(r"['’]", word)[0]  # a possessive is listed by its stem
+    book_words = book.words()
+    known = set(book_words) | {stem(w) for w in book_words}
+    stems = (stem(w) for w in textnorm.words(text_of(data)))
     found = (w for w in stems if w.isalpha() and w not in known and w not in plain)
     return dict(sorted(collections.Counter(found).items()))
 

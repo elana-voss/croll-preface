@@ -64,6 +64,12 @@ class OutsideCheckTest(unittest.TestCase):
     def test_a_possessive_outside_word_is_listed_by_its_stem(self):
         self.assertEqual(outside_check.outside(fixture.book(), "qwerty's", set()), {'qwerty': 1})
 
+    def test_a_name_the_book_prints_only_as_a_possessive_is_the_books(self):
+        class Book:
+            def words(self):
+                return {"noe's"}
+        self.assertEqual(outside_check.outside(Book(), "Noe's time", {'time'}), {})
+
 
 if __name__ == '__main__':
     unittest.main()
