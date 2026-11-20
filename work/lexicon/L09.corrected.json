@@ -1,0 +1,232 @@
+{"entries": [
+{"headword": "Chymists", "spellings": ["Chymists"],
+ "senses": [
+  {"sense": "Practitioners who prepare and make up medicines, whom the author calls the most skilful of any against those who cry out that they are no physicians; he also says most of them leave the truth for the court.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH5.57", "quote": "But though they exclaime and cry out against the Chymists as if they were no Physitians, though they be the most skilfull of any"},
+    {"ref": "CH5.61", "quote": "learn of Paracelsus and other Chymists to prepare and make up their Medicines"},
+    {"ref": "CH3.44", "quote": "most Chymists betake themselves to Court, and are turned from the truth by the glitter of Court-service"}]},
+  {"sense": "Those Chymists who by divine grace have attained the Mind and can unfold the philosophical difficulties wrapped up in enigmatical obscurity.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH1.12", "quote": "Those Chymists who by the assistance of divine Grace have attained the Mind"},
+    {"ref": "CH1.12", "quote": "these can easily and truly unfold all Phylosophicall difficulties that have been wrapt up in aenigmaticall obscurity"}]}]},
+{"headword": "macrocosm", "spellings": ["Macrocosm"],
+ "senses": [
+  {"sense": "The great world, set over against man the little world as parent to child; its parts answer man's parts, and its like fruits, Salt, Sulphur and Mercury restore and preserve his.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH1.12", "quote": "the Microcosm the child ought always to answer to the fourfold members of the Macrocosm its parent"},
+    {"ref": "CH4.6", "quote": "they must be restored by fruits like themselves of the Macrocosm"},
+    {"ref": "CH4.7", "quote": "the Salt, Sulphur and Mercury of the Microcosm is preserved by the Salt, Sulphur, and Mercury of the Macrocosm analogically agreeing together"},
+    {"ref": "CH5.11", "quote": "When the Phylosopher comes to a stand in the Naturall Light of the Macrocosm, then the Physitian begins to move and proceed in the Analogicall Concordance of the Naturall Light of the Microcosm with that of the great world."}]}]},
+{"headword": "signatures", "spellings": ["Signatures"],
+ "senses": [
+  {"sense": "Something like things and the diseases they cure have alike, named beside qualities and roots as a reason why like things cure. Interpreted: the narrowest reading of this one place.", "use": "plain", "reading": "Interpreted", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH4.6", "quote": "Like things are said to be the Remedies of diseases because they are of the same Anatomy of Nature, and because they have the like Signatures, Qualities and Roots"}]},
+  {"sense": "Outward marks by which the kind of a man is known, as whether he is a dog, fox or wolf, or as sloth and noise mark the drones. Interpreted from the two passages.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL",
+   "evidence": [
+    {"ref": "MICRO.15", "quote": "is known whether (according to those Epithites in Scripture) he be a Dog, Fox, Wolfe, Sheep, Sow, or generation of Vipers, of which I shall discourse more at large in my Treatise of Signatures"},
+    {"ref": "CH6.76", "quote": "cast away the Signatures of cursed Sloth, of Drones, in their hollow cracks and clamors which at least make a terrible noyse, they may become Bees"}]}]},
+{"headword": "meditation", "spellings": ["meditation"],
+ "senses": [
+  {"sense": "Frequent thinking by which the manner, cause and reason of each thing is found out; part of the study of nature.", "use": "plain", "reading": "Stated", "voice": "CROLL", "tags": ["note-only"],
+   "evidence": [
+    {"ref": "N201", "quote": "By this meditation, which is a frequent cogitation, the manner, cause & reason of every manner of thing is found out."},
+    {"ref": "CH5.10", "quote": "by which industry and that perpetuall thirst which they have of meditation and cogitation"}]},
+  {"sense": "A quiet religious meditation by which the adepts are raised up out of the sepulchre of their body, so that they can be turned to God.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.68", "quote": "by a quiet and religious meditation been raised up out of the sepulchre of their body"}]}]},
+{"headword": "spagyric", "spellings": ["Spagyrick", "Spagyriks", "SPAGIRUS"],
+ "senses": [
+  {"sense": "One who can separate the pure from the impure and the true from the false, exercised in Chymicall employments.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "OPEN.7", "quote": "the Spagyriks, or those who know how to discern between true and false, who are well grown and exercised in Chymicall employments, I mean the Sons of Art"},
+    {"ref": "CH5.12", "quote": "a Physitian must be a good SPAGIRUS"},
+    {"ref": "CH5.12", "quote": "one that can seperate the pure from the impure, and restore his Patient to health by a wise Alchymicall preparation"}]},
+  {"sense": "Belonging to that art of preparing medicine and its practitioners: Spagyrick physick, profession, physicians. Interpreted from its use beside the first sense.", "use": "plain", "reading": "Interpreted", "voice": "CROLL",
+   "evidence": [
+    {"ref": "N172", "quote": "Reasons why the Spagyrick Physick duely prepared is to be preferd before other Hetroclite mixtures in the shops."},
+    {"ref": "CH3.41", "quote": "the present Spagyrick Profession"},
+    {"ref": "CH6.76", "quote": "the due honor of Spagyrick Phisitians"}]},
+  {"sense": "Of the body of practitioners of that art, spoken of as a state with citizens and as a 'Spagyrick mellifice' that others may join. Interpreted: 'state', 'citizens' and 'mellifice' are used of a body of practitioners.", "use": "plain", "reading": "Interpreted", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.76", "quote": "By which singular care toward the whole Spagyrick state"},
+    {"ref": "CH6.76", "quote": "as becometh good & sincere citizens of the Physicall & Spagyrick State and profession"},
+    {"ref": "CH6.76", "quote": "conspire together with us into an union and Spagyrick mellifice"}]}]},
+{"headword": "animal man", "spellings": ["Animall Man"],
+ "senses": [
+  {"sense": "Man as he is nothing but earth; named beside the world, flesh and blood as what one must die to, to possess within what is sought without and to get into the inmost secrets.", "use": "veiled", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH5.20", "quote": "if they were indeed dead to themselves, even to the whole Animall Man, who is nothing but EARTH"},
+    {"ref": "CH6.68", "quote": "We must die to the World, Flesh, Blood, and the whole Animall Man"}]}]},
+{"headword": "Sabbath", "spellings": ["Sabbath"],
+ "senses": [
+  {"sense": "An inward rest from temporal and earthly things in which man turns to God and lives with him. Interpreted from its pairing with 'oblivion of Temporall things', from 'Sabbath of their Heart', and from 'Rest and Blessednesse'.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "tags": ["wording-dependent"],
+   "evidence": [
+    {"ref": "CH5.20", "quote": "were supprest by the Sabbath and oblivion of Temporall things"},
+    {"ref": "CH6.68", "quote": "be turned to God in the Sabbath of their Heart by a separation of the Minde from Terrene obsticles in themselves"},
+    {"ref": "CH6.68", "quote": "that in the Sabbath they may live with God in Rest and Blessednesse"}]}]},
+{"headword": "temple of the heart", "spellings": ["Temple of the heart", "Temple of the Heart"],
+ "senses": [
+  {"sense": "The inward part of the soul, into which man turns and where God dwells and Christ is found.", "use": "veiled", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH5.20", "quote": "turning inward unto themselves into the Temple of the heart"},
+    {"ref": "CH5.20", "quote": "who dwelleth in his holy Temple, in the Abysse of the heart or inward parts of our Soule"},
+    {"ref": "N210", "quote": "Christ is to be found in the Temple of the Heart."}]}]},
+{"headword": "method", "spellings": ["Method", "method"],
+ "senses": [
+  {"sense": "True method: knowing the disease and curing it; the method, grounded in reason and experience, the author says Paracelsus kept.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH5.31", "quote": "True Method consisteth in the knowledg of the Disease, and the Cure of it"},
+    {"ref": "CH5.30", "quote": "Paracelsus observed onely that method that was agreeable to Reason and Experience"}]},
+  {"sense": "The right method the Medodists charge the Chymists with losing; reported in order to be rejected.", "use": "plain", "reading": "Stated", "voice": "QUOTED: Medodists",
+   "evidence": [
+    {"ref": "CH5.30", "quote": "falsly charge the genuine Chymists that they have lost the right method"}]},
+  {"sense": "The Method of Physick that men who make a flourish of physick in words but do no cures boast they have; the author calls it a sign of foolish ambition.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH5.29", "quote": "boasting that they have the Method of Physick"}]},
+  {"sense": "An ordered way of preparing or curing, as the method of Hippocrates in curing diseases.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH5.61", "quote": "but to observe the method of Hippocrates in curing diseases"},
+    {"ref": "OPEN.8", "quote": "in a convenient and artificiall method"}]}]},
+{"headword": "tartar", "spellings": ["Tartar"],
+ "senses": [
+  {"sense": "The excrement of food and drink, coagulated in man by the spirit of Salt; present in all food, it becomes the Tartar of man unless the stomach destroys it, and is the mother of almost all diseases.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH5.35", "quote": "Tartar therefore is the excrement of meat and drink, which by the spirit of Salt is coagulated in Man"},
+    {"ref": "CH5.37", "quote": "Tartar therefore or the Naturall superfluity (the mucilage of Salt) is the mother of almost all diseases of all coagulate bodies."},
+    {"ref": "CH5.34", "quote": "Whatsoever we eat and drink hath in it a mucilagenous, clayish, and sandy Tartar hurtful to our Health"},
+    {"ref": "CH5.44", "quote": "the Archaeus of the stomack must destroy the Tartar of the Elements least it be turned into the Tartar of Man"}]},
+  {"sense": "Tartar divided into a foreign kind from food and drink and an innate kind from hereditary blood.", "use": "plain", "reading": "Stated", "voice": "QUOTED: Paracelsus",
+   "evidence": [
+    {"ref": "CH5.36", "quote": "Paracelsus distinguisheth Tartar into that which is strange or forraine proceeding from meat and drink, and that which is innate of the cruor or hereditary blood"}]}]},
+{"headword": "universal medicine", "spellings": ["universall medicine", "universall Medicine"],
+ "senses": [
+  {"sense": "The medicine that heals all diseases from the corruption of humors and expels the acute diseases that proceed from the impressions of the stars, used by holy men before the flood; it does not help at the term God appointed or against a disease God inflicts.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.42", "quote": "All diseases proceeding from the corruption of humors, how great and desperate soever their cures be, are healed by this universall medicine"},
+    {"ref": "CH6.42", "quote": "except the party be at the utmost Terme appointed him by the supream Being; or the disease be inflicted by God, besides Nature"},
+    {"ref": "CH5.42", "quote": "which diseases proceeding from the impressions of the Stars the universall medicine powerfull expelleth"},
+    {"ref": "CH6.71", "quote": "Many holy men used this universall Medicine before the flood"},
+    {"ref": "CH5.68", "quote": "And in this case the universall and chiefest medicine is of no effect"}]}]},
+{"headword": "natural heat", "spellings": ["Naturall Heat"],
+ "senses": [
+  {"sense": "The heat in man that digests nourishment; the text makes it the heat of the Sun and Moon in us and one with the celestial spirit when that spirit is unhindered in the body.", "use": "veiled", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH5.44", "quote": "our Naturall Heat, or the microcosmicall heat of the Sun and Moon that is in us, whereby the Nutriment is digested"},
+    {"ref": "CH6.56", "quote": "This Celestiall Spirit which is one and the same with our Naturall spirit, when its breathing in our body is not lesned or hindred by outward things, is that Naturall Heat of ours"},
+    {"ref": "N288", "quote": "The Heat of the Sun and Moon is that Naturall Heat whereby every thing is digested for the sustentation and multiplication"},
+    {"ref": "CH6.60", "quote": "strengthen, inflame and augment the weak Naturall Heat or Fire"}]}]},
+{"headword": "term", "spellings": ["Terme"],
+ "senses": [
+  {"sense": "The fixed end of life God appointed to man for sin, unknown to mortals, which no art or medicine can pass.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.70", "quote": "that utmost and fixed Terme or determined poynt of DIVINE PREDESTINATION which is unknown to mortalls"},
+    {"ref": "CH6.54", "quote": "that Terme of Life which the Omnipotent God hath appointed to Man for disobedience"},
+    {"ref": "CH5.68", "quote": "the Terme of Life approacheth, which cannot be prolong'd by any art or help of Man"},
+    {"ref": "CH6.38", "quote": "till the appointed Terme of death imposed on mortalls for their sin"},
+    {"ref": "CH6.70", "quote": "imposed on our first Parents and their heires, for their Fall from Originall Righteousnesse, beyond which Bound no man can goe"}]}]},
+{"headword": "medicine", "spellings": ["Medicine", "medicine", "Medicines"],
+ "senses": [
+  {"sense": "A remedy given for disease.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "OPEN.8", "quote": "who in the fear of God also shall use these Medicines rightly prepared by their own labour"},
+    {"ref": "CH4.6", "quote": "Though sometimes it may be the best medicine not to use any medicine at all"}]},
+  {"sense": "The one chief Medicine of the most ancient philosophers, made of the soul or spirit of the world and created by God for the preservation of life.", "use": "veiled", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.0", "quote": "Of that one onely chiefe Medicine of the most Ancient Phylosophers."},
+    {"ref": "OPEN.6", "quote": "except only that universall and most famous Medicine which the most ancient wise Philosophers had from the beginning of the world"},
+    {"ref": "CH6.55", "quote": "this Medicine is made of the more incorruptible and efficacious Matter that can be under Heaven, that is, the Soule or Spirit of the world"},
+    {"ref": "CH6.52", "quote": "this foresaid Medicine, which is in it selfe the matter of our Creation"},
+    {"ref": "CH6.71", "quote": "God hath created the aforesaid Medicine for the preservation of life"}]}]},
+{"headword": "taciturnity", "spellings": ["Taciturnity"],
+ "senses": [
+  {"sense": "Constant silence by which the philosophers kept the secret of the Art closed, and in which its gifts are to be used without pride.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.50", "quote": "though they have been altogether dumb in keeping close the secret of the Art by a constant Taciturnity"},
+    {"ref": "CH6.10", "quote": "in a constant Taciturnity, without pride, which provoketh the envy of all men"}]}]},
+{"headword": "adept", "spellings": ["adept", "Adept"],
+ "senses": [
+  {"sense": "One who 'hath attained the same'; a complete philosopher and keeper of God's secrets, who will not part with it for any reward; adept physicians alone know the mental diseases.", "use": "veiled", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.12", "quote": "he that is adept or hath attained the same"},
+    {"ref": "CH6.27", "quote": "he that is an Adept and compleat Phylosopher, a keeper of Gods Secrets"},
+    {"ref": "CH6.20", "quote": "it is to no purpose to tempt an Adept Phylosopher with promises of rewards"},
+    {"ref": "CH6.73", "quote": "these diseases which only Adept Physitians know, are healed without the help of Natural Physick"}]},
+  {"sense": "'Phylosophy Adept', explained as long life free from infirmity until natural death.", "use": "veiled", "reading": "Stated", "voice": "QUOTED: Paracelsus",
+   "evidence": [
+    {"ref": "CH6.47", "quote": "This is Phylosophy Adept, which Paracelsus in the Tincture of Physicks explaineth them to be Long Life and free from all infirmity"}]}]},
+{"headword": "celestial stone", "spellings": ["Celestiall Stone", "celestiall Stone"],
+ "senses": [
+  {"sense": "What the seekers study to find, which God gives to whom he will.", "use": "veiled", "reading": "several", "voice": "CROLL",
+   "readings": [
+    {"reading": "The thing sought in the study of nature, tied to the unlocking of the doors of Nature.", "basis": "CH6.18 sets the seeking of the stone beside the doors of Nature being unlocked."},
+    {"reading": "An inward light, a beam or ray by which dross is purified and ignorance driven away.", "basis": "N298, a margin note to the paragraph on the MIND of the adepts, sets 'celestiall Stone' beside beam and ray; note-only."}],
+   "evidence": [
+    {"ref": "CH6.18", "quote": "study to finde out the Celestiall Stone in the last place"},
+    {"ref": "CH6.18", "quote": "there is not one to whom the doors of Nature are unlockt"},
+    {"ref": "N298", "quote": "By the access of this beam, ray, or celestiall Stone all drosse is purified, and the darknesse of ignorance is driven away."}]}]},
+{"headword": "Hermes", "spellings": ["Hermes"],
+ "senses": [
+  {"sense": "An ancient philosopher, called most wise, the Antesignan (foremost) of natural philosophers and first prophet, whose pillars stood in Aegypt and whose long labour the adept repeats.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.68", "quote": "the most wise Hermes and most pious Phylosopher of reverend antiquity the Antesignan of Naturall Phylosophers and first Prophet"},
+    {"ref": "CH6.27", "quote": "hath happily labored like Hermes more then twenty years"},
+    {"ref": "CH1.18", "quote": "to Hermes his Pillars in Aegypt"}]},
+  {"sense": "'Hermes school': the line of earlier philosophers trained in the secret Art. Interpreted from the setting: these are the philosophers who kept the secret by silence.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.50", "quote": "the Phylosophers our predecessors that have been train'd up in Hermes school"}]}]},
+{"headword": "natural life", "spellings": ["Naturall Life", "Naturall life"],
+ "senses": [
+  {"sense": "The life of natural things, which is the acting of the Elements and comes from God; the Medicine brings a beam of it to the heart.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "N281", "quote": "for the Naturall life is nothing else but the actings of the Elements."},
+    {"ref": "CH2.12", "quote": "The Naturall life is from God the fountaine of the Universall life."},
+    {"ref": "CH6.38", "quote": "conveying to the Heart a beam of the Naturall Life, and renewing the organs of Life"}]}]},
+{"headword": "basilisk", "spellings": ["Basilisk"],
+ "senses": [
+  {"sense": "A creature the weasel fights.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH2.9", "quote": "The Weasill eateth Rue when it is to fight with the Basilisk."}]},
+  {"sense": "The 'Physophycall Basilisk', which like lightning suddenly burns up imperfect metal and produces a new form; the moist way of the Ancients is said to be not yet exalted to 'the eye of the Basilisk'. Interpreted: something in the work, the eye of the Basilisk a degree the work is raised to.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "tags": ["note-only"],
+   "evidence": [
+    {"ref": "N274", "quote": "The Physophycall Basilisk like Lightning suddenly and unawares burneth up any imperfect mettall whatsoever, and on a sudden Produceth another new forme."},
+    {"ref": "CH6.38", "quote": "the Moyst way of the Ancients not as yet intensly exalted to the eye of the Basilisk"}]}]},
+{"headword": "secretaries of nature", "spellings": ["Secretaries of Nature"],
+ "senses": [
+  {"sense": "Those who hold nature's secrets: the private ones count nothing more glorious than to rejoice in quiet silence, the public ones are exposed to dangers. Interpreted from the contrast of 'private' and 'publick' in the two places.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.46", "quote": "these private not publick Secretaries of Nature"},
+    {"ref": "CH6.46", "quote": "accounting nothing more glorious than that they might peaceably rejoyce prudently and in Quiet Silence"},
+    {"ref": "CH6.50", "quote": "knowing to what dangers the searchers out of difficult Arts and the publick Secretaries of Nature are obnoxious"}]}]},
+{"headword": "natural death", "spellings": ["Naturall death", "Naturall Death", "naturall death"],
+ "senses": [
+  {"sense": "Death by the wasting of natural moisture and heat, the full dissipation of the vital spirit after old age, which diseases can cause; spoken of philosophically, apart from the fatal or ultimate death God fixed.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.70", "quote": "I speak here Phylosophically of the Naturall death, which is onely the wasting of the Naturall Moysture and Heat, as may be seen in a burning lamp"},
+    {"ref": "CH6.70", "quote": "not Theologically of the Fatall death and utmost Terme which God hath prefixt to every one"},
+    {"ref": "CH6.56", "quote": "at last followeth a full extinction, consumption and dissipation of that spirit, which is the Naturall Death"},
+    {"ref": "CH6.71", "quote": "chase away from us all diseases which cause the naturall death, untill ultimate death the most Terrible of all Terrible things"}]},
+  {"sense": "The term of life God appointed to man for disobedience, up to which the Medicine keeps a man sound; here natural death is equated with that term.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.54", "quote": "even to his Naturall death, that is to that Terme of Life which the Omnipotent God hath appointed to Man for disobedience"}]}]},
+{"headword": "natural term", "spellings": ["Naturall Terme", "Naturall Term"],
+ "senses": [
+  {"sense": "The end of life a man reaches when not cut short by disease, accident or corruption from the womb; few reach it.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.72", "quote": "But as few reach the Naturall Terme, so also few have known the reason of prolonging the life"},
+    {"ref": "CH6.74", "quote": "may we be hindred and kept from attaining to the Naturall Term of life"}]},
+  {"sense": "Simply the end of a man's life, here reached by a violent death by poison. Interpreted: the phrase is used of an untimely death, against the first sense.", "use": "plain", "reading": "Interpreted", "voice": "CROLL", "tags": ["wording-dependent"],
+   "evidence": [
+    {"ref": "CH6.62", "quote": "he came to the Naturall Terme of his Life by an untimely and violent death of a draught of Poyson"}]}]},
+{"headword": "supernatural mischiefs", "spellings": ["supernatural mischiefs"],
+ "senses": [
+  {"sense": "The five mental diseases that arise from the Mind: enchantment, imagination, estimation, influence and superstition; they need a supernatural or mental cure.", "use": "plain", "reading": "Stated", "voice": "CROLL",
+   "evidence": [
+    {"ref": "CH6.73", "quote": "least our spirit should be suffocated with these five supernatural mischiefs"},
+    {"ref": "N311", "quote": "i. e. Inchantment, Imagination, Estimation, Influence, Superstition."},
+    {"ref": "CH6.73", "quote": "mentall diseases which are invisible, and affect us in our Mind, as Inchantment, Imagination, Estimation, Influence; Superstition, all which proceed from a spirituall affection"},
+    {"ref": "CH6.73", "quote": "their malignant Astra's must be averted by a supernaturall cure and magicall help into something else"}]}]}
+],
+ "skipped": [],
+ "sections_read": ["OPEN", "CH1", "MICRO", "CH2", "CH3", "CH4", "CH5", "CH6"], "end_marker": "END OF OUTPUT"}
