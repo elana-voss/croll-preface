@@ -13,4 +13,8 @@ Your bundle holds one whole section of the book and, labelled `UNVERIFIED CANDID
 ## Form
 Markdown. First line: `# ` and the section's head as the book prints it, in modern spelling. Short paragraphs; a sub-heading for each step of the section's argument. About 1,200 to 2,500 words.
 
+If your task names a half of the section, your bundle holds that half only: write its part of the page, about 1,200 to 2,000 words. The first half begins with the `# ` line; the second half has no `# ` line and begins with its first `## ` sub-heading.
+
+Each candidate is one line: reference | kind | voice | tags, if any | “quote” | what it names, if given | note (a note ending in … is cut short).
+
 Write the page to the file your task names, ending with the closing lines. Then reply with one line: the file written and its word count.
