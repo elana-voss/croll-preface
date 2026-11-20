@@ -88,7 +88,7 @@ def voices(rows):
     return [{'chunk': chunk, **span} for chunk, reconciled in rows for span in _dicts(reconciled, 'voices')]
 
 
-def _key(term):
+def key(term):
     return ' '.join(textnorm.words(term))
 
 
@@ -101,10 +101,10 @@ def headwords(book, rows):
     entries = {}
 
     def entry(spelling):
-        key = _key(spelling)
-        if key and key not in entries:
-            entries[key] = {'key': key, 'spellings': [], 'read_at': [], 'italic_at': [], 'occurs_at': []}
-        return entries.get(key)
+        k = key(spelling)
+        if k and k not in entries:
+            entries[k] = {'key': k, 'spellings': [], 'read_at': [], 'italic_at': [], 'occurs_at': []}
+        return entries.get(k)
 
     def add(row, field, value):
         if value not in row[field]:
@@ -113,16 +113,16 @@ def headwords(book, rows):
     for _, reconciled in rows:
         for o in _dicts(reconciled, 'observations'):
             if isinstance(o.get('term'), str) and isinstance(o.get('ref'), str) and entry(o['term']):
-                add(entries[_key(o['term'])], 'spellings', _spelling(o['term']))
+                add(entries[key(o['term'])], 'spellings', _spelling(o['term']))
                 for ref in outputs.refs_in(o['ref']):
-                    add(entries[_key(o['term'])], 'read_at', ref)
+                    add(entries[key(o['term'])], 'read_at', ref)
     for italic in book.italics:
         row = entry(italic['text'])
         if row:
             add(row, 'spellings', _spelling(italic['text']))
             add(row, 'italic_at', italic['in'])
-    for key, row in entries.items():
-        whole = re.compile(r'(?<!\S)' + re.escape(key) + r'(?!\S)')
+    for k, row in entries.items():
+        whole = re.compile(r'(?<!\S)' + re.escape(k) + r'(?!\S)')
         row['occurs_at'] = [i for i in book.order if whole.search(' '.join(textnorm.words(book.texts[i])))]
     return sorted(entries.values(), key=lambda r: (not r['read_at'], -len(r['occurs_at']), r['key']))
 

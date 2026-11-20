@@ -1,0 +1,964 @@
+{
+ "entries": [
+  {
+   "headword": "secret",
+   "spellings": [
+    "Secret",
+    "Secrets",
+    "secrets"
+   ],
+   "senses": [
+    {
+     "sense": "Hidden things which the ancient Philosophers forbade to be profaned and made known to unworthy men.",
+     "use": "plain",
+     "reading": "Stated",
+     "voice": "QUOTED: ancient Philosophers",
+     "evidence": [
+      {
+       "ref": "OPEN.2",
+       "quote": "strictly forbidden to prophane the Secrets"
+      }
+     ]
+    },
+    {
+     "sense": "Hidden things kept from the common sort of those who profess philosophy; the author names his own publication as bringing such secrets to light.",
+     "use": "plain",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH6.71",
+       "quote": "These most secret of secrets have ever been hid from the common sort of them that professe Phylosophy"
+      },
+      {
+       "ref": "OPEN.10",
+       "quote": "pryed into these excellent secrets"
+      },
+      {
+       "ref": "OPEN.10",
+       "quote": "should so soon be brought to light, and made common to every one"
+      }
+     ]
+    },
+    {
+     "sense": "A remedy: the text sets secrets beside medicines and remedies, and says secrets work without matter and body. My inference: a secret is a hidden medicine or its working power.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.6",
+       "quote": "these chief secrets of the more hidden Medicines here offered"
+      },
+      {
+       "ref": "CH6.71",
+       "quote": "by administring such Remedies and secrets as are derived from the fountaine of Gods gifts"
+      },
+      {
+       "ref": "CH6.71",
+       "quote": "Wherefore we want nothing but the knowledge of Secrets, and their use."
+      },
+      {
+       "ref": "CH4.6",
+       "quote": "Such is the Nature of all Secrets that they worke without the matter and body because the diseases also are not bodyes"
+      },
+      {
+       "ref": "CH3.14",
+       "quote": "the power and operation of the Secret"
+      },
+      {
+       "ref": "CH6.62",
+       "quote": "may be the greatest Secret for the removing all diseases"
+      },
+      {
+       "ref": "OPEN.3",
+       "quote": "those things which they bragged of as great secrets"
+      }
+     ]
+    },
+    {
+     "sense": "The one chief universal Physick, called the most secret Secret, by which all things may be done.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH6.1",
+       "quote": "that chief and universal Phylosophical Phisick"
+      },
+      {
+       "ref": "CH6.1",
+       "quote": "this most secret Secret of secret Secrets, by which even wonders, yea all things may be done"
+      }
+     ]
+    },
+    {
+     "sense": "The greatest Terrene Treasure entrusted to the adept to keep, which evil men would abuse to the ruin of the whole world.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH6.27",
+       "quote": "this greatest and richest Terrene Treasure"
+      },
+      {
+       "ref": "CH6.27",
+       "quote": "which Secret would by evill men, with the ruine of the whole world, be abused"
+      }
+     ]
+    },
+    {
+     "sense": "Hidden things that lie in God and in Nature, of which God is the first inventor; the man united to God knows them all.",
+     "use": "plain",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.17",
+       "quote": "those Secrets which are both in God and Nature"
+      },
+      {
+       "ref": "CH1.1",
+       "quote": "who being the first inventer of all Secrets"
+      },
+      {
+       "ref": "MICRO.9",
+       "quote": "the most absolute knowledge of all Secrets"
+      },
+      {
+       "ref": "CH6.27",
+       "quote": "a keeper of Gods Secrets"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "sun",
+   "spellings": [
+    "Sun"
+   ],
+   "senses": [
+    {
+     "sense": "The heavenly Father, who gives his gifts to all alike as the sun shines on all.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.2",
+       "quote": "our Heavenly Father who is that Sun which richly preventeth us all with his gifts"
+      },
+      {
+       "ref": "OPEN.2",
+       "quote": "shining on all alike"
+      }
+     ]
+    },
+    {
+     "sense": "The sun of the sky, used in comparisons for heat, growth and melting.",
+     "use": "plain",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH1.1",
+       "quote": "as heat from the Sun beams, which produceth all kind of flowers and herbs"
+      },
+      {
+       "ref": "CH4.6",
+       "quote": "as the intangible Sun Melteth Snow"
+      }
+     ]
+    },
+    {
+     "sense": "Properly, the spirit in the sun's body, not the visible body.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH1.34",
+       "quote": "not the body of the Sun, but the Spirit in the body, is the Sun properly"
+      }
+     ]
+    },
+    {
+     "sense": "A sun of the lower world: the inferior astronomy has its own Sun, and the inferior firmament has its Sun. My inference: a thing below answering to the sun above.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH1.12",
+       "quote": "both have their own Heaven, their own Sun, their own Moon"
+      },
+      {
+       "ref": "CH6.62",
+       "quote": "like the Sun of the Terrene or inferiour Firmament"
+      }
+     ]
+    },
+    {
+     "sense": "Theophrastus, whom the ambitious physicians should have endured. My inference from the sentence, which speaks of him before and after.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH3.41",
+       "quote": "have indured that rising Sun without gazing on his clouds"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "centre",
+   "spellings": [
+    "Centre",
+    "Center"
+   ],
+   "senses": [
+    {
+     "sense": "The place of rest and truth, set against the labyrinth and circumference of toil and error.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.2",
+       "quote": "from the dark Labyrinth and Circumference of toyle and error, to the plain and clear path and Centre of Rest and Truth"
+      }
+     ]
+    },
+    {
+     "sense": "God, from whom all things flow; the Centre or One is the unchangeable will of God, set against the circumference and plurality of creatures.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "MICRO.12",
+       "quote": "God is the Center and Circle of all things"
+      },
+      {
+       "ref": "MICRO.12",
+       "quote": "He is the Centre in that all things flow from him"
+      },
+      {
+       "ref": "CH6.63",
+       "quote": "GOD is the Centre of all Creatures"
+      },
+      {
+       "ref": "CH6.63",
+       "quote": "that Centre or One, to wit, the immutable will of God"
+      }
+     ]
+    },
+    {
+     "sense": "Man, in whom all things of the universe meet, in imitation of his Creator.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "MICRO.13",
+       "quote": "Thus Man in imitation of his Creator is the Centre of the Creatures, and the Circle of them all."
+      },
+      {
+       "ref": "CH1.5",
+       "quote": "all things of the whole Universe meet in him as in the Centre"
+      }
+     ]
+    },
+    {
+     "sense": "The one point to which Paracelsus laboured to recall the consonancy of the Sciences and Muses from the whole circle. My inference: their unity.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH5.14",
+       "quote": "from the compasse of the whole circle unto the one only Centre"
+      }
+     ]
+    },
+    {
+     "sense": "The root and seed of diseases, which must be plucked up for the cure. My inference: named in one row with Root and Seed as one thing.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH4.6",
+       "quote": "when the Centre, Root, and Seed of diseases are pluckt up and removed the worke is done"
+      }
+     ]
+    },
+    {
+     "sense": "The place where the wise lived together keeping wisdom, those without it being sent to the circumference. My inference: the circle of those who hold wisdom.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "QUOTED: Paracels.",
+     "evidence": [
+      {
+       "ref": "N308",
+       "quote": "wise men lived together in the Centre reserving wisdome among themselves"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "envy",
+   "spellings": [
+    "envy"
+   ],
+   "senses": [
+    {
+     "sense": "Grudging ill will that keeps knowledge and gifts from others; God gives without it, and it has tried to shut the doors of the Muses.",
+     "use": "plain",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.2",
+       "quote": "he communicateth his light, without respect or envy"
+      },
+      {
+       "ref": "OPEN.2",
+       "quote": "envy hath indeavoured to shut them again"
+      },
+      {
+       "ref": "OPEN.10",
+       "quote": "lovers of God and their neighbor, without envy"
+      }
+     ]
+    },
+    {
+     "sense": "The philosophers' withholding of their knowledge, which is not turned against worthy seekers. My inference from the sentence, which goes on to the adept who will not publish to the unworthy.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH6.27",
+       "quote": "the envy of Phylosophers is not against the Children of Art and Science"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "talent",
+   "spellings": [
+    "Talent"
+   ],
+   "senses": [
+    {
+     "sense": "What the Father of Lights committed to the author, which he will no longer hide in silence. My inference from the silence and the gates of wisdom in the same paragraph: he means to publish it.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.2",
+       "quote": "to hide as in a Napkin, the Talent committed to me by the Father of Lights, by an impious silence"
+      }
+     ]
+    },
+    {
+     "sense": "What is committed to each man in himself, set beside the treasure hidden in his earthen vessel. My inference from the words around it.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "MICRO.1",
+       "quote": "who neglectest the large patrimony and Talent and the thing committed to thy charge"
+      }
+     ]
+    },
+    {
+     "sense": "What is committed to a man, of which he must give account before the Judge, and with which good is to be done to God in the poor neighbour. My inference: in CH6.27, the secret the adept keeps.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH6.27",
+       "quote": "except he can give a good account of his Stewardship and the Talent committed to him"
+      },
+      {
+       "ref": "CH6.33",
+       "quote": "to do good to God, with this Talent, in our poor neighbour and his members"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "treasures of Nature",
+   "spellings": [
+    "Treasures of Nature",
+    "treasures of Nature"
+   ],
+   "senses": [
+    {
+     "sense": "Goods of nature which the ancient Philosophers forbade to be rashly given to unworthy men. My inference: the same hidden things as the Secrets named beside them.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "QUOTED: ancient Philosophers",
+     "evidence": [
+      {
+       "ref": "OPEN.2",
+       "quote": "rashly to prostitute the Treasures of Nature to unworthy and filthy minded men"
+      }
+     ]
+    },
+    {
+     "sense": "Stores in nature where the most High has laid up medicines for the worst diseases.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.19",
+       "quote": "those choise treasures of Nature, wherein the most High hath laid up medicines for our greatest and worst diseases"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "chemistry",
+   "spellings": [
+    "Chymistry"
+   ],
+   "senses": [
+    {
+     "sense": "The art of fire that separates good from bad, joined to physick and set apart from the face-painting of mountebanks.",
+     "use": "plain",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH5.12",
+       "quote": "Chymistry, which sepereteth the good from the bad"
+      },
+      {
+       "ref": "OPEN.5",
+       "quote": "by the help of Pyrotechnye, or the Art of Fire and Chymistry"
+      },
+      {
+       "ref": "CH3.7",
+       "quote": "Physick and Chymistry cannot be separated"
+      },
+      {
+       "ref": "CH3.7",
+       "quote": "Chymistry (not that which Mountebanks use to paint Faces with to make them White and Red)"
+      },
+      {
+       "ref": "CH3.12",
+       "quote": "we should begin to learn the knowledge of Chymistry from our cradles"
+      }
+     ]
+    },
+    {
+     "sense": "A sealed truth, held captive until now, which the author is accused of opening. My inference from the figures of the seal and the prison: knowledge kept hidden.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "QUOTED: Mysticall Hermetick Philosophers",
+     "evidence": [
+      {
+       "ref": "OPEN.10",
+       "quote": "breaking open the seale of Chymistry"
+      },
+      {
+       "ref": "OPEN.10",
+       "quote": "brought the truth of Chymistry, till this time held captive in the prison of shadowes and envy"
+      }
+     ]
+    },
+    {
+     "sense": "A mount whose top few reach. My inference from the figure of the mount: the height of the art.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH6.13",
+       "quote": "get to the top of the mount of Chymistry"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "Vulcan",
+   "spellings": [
+    "Vulcan"
+   ],
+   "senses": [
+    {
+     "sense": "Fire as the means by which the author tried things before commending them. My inference: OPEN.5 names the Art of Fire and the trial of fire as the test of what is true.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.3",
+       "quote": "by the help of Vulcan search and diligently examine the chief and choycest things"
+      },
+      {
+       "ref": "OPEN.4",
+       "quote": "without Nature's Vulcan"
+      },
+      {
+       "ref": "OPEN.5",
+       "quote": "the due approved triall of fire, which discerneth and separateth that which is false, from that which is true"
+      }
+     ]
+    },
+    {
+     "sense": "The true inventor and teacher of the mysteries of the arts, as the Poets praise him.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "QUOTED: Poets",
+     "evidence": [
+      {
+       "ref": "OPEN.4",
+       "quote": "which the Poets commend as the most true Inventer and Teacher of Arts Mysteries"
+      }
+     ]
+    },
+    {
+     "sense": "The name set on an alchymy that serves the Common Wealth and on the Spagyrick and Hermetick school. My inference: the art of fire.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH3.8",
+       "quote": "serve the Common Wealth as the Alchymy of Vulcan"
+      },
+      {
+       "ref": "CH6.76",
+       "quote": "the Spagyrick and Hermetick School of Vulcan"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "receipts",
+   "spellings": [
+    "Receipts"
+   ],
+   "senses": [
+    {
+     "sense": "Prescriptions, of which the author will not fill a huge volume with copies, and under whose weight physicians are almost pressed to death; the margin calls the greatest of them for the most part deceits.",
+     "use": "plain",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.3",
+       "quote": "to fill up a huge Volume with the copies of large Receipts"
+      },
+      {
+       "ref": "OPEN.3",
+       "quote": "prest to death under so heavy a weight of their Receipts"
+      },
+      {
+       "ref": "N005",
+       "quote": "The greatest Receipts the greatest Deceits for the most part."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "artist",
+   "spellings": [
+    "Artist",
+    "Artists"
+   ],
+   "senses": [
+    {
+     "sense": "The skilled worker in Chymicall employments, a master of his craft, whom the preparations require.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.7",
+       "quote": "these preparations doe require such an Artist, and not one of a froward and sottish disposition"
+      },
+      {
+       "ref": "OPEN.7",
+       "quote": "To the Artists aforesaid (I say) who are their Crafts-masters"
+      },
+      {
+       "ref": "N011",
+       "quote": "the labour & paines of the Artist"
+      },
+      {
+       "ref": "CH5.68",
+       "quote": "no industry or skill of Artist or Nature can perpetuate the wedlock of life and death"
+      }
+     ]
+    },
+    {
+     "sense": "The worker in the art, who must agree with God the first cause, moved by him to understanding.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "QUOTED: Lullius",
+     "evidence": [
+      {
+       "ref": "CH6.44",
+       "quote": "between the Artist and God the first cause, there ought to be an agreement without contrariety"
+      },
+      {
+       "ref": "CH6.44",
+       "quote": "should move the Intelligence or Soule of the Artist to a true Understanding"
+      }
+     ]
+    },
+    {
+     "sense": "God, the perfect maker of all things.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH1.1",
+       "quote": "the perfect Artist of all things, even the most high Creatour and glorious God"
+      }
+     ]
+    },
+    {
+     "sense": "A name given to Elias, who is to come in the third age and restore all things. My inference: the name marks him as the one who restores.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.10",
+       "quote": "Elias the Artist"
+      },
+      {
+       "ref": "OPEN.10",
+       "quote": "who is to restore all things, shall come"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "fire",
+   "spellings": [
+    "Fire",
+    "fire",
+    "FIRE"
+   ],
+   "senses": [
+    {
+     "sense": "Fire in the work, which tries, separates and prepares, and uncovers the agreement and difference of substances and new remedies.",
+     "use": "plain",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.5",
+       "quote": "the due approved triall of fire, which discerneth and separateth that which is false, from that which is true"
+      },
+      {
+       "ref": "CH3.7",
+       "quote": "As all things are proved by Fire, so also the Tryall of the knowledge of Physick is to be made by Fire"
+      },
+      {
+       "ref": "CH5.12",
+       "quote": "As Gold is tryed seven times in the fire"
+      },
+      {
+       "ref": "OPEN.26",
+       "quote": "fetcht out, and prepared truly, by fire"
+      },
+      {
+       "ref": "CH6.30",
+       "quote": "separating them by Fire into their Three First (things.)"
+      },
+      {
+       "ref": "CH4.7",
+       "quote": "The ministry of Fire discovereth their agreement, operation, and difference"
+      },
+      {
+       "ref": "CH5.57",
+       "quote": "the Fire discovereth new and most pleasant Remedies continually"
+      },
+      {
+       "ref": "N171",
+       "quote": "so doth Fire the good from the bad, the Quint-Essence from the body"
+      }
+     ]
+    },
+    {
+     "sense": "The element of fire, whose fruits are the stars and signs of heaven.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH1.34",
+       "quote": "The twelve Caelestiall Signes in the Zodiak, with the other Stars of Heaven, are the fruits of Fire"
+      },
+      {
+       "ref": "CH1.34",
+       "quote": "the seven Rulers of the world are nothing else but the fruits of Fire"
+      },
+      {
+       "ref": "CH1.34",
+       "quote": "which fruits are separated from the Element of Fire"
+      }
+     ]
+    },
+    {
+     "sense": "That which Paracelsus calls the Element of FIRE, which may be the greatest Secret for removing all diseases: an essential fire of life that works within the body.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "QUOTED: Paracelsus",
+     "evidence": [
+      {
+       "ref": "CH6.62",
+       "quote": "Paracelsus calleth it the Element of FIRE"
+      },
+      {
+       "ref": "CH6.62",
+       "quote": "that Essentiall Fire worketh in the body, as the Flame and Nettle doth without the body"
+      },
+      {
+       "ref": "CH6.62",
+       "quote": "this perfect Fire of Life"
+      }
+     ]
+    },
+    {
+     "sense": "A fire kept by laying on wood, to which the author likens life prolonged by remedies.",
+     "use": "plain",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH6.71",
+       "quote": "as we may preserve a little fire by laying on more wood; so also may our life be prolonged"
+      }
+     ]
+    },
+    {
+     "sense": "The root of a disease, which is to be quenched rather than its signs. My inference: the smoke stands for what springs from the disease, the fire for its seed.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH4.6",
+       "quote": "Not the smoak arising from fire, but the fire it selfe is to be quenched"
+      }
+     ]
+    },
+    {
+     "sense": "Temptation and tribulation, through which man must pass to blessedness.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH6.35",
+       "quote": "through the Fire of Temptation and Tribulation"
+      }
+     ]
+    },
+    {
+     "sense": "The means by which the Holy Spirit is wont to renew, to make manifest what was hid. My inference: a covered fire, belonging to the third age in which Elias the Artist shall come.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.10",
+       "quote": "who to make that manifest which was hid, is wont to renew by fire"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "Light of Nature",
+   "spellings": [
+    "Light of Nature",
+    "light of Nature"
+   ],
+   "senses": [
+    {
+     "sense": "A divine analogy of the visible world with the body of man.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH1.5",
+       "quote": "the Light of Nature, which is nothing else but a divine Analogy of this visible world with the body of man"
+      },
+      {
+       "ref": "N039",
+       "quote": "What the Light of Nature is."
+      }
+     ]
+    },
+    {
+     "sense": "The firmament, or the great world, which supplies man with all things.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH1.41",
+       "quote": "for the Firmament is the Light of Nature, which naturally supplyeth man with all things"
+      },
+      {
+       "ref": "N040",
+       "quote": "Without the knowledge of Light of Nature or the great world"
+      }
+     ]
+    },
+    {
+     "sense": "An inward teacher in man, named beside the inward invisible Man and the internal Angel, of which the physician is to be born.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH1.1",
+       "quote": "the inward and invisible Man, the internall Angell, the Light of Nature, which like a sound Doctour teacheth and instructeth men"
+      },
+      {
+       "ref": "CH1.1",
+       "quote": "A Physitian should be born out of the Light of Grace and Nature"
+      },
+      {
+       "ref": "CH5.12",
+       "quote": "a good Physitian, born of the Light of Nature"
+      }
+     ]
+    },
+    {
+     "sense": "Man's own power to discern and judge, which no one may take from another and which no single author holds.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH5.1",
+       "quote": "the liberty of human ingenuity, that Light of Nature, the power to discern and judge as well as himselfe"
+      },
+      {
+       "ref": "CH5.1",
+       "quote": "nor was the whole Light of Nature drawne into Galen and limited in him only"
+      }
+     ]
+    },
+    {
+     "sense": "One of the two Lights, paired with the Light of Grace: the Treasury of God, which makes a true philosopher, as the Light of Grace makes a theologian.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "CH5.19",
+       "quote": "The Light of Nature, which is the Treasury of God confirmed in the Scriptures, maketh a true Phylosopher"
+      },
+      {
+       "ref": "CH5.19",
+       "quote": "The Light of Grace, begetteth a true Theologer"
+      },
+      {
+       "ref": "CH2.28",
+       "quote": "It taketh its rise from Theology or the Light of Grace, and endeth in the Light of Nature."
+      },
+      {
+       "ref": "OPEN.10",
+       "quote": "by the light of Grace and Nature"
+      },
+      {
+       "ref": "CH6.76",
+       "quote": "make manifest the Light of GRACE and NATURE"
+      },
+      {
+       "ref": "N086",
+       "quote": "God is known when the Light of Nature"
+      }
+     ]
+    },
+    {
+     "sense": "A source of knowledge that shows things and by which men become skilled and philosophize.",
+     "use": "veiled",
+     "reading": "Stated",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "MICRO.40",
+       "quote": "the Light of Nature doth manifestly shew"
+      },
+      {
+       "ref": "MICRO.21",
+       "quote": "all that truly professed Phylosophy from the Light of Nature"
+      },
+      {
+       "ref": "OPEN.10",
+       "quote": "who by the light of Nature shall be skillfull in the Chymicks"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "Woarchadumie",
+   "spellings": [
+    "Woarchadumie"
+   ],
+   "senses": [
+    {
+     "sense": "One of three, with the true Cabala and Magick, in which far better treasures are laid up than those offered here; the margin note N015, set in the same sentence just after these words, says a word is not understood. My inference: an art or body of knowledge, and the note may refer to this word.",
+     "use": "veiled",
+     "reading": "Interpreted",
+     "voice": "CROLL",
+     "evidence": [
+      {
+       "ref": "OPEN.10",
+       "quote": "in the true Cabala, Magick and Woarchadumie, there are laid up far better Treasures"
+      },
+      {
+       "ref": "N015",
+       "quote": "A word I doe not understand."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "skipped": [],
+ "sections_read": [
+  "OPEN",
+  "CH1",
+  "MICRO",
+  "CH2",
+  "CH3",
+  "CH4",
+  "CH5",
+  "CH6"
+ ],
+ "end_marker": "END OF OUTPUT"
+}
