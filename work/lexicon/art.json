@@ -1,0 +1,47 @@
+{"entries": [{"headword": "Art", "spellings": ["Art", "art", "Arts", "arts"], "senses": [
+ {"sense": "Skilled working that is set beside or against Nature: what is done by skill rather than grown or done of itself.", "use": "plain", "reading": "Stated", "voice": "CROLL", "tags": [],
+  "evidence": [
+   {"ref": "CH2.2", "quote": "naturally proceeding without art"},
+   {"ref": "CH2.5", "quote": "because Art and Nature, like mother and daughter, consent to each other"},
+   {"ref": "N136", "quote": "Art imitateth Nature and supplyeth its defects"},
+   {"ref": "CH6.38", "quote": "the greatest miracle of Nature wrought by Art"},
+   {"ref": "CH5.68", "quote": "which cannot be prolong'd by any art or help of Man"}]},
+ {"sense": "A discipline of knowledge and practice, mostly named by its subject or work (fire and Chymistry, Physick, separating, distilling, the Magicall and Cabalisticall); also false arts that are sold.", "use": "plain", "reading": "Stated", "voice": "CROLL", "tags": [],
+  "evidence": [
+   {"ref": "OPEN.5", "quote": "the Art of Fire and Chymistry"},
+   {"ref": "OPEN.16", "quote": "the Art of Phisick is so immense and large"},
+   {"ref": "CH5.27", "quote": "who would not instruct every one in the Art of Physick"},
+   {"ref": "CH5.29", "quote": "born to crush the truth of the Physicall Art"},
+   {"ref": "CH5.61", "quote": "by reason of the out-cry against their uncertaine art"},
+   {"ref": "CH3.14", "quote": "this Separatory art which teacheth rightly to discerne and seperate the Good from the Bad"},
+   {"ref": "CH3.40", "quote": "if he had been well skild in the Distillatory Art"},
+   {"ref": "CH2.22", "quote": "the whole Foundation of the Magicall and Cabalisticall Art"},
+   {"ref": "CH6.41", "quote": "nor be certaine in his Art"},
+   {"ref": "CH6.50", "quote": "the searchers out of difficult Arts"},
+   {"ref": "N037", "quote": "whose Nativity is not disposed to that Art by the Sears"},
+   {"ref": "OPEN.11", "quote": "sel their forged Cachochymicall and Sophisticall Arts"}]},
+ {"sense": "'the Art' with no name added, in the defence of Alchymistry: the art that bad practisers abuse and lay open. Interpreted (this writer's inference): it is the Alchymistry the same passages speak of, from OPEN.11 beside N020 ('true and noble Alchymistry' made infamous) and CH5.54 (the vulgar Alchymists would prostitute the Art); the lines do not name it outright.", "use": "plain", "reading": "Interpreted", "voice": "CROLL", "tags": [],
+  "evidence": [
+   {"ref": "N020", "quote": "These are not the vices of the Art, but of men abusing the Art"},
+   {"ref": "OPEN.11", "quote": "the most laudable and honourable name of true and noble Alchymistry, hath been unworthily made infamous and odious"},
+   {"ref": "CH5.54", "quote": "those circumforanceous and vulgar Alchymists would have surpassed all other Physitians, and prostituted the Art"}]},
+ {"sense": "'this Art' / 'the Art' in the chapter on the one chief Medicine: the art of preparing that Medicine, a secret the Phylosophers keep close. Interpreted (this writer's inference): CH6.4 joins 'the preparation hereof' with 'this Art', and the chapter's title names the chief Medicine.", "use": "plain", "reading": "Interpreted", "voice": "CROLL", "tags": [],
+  "evidence": [
+   {"ref": "CH6.4", "quote": "whether fot ostentation sake I ambitiously arrogate to my selfe the absolute knowledge of this Art"},
+   {"ref": "CH6.15", "quote": "He that desireth this Art, must not be a slave to other mens judgment"},
+   {"ref": "CH6.21", "quote": "worthy men, and sworn in this Art"},
+   {"ref": "CH6.50", "quote": "keeping close the secret of the Art by a constant Taciturnity"}]},
+ {"sense": "A particular skilful means or device by which one thing is done (a trick of the hand, a means of cure, whatever means a man tries).", "use": "plain", "reading": "Stated", "voice": "CROLL", "tags": [],
+  "evidence": [
+   {"ref": "CH4.13", "quote": "he would by a singuler art pull it out againe by the poynt"},
+   {"ref": "CH6.41", "quote": "cured by a wonderfull Art"},
+   {"ref": "CH6.21", "quote": "let that man use what Arts soever he can"}]},
+ {"sense": "Art as Nature's own: the skill Nature has and rejoices in. Interpreted (this writer's inference) from the one note alone.", "use": "veiled", "reading": "Interpreted", "voice": "CROLL", "tags": ["note-only"],
+  "evidence": [
+   {"ref": "N178", "quote": "rejoyceth in its master, and in its art and vertues"}]},
+ {"sense": "The 'arts' of the Elements, held in the Fift Essence. Interpreted (this writer's inference): their workings or actings, from N281 'the Naturall life is nothing else but the actings of the Elements'; the lines do not say more.", "use": "veiled", "reading": "Interpreted", "voice": "QUOTED: the Phylosophers", "tags": ["wording-dependent"],
+  "evidence": [
+   {"ref": "CH6.50", "quote": "in which are all the Elements actually, and all their arts"},
+   {"ref": "N281", "quote": "the Naturall life is nothing else but the actings of the Elements"}]}
+]}],
+ "sections_read": ["OPEN", "CH1", "MICRO", "CH2", "CH3", "CH4", "CH5", "CH6"], "end_marker": "END OF OUTPUT"}

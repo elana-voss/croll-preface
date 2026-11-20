@@ -1,0 +1,9789 @@
+[
+ {
+  "key": "art",
+  "spellings": [
+   "Art"
+  ],
+  "read_at": [
+   "N020"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.5",
+   "OPEN.7",
+   "N020",
+   "OPEN.13",
+   "OPEN.14",
+   "OPEN.16",
+   "OPEN.21",
+   "N037",
+   "CH1.21",
+   "CH1.23",
+   "MICRO.8",
+   "MICRO.35",
+   "N127",
+   "MICRO.45",
+   "CH2.1",
+   "CH2.2",
+   "CH2.3",
+   "CH2.5",
+   "N136",
+   "CH2.16",
+   "CH2.17",
+   "CH2.22",
+   "CH2.23",
+   "CH3.14",
+   "CH3.19",
+   "CH3.20",
+   "N178",
+   "CH3.37",
+   "CH3.40",
+   "CH3.45",
+   "CH4.6",
+   "CH4.13",
+   "CH5.14",
+   "CH5.25",
+   "CH5.27",
+   "N216",
+   "CH5.29",
+   "CH5.43",
+   "CH5.44",
+   "CH5.54",
+   "CH5.57",
+   "CH5.61",
+   "CH5.62",
+   "N227",
+   "CH5.65",
+   "CH5.68",
+   "CH6.3",
+   "CH6.4",
+   "CH6.6",
+   "CH6.12",
+   "CH6.15",
+   "CH6.17",
+   "CH6.21",
+   "N268",
+   "CH6.27",
+   "CH6.38",
+   "N276",
+   "CH6.41",
+   "CH6.44",
+   "CH6.49",
+   "N280",
+   "CH6.50",
+   "N283",
+   "CH6.57"
+  ]
+ },
+ {
+  "key": "fire",
+  "spellings": [
+   "fire"
+  ],
+  "read_at": [
+   "OPEN.10",
+   "OPEN.26"
+  ],
+  "italic_at": [
+   "OPEN.10"
+  ],
+  "occurs_at": [
+   "OPEN.5",
+   "OPEN.10",
+   "OPEN.26",
+   "CH1.6",
+   "CH1.11",
+   "CH1.19",
+   "CH1.21",
+   "CH1.22",
+   "CH1.25",
+   "N058",
+   "CH1.27",
+   "N059",
+   "CH1.28",
+   "N064",
+   "CH1.31",
+   "CH1.32",
+   "CH1.33",
+   "N066",
+   "CH1.34",
+   "CH1.35",
+   "CH1.40",
+   "CH1.42",
+   "MICRO.3",
+   "MICRO.23",
+   "N122",
+   "MICRO.35",
+   "CH2.1",
+   "CH3.0",
+   "CH3.1",
+   "N160",
+   "CH3.7",
+   "CH3.14",
+   "N171",
+   "CH3.19",
+   "CH3.20",
+   "CH3.26",
+   "CH3.27",
+   "N178",
+   "CH4.6",
+   "CH4.7",
+   "CH4.8",
+   "CH4.9",
+   "CH4.13",
+   "CH5.9",
+   "CH5.12",
+   "CH5.44",
+   "CH5.57",
+   "CH5.59",
+   "CH6.28",
+   "N269",
+   "CH6.29",
+   "CH6.30",
+   "CH6.35",
+   "CH6.51",
+   "N283",
+   "CH6.53",
+   "N289",
+   "CH6.57",
+   "CH6.60",
+   "CH6.62",
+   "CH6.71",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "paracelsus",
+  "spellings": [
+   "Paracelsus",
+   "Paracelſus"
+  ],
+  "read_at": [
+   "OPEN.21"
+  ],
+  "italic_at": [
+   "OPEN.21",
+   "CH1.7",
+   "CH1.14",
+   "CH1.15",
+   "CH1.40",
+   "CH1.42",
+   "MICRO.17",
+   "N109",
+   "MICRO.28",
+   "MICRO.32",
+   "CH2.22",
+   "N178",
+   "CH3.40",
+   "N183",
+   "N184",
+   "CH3.43",
+   "CH4.1",
+   "CH4.2",
+   "CH4.6",
+   "N189",
+   "N194",
+   "CH5.1",
+   "CH5.8",
+   "CH5.14",
+   "CH5.20",
+   "CH5.24",
+   "CH5.29",
+   "CH5.30",
+   "CH5.36",
+   "CH5.43",
+   "CH5.45",
+   "CH5.47",
+   "CH5.51",
+   "CH5.52",
+   "CH5.55",
+   "CH5.56",
+   "CH5.58",
+   "CH5.61",
+   "N227",
+   "CH5.82",
+   "CH6.41",
+   "CH6.47",
+   "N283",
+   "CH6.62",
+   "N295",
+   "N296",
+   "CH6.64",
+   "N305",
+   "N306",
+   "CH6.71",
+   "N316"
+  ],
+  "occurs_at": [
+   "OPEN.21",
+   "CH1.7",
+   "CH1.14",
+   "CH1.15",
+   "CH1.40",
+   "CH1.42",
+   "MICRO.17",
+   "N109",
+   "MICRO.28",
+   "MICRO.32",
+   "MICRO.45",
+   "CH2.20",
+   "CH2.22",
+   "N178",
+   "CH3.40",
+   "N183",
+   "N184",
+   "CH3.43",
+   "CH4.1",
+   "CH4.2",
+   "CH4.6",
+   "N189",
+   "N194",
+   "CH5.1",
+   "CH5.8",
+   "CH5.14",
+   "CH5.17",
+   "CH5.20",
+   "CH5.24",
+   "CH5.29",
+   "CH5.30",
+   "CH5.36",
+   "CH5.43",
+   "CH5.45",
+   "CH5.47",
+   "CH5.51",
+   "CH5.52",
+   "CH5.55",
+   "CH5.56",
+   "CH5.58",
+   "CH5.61",
+   "N227",
+   "CH5.82",
+   "CH6.41",
+   "CH6.47",
+   "N283",
+   "CH6.62",
+   "N295",
+   "N296",
+   "CH6.64",
+   "N305",
+   "N306",
+   "CH6.71",
+   "N316"
+  ]
+ },
+ {
+  "key": "secrets",
+  "spellings": [
+   "Secrets"
+  ],
+  "read_at": [
+   "OPEN.2",
+   "OPEN.17"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.2",
+   "OPEN.3",
+   "OPEN.6",
+   "OPEN.10",
+   "OPEN.11",
+   "OPEN.13",
+   "OPEN.14",
+   "OPEN.17",
+   "OPEN.19",
+   "N032",
+   "N034",
+   "OPEN.21",
+   "CH1.1",
+   "CH1.16",
+   "CH1.19",
+   "CH1.24",
+   "MICRO.9",
+   "MICRO.19",
+   "N131",
+   "N132",
+   "N133",
+   "CH2.20",
+   "CH2.27",
+   "CH3.5",
+   "CH3.7",
+   "CH3.33",
+   "CH3.41",
+   "CH3.42",
+   "CH4.6",
+   "CH5.5",
+   "CH5.10",
+   "CH5.12",
+   "N206",
+   "CH5.17",
+   "CH5.28",
+   "CH5.55",
+   "CH5.59",
+   "N228",
+   "CH6.1",
+   "CH6.6",
+   "CH6.8",
+   "N261",
+   "N268",
+   "CH6.27",
+   "CH6.35",
+   "CH6.51",
+   "CH6.68",
+   "CH6.71",
+   "CH6.74"
+  ]
+ },
+ {
+  "key": "vertue",
+  "spellings": [
+   "vertue"
+  ],
+  "read_at": [
+   "OPEN.27"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.6",
+   "OPEN.27",
+   "CH1.17",
+   "CH1.20",
+   "CH1.23",
+   "CH1.24",
+   "N064",
+   "MICRO.18",
+   "MICRO.36",
+   "MICRO.41",
+   "CH2.2",
+   "CH2.3",
+   "CH2.5",
+   "N135",
+   "CH2.7",
+   "CH2.12",
+   "CH2.16",
+   "CH2.17",
+   "CH2.18",
+   "CH2.19",
+   "CH2.21",
+   "CH3.1",
+   "CH3.8",
+   "CH3.14",
+   "CH3.19",
+   "CH3.22",
+   "N178",
+   "CH3.35",
+   "CH3.40",
+   "CH3.42",
+   "N185",
+   "CH4.0",
+   "CH4.6",
+   "CH4.8",
+   "CH5.7",
+   "CH5.35",
+   "CH5.44",
+   "CH5.62",
+   "N228",
+   "CH5.77",
+   "CH5.79",
+   "CH6.2",
+   "CH6.38",
+   "CH6.56",
+   "CH6.68"
+  ]
+ },
+ {
+  "key": "medicines",
+  "spellings": [
+   "Medicines"
+  ],
+  "read_at": [
+   "OPEN.6"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.6",
+   "OPEN.8",
+   "OPEN.19",
+   "OPEN.21",
+   "CH1.37",
+   "CH1.38",
+   "N075",
+   "CH2.2",
+   "CH2.4",
+   "CH2.7",
+   "N139",
+   "CH2.11",
+   "CH2.13",
+   "CH2.17",
+   "CH3.7",
+   "CH3.8",
+   "CH3.14",
+   "CH3.18",
+   "CH3.23",
+   "CH3.40",
+   "CH3.41",
+   "CH3.42",
+   "CH3.43",
+   "CH4.3",
+   "CH4.6",
+   "N189",
+   "CH5.29",
+   "CH5.31",
+   "CH5.45",
+   "CH5.50",
+   "CH5.56",
+   "CH5.57",
+   "CH5.59",
+   "CH5.60",
+   "CH5.61",
+   "CH5.62",
+   "CH5.67",
+   "CH5.69",
+   "N248",
+   "CH6.41",
+   "CH6.58",
+   "CH6.59",
+   "CH6.74"
+  ]
+ },
+ {
+  "key": "stars",
+  "spellings": [
+   "Stars"
+  ],
+  "read_at": [
+   "N031"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "N031",
+   "CH1.12",
+   "CH1.14",
+   "CH1.16",
+   "N048",
+   "CH1.17",
+   "CH1.27",
+   "CH1.28",
+   "CH1.33",
+   "CH1.34",
+   "N067",
+   "CH1.38",
+   "CH1.40",
+   "CH1.41",
+   "CH1.42",
+   "N103",
+   "MICRO.16",
+   "MICRO.18",
+   "MICRO.27",
+   "MICRO.32",
+   "CH2.3",
+   "CH2.4",
+   "CH2.17",
+   "CH3.8",
+   "CH3.27",
+   "N174",
+   "CH4.8",
+   "CH5.12",
+   "N206",
+   "CH5.42",
+   "CH5.75",
+   "N242",
+   "CH6.13",
+   "CH6.51",
+   "CH6.53"
+  ]
+ },
+ {
+  "key": "sun",
+  "spellings": [
+   "Sun"
+  ],
+  "read_at": [
+   "OPEN.2"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.2",
+   "CH1.1",
+   "CH1.12",
+   "CH1.15",
+   "CH1.17",
+   "N065",
+   "CH1.33",
+   "CH1.34",
+   "MICRO.8",
+   "MICRO.18",
+   "MICRO.32",
+   "N124",
+   "MICRO.36",
+   "MICRO.37",
+   "CH3.41",
+   "CH4.6",
+   "CH5.44",
+   "CH5.75",
+   "CH6.1",
+   "CH6.21",
+   "CH6.28",
+   "CH6.39",
+   "CH6.40",
+   "CH6.51",
+   "N287",
+   "N288",
+   "CH6.56",
+   "CH6.57",
+   "N290",
+   "CH6.60",
+   "N293",
+   "CH6.62"
+  ]
+ },
+ {
+  "key": "light of nature",
+  "spellings": [
+   "light of Nature"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10",
+   "CH1.1",
+   "CH1.5",
+   "N039",
+   "N040",
+   "CH1.18",
+   "CH1.41",
+   "N086",
+   "MICRO.8",
+   "MICRO.21",
+   "MICRO.32",
+   "MICRO.33",
+   "MICRO.40",
+   "CH2.28",
+   "CH3.13",
+   "CH5.1",
+   "CH5.12",
+   "N209",
+   "CH5.19",
+   "N279",
+   "CH6.49"
+  ]
+ },
+ {
+  "key": "chymistry",
+  "spellings": [
+   "Chymistry",
+   "Chymiſtry"
+  ],
+  "read_at": [
+   "OPEN.3",
+   "OPEN.13",
+   "OPEN.17"
+  ],
+  "italic_at": [
+   "OPEN.3",
+   "OPEN.4",
+   "OPEN.5",
+   "OPEN.10",
+   "OPEN.13"
+  ],
+  "occurs_at": [
+   "OPEN.3",
+   "OPEN.4",
+   "OPEN.5",
+   "OPEN.10",
+   "OPEN.13",
+   "OPEN.17",
+   "CH3.7",
+   "CH3.12",
+   "CH3.15",
+   "CH3.41",
+   "CH5.7",
+   "CH5.12",
+   "CH5.14",
+   "CH5.57",
+   "CH6.13",
+   "CH6.30",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "little world",
+  "spellings": [
+   "little World"
+  ],
+  "read_at": [
+   "OPEN.24"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.24",
+   "CH1.4",
+   "N041",
+   "CH1.6",
+   "CH1.26",
+   "CH1.39",
+   "MICRO.0",
+   "MICRO.14",
+   "MICRO.18",
+   "MICRO.31",
+   "CH2.18",
+   "CH2.27",
+   "CH3.6",
+   "CH4.6",
+   "CH5.9",
+   "CH5.44",
+   "CH5.46"
+  ]
+ },
+ {
+  "key": "centre",
+  "spellings": [
+   "Centre"
+  ],
+  "read_at": [
+   "OPEN.2"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.2",
+   "CH1.5",
+   "CH1.17",
+   "CH1.27",
+   "CH1.31",
+   "MICRO.12",
+   "N097",
+   "MICRO.13",
+   "MICRO.18",
+   "CH4.6",
+   "CH5.14",
+   "CH6.28",
+   "CH6.63",
+   "CH6.64",
+   "N308"
+  ]
+ },
+ {
+  "key": "phisick",
+  "spellings": [
+   "Phisick"
+  ],
+  "read_at": [
+   "N034",
+   "OPEN.24"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.7",
+   "OPEN.14",
+   "OPEN.15",
+   "OPEN.16",
+   "N031",
+   "N034",
+   "OPEN.21",
+   "OPEN.24",
+   "OPEN.25",
+   "OPEN.27",
+   "OPEN.28",
+   "OPEN.29",
+   "N038",
+   "CH6.1"
+  ]
+ },
+ {
+  "key": "preparations",
+  "spellings": [
+   "preparations"
+  ],
+  "read_at": [
+   "OPEN.3"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.3",
+   "OPEN.4",
+   "OPEN.6",
+   "OPEN.7",
+   "OPEN.8",
+   "OPEN.21",
+   "CH3.6",
+   "CH3.40",
+   "CH3.41",
+   "CH3.43",
+   "CH5.45",
+   "CH5.50",
+   "CH5.56",
+   "CH5.62"
+  ]
+ },
+ {
+  "key": "worthy",
+  "spellings": [
+   "worthy"
+  ],
+  "read_at": [
+   "N018"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "N018",
+   "OPEN.11",
+   "N114",
+   "MICRO.45",
+   "CH3.40",
+   "CH3.42",
+   "CH5.12",
+   "CH5.28",
+   "CH5.58",
+   "CH6.17",
+   "CH6.21",
+   "CH6.33",
+   "CH6.38",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "envy",
+  "spellings": [
+   "envy",
+   "Envy"
+  ],
+  "read_at": [
+   "OPEN.2"
+  ],
+  "italic_at": [
+   "OPEN.12"
+  ],
+  "occurs_at": [
+   "OPEN.2",
+   "OPEN.10",
+   "OPEN.12",
+   "N021",
+   "OPEN.21",
+   "CH3.45",
+   "CH5.14",
+   "CH5.61",
+   "CH6.10",
+   "CH6.17",
+   "CH6.27",
+   "CH6.36",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "paracels",
+  "spellings": [
+   "Paracels",
+   "Paracelſ"
+  ],
+  "read_at": [
+   "N025"
+  ],
+  "italic_at": [
+   "N036",
+   "CH1.16",
+   "N147",
+   "N219",
+   "N294",
+   "N308",
+   "CH6.73"
+  ],
+  "occurs_at": [
+   "N025",
+   "N036",
+   "CH1.16",
+   "N050",
+   "N064",
+   "N147",
+   "N207",
+   "N219",
+   "N231",
+   "N242",
+   "N294",
+   "N308",
+   "CH6.73"
+  ]
+ },
+ {
+  "key": "remedies",
+  "spellings": [
+   "Remedies"
+  ],
+  "read_at": [
+   "OPEN.23"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.23",
+   "CH1.38",
+   "N074",
+   "CH2.4",
+   "CH2.8",
+   "CH3.6",
+   "CH4.6",
+   "CH5.45",
+   "CH5.57",
+   "CH5.60",
+   "CH5.69",
+   "CH6.71"
+  ]
+ },
+ {
+  "key": "artist",
+  "spellings": [
+   "Artist"
+  ],
+  "read_at": [
+   "N011",
+   "OPEN.7"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "N011",
+   "OPEN.7",
+   "OPEN.10",
+   "N023",
+   "CH1.1",
+   "CH1.19",
+   "CH5.68",
+   "CH6.44"
+  ]
+ },
+ {
+  "key": "opinion",
+  "spellings": [
+   "Opinion"
+  ],
+  "read_at": [
+   "OPEN.17",
+   "N029"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.17",
+   "N029",
+   "OPEN.21",
+   "CH5.1",
+   "CH5.59",
+   "N241",
+   "N304",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "minister",
+  "spellings": [
+   "Minister"
+  ],
+  "read_at": [
+   "OPEN.28"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.28",
+   "CH2.23",
+   "CH2.25",
+   "CH4.3",
+   "CH5.0",
+   "CH5.7",
+   "N307"
+  ]
+ },
+ {
+  "key": "preparation",
+  "spellings": [
+   "preparation"
+  ],
+  "read_at": [
+   "OPEN.13"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10",
+   "OPEN.13",
+   "CH2.23",
+   "CH3.8",
+   "CH3.43",
+   "CH5.12",
+   "CH6.4"
+  ]
+ },
+ {
+  "key": "secrets of nature",
+  "spellings": [
+   "secrets of Nature"
+  ],
+  "read_at": [
+   "OPEN.11",
+   "OPEN.14",
+   "N032"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.11",
+   "OPEN.14",
+   "N032",
+   "N034",
+   "CH2.20",
+   "CH5.10",
+   "CH6.35"
+  ]
+ },
+ {
+  "key": "talent",
+  "spellings": [
+   "Talent"
+  ],
+  "read_at": [
+   "OPEN.2"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.2",
+   "MICRO.1",
+   "MICRO.16",
+   "CH5.20",
+   "CH6.27",
+   "CH6.33"
+  ]
+ },
+ {
+  "key": "galenists",
+  "spellings": [
+   "Galenists",
+   "Galeniſts"
+  ],
+  "read_at": [
+   "OPEN.12"
+  ],
+  "italic_at": [
+   "OPEN.12",
+   "N074",
+   "CH5.47",
+   "CH5.60"
+  ],
+  "occurs_at": [
+   "OPEN.12",
+   "N074",
+   "CH3.19",
+   "CH5.47",
+   "CH5.60"
+  ]
+ },
+ {
+  "key": "vulcan",
+  "spellings": [
+   "Vulcan"
+  ],
+  "read_at": [
+   "OPEN.3",
+   "OPEN.4"
+  ],
+  "italic_at": [
+   "OPEN.3",
+   "OPEN.4",
+   "CH3.8",
+   "CH5.55",
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "OPEN.3",
+   "OPEN.4",
+   "CH3.8",
+   "CH5.55",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "gifts of god",
+  "spellings": [
+   "gifts of God"
+  ],
+  "read_at": [
+   "OPEN.21"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "N003",
+   "OPEN.21",
+   "CH5.25",
+   "CH6.44"
+  ]
+ },
+ {
+  "key": "impostors",
+  "spellings": [
+   "Impostors"
+  ],
+  "read_at": [
+   "OPEN.11"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.11",
+   "CH6.19",
+   "CH6.22",
+   "CH6.26"
+  ]
+ },
+ {
+  "key": "light of grace and nature",
+  "spellings": [
+   "light of Grace and Nature"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10",
+   "CH1.1",
+   "CH5.15",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "theophrasteans",
+  "spellings": [
+   "Theophrasteans",
+   "Theophraſteans"
+  ],
+  "read_at": [
+   "OPEN.11"
+  ],
+  "italic_at": [
+   "CH5.10",
+   "CH5.59",
+   "CH5.60"
+  ],
+  "occurs_at": [
+   "OPEN.11",
+   "CH5.10",
+   "CH5.59",
+   "CH5.60"
+  ]
+ },
+ {
+  "key": "book of nature",
+  "spellings": [
+   "book of Nature"
+  ],
+  "read_at": [
+   "OPEN.19"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "N038",
+   "CH6.76",
+   "N316"
+  ]
+ },
+ {
+  "key": "heirs",
+  "spellings": [
+   "Heirs"
+  ],
+  "read_at": [
+   "OPEN.6"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.6",
+   "OPEN.10",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "wise hearted",
+  "spellings": [
+   "wise-hearted"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10",
+   "MICRO.44",
+   "CH5.5"
+  ]
+ },
+ {
+  "key": "admonitory preface",
+  "spellings": [
+   "Admonitory Preface"
+  ],
+  "read_at": [
+   "OPEN.0"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.0",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "alchymistry",
+  "spellings": [
+   "Alchymistry",
+   "Alchymiſtry"
+  ],
+  "read_at": [
+   "OPEN.11"
+  ],
+  "italic_at": [
+   "OPEN.11"
+  ],
+  "occurs_at": [
+   "OPEN.11",
+   "N185"
+  ]
+ },
+ {
+  "key": "alchymists",
+  "spellings": [
+   "Alchymists",
+   "Alchymiſts"
+  ],
+  "read_at": [
+   "OPEN.7"
+  ],
+  "italic_at": [
+   "OPEN.7"
+  ],
+  "occurs_at": [
+   "OPEN.7",
+   "CH5.54"
+  ]
+ },
+ {
+  "key": "alchymy",
+  "spellings": [
+   "Alchymy"
+  ],
+  "read_at": [
+   "N023"
+  ],
+  "italic_at": [
+   "N023"
+  ],
+  "occurs_at": [
+   "N023",
+   "CH3.8"
+  ]
+ },
+ {
+  "key": "book of grace",
+  "spellings": [
+   "book of Grace"
+  ],
+  "read_at": [
+   "OPEN.19"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.19",
+   "CH5.18"
+  ]
+ },
+ {
+  "key": "divine art",
+  "spellings": [
+   "Divine Art"
+  ],
+  "read_at": [
+   "OPEN.13"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.13",
+   "CH6.6"
+  ]
+ },
+ {
+  "key": "impostures",
+  "spellings": [
+   "impostures"
+  ],
+  "read_at": [
+   "OPEN.11"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.11",
+   "CH6.44"
+  ]
+ },
+ {
+  "key": "receipts",
+  "spellings": [
+   "Receipts"
+  ],
+  "read_at": [
+   "OPEN.3",
+   "N005"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.3",
+   "N005"
+  ]
+ },
+ {
+  "key": "shadowes",
+  "spellings": [
+   "shadowes"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10",
+   "N131"
+  ]
+ },
+ {
+  "key": "the work it self",
+  "spellings": [
+   "the work it self"
+  ],
+  "read_at": [
+   "OPEN.7"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.7",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "treasures of nature",
+  "spellings": [
+   "Treasures of Nature",
+   "treasures of Nature"
+  ],
+  "read_at": [
+   "OPEN.2",
+   "OPEN.19"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.2",
+   "OPEN.19"
+  ]
+ },
+ {
+  "key": "ancient phisick",
+  "spellings": [
+   "Ancient Phisick"
+  ],
+  "read_at": [
+   "OPEN.21"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.21"
+  ]
+ },
+ {
+  "key": "anticyra",
+  "spellings": [
+   "Anticyra"
+  ],
+  "read_at": [
+   "OPEN.13"
+  ],
+  "italic_at": [
+   "OPEN.13"
+  ],
+  "occurs_at": [
+   "OPEN.13"
+  ]
+ },
+ {
+  "key": "bath of diana",
+  "spellings": [
+   "Bath of Diana"
+  ],
+  "read_at": [
+   "OPEN.21"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.21"
+  ]
+ },
+ {
+  "key": "binarius",
+  "spellings": [
+   "Binarius"
+  ],
+  "read_at": [
+   "OPEN.13"
+  ],
+  "italic_at": [
+   "OPEN.13"
+  ],
+  "occurs_at": [
+   "OPEN.13"
+  ]
+ },
+ {
+  "key": "buckler",
+  "spellings": [
+   "buckler"
+  ],
+  "read_at": [
+   "OPEN.9"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.9"
+  ]
+ },
+ {
+  "key": "cachochymicall",
+  "spellings": [
+   "Cachochymicall"
+  ],
+  "read_at": [
+   "OPEN.11"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.11"
+  ]
+ },
+ {
+  "key": "children of knowledge",
+  "spellings": [
+   "Children of knowledge"
+  ],
+  "read_at": [
+   "OPEN.3"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.3"
+  ]
+ },
+ {
+  "key": "chymicall triall",
+  "spellings": [
+   "Chymicall triall"
+  ],
+  "read_at": [
+   "OPEN.3"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.3"
+  ]
+ },
+ {
+  "key": "chymicall verity",
+  "spellings": [
+   "Chymicall verity"
+  ],
+  "read_at": [
+   "OPEN.22"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.22"
+  ]
+ },
+ {
+  "key": "chymists garden",
+  "spellings": [
+   "Chymists garden"
+  ],
+  "read_at": [
+   "OPEN.21"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.21"
+  ]
+ },
+ {
+  "key": "collier like phisitians",
+  "spellings": [
+   "Collier-like-Phisitians"
+  ],
+  "read_at": [
+   "OPEN.21"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.21"
+  ]
+ },
+ {
+  "key": "crums",
+  "spellings": [
+   "crums"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "darts",
+  "spellings": [
+   "darts"
+  ],
+  "read_at": [
+   "OPEN.9"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.9"
+  ]
+ },
+ {
+  "key": "elias the artist",
+  "spellings": [
+   "Elias the Artist"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "first book",
+  "spellings": [
+   "first book"
+  ],
+  "read_at": [
+   "N030"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "N030"
+  ]
+ },
+ {
+  "key": "galenicall qualities",
+  "spellings": [
+   "Galenicall qualities"
+  ],
+  "read_at": [
+   "OPEN.20"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.20"
+  ]
+ },
+ {
+  "key": "galens axioms",
+  "spellings": [
+   "Galens Axioms"
+  ],
+  "read_at": [
+   "OPEN.15"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.15"
+  ]
+ },
+ {
+  "key": "gates of wisdome",
+  "spellings": [
+   "Gates of Wisdome"
+  ],
+  "read_at": [
+   "OPEN.2"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.2"
+  ]
+ },
+ {
+  "key": "great and one day",
+  "spellings": [
+   "great and One Day"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "hapocrotes",
+  "spellings": [
+   "Hapocrotes"
+  ],
+  "read_at": [
+   "OPEN.2"
+  ],
+  "italic_at": [
+   "OPEN.2"
+  ],
+  "occurs_at": [
+   "OPEN.2"
+  ]
+ },
+ {
+  "key": "hidden medicines",
+  "spellings": [
+   "hidden Medicines"
+  ],
+  "read_at": [
+   "OPEN.6"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.6"
+  ]
+ },
+ {
+  "key": "hodg podg physitians",
+  "spellings": [
+   "hodg-podg-Physitians"
+  ],
+  "read_at": [
+   "OPEN.3"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.3"
+  ]
+ },
+ {
+  "key": "inner rooms of nature",
+  "spellings": [
+   "inner rooms of Nature"
+  ],
+  "read_at": [
+   "OPEN.6"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.6"
+  ]
+ },
+ {
+  "key": "manuall operation",
+  "spellings": [
+   "manuall operation"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "mingled together",
+  "spellings": [
+   "mingled together"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "mysticall hermetick philosophers",
+  "spellings": [
+   "Mysticall Hermetick Philosophers"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "natures sanctuary",
+  "spellings": [
+   "Natures Sanctuary"
+  ],
+  "read_at": [
+   "OPEN.14"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.14"
+  ]
+ },
+ {
+  "key": "natures secrets",
+  "spellings": [
+   "Natures secrets"
+  ],
+  "read_at": [
+   "OPEN.13"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.13"
+  ]
+ },
+ {
+  "key": "oratory and laboratory",
+  "spellings": [
+   "Oratory and Laboratory"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "outsides",
+  "spellings": [
+   "outsides"
+  ],
+  "read_at": [
+   "OPEN.20"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.20"
+  ]
+ },
+ {
+  "key": "philosophicall kingdome",
+  "spellings": [
+   "Philosophicall Kingdome"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "philosophicall phisitian",
+  "spellings": [
+   "Philosophicall Phisitian"
+  ],
+  "read_at": [
+   "OPEN.23"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.23"
+  ]
+ },
+ {
+  "key": "phisicall secrets",
+  "spellings": [
+   "Phisicall Secrets"
+  ],
+  "read_at": [
+   "OPEN.21"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.21"
+  ]
+ },
+ {
+  "key": "platonick year",
+  "spellings": [
+   "Platonick year"
+  ],
+  "read_at": [
+   "OPEN.3"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.3"
+  ]
+ },
+ {
+  "key": "pyrotechnye",
+  "spellings": [
+   "Pyrotechnye"
+  ],
+  "read_at": [
+   "OPEN.5"
+  ],
+  "italic_at": [
+   "OPEN.5"
+  ],
+  "occurs_at": [
+   "OPEN.5"
+  ]
+ },
+ {
+  "key": "school gods",
+  "spellings": [
+   "School-Gods"
+  ],
+  "read_at": [
+   "OPEN.14"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.14"
+  ]
+ },
+ {
+  "key": "school vanities",
+  "spellings": [
+   "School-vanities"
+  ],
+  "read_at": [
+   "OPEN.17"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.17"
+  ]
+ },
+ {
+  "key": "seale of chymistry",
+  "spellings": [
+   "seale of Chymistry"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "second naturall book",
+  "spellings": [
+   "second Naturall book"
+  ],
+  "read_at": [
+   "N031"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "N031"
+  ]
+ },
+ {
+  "key": "seething pot",
+  "spellings": [
+   "seething pot"
+  ],
+  "read_at": [
+   "OPEN.21"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.21"
+  ]
+ },
+ {
+  "key": "sequestration",
+  "spellings": [
+   "sequestration"
+  ],
+  "read_at": [
+   "OPEN.20"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.20"
+  ]
+ },
+ {
+  "key": "sons of art",
+  "spellings": [
+   "Sons of Art"
+  ],
+  "read_at": [
+   "OPEN.7"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.7"
+  ]
+ },
+ {
+  "key": "sophistical",
+  "spellings": [
+   "Sophistical"
+  ],
+  "read_at": [
+   "OPEN.8"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.8"
+  ]
+ },
+ {
+  "key": "spagyrical preparations",
+  "spellings": [
+   "Spagyrical preparations"
+  ],
+  "read_at": [
+   "OPEN.4"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.4"
+  ]
+ },
+ {
+  "key": "spagyricall",
+  "spellings": [
+   "Spagyricall"
+  ],
+  "read_at": [
+   "OPEN.11"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.11"
+  ]
+ },
+ {
+  "key": "spagyrik mysteries",
+  "spellings": [
+   "Spagyrik Mysteries"
+  ],
+  "read_at": [
+   "OPEN.3"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.3"
+  ]
+ },
+ {
+  "key": "spagyriks",
+  "spellings": [
+   "Spagyriks"
+  ],
+  "read_at": [
+   "OPEN.7"
+  ],
+  "italic_at": [
+   "OPEN.7"
+  ],
+  "occurs_at": [
+   "OPEN.7"
+  ]
+ },
+ {
+  "key": "third age of the holy spirit",
+  "spellings": [
+   "third Age of the Holy Spirit"
+  ],
+  "read_at": [
+   "OPEN.10"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "triall of fire",
+  "spellings": [
+   "triall of fire"
+  ],
+  "read_at": [
+   "OPEN.5"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.5"
+  ]
+ },
+ {
+  "key": "true philosophers",
+  "spellings": [
+   "true Philosophers"
+  ],
+  "read_at": [
+   "OPEN.11"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.11"
+  ]
+ },
+ {
+  "key": "true phisick",
+  "spellings": [
+   "True Phisick"
+  ],
+  "read_at": [
+   "OPEN.25"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.25"
+  ]
+ },
+ {
+  "key": "universall and chiefe medicine",
+  "spellings": [
+   "universall and chiefe Medicine"
+  ],
+  "read_at": [
+   "OPEN.29"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.29"
+  ]
+ },
+ {
+  "key": "universall and most famous medicine",
+  "spellings": [
+   "universall and most famous Medicine"
+  ],
+  "read_at": [
+   "OPEN.6"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.6"
+  ]
+ },
+ {
+  "key": "virtues and operations",
+  "spellings": [
+   "virtues and operations"
+  ],
+  "read_at": [
+   "OPEN.7"
+  ],
+  "italic_at": [],
+  "occurs_at": [
+   "OPEN.7"
+  ]
+ },
+ {
+  "key": "woarchadumie",
+  "spellings": [
+   "Woarchadumie"
+  ],
+  "read_at": [
+   "OPEN.10",
+   "N015"
+  ],
+  "italic_at": [
+   "OPEN.10"
+  ],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "god",
+  "spellings": [
+   "God"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.19",
+   "CH3.31",
+   "CH5.16",
+   "CH5.55",
+   "CH5.74"
+  ],
+  "occurs_at": [
+   "N002",
+   "N003",
+   "OPEN.3",
+   "OPEN.8",
+   "OPEN.10",
+   "N018",
+   "OPEN.11",
+   "N026",
+   "N027",
+   "OPEN.17",
+   "N030",
+   "OPEN.20",
+   "OPEN.21",
+   "OPEN.22",
+   "OPEN.23",
+   "CH1.1",
+   "CH1.2",
+   "N038",
+   "CH1.6",
+   "CH1.7",
+   "CH1.16",
+   "CH1.18",
+   "CH1.19",
+   "N054",
+   "CH1.32",
+   "CH1.34",
+   "MICRO.1",
+   "N077",
+   "N082",
+   "N083",
+   "MICRO.3",
+   "MICRO.4",
+   "N086",
+   "MICRO.5",
+   "MICRO.6",
+   "N087",
+   "MICRO.7",
+   "MICRO.8",
+   "MICRO.9",
+   "MICRO.10",
+   "N091",
+   "MICRO.11",
+   "N095",
+   "MICRO.12",
+   "N097",
+   "MICRO.14",
+   "N103",
+   "MICRO.16",
+   "N104",
+   "N105",
+   "N107",
+   "MICRO.18",
+   "N109",
+   "MICRO.19",
+   "MICRO.20",
+   "N114",
+   "MICRO.22",
+   "MICRO.24",
+   "N115",
+   "N116",
+   "MICRO.25",
+   "N117",
+   "MICRO.27",
+   "MICRO.28",
+   "MICRO.30",
+   "N122",
+   "MICRO.32",
+   "N124",
+   "MICRO.35",
+   "N126",
+   "MICRO.38",
+   "MICRO.39",
+   "MICRO.43",
+   "MICRO.44",
+   "CH2.1",
+   "CH2.4",
+   "CH2.5",
+   "CH2.11",
+   "CH2.12",
+   "N142",
+   "CH2.13",
+   "CH2.14",
+   "CH2.15",
+   "CH2.16",
+   "CH2.17",
+   "CH2.18",
+   "CH2.19",
+   "N151",
+   "CH2.20",
+   "CH2.22",
+   "CH2.23",
+   "N157",
+   "CH2.24",
+   "CH2.25",
+   "CH2.27",
+   "CH2.28",
+   "CH3.1",
+   "N160",
+   "CH3.3",
+   "N163",
+   "CH3.5",
+   "CH3.10",
+   "CH3.11",
+   "CH3.13",
+   "N170",
+   "CH3.30",
+   "CH3.31",
+   "CH3.33",
+   "CH3.40",
+   "CH3.41",
+   "CH3.42",
+   "CH3.44",
+   "CH3.45",
+   "CH3.46",
+   "CH5.12",
+   "CH5.13",
+   "N204",
+   "CH5.14",
+   "N206",
+   "CH5.15",
+   "CH5.16",
+   "CH5.17",
+   "CH5.18",
+   "N209",
+   "CH5.19",
+   "CH5.20",
+   "N210",
+   "CH5.21",
+   "CH5.22",
+   "N212",
+   "CH5.23",
+   "CH5.25",
+   "CH5.28",
+   "CH5.34",
+   "CH5.44",
+   "CH5.53",
+   "CH5.55",
+   "CH5.61",
+   "CH5.62",
+   "N227",
+   "CH5.63",
+   "CH5.64",
+   "CH5.66",
+   "CH5.68",
+   "CH5.74",
+   "N238",
+   "CH5.75",
+   "CH5.76",
+   "N244",
+   "CH5.79",
+   "CH5.80",
+   "CH5.81",
+   "CH5.82",
+   "CH6.1",
+   "CH6.2",
+   "CH6.3",
+   "CH6.6",
+   "CH6.7",
+   "CH6.9",
+   "CH6.10",
+   "CH6.11",
+   "CH6.12",
+   "CH6.14",
+   "CH6.17",
+   "CH6.18",
+   "N261",
+   "CH6.21",
+   "N262",
+   "CH6.22",
+   "N268",
+   "CH6.27",
+   "CH6.29",
+   "N270",
+   "CH6.33",
+   "CH6.34",
+   "N271",
+   "CH6.35",
+   "N272",
+   "CH6.36",
+   "CH6.37",
+   "CH6.38",
+   "CH6.40",
+   "N276",
+   "CH6.41",
+   "CH6.42",
+   "CH6.43",
+   "CH6.44",
+   "CH6.46",
+   "N279",
+   "CH6.47",
+   "CH6.51",
+   "CH6.54",
+   "CH6.63",
+   "N296",
+   "CH6.64",
+   "CH6.65",
+   "CH6.66",
+   "CH6.68",
+   "N299",
+   "CH6.70",
+   "CH6.71",
+   "CH6.73",
+   "CH6.76",
+   "N317"
+  ]
+ },
+ {
+  "key": "man",
+  "spellings": [
+   "MAN"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.0"
+  ],
+  "occurs_at": [
+   "OPEN.5",
+   "OPEN.6",
+   "OPEN.9",
+   "OPEN.11",
+   "OPEN.13",
+   "OPEN.24",
+   "CH1.1",
+   "CH1.3",
+   "CH1.4",
+   "CH1.5",
+   "N040",
+   "N041",
+   "N042",
+   "CH1.6",
+   "N043",
+   "N044",
+   "CH1.12",
+   "N046",
+   "CH1.14",
+   "CH1.15",
+   "CH1.16",
+   "N048",
+   "CH1.17",
+   "CH1.19",
+   "CH1.25",
+   "CH1.31",
+   "CH1.34",
+   "CH1.35",
+   "CH1.37",
+   "CH1.38",
+   "CH1.39",
+   "N072",
+   "CH1.40",
+   "CH1.41",
+   "N075",
+   "CH1.43",
+   "MICRO.0",
+   "MICRO.1",
+   "N077",
+   "N082",
+   "MICRO.2",
+   "N083",
+   "MICRO.3",
+   "MICRO.4",
+   "MICRO.5",
+   "MICRO.7",
+   "MICRO.9",
+   "MICRO.10",
+   "MICRO.11",
+   "N095",
+   "MICRO.12",
+   "MICRO.13",
+   "N098",
+   "N099",
+   "N100",
+   "MICRO.14",
+   "N102",
+   "MICRO.15",
+   "N103",
+   "MICRO.16",
+   "MICRO.17",
+   "N106",
+   "N107",
+   "N108",
+   "MICRO.18",
+   "N109",
+   "MICRO.19",
+   "MICRO.20",
+   "N114",
+   "MICRO.22",
+   "MICRO.23",
+   "MICRO.24",
+   "N115",
+   "N116",
+   "MICRO.25",
+   "N117",
+   "MICRO.27",
+   "MICRO.28",
+   "MICRO.30",
+   "N118",
+   "MICRO.31",
+   "N122",
+   "MICRO.32",
+   "N124",
+   "MICRO.33",
+   "MICRO.34",
+   "MICRO.35",
+   "N125",
+   "MICRO.36",
+   "MICRO.37",
+   "MICRO.40",
+   "CH2.4",
+   "CH2.5",
+   "CH2.7",
+   "CH2.8",
+   "CH2.19",
+   "CH2.21",
+   "CH2.22",
+   "CH3.2",
+   "CH3.4",
+   "CH3.5",
+   "CH3.6",
+   "CH3.11",
+   "CH3.14",
+   "CH3.28",
+   "N175",
+   "N177",
+   "CH3.33",
+   "CH3.35",
+   "CH3.37",
+   "CH3.40",
+   "CH3.46",
+   "CH4.6",
+   "CH4.8",
+   "CH4.13",
+   "CH5.1",
+   "CH5.6",
+   "CH5.7",
+   "CH5.8",
+   "CH5.12",
+   "CH5.13",
+   "N204",
+   "CH5.14",
+   "CH5.16",
+   "N209",
+   "CH5.19",
+   "CH5.20",
+   "CH5.21",
+   "N212",
+   "CH5.25",
+   "CH5.27",
+   "CH5.30",
+   "CH5.34",
+   "N218",
+   "CH5.35",
+   "CH5.44",
+   "N220",
+   "CH5.60",
+   "CH5.62",
+   "CH5.66",
+   "CH5.68",
+   "CH5.69",
+   "CH5.75",
+   "N243",
+   "CH5.77",
+   "CH5.78",
+   "CH5.79",
+   "CH5.80",
+   "CH6.1",
+   "CH6.5",
+   "CH6.6",
+   "CH6.13",
+   "N258",
+   "CH6.17",
+   "CH6.18",
+   "CH6.21",
+   "N268",
+   "CH6.30",
+   "CH6.35",
+   "CH6.38",
+   "CH6.43",
+   "CH6.44",
+   "CH6.45",
+   "CH6.54",
+   "CH6.55",
+   "CH6.56",
+   "N289",
+   "N292",
+   "N297",
+   "CH6.68",
+   "CH6.69",
+   "CH6.70",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "nature",
+  "spellings": [
+   "Nature"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.10",
+   "CH5.18"
+  ],
+  "occurs_at": [
+   "OPEN.2",
+   "OPEN.6",
+   "N012",
+   "OPEN.8",
+   "OPEN.10",
+   "OPEN.11",
+   "OPEN.14",
+   "OPEN.16",
+   "N027",
+   "OPEN.17",
+   "OPEN.19",
+   "OPEN.20",
+   "N032",
+   "N034",
+   "OPEN.22",
+   "CH1.1",
+   "N038",
+   "CH1.3",
+   "CH1.5",
+   "N039",
+   "N040",
+   "CH1.6",
+   "CH1.12",
+   "CH1.14",
+   "CH1.15",
+   "CH1.18",
+   "CH1.19",
+   "CH1.23",
+   "CH1.24",
+   "CH1.27",
+   "CH1.31",
+   "CH1.36",
+   "CH1.38",
+   "CH1.40",
+   "CH1.41",
+   "MICRO.4",
+   "N086",
+   "MICRO.5",
+   "MICRO.8",
+   "MICRO.10",
+   "MICRO.12",
+   "MICRO.21",
+   "N116",
+   "MICRO.29",
+   "MICRO.30",
+   "N122",
+   "MICRO.32",
+   "MICRO.33",
+   "MICRO.34",
+   "MICRO.35",
+   "N125",
+   "MICRO.40",
+   "CH2.1",
+   "CH2.2",
+   "CH2.4",
+   "N134",
+   "CH2.5",
+   "N136",
+   "CH2.8",
+   "CH2.11",
+   "N142",
+   "CH2.16",
+   "CH2.17",
+   "CH2.18",
+   "N149",
+   "CH2.20",
+   "CH2.21",
+   "CH2.22",
+   "CH2.23",
+   "CH2.26",
+   "CH2.28",
+   "CH3.1",
+   "CH3.2",
+   "N163",
+   "CH3.5",
+   "CH3.6",
+   "CH3.8",
+   "CH3.9",
+   "CH3.12",
+   "CH3.13",
+   "CH3.14",
+   "CH3.24",
+   "CH3.25",
+   "CH3.29",
+   "CH3.30",
+   "N178",
+   "CH3.32",
+   "CH3.33",
+   "CH3.37",
+   "CH3.38",
+   "CH3.40",
+   "CH4.2",
+   "CH4.3",
+   "N187",
+   "CH4.4",
+   "CH4.6",
+   "N194",
+   "CH4.11",
+   "CH5.1",
+   "CH5.5",
+   "CH5.6",
+   "CH5.7",
+   "CH5.8",
+   "N200",
+   "CH5.10",
+   "CH5.12",
+   "CH5.13",
+   "CH5.15",
+   "CH5.16",
+   "CH5.17",
+   "CH5.18",
+   "N209",
+   "CH5.19",
+   "CH5.22",
+   "CH5.28",
+   "CH5.34",
+   "CH5.36",
+   "CH5.44",
+   "CH5.50",
+   "CH5.54",
+   "CH5.55",
+   "CH5.57",
+   "CH5.62",
+   "CH5.68",
+   "CH5.70",
+   "CH5.73",
+   "N235",
+   "N244",
+   "CH5.77",
+   "CH5.78",
+   "CH5.82",
+   "CH6.2",
+   "CH6.3",
+   "CH6.8",
+   "CH6.10",
+   "CH6.12",
+   "CH6.18",
+   "CH6.21",
+   "CH6.22",
+   "N268",
+   "CH6.29",
+   "CH6.30",
+   "CH6.31",
+   "CH6.35",
+   "CH6.38",
+   "CH6.40",
+   "CH6.41",
+   "CH6.42",
+   "CH6.46",
+   "N279",
+   "CH6.49",
+   "N280",
+   "CH6.50",
+   "N281",
+   "CH6.51",
+   "N283",
+   "N284",
+   "CH6.52",
+   "N287",
+   "CH6.54",
+   "CH6.55",
+   "CH6.56",
+   "CH6.58",
+   "CH6.62",
+   "CH6.69",
+   "CH6.70",
+   "N307",
+   "CH6.71",
+   "CH6.73",
+   "CH6.76",
+   "N316"
+  ]
+ },
+ {
+  "key": "spirit",
+  "spellings": [
+   "Spirit"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.23"
+  ],
+  "occurs_at": [
+   "OPEN.10",
+   "CH1.1",
+   "CH1.14",
+   "CH1.15",
+   "CH1.19",
+   "CH1.21",
+   "N054",
+   "CH1.23",
+   "N058",
+   "CH1.27",
+   "CH1.28",
+   "CH1.29",
+   "CH1.30",
+   "CH1.34",
+   "CH1.40",
+   "CH1.41",
+   "CH1.42",
+   "MICRO.1",
+   "MICRO.3",
+   "MICRO.4",
+   "N087",
+   "MICRO.7",
+   "MICRO.8",
+   "MICRO.9",
+   "MICRO.14",
+   "N101",
+   "MICRO.16",
+   "MICRO.17",
+   "N104",
+   "MICRO.18",
+   "MICRO.19",
+   "MICRO.20",
+   "N114",
+   "MICRO.22",
+   "MICRO.23",
+   "MICRO.24",
+   "N117",
+   "MICRO.27",
+   "MICRO.31",
+   "N120",
+   "N122",
+   "MICRO.32",
+   "N123",
+   "N124",
+   "MICRO.33",
+   "MICRO.34",
+   "MICRO.35",
+   "N125",
+   "MICRO.36",
+   "MICRO.38",
+   "MICRO.42",
+   "CH2.4",
+   "CH2.10",
+   "CH2.17",
+   "CH2.18",
+   "CH2.22",
+   "CH3.14",
+   "CH3.30",
+   "N177",
+   "CH3.31",
+   "CH3.33",
+   "N180",
+   "CH3.46",
+   "CH4.6",
+   "CH5.7",
+   "CH5.17",
+   "CH5.20",
+   "CH5.21",
+   "CH5.23",
+   "CH5.34",
+   "CH5.35",
+   "CH5.42",
+   "CH5.44",
+   "N220",
+   "CH5.49",
+   "CH5.53",
+   "CH5.76",
+   "CH5.77",
+   "CH5.78",
+   "CH6.6",
+   "CH6.21",
+   "CH6.39",
+   "CH6.44",
+   "CH6.50",
+   "CH6.51",
+   "CH6.52",
+   "CH6.54",
+   "CH6.55",
+   "N288",
+   "CH6.56",
+   "N289",
+   "CH6.57",
+   "N290",
+   "N292",
+   "CH6.60",
+   "N293",
+   "CH6.62",
+   "N295",
+   "CH6.68",
+   "N307",
+   "CH6.73",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "&",
+  "spellings": [
+   ""
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N085",
+   "N144",
+   "N163",
+   "N229",
+   "N232",
+   "N240",
+   "N268",
+   "N273"
+  ],
+  "occurs_at": [
+   "N003",
+   "OPEN.4",
+   "N010",
+   "N011",
+   "N012",
+   "OPEN.11",
+   "N026",
+   "N038",
+   "CH1.16",
+   "CH1.18",
+   "CH1.27",
+   "CH1.39",
+   "N071",
+   "CH1.41",
+   "MICRO.0",
+   "N077",
+   "MICRO.3",
+   "N085",
+   "MICRO.4",
+   "MICRO.7",
+   "MICRO.10",
+   "N109",
+   "N117",
+   "MICRO.30",
+   "N122",
+   "MICRO.32",
+   "N123",
+   "N124",
+   "N125",
+   "MICRO.37",
+   "N129",
+   "MICRO.41",
+   "CH2.5",
+   "CH2.7",
+   "N144",
+   "CH2.14",
+   "CH2.21",
+   "CH2.22",
+   "N161",
+   "N163",
+   "N170",
+   "N175",
+   "N180",
+   "CH3.41",
+   "CH4.6",
+   "CH4.7",
+   "CH4.8",
+   "CH4.14",
+   "CH5.1",
+   "CH5.7",
+   "N201",
+   "N202",
+   "CH5.14",
+   "N209",
+   "CH5.29",
+   "CH5.33",
+   "CH5.34",
+   "N218",
+   "N219",
+   "CH5.39",
+   "CH5.46",
+   "CH5.55",
+   "N224",
+   "N226",
+   "N229",
+   "N230",
+   "N232",
+   "N240",
+   "N246",
+   "N248",
+   "CH5.81",
+   "N253",
+   "CH6.12",
+   "N258",
+   "CH6.18",
+   "CH6.21",
+   "N267",
+   "N268",
+   "N270",
+   "N272",
+   "N273",
+   "CH6.37",
+   "N277",
+   "CH6.44",
+   "N280",
+   "N281",
+   "N283",
+   "N292",
+   "N293",
+   "N295",
+   "N296",
+   "CH6.68",
+   "CH6.71",
+   "N309",
+   "N312",
+   "CH6.76",
+   "N313",
+   "N317"
+  ]
+ },
+ {
+  "key": "good",
+  "spellings": [
+   "Good"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.14"
+  ],
+  "occurs_at": [
+   "OPEN.2",
+   "N002",
+   "OPEN.3",
+   "OPEN.6",
+   "OPEN.7",
+   "OPEN.11",
+   "OPEN.12",
+   "OPEN.13",
+   "OPEN.15",
+   "OPEN.16",
+   "OPEN.21",
+   "OPEN.22",
+   "CH1.12",
+   "CH1.17",
+   "MICRO.3",
+   "MICRO.4",
+   "MICRO.10",
+   "MICRO.13",
+   "MICRO.32",
+   "N126",
+   "CH2.1",
+   "CH2.7",
+   "CH2.9",
+   "CH2.11",
+   "CH2.12",
+   "CH2.13",
+   "CH2.18",
+   "CH2.19",
+   "CH2.23",
+   "CH2.26",
+   "CH3.1",
+   "CH3.3",
+   "CH3.4",
+   "CH3.5",
+   "CH3.10",
+   "N170",
+   "CH3.14",
+   "N171",
+   "CH3.19",
+   "N175",
+   "CH3.45",
+   "CH4.3",
+   "CH4.6",
+   "CH4.11",
+   "CH4.13",
+   "CH5.4",
+   "CH5.12",
+   "CH5.14",
+   "N205",
+   "CH5.15",
+   "CH5.20",
+   "CH5.25",
+   "CH5.34",
+   "CH5.44",
+   "CH5.54",
+   "CH5.56",
+   "CH5.57",
+   "CH5.59",
+   "CH5.60",
+   "CH5.61",
+   "N226",
+   "CH5.62",
+   "N228",
+   "CH5.63",
+   "CH5.69",
+   "CH5.72",
+   "N241",
+   "N248",
+   "CH5.82",
+   "CH6.7",
+   "CH6.10",
+   "CH6.11",
+   "CH6.17",
+   "N261",
+   "CH6.21",
+   "CH6.27",
+   "CH6.33",
+   "CH6.34",
+   "N271",
+   "N272",
+   "CH6.36",
+   "CH6.54",
+   "CH6.56",
+   "CH6.68",
+   "CH6.70",
+   "CH6.74",
+   "CH6.76",
+   "N314"
+  ]
+ },
+ {
+  "key": "like",
+  "spellings": [
+   "Like"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH4.1"
+  ],
+  "occurs_at": [
+   "OPEN.5",
+   "OPEN.11",
+   "OPEN.12",
+   "OPEN.13",
+   "OPEN.17",
+   "OPEN.21",
+   "CH1.1",
+   "CH1.19",
+   "CH1.22",
+   "CH1.30",
+   "N064",
+   "CH1.34",
+   "CH1.38",
+   "N075",
+   "CH1.42",
+   "CH1.43",
+   "MICRO.3",
+   "MICRO.8",
+   "MICRO.10",
+   "MICRO.12",
+   "MICRO.16",
+   "MICRO.17",
+   "MICRO.24",
+   "MICRO.25",
+   "N117",
+   "MICRO.30",
+   "N122",
+   "MICRO.32",
+   "MICRO.33",
+   "MICRO.36",
+   "MICRO.40",
+   "MICRO.41",
+   "MICRO.44",
+   "N131",
+   "CH2.3",
+   "CH2.4",
+   "CH2.5",
+   "CH2.6",
+   "CH2.7",
+   "CH2.21",
+   "CH2.22",
+   "N157",
+   "N170",
+   "CH3.17",
+   "CH3.30",
+   "CH3.41",
+   "CH4.1",
+   "CH4.3",
+   "N187",
+   "CH4.6",
+   "CH4.7",
+   "CH4.8",
+   "CH5.13",
+   "CH5.15",
+   "CH5.20",
+   "CH5.21",
+   "CH5.23",
+   "CH5.42",
+   "CH5.44",
+   "CH5.56",
+   "CH5.62",
+   "CH5.73",
+   "N245",
+   "CH5.78",
+   "CH6.27",
+   "CH6.28",
+   "CH6.29",
+   "N270",
+   "CH6.31",
+   "CH6.35",
+   "N274",
+   "N277",
+   "CH6.45",
+   "CH6.49",
+   "CH6.50",
+   "CH6.51",
+   "N283",
+   "CH6.55",
+   "CH6.57",
+   "CH6.59",
+   "N291",
+   "CH6.60",
+   "CH6.62",
+   "N296",
+   "CH6.65",
+   "CH6.71",
+   "CH6.73",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "first",
+  "spellings": [
+   "Firſt",
+   "First"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.68",
+   "CH6.70"
+  ],
+  "occurs_at": [
+   "OPEN.3",
+   "OPEN.6",
+   "OPEN.10",
+   "OPEN.15",
+   "OPEN.17",
+   "N030",
+   "OPEN.20",
+   "OPEN.23",
+   "CH1.1",
+   "CH1.19",
+   "CH1.25",
+   "N064",
+   "CH1.36",
+   "CH1.37",
+   "CH1.40",
+   "N073",
+   "CH1.42",
+   "CH1.43",
+   "N082",
+   "MICRO.3",
+   "MICRO.10",
+   "MICRO.14",
+   "N101",
+   "MICRO.17",
+   "N105",
+   "N107",
+   "MICRO.18",
+   "N114",
+   "N121",
+   "MICRO.32",
+   "MICRO.35",
+   "MICRO.36",
+   "MICRO.38",
+   "CH2.19",
+   "CH2.25",
+   "CH3.1",
+   "CH3.9",
+   "CH3.10",
+   "CH3.11",
+   "CH3.17",
+   "CH3.22",
+   "CH3.28",
+   "CH3.29",
+   "CH3.30",
+   "CH3.33",
+   "N180",
+   "CH3.40",
+   "N181",
+   "CH3.43",
+   "CH4.2",
+   "CH4.6",
+   "N190",
+   "CH5.8",
+   "CH5.12",
+   "CH5.13",
+   "CH5.32",
+   "CH5.33",
+   "N217",
+   "N218",
+   "CH5.39",
+   "CH5.63",
+   "CH5.68",
+   "CH5.70",
+   "CH5.75",
+   "CH6.17",
+   "CH6.21",
+   "CH6.30",
+   "CH6.31",
+   "CH6.32",
+   "N277",
+   "CH6.44",
+   "CH6.45",
+   "N279",
+   "N283",
+   "CH6.52",
+   "CH6.53",
+   "CH6.54",
+   "CH6.55",
+   "CH6.58",
+   "CH6.68",
+   "CH6.70",
+   "N307",
+   "CH6.73",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "nothing",
+  "spellings": [
+   "Nothing"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.10",
+   "CH5.22"
+  ],
+  "occurs_at": [
+   "OPEN.3",
+   "OPEN.7",
+   "N021",
+   "OPEN.13",
+   "OPEN.16",
+   "OPEN.17",
+   "N034",
+   "CH1.2",
+   "CH1.5",
+   "CH1.6",
+   "CH1.12",
+   "N051",
+   "CH1.19",
+   "N053",
+   "CH1.34",
+   "CH1.35",
+   "CH1.37",
+   "N074",
+   "MICRO.10",
+   "MICRO.12",
+   "MICRO.24",
+   "N118",
+   "MICRO.31",
+   "MICRO.32",
+   "MICRO.35",
+   "N125",
+   "MICRO.44",
+   "CH2.4",
+   "N135",
+   "CH2.7",
+   "CH2.18",
+   "CH2.23",
+   "CH2.25",
+   "CH3.1",
+   "CH3.2",
+   "CH3.12",
+   "CH3.18",
+   "CH3.40",
+   "CH4.2",
+   "CH4.3",
+   "CH4.6",
+   "CH4.13",
+   "CH5.19",
+   "CH5.20",
+   "CH5.22",
+   "CH5.25",
+   "CH5.30",
+   "CH5.34",
+   "CH5.57",
+   "CH5.62",
+   "N227",
+   "CH5.74",
+   "N236",
+   "CH5.76",
+   "CH5.80",
+   "CH5.81",
+   "CH6.1",
+   "CH6.12",
+   "CH6.23",
+   "CH6.25",
+   "N270",
+   "N272",
+   "CH6.45",
+   "CH6.46",
+   "N281",
+   "CH6.51",
+   "CH6.56",
+   "CH6.68",
+   "N299",
+   "CH6.71"
+  ]
+ },
+ {
+  "key": "physitian",
+  "spellings": [
+   "Phyſitian"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.0",
+   "CH2.21",
+   "CH5.74"
+  ],
+  "occurs_at": [
+   "OPEN.0",
+   "CH1.1",
+   "CH1.5",
+   "N040",
+   "CH1.6",
+   "CH1.26",
+   "CH1.37",
+   "CH1.38",
+   "N069",
+   "N075",
+   "MICRO.45",
+   "CH2.7",
+   "CH2.14",
+   "CH2.21",
+   "CH2.23",
+   "N157",
+   "CH2.24",
+   "CH2.26",
+   "CH2.27",
+   "N160",
+   "CH3.8",
+   "CH3.17",
+   "CH3.19",
+   "N184",
+   "CH4.3",
+   "CH4.6",
+   "N188",
+   "CH4.11",
+   "CH5.0",
+   "CH5.1",
+   "CH5.7",
+   "CH5.9",
+   "CH5.11",
+   "CH5.12",
+   "N202",
+   "N206",
+   "CH5.15",
+   "CH5.24",
+   "CH5.29",
+   "CH5.36",
+   "CH5.50",
+   "CH5.56",
+   "CH5.57",
+   "CH5.61",
+   "CH5.62",
+   "N228",
+   "CH5.69",
+   "CH5.70",
+   "CH5.71",
+   "CH5.73",
+   "CH5.74",
+   "N238",
+   "CH5.75",
+   "N241",
+   "CH5.77",
+   "CH5.82",
+   "N252",
+   "N275",
+   "CH6.41",
+   "CH6.60",
+   "CH6.71",
+   "CH6.76",
+   "N316"
+  ]
+ },
+ {
+  "key": "mind",
+  "spellings": [
+   "Mind"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.12",
+   "MICRO.44",
+   "N131",
+   "CH5.23",
+   "CH5.24",
+   "CH6.46",
+   "CH6.49"
+  ],
+  "occurs_at": [
+   "N018",
+   "OPEN.11",
+   "OPEN.12",
+   "OPEN.13",
+   "OPEN.23",
+   "CH1.12",
+   "MICRO.1",
+   "MICRO.3",
+   "MICRO.9",
+   "MICRO.10",
+   "N111",
+   "MICRO.24",
+   "MICRO.25",
+   "N117",
+   "MICRO.32",
+   "MICRO.35",
+   "MICRO.43",
+   "MICRO.44",
+   "N131",
+   "CH2.22",
+   "CH3.1",
+   "CH3.12",
+   "CH4.2",
+   "CH5.18",
+   "CH5.20",
+   "N210",
+   "CH5.21",
+   "CH5.23",
+   "CH5.24",
+   "CH5.49",
+   "CH5.50",
+   "CH5.55",
+   "CH5.75",
+   "CH5.77",
+   "CH5.78",
+   "N248",
+   "CH5.79",
+   "CH6.3",
+   "CH6.21",
+   "CH6.31",
+   "CH6.36",
+   "CH6.46",
+   "CH6.48",
+   "CH6.49",
+   "CH6.67",
+   "CH6.68",
+   "CH6.73",
+   "CH6.76",
+   "N316",
+   "N317"
+  ]
+ },
+ {
+  "key": "himselfe",
+  "spellings": [
+   "Himſelfe"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.1"
+  ],
+  "occurs_at": [
+   "CH1.5",
+   "CH1.6",
+   "CH1.26",
+   "CH1.35",
+   "CH1.41",
+   "MICRO.1",
+   "MICRO.2",
+   "N083",
+   "MICRO.3",
+   "MICRO.4",
+   "MICRO.5",
+   "MICRO.10",
+   "N094",
+   "MICRO.12",
+   "MICRO.13",
+   "MICRO.16",
+   "MICRO.17",
+   "MICRO.21",
+   "MICRO.24",
+   "N124",
+   "CH2.14",
+   "CH2.15",
+   "CH2.18",
+   "CH2.19",
+   "CH2.23",
+   "N170",
+   "CH3.17",
+   "CH3.45",
+   "CH5.1",
+   "CH5.7",
+   "CH5.15",
+   "CH5.21",
+   "CH5.27",
+   "CH5.29",
+   "CH5.51",
+   "CH5.54",
+   "CH5.56",
+   "CH5.71",
+   "CH5.81",
+   "CH6.13",
+   "CH6.15",
+   "CH6.22",
+   "CH6.31",
+   "CH6.36",
+   "CH6.43",
+   "CH6.62",
+   "N295",
+   "CH6.66",
+   "CH6.68"
+  ]
+ },
+ {
+  "key": "three",
+  "spellings": [
+   "Three"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.19"
+  ],
+  "occurs_at": [
+   "OPEN.10",
+   "OPEN.15",
+   "CH1.19",
+   "CH1.20",
+   "CH1.25",
+   "CH1.32",
+   "CH1.34",
+   "CH1.37",
+   "CH1.40",
+   "N073",
+   "CH1.42",
+   "MICRO.14",
+   "MICRO.20",
+   "MICRO.21",
+   "N114",
+   "MICRO.22",
+   "MICRO.24",
+   "N124",
+   "N125",
+   "MICRO.37",
+   "CH2.2",
+   "CH2.3",
+   "CH2.4",
+   "N134",
+   "CH2.22",
+   "CH3.9",
+   "CH3.28",
+   "CH3.29",
+   "N178",
+   "CH3.32",
+   "CH3.40",
+   "N181",
+   "CH4.6",
+   "CH4.7",
+   "CH4.8",
+   "CH4.10",
+   "CH4.14",
+   "CH5.31",
+   "CH5.33",
+   "CH6.23",
+   "CH6.30",
+   "CH6.31",
+   "CH6.32",
+   "CH6.52",
+   "CH6.53"
+  ]
+ },
+ {
+  "key": "help",
+  "spellings": [
+   "Help"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "OPEN.3",
+   "OPEN.5",
+   "OPEN.8",
+   "OPEN.10",
+   "CH1.23",
+   "CH1.35",
+   "CH1.37",
+   "MICRO.4",
+   "MICRO.26",
+   "MICRO.35",
+   "MICRO.36",
+   "CH2.23",
+   "CH3.1",
+   "CH3.20",
+   "CH4.6",
+   "CH4.11",
+   "CH5.13",
+   "CH5.68",
+   "CH5.69",
+   "CH5.75",
+   "N248",
+   "N258",
+   "CH6.21",
+   "N272",
+   "CH6.40",
+   "CH6.41",
+   "CH6.49",
+   "CH6.50",
+   "CH6.71",
+   "CH6.73",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "viz",
+  "spellings": [
+   "viz",
+   "Viz"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.3",
+   "OPEN.10",
+   "N018",
+   "OPEN.20",
+   "OPEN.23",
+   "CH1.15",
+   "CH1.19",
+   "CH1.22",
+   "CH1.25",
+   "CH1.26",
+   "CH1.27",
+   "CH1.30",
+   "CH1.38",
+   "CH1.40",
+   "CH1.41",
+   "MICRO.11",
+   "MICRO.17",
+   "MICRO.32",
+   "CH3.9",
+   "CH3.41",
+   "CH4.7",
+   "CH5.31",
+   "CH5.34",
+   "N219",
+   "CH5.44",
+   "CH5.67",
+   "CH5.82",
+   "CH6.30",
+   "CH6.31"
+  ],
+  "occurs_at": [
+   "OPEN.3",
+   "OPEN.10",
+   "N018",
+   "OPEN.20",
+   "OPEN.23",
+   "CH1.15",
+   "CH1.19",
+   "CH1.22",
+   "CH1.25",
+   "CH1.26",
+   "CH1.27",
+   "CH1.30",
+   "CH1.38",
+   "CH1.39",
+   "CH1.40",
+   "CH1.41",
+   "MICRO.7",
+   "MICRO.11",
+   "MICRO.17",
+   "MICRO.32",
+   "CH3.9",
+   "CH3.41",
+   "CH4.7",
+   "CH5.31",
+   "CH5.34",
+   "N219",
+   "CH5.44",
+   "CH5.67",
+   "CH5.82",
+   "CH6.30",
+   "CH6.31"
+  ]
+ },
+ {
+  "key": "word",
+  "spellings": [
+   "Word"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.23",
+   "MICRO.9",
+   "CH2.2",
+   "CH2.13",
+   "CH2.14",
+   "CH2.18",
+   "CH2.19",
+   "CH2.20",
+   "CH2.25",
+   "CH5.24"
+  ],
+  "occurs_at": [
+   "N015",
+   "CH1.19",
+   "CH1.23",
+   "MICRO.3",
+   "MICRO.9",
+   "MICRO.11",
+   "N101",
+   "MICRO.17",
+   "N105",
+   "MICRO.22",
+   "MICRO.24",
+   "MICRO.35",
+   "CH2.2",
+   "N139",
+   "CH2.12",
+   "CH2.13",
+   "CH2.14",
+   "CH2.15",
+   "CH2.16",
+   "CH2.17",
+   "CH2.18",
+   "CH2.19",
+   "CH2.20",
+   "CH2.22",
+   "CH2.23",
+   "CH2.25",
+   "CH3.40",
+   "CH5.24",
+   "CH5.62",
+   "CH5.74",
+   "N258"
+  ]
+ },
+ {
+  "key": "holy",
+  "spellings": [
+   "Holy"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.38"
+  ],
+  "occurs_at": [
+   "OPEN.6",
+   "OPEN.10",
+   "OPEN.22",
+   "CH1.1",
+   "CH1.19",
+   "CH1.40",
+   "MICRO.7",
+   "MICRO.8",
+   "MICRO.9",
+   "MICRO.14",
+   "MICRO.21",
+   "MICRO.38",
+   "CH2.10",
+   "CH3.4",
+   "CH3.46",
+   "CH5.7",
+   "CH5.20",
+   "CH5.21",
+   "CH5.23",
+   "CH5.80",
+   "CH6.2",
+   "CH6.17",
+   "CH6.19",
+   "CH6.21",
+   "CH6.27",
+   "CH6.64",
+   "CH6.68",
+   "CH6.71",
+   "CH6.76",
+   "CH6.77"
+  ]
+ },
+ {
+  "key": "only",
+  "spellings": [
+   "Only"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.22"
+  ],
+  "occurs_at": [
+   "OPEN.3",
+   "OPEN.6",
+   "OPEN.7",
+   "N018",
+   "OPEN.11",
+   "OPEN.14",
+   "MICRO.30",
+   "MICRO.32",
+   "CH2.8",
+   "CH2.18",
+   "CH2.22",
+   "CH3.8",
+   "CH3.19",
+   "CH4.6",
+   "CH5.1",
+   "CH5.7",
+   "CH5.14",
+   "CH5.29",
+   "CH5.72",
+   "CH5.77",
+   "N253",
+   "CH6.12",
+   "CH6.17",
+   "N261",
+   "CH6.25",
+   "N278",
+   "CH6.65",
+   "CH6.73",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "soul",
+  "spellings": [
+   "Soul"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.19"
+  ],
+  "occurs_at": [
+   "CH1.11",
+   "CH1.25",
+   "CH1.27",
+   "N091",
+   "MICRO.12",
+   "MICRO.14",
+   "MICRO.17",
+   "N109",
+   "MICRO.19",
+   "N116",
+   "MICRO.25",
+   "N117",
+   "MICRO.26",
+   "CH3.14",
+   "CH5.13",
+   "CH5.21",
+   "CH5.72",
+   "CH5.77",
+   "CH5.78",
+   "N248",
+   "CH5.81",
+   "CH6.1",
+   "CH6.11",
+   "CH6.27",
+   "CH6.51",
+   "CH6.52",
+   "CH6.68",
+   "N317"
+  ]
+ },
+ {
+  "key": "heart",
+  "spellings": [
+   "Heart"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.12"
+  ],
+  "occurs_at": [
+   "OPEN.3",
+   "CH1.12",
+   "MICRO.4",
+   "MICRO.18",
+   "CH2.4",
+   "CH2.5",
+   "CH2.7",
+   "CH4.7",
+   "CH4.8",
+   "CH5.15",
+   "CH5.20",
+   "N210",
+   "CH5.21",
+   "CH5.34",
+   "CH5.46",
+   "CH5.72",
+   "N239",
+   "N256",
+   "CH6.21",
+   "CH6.38",
+   "CH6.44",
+   "CH6.56",
+   "CH6.60",
+   "CH6.68",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "salt",
+  "spellings": [
+   "Salt"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.19"
+  ],
+  "occurs_at": [
+   "CH1.19",
+   "N053",
+   "CH1.21",
+   "CH1.29",
+   "CH1.30",
+   "CH1.37",
+   "CH1.42",
+   "CH3.8",
+   "CH3.9",
+   "CH3.19",
+   "CH3.20",
+   "N181",
+   "CH4.7",
+   "CH4.8",
+   "CH4.9",
+   "N194",
+   "CH4.10",
+   "CH5.33",
+   "CH5.34",
+   "CH5.35",
+   "CH5.37",
+   "CH5.44",
+   "N263",
+   "N289",
+   "N317"
+  ]
+ },
+ {
+  "key": "grace",
+  "spellings": [
+   "Grace"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.10",
+   "CH5.18"
+  ],
+  "occurs_at": [
+   "OPEN.6",
+   "OPEN.10",
+   "OPEN.19",
+   "CH1.1",
+   "CH1.12",
+   "MICRO.10",
+   "N149",
+   "CH2.28",
+   "CH5.13",
+   "CH5.15",
+   "CH5.18",
+   "N209",
+   "CH5.19",
+   "CH5.20",
+   "CH5.66",
+   "CH5.75",
+   "CH6.8",
+   "CH6.19",
+   "CH6.21",
+   "CH6.43",
+   "CH6.44",
+   "CH6.68",
+   "CH6.70",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "means",
+  "spellings": [
+   "Means"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.74"
+  ],
+  "occurs_at": [
+   "OPEN.11",
+   "N074",
+   "MICRO.8",
+   "N139",
+   "CH2.14",
+   "CH2.22",
+   "CH3.12",
+   "CH3.24",
+   "CH3.40",
+   "CH3.45",
+   "CH4.3",
+   "CH4.13",
+   "CH5.56",
+   "CH5.58",
+   "CH5.61",
+   "CH5.73",
+   "CH5.74",
+   "CH6.13",
+   "CH6.19",
+   "CH6.27",
+   "CH6.48",
+   "CH6.51",
+   "CH6.73",
+   "CH6.74"
+  ]
+ },
+ {
+  "key": "father",
+  "spellings": [
+   "Father"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.10"
+  ],
+  "occurs_at": [
+   "OPEN.2",
+   "OPEN.10",
+   "CH1.1",
+   "CH1.2",
+   "CH1.16",
+   "CH1.40",
+   "MICRO.3",
+   "MICRO.7",
+   "MICRO.10",
+   "MICRO.17",
+   "N106",
+   "MICRO.18",
+   "MICRO.19",
+   "MICRO.30",
+   "MICRO.39",
+   "CH2.10",
+   "CH2.14",
+   "CH2.18",
+   "CH5.15",
+   "CH5.75",
+   "CH6.27",
+   "CH6.34"
+  ]
+ },
+ {
+  "key": "& c",
+  "spellings": [
+   "c"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.41",
+   "MICRO.37",
+   "N129",
+   "MICRO.41",
+   "CH2.5",
+   "CH2.7",
+   "N161",
+   "CH3.41",
+   "CH4.7",
+   "CH4.8",
+   "CH4.14",
+   "CH5.34",
+   "N219",
+   "CH5.39",
+   "CH5.46",
+   "N230"
+  ],
+  "occurs_at": [
+   "N010",
+   "CH1.18",
+   "CH1.39",
+   "CH1.41",
+   "MICRO.37",
+   "N129",
+   "MICRO.41",
+   "CH2.5",
+   "CH2.7",
+   "CH2.22",
+   "N161",
+   "CH3.41",
+   "CH4.7",
+   "CH4.8",
+   "CH4.14",
+   "CH5.34",
+   "N219",
+   "CH5.39",
+   "CH5.46",
+   "N230"
+  ]
+ },
+ {
+  "key": "read",
+  "spellings": [
+   "Read"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N264"
+  ],
+  "occurs_at": [
+   "OPEN.14",
+   "N038",
+   "N049",
+   "N124",
+   "MICRO.44",
+   "CH2.17",
+   "N156",
+   "N207",
+   "CH5.18",
+   "N209",
+   "CH5.20",
+   "CH5.52",
+   "N244",
+   "CH5.78",
+   "CH6.1",
+   "N264",
+   "N269",
+   "CH6.76",
+   "N313"
+  ]
+ },
+ {
+  "key": "microcosm",
+  "spellings": [
+   "MICROCOSM"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.0"
+  ],
+  "occurs_at": [
+   "CH1.6",
+   "CH1.12",
+   "CH1.15",
+   "MICRO.0",
+   "MICRO.12",
+   "MICRO.14",
+   "MICRO.28",
+   "MICRO.31",
+   "MICRO.34",
+   "CH2.4",
+   "CH4.6",
+   "CH4.7",
+   "CH5.11",
+   "CH5.75",
+   "CH6.38",
+   "N283",
+   "N293"
+  ]
+ },
+ {
+  "key": "sulphur",
+  "spellings": [
+   "Sulphur"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.19"
+  ],
+  "occurs_at": [
+   "CH1.3",
+   "CH1.19",
+   "CH1.21",
+   "CH1.29",
+   "CH1.30",
+   "CH1.37",
+   "CH1.42",
+   "CH3.8",
+   "CH3.9",
+   "CH3.19",
+   "CH4.7",
+   "CH4.8",
+   "N194",
+   "CH4.10",
+   "CH5.33",
+   "CH5.75"
+  ]
+ },
+ {
+  "key": "eccl",
+  "spellings": [
+   "Eccl"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.10",
+   "N092",
+   "N141",
+   "N144",
+   "N150",
+   "N161",
+   "N163",
+   "N165",
+   "N166",
+   "N232",
+   "N240",
+   "N266",
+   "N272",
+   "N298"
+  ],
+  "occurs_at": [
+   "N016",
+   "MICRO.10",
+   "N092",
+   "N141",
+   "N144",
+   "N150",
+   "N161",
+   "N163",
+   "N165",
+   "N166",
+   "N232",
+   "N240",
+   "N266",
+   "N272",
+   "N298"
+  ]
+ },
+ {
+  "key": "john",
+  "spellings": [
+   "John"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N068",
+   "N080",
+   "MICRO.7",
+   "N090",
+   "N110",
+   "N113",
+   "N114",
+   "N119",
+   "N149",
+   "N153",
+   "N158",
+   "N210"
+  ],
+  "occurs_at": [
+   "N001",
+   "N024",
+   "N068",
+   "N080",
+   "MICRO.7",
+   "N090",
+   "N110",
+   "N113",
+   "N114",
+   "N119",
+   "N149",
+   "N153",
+   "N158",
+   "N210",
+   "N254"
+  ]
+ },
+ {
+  "key": "theophrastus",
+  "spellings": [
+   "Theophraſtus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.11",
+   "CH2.2",
+   "CH3.41",
+   "CH3.43",
+   "CH5.7",
+   "CH5.14",
+   "CH5.15",
+   "CH5.27",
+   "CH5.29",
+   "CH5.30",
+   "CH5.53",
+   "CH5.59",
+   "CH6.74"
+  ],
+  "occurs_at": [
+   "CH1.11",
+   "CH2.2",
+   "CH2.20",
+   "CH3.41",
+   "CH3.43",
+   "CH5.7",
+   "CH5.14",
+   "CH5.15",
+   "CH5.17",
+   "CH5.27",
+   "CH5.29",
+   "CH5.30",
+   "CH5.53",
+   "CH5.59",
+   "CH6.74"
+  ]
+ },
+ {
+  "key": "words",
+  "spellings": [
+   "Words"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "OPEN.10",
+   "OPEN.20",
+   "OPEN.21",
+   "MICRO.38",
+   "CH2.17",
+   "N154",
+   "CH3.40",
+   "CH3.46",
+   "CH5.25",
+   "CH5.55",
+   "CH5.57",
+   "N248",
+   "N281",
+   "CH6.76",
+   "N317"
+  ]
+ },
+ {
+  "key": "hippocrates",
+  "spellings": [
+   "Hippocrates"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.10",
+   "OPEN.14",
+   "CH3.30",
+   "CH3.40",
+   "CH4.1",
+   "CH4.2",
+   "CH5.7",
+   "CH5.27",
+   "CH5.47",
+   "CH5.51",
+   "CH5.56",
+   "CH5.58",
+   "CH5.61",
+   "CH5.75"
+  ],
+  "occurs_at": [
+   "OPEN.10",
+   "OPEN.14",
+   "CH3.30",
+   "CH3.40",
+   "CH4.1",
+   "CH4.2",
+   "CH5.7",
+   "CH5.27",
+   "CH5.47",
+   "CH5.51",
+   "CH5.56",
+   "CH5.58",
+   "CH5.61",
+   "CH5.75"
+  ]
+ },
+ {
+  "key": "mercury",
+  "spellings": [
+   "Mercury"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.19",
+   "CH5.33"
+  ],
+  "occurs_at": [
+   "CH1.6",
+   "CH1.19",
+   "CH1.21",
+   "CH1.29",
+   "CH1.30",
+   "CH1.37",
+   "CH1.42",
+   "CH3.8",
+   "CH3.9",
+   "CH4.7",
+   "CH4.8",
+   "N194",
+   "CH4.10",
+   "CH5.33"
+  ]
+ },
+ {
+  "key": "moon",
+  "spellings": [
+   "Moon"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.51"
+  ],
+  "occurs_at": [
+   "CH1.12",
+   "CH1.33",
+   "CH5.7",
+   "CH5.44",
+   "CH6.1",
+   "CH6.39",
+   "CH6.40",
+   "CH6.51",
+   "N288",
+   "CH6.56",
+   "CH6.57",
+   "N290",
+   "CH6.60",
+   "N293"
+  ]
+ },
+ {
+  "key": "phylosophicall",
+  "spellings": [
+   "Phyloſophicall"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.18"
+  ],
+  "occurs_at": [
+   "OPEN.20",
+   "CH1.12",
+   "CH1.26",
+   "CH1.37",
+   "CH2.7",
+   "CH5.18",
+   "CH5.59",
+   "CH6.1",
+   "CH6.19",
+   "CH6.20",
+   "CH6.31",
+   "CH6.36",
+   "CH6.41",
+   "CH6.44"
+  ]
+ },
+ {
+  "key": "poyson",
+  "spellings": [
+   "Poyſon"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.3"
+  ],
+  "occurs_at": [
+   "CH3.1",
+   "CH3.3",
+   "CH3.14",
+   "CH3.20",
+   "N173",
+   "CH4.6",
+   "CH5.37",
+   "CH5.43",
+   "CH5.54",
+   "CH5.56",
+   "CH5.62",
+   "N228",
+   "CH5.69",
+   "CH6.62"
+  ]
+ },
+ {
+  "key": "stones",
+  "spellings": [
+   "Stones"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.21"
+  ],
+  "occurs_at": [
+   "CH1.6",
+   "CH1.15",
+   "CH1.30",
+   "MICRO.14",
+   "MICRO.37",
+   "CH2.5",
+   "CH2.12",
+   "CH2.21",
+   "N154",
+   "CH3.21",
+   "CH3.25",
+   "CH3.26",
+   "CH3.27",
+   "CH6.56"
+  ]
+ },
+ {
+  "key": "chymists",
+  "spellings": [
+   "Chymiſts"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.7"
+  ],
+  "occurs_at": [
+   "OPEN.7",
+   "OPEN.21",
+   "CH1.12",
+   "CH1.37",
+   "MICRO.45",
+   "CH2.1",
+   "CH3.8",
+   "CH3.44",
+   "CH5.30",
+   "CH5.45",
+   "CH5.57",
+   "CH5.61",
+   "CH5.69"
+  ]
+ },
+ {
+  "key": "minerall",
+  "spellings": [
+   "Minerall"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.2"
+  ],
+  "occurs_at": [
+   "CH1.29",
+   "CH2.2",
+   "N134",
+   "CH3.9",
+   "CH3.14",
+   "CH3.23",
+   "CH3.28",
+   "N175",
+   "CH3.29",
+   "CH3.32",
+   "CH3.33",
+   "CH3.35",
+   "CH6.51"
+  ]
+ },
+ {
+  "key": "indeed",
+  "spellings": [
+   "indeed"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "MICRO.4",
+   "MICRO.32",
+   "CH2.8",
+   "CH3.46",
+   "CH4.6",
+   "CH5.7",
+   "CH5.20",
+   "CH5.28",
+   "CH5.59",
+   "CH5.74",
+   "CH6.45",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "psal",
+  "spellings": [
+   "Pſal"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.2",
+   "N096",
+   "N144",
+   "N153",
+   "CH5.20",
+   "N210",
+   "N266",
+   "N271",
+   "N273",
+   "N298",
+   "N303"
+  ],
+  "occurs_at": [
+   "N001",
+   "MICRO.2",
+   "N096",
+   "N144",
+   "N153",
+   "CH5.20",
+   "N210",
+   "N266",
+   "N271",
+   "N273",
+   "N298",
+   "N303"
+  ]
+ },
+ {
+  "key": "sound",
+  "spellings": [
+   "Sound"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.46"
+  ],
+  "occurs_at": [
+   "CH1.1",
+   "CH1.6",
+   "CH1.40",
+   "CH3.10",
+   "CH4.12",
+   "CH4.13",
+   "CH5.20",
+   "CH5.56",
+   "CH6.46",
+   "CH6.54",
+   "CH6.56",
+   "CH6.60"
+  ]
+ },
+ {
+  "key": "holy spirit",
+  "spellings": [
+   "Holy Spirit"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.10"
+  ],
+  "occurs_at": [
+   "OPEN.10",
+   "CH1.1",
+   "CH1.40",
+   "MICRO.7",
+   "MICRO.8",
+   "MICRO.9",
+   "MICRO.14",
+   "CH2.10",
+   "CH3.46",
+   "CH5.7",
+   "CH6.21"
+  ]
+ },
+ {
+  "key": "intellectuall",
+  "spellings": [
+   "Intellectuall"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.19",
+   "CH5.20"
+  ],
+  "occurs_at": [
+   "CH1.7",
+   "MICRO.14",
+   "MICRO.17",
+   "MICRO.18",
+   "MICRO.19",
+   "MICRO.23",
+   "MICRO.25",
+   "MICRO.27",
+   "N178",
+   "CH5.13",
+   "CH5.20"
+  ]
+ },
+ {
+  "key": "naturally",
+  "spellings": [
+   "Naturally"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.21"
+  ],
+  "occurs_at": [
+   "CH1.41",
+   "MICRO.36",
+   "CH2.2",
+   "CH2.7",
+   "N139",
+   "CH2.21",
+   "CH3.34",
+   "CH4.6",
+   "N244",
+   "CH6.21",
+   "CH6.55"
+  ]
+ },
+ {
+  "key": "galen",
+  "spellings": [
+   "Galen"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.14",
+   "MICRO.31",
+   "CH3.40",
+   "CH4.2",
+   "CH4.6",
+   "CH5.1",
+   "CH5.7",
+   "CH5.43",
+   "CH5.48"
+  ],
+  "occurs_at": [
+   "OPEN.14",
+   "MICRO.31",
+   "CH3.40",
+   "CH4.2",
+   "CH4.6",
+   "CH5.1",
+   "CH5.7",
+   "CH5.43",
+   "CH5.47",
+   "CH5.48"
+  ]
+ },
+ {
+  "key": "gen",
+  "spellings": [
+   "Gen"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N055",
+   "N093",
+   "N104",
+   "N107",
+   "N112",
+   "N114",
+   "N129",
+   "N212",
+   "CH5.79"
+  ],
+  "occurs_at": [
+   "N055",
+   "N093",
+   "N104",
+   "N107",
+   "N112",
+   "N114",
+   "N129",
+   "N212",
+   "CH5.79",
+   "N264"
+  ]
+ },
+ {
+  "key": "hermes",
+  "spellings": [
+   "Hermes"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.9",
+   "N107",
+   "CH3.4",
+   "CH6.27",
+   "CH6.45",
+   "CH6.50",
+   "CH6.68",
+   "N301"
+  ],
+  "occurs_at": [
+   "CH1.18",
+   "MICRO.9",
+   "N107",
+   "CH3.4",
+   "N264",
+   "CH6.27",
+   "CH6.45",
+   "CH6.50",
+   "CH6.68",
+   "N301"
+  ]
+ },
+ {
+  "key": "principles",
+  "spellings": [
+   "Principles"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.19"
+  ],
+  "occurs_at": [
+   "CH1.19",
+   "CH1.20",
+   "CH1.23",
+   "CH1.25",
+   "CH2.3",
+   "CH3.29",
+   "CH4.6",
+   "CH5.10",
+   "CH6.31",
+   "CH6.52"
+  ]
+ },
+ {
+  "key": "secondly",
+  "spellings": [
+   "Secondly"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.69",
+   "CH6.71"
+  ],
+  "occurs_at": [
+   "MICRO.39",
+   "CH2.26",
+   "CH3.18",
+   "CH3.23",
+   "CH5.12",
+   "CH5.45",
+   "CH5.64",
+   "CH5.69",
+   "CH6.71",
+   "CH6.74"
+  ]
+ },
+ {
+  "key": "chap",
+  "spellings": [
+   "Chap"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N113"
+  ],
+  "occurs_at": [
+   "CH1.0",
+   "N113",
+   "CH2.0",
+   "CH3.0",
+   "CH4.0",
+   "CH4.6",
+   "CH5.0",
+   "CH6.0",
+   "N304"
+  ]
+ },
+ {
+  "key": "i e",
+  "spellings": [
+   "i. e"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N052",
+   "CH1.24",
+   "CH1.42",
+   "N094",
+   "MICRO.32",
+   "N134",
+   "N310",
+   "N311"
+  ],
+  "occurs_at": [
+   "OPEN.7",
+   "N052",
+   "CH1.24",
+   "CH1.42",
+   "N094",
+   "MICRO.32",
+   "N134",
+   "N310",
+   "N311"
+  ]
+ },
+ {
+  "key": "lib",
+  "spellings": [
+   "Lib",
+   "lib"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N181",
+   "N306"
+  ],
+  "occurs_at": [
+   "N033",
+   "CH1.16",
+   "N056",
+   "N084",
+   "N181",
+   "N186",
+   "N231",
+   "N248",
+   "N306"
+  ]
+ },
+ {
+  "key": "third",
+  "spellings": [
+   "third"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.10"
+  ],
+  "occurs_at": [
+   "OPEN.10",
+   "CH1.6",
+   "CH1.19",
+   "MICRO.17",
+   "CH2.22",
+   "CH5.20",
+   "N218",
+   "CH5.41",
+   "CH5.52"
+  ]
+ },
+ {
+  "key": "chymicall",
+  "spellings": [
+   "Chymicall"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.7",
+   "OPEN.10"
+  ],
+  "occurs_at": [
+   "OPEN.3",
+   "OPEN.7",
+   "OPEN.10",
+   "OPEN.22",
+   "CH3.8",
+   "CH3.40",
+   "CH5.61",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "fourth",
+  "spellings": [
+   "Fourth"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.21"
+  ],
+  "occurs_at": [
+   "OPEN.15",
+   "CH1.6",
+   "CH1.21",
+   "N064",
+   "MICRO.24",
+   "MICRO.35",
+   "CH5.42",
+   "CH6.1"
+  ]
+ },
+ {
+  "key": "hermetick",
+  "spellings": [
+   "Hermetick"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.45"
+  ],
+  "occurs_at": [
+   "OPEN.10",
+   "MICRO.45",
+   "CH3.33",
+   "CH5.28",
+   "CH5.62",
+   "CH6.19",
+   "CH6.25",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "light of grace",
+  "spellings": [
+   "Light of Grace"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.13"
+  ],
+  "occurs_at": [
+   "OPEN.10",
+   "CH1.1",
+   "CH2.28",
+   "CH5.13",
+   "CH5.15",
+   "CH5.19",
+   "CH6.68",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "law",
+  "spellings": [
+   "Law"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.16"
+  ],
+  "occurs_at": [
+   "CH1.31",
+   "CH2.22",
+   "CH3.40",
+   "CH5.16",
+   "CH5.68",
+   "CH5.71",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "philosophy",
+  "spellings": [
+   "Philoſophy"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.7"
+  ],
+  "occurs_at": [
+   "OPEN.6",
+   "OPEN.7",
+   "OPEN.14",
+   "CH1.4",
+   "MICRO.31",
+   "CH5.1",
+   "CH5.19"
+  ]
+ },
+ {
+  "key": "watry",
+  "spellings": [
+   "Watry"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.10"
+  ],
+  "occurs_at": [
+   "OPEN.10",
+   "CH1.12",
+   "CH1.17",
+   "CH1.19",
+   "CH1.27",
+   "CH1.40",
+   "CH4.9"
+  ]
+ },
+ {
+  "key": "adam",
+  "spellings": [
+   "Adam"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.16",
+   "MICRO.17",
+   "N118",
+   "MICRO.31",
+   "N121",
+   "CH6.71"
+  ],
+  "occurs_at": [
+   "CH1.16",
+   "MICRO.17",
+   "N118",
+   "MICRO.31",
+   "N121",
+   "CH6.71"
+  ]
+ },
+ {
+  "key": "prophets",
+  "spellings": [
+   "Prophets"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.15"
+  ],
+  "occurs_at": [
+   "N046",
+   "CH2.15",
+   "N151",
+   "CH2.22",
+   "CH5.20",
+   "N301"
+  ]
+ },
+ {
+  "key": "prov",
+  "spellings": [
+   "Prov"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N266",
+   "N268",
+   "N271",
+   "N272",
+   "N280",
+   "N281"
+  ],
+  "occurs_at": [
+   "N266",
+   "N268",
+   "N271",
+   "N272",
+   "N280",
+   "N281"
+  ]
+ },
+ {
+  "key": "thirdly",
+  "spellings": [
+   "Thirdly"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.70"
+  ],
+  "occurs_at": [
+   "MICRO.40",
+   "CH2.27",
+   "CH3.19",
+   "CH3.24",
+   "CH5.46",
+   "CH5.70"
+  ]
+ },
+ {
+  "key": "true wisdome",
+  "spellings": [
+   "true Wiſdome"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.44"
+  ],
+  "occurs_at": [
+   "MICRO.1",
+   "MICRO.2",
+   "MICRO.7",
+   "MICRO.9",
+   "MICRO.44",
+   "CH5.19"
+  ]
+ },
+ {
+  "key": "apoc",
+  "spellings": [
+   "Apoc"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N086",
+   "N091",
+   "N211",
+   "N268",
+   "N269"
+  ],
+  "occurs_at": [
+   "N086",
+   "N091",
+   "N211",
+   "N268",
+   "N269"
+  ]
+ },
+ {
+  "key": "archaeus",
+  "spellings": [
+   "Archaeus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.33"
+  ],
+  "occurs_at": [
+   "N123",
+   "CH4.6",
+   "CH5.33",
+   "CH5.34",
+   "CH5.44"
+  ]
+ },
+ {
+  "key": "fiat",
+  "spellings": [
+   "Fiat"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N101"
+  ],
+  "occurs_at": [
+   "CH1.19",
+   "N101",
+   "MICRO.22",
+   "CH2.17",
+   "CH2.20"
+  ]
+ },
+ {
+  "key": "job",
+  "spellings": [
+   "Job"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N251",
+   "N252",
+   "N257",
+   "N268",
+   "N276"
+  ],
+  "occurs_at": [
+   "N251",
+   "N252",
+   "N257",
+   "N268",
+   "N276"
+  ]
+ },
+ {
+  "key": "kings",
+  "spellings": [
+   "Kings"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N156"
+  ],
+  "occurs_at": [
+   "N156",
+   "CH5.14",
+   "CH6.27",
+   "CH6.35",
+   "CH6.48"
+  ]
+ },
+ {
+  "key": "limus",
+  "spellings": [
+   "Limus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.12"
+  ],
+  "occurs_at": [
+   "MICRO.12",
+   "MICRO.17",
+   "MICRO.23",
+   "CH3.12",
+   "CH6.68"
+  ]
+ },
+ {
+  "key": "plato",
+  "spellings": [
+   "Plato"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.3",
+   "CH3.31",
+   "CH5.25",
+   "CH5.68"
+  ],
+  "occurs_at": [
+   "CH1.18",
+   "MICRO.3",
+   "CH3.31",
+   "CH5.25",
+   "CH5.68"
+  ]
+ },
+ {
+  "key": "triune",
+  "spellings": [
+   "Triune"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.19",
+   "MICRO.20",
+   "CH2.18"
+  ],
+  "occurs_at": [
+   "CH1.19",
+   "MICRO.20",
+   "MICRO.21",
+   "CH2.18",
+   "CH6.31"
+  ]
+ },
+ {
+  "key": "characters",
+  "spellings": [
+   "Characters"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.16",
+   "CH2.21"
+  ],
+  "occurs_at": [
+   "CH2.5",
+   "CH2.16",
+   "N147",
+   "CH2.21"
+  ]
+ },
+ {
+  "key": "contraryes",
+  "spellings": [
+   "Contraryes"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH4.1"
+  ],
+  "occurs_at": [
+   "CH4.1",
+   "CH4.2",
+   "CH4.5",
+   "CH4.6"
+  ]
+ },
+ {
+  "key": "cor",
+  "spellings": [
+   "Cor"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N079",
+   "N210",
+   "N229",
+   "N303"
+  ],
+  "occurs_at": [
+   "N079",
+   "N210",
+   "N229",
+   "N303"
+  ]
+ },
+ {
+  "key": "es",
+  "spellings": [
+   "Eſ"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N112",
+   "N268",
+   "N303"
+  ],
+  "occurs_at": [
+   "N059",
+   "N112",
+   "N268",
+   "N303"
+  ]
+ },
+ {
+  "key": "france",
+  "spellings": [
+   "France"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.45",
+   "CH6.32",
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "OPEN.3",
+   "MICRO.45",
+   "CH6.32",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "limus terrae",
+  "spellings": [
+   "Limus Terrae"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.12",
+   "MICRO.17",
+   "MICRO.23",
+   "CH6.68"
+  ],
+  "occurs_at": [
+   "MICRO.12",
+   "MICRO.17",
+   "MICRO.23",
+   "CH6.68"
+  ]
+ },
+ {
+  "key": "luke",
+  "spellings": [
+   "Luke"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N078",
+   "N114",
+   "N148"
+  ],
+  "occurs_at": [
+   "N001",
+   "N078",
+   "N114",
+   "N148"
+  ]
+ },
+ {
+  "key": "mat",
+  "spellings": [
+   "Mat"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N149",
+   "N250",
+   "N318"
+  ],
+  "occurs_at": [
+   "N001",
+   "N149",
+   "N250",
+   "N318"
+  ]
+ },
+ {
+  "key": "moses",
+  "spellings": [
+   "Moſes"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.10",
+   "MICRO.40",
+   "CH3.41",
+   "CH6.51"
+  ],
+  "occurs_at": [
+   "MICRO.10",
+   "MICRO.40",
+   "CH3.41",
+   "CH6.51"
+  ]
+ },
+ {
+  "key": "paracel",
+  "spellings": [
+   "Paracel"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N180",
+   "N244",
+   "N258",
+   "N295"
+  ],
+  "occurs_at": [
+   "N180",
+   "N244",
+   "N258",
+   "N295"
+  ]
+ },
+ {
+  "key": "really",
+  "spellings": [
+   "Really"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "MICRO.30",
+   "CH3.46",
+   "CH5.10",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "severinus",
+  "spellings": [
+   "Severinus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.22",
+   "CH1.25"
+  ],
+  "occurs_at": [
+   "CH1.13",
+   "CH1.22",
+   "CH1.25",
+   "MICRO.45"
+  ]
+ },
+ {
+  "key": "signes",
+  "spellings": [
+   "Signes"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.16"
+  ],
+  "occurs_at": [
+   "CH1.34",
+   "MICRO.32",
+   "CH2.16",
+   "CH4.6"
+  ]
+ },
+ {
+  "key": "apollo",
+  "spellings": [
+   "Apollo"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.1",
+   "CH6.13",
+   "CH6.51"
+  ],
+  "occurs_at": [
+   "MICRO.1",
+   "CH6.13",
+   "CH6.51"
+  ]
+ },
+ {
+  "key": "bohemia",
+  "spellings": [
+   "Bohemia"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH4.13",
+   "CH5.77"
+  ],
+  "occurs_at": [
+   "OPEN.3",
+   "CH4.13",
+   "CH5.77"
+  ]
+ },
+ {
+  "key": "cap",
+  "spellings": [
+   "cap"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N181"
+  ],
+  "occurs_at": [
+   "CH1.16",
+   "N181",
+   "N222"
+  ]
+ },
+ {
+  "key": "digestion",
+  "spellings": [
+   "digeſtion"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.33"
+  ],
+  "occurs_at": [
+   "CH4.8",
+   "CH5.33",
+   "N217"
+  ]
+ },
+ {
+  "key": "galens",
+  "spellings": [
+   "Galens"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.15",
+   "CH3.40",
+   "CH3.41"
+  ],
+  "occurs_at": [
+   "OPEN.15",
+   "CH3.40",
+   "CH3.41"
+  ]
+ },
+ {
+  "key": "germany",
+  "spellings": [
+   "Germany"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.40",
+   "CH5.17"
+  ],
+  "occurs_at": [
+   "OPEN.3",
+   "CH3.40",
+   "CH5.17"
+  ]
+ },
+ {
+  "key": "hippocraticall",
+  "spellings": [
+   "Hippocraticall"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH4.6"
+  ],
+  "occurs_at": [
+   "CH4.3",
+   "CH4.6",
+   "CH5.50"
+  ]
+ },
+ {
+  "key": "justice",
+  "spellings": [
+   "Juſtice"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.3"
+  ],
+  "occurs_at": [
+   "N151",
+   "CH3.3",
+   "N163"
+  ]
+ },
+ {
+  "key": "limbus",
+  "spellings": [
+   "Limbus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.17"
+  ],
+  "occurs_at": [
+   "N101",
+   "MICRO.17",
+   "N122"
+  ]
+ },
+ {
+  "key": "lully",
+  "spellings": [
+   "Lully"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N268"
+  ],
+  "occurs_at": [
+   "CH3.36",
+   "CH5.28",
+   "N268"
+  ]
+ },
+ {
+  "key": "mentall",
+  "spellings": [
+   "Mentall"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.20"
+  ],
+  "occurs_at": [
+   "CH5.20",
+   "CH6.73",
+   "CH6.74"
+  ]
+ },
+ {
+  "key": "prague",
+  "spellings": [
+   "Prague"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.32",
+   "CH4.14"
+  ],
+  "occurs_at": [
+   "CH3.32",
+   "CH4.13",
+   "CH4.14"
+  ]
+ },
+ {
+  "key": "rom",
+  "spellings": [
+   "Rom"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N178",
+   "N298"
+  ],
+  "occurs_at": [
+   "N178",
+   "N269",
+   "N298"
+  ]
+ },
+ {
+  "key": "triunity",
+  "spellings": [
+   "Triunity"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.19",
+   "MICRO.19"
+  ],
+  "occurs_at": [
+   "CH1.19",
+   "MICRO.19",
+   "CH6.77"
+  ]
+ },
+ {
+  "key": "vegetable animall",
+  "spellings": [
+   "Vegetable, Animall"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.2"
+  ],
+  "occurs_at": [
+   "CH2.2",
+   "N134",
+   "CH3.9"
+  ]
+ },
+ {
+  "key": "war",
+  "spellings": [
+   "War"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.5"
+  ],
+  "occurs_at": [
+   "CH3.5",
+   "CH3.6",
+   "N307"
+  ]
+ },
+ {
+  "key": "wisd",
+  "spellings": [
+   "Wiſd"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N112",
+   "N163",
+   "N266"
+  ],
+  "occurs_at": [
+   "N112",
+   "N163",
+   "N266"
+  ]
+ },
+ {
+  "key": "acts",
+  "spellings": [
+   "Acts"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N113",
+   "N145"
+  ],
+  "occurs_at": [
+   "N113",
+   "N145"
+  ]
+ },
+ {
+  "key": "agrippa",
+  "spellings": [
+   "Agrippa"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.16",
+   "CH3.31"
+  ],
+  "occurs_at": [
+   "CH2.16",
+   "CH3.31"
+  ]
+ },
+ {
+  "key": "agryppa",
+  "spellings": [
+   "Agryppa"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.1"
+  ],
+  "occurs_at": [
+   "MICRO.1",
+   "N222"
+  ]
+ },
+ {
+  "key": "albertus",
+  "spellings": [
+   "Albertus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.35"
+  ],
+  "occurs_at": [
+   "CH3.34",
+   "CH3.35"
+  ]
+ },
+ {
+  "key": "anaxagoras",
+  "spellings": [
+   "Anaxagoras"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N009",
+   "CH3.30"
+  ],
+  "occurs_at": [
+   "N009",
+   "CH3.30"
+  ]
+ },
+ {
+  "key": "arabians",
+  "spellings": [
+   "Arabians"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.31",
+   "CH5.60"
+  ],
+  "occurs_at": [
+   "CH3.31",
+   "CH5.60"
+  ]
+ },
+ {
+  "key": "arcana",
+  "spellings": [
+   "Arcana"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.7"
+  ],
+  "occurs_at": [
+   "CH1.43",
+   "CH5.7"
+  ]
+ },
+ {
+  "key": "aristotle",
+  "spellings": [
+   "Ariſtotle"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.31",
+   "CH3.30"
+  ],
+  "occurs_at": [
+   "MICRO.31",
+   "CH3.30"
+  ]
+ },
+ {
+  "key": "athenian",
+  "spellings": [
+   "Athenian"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.12"
+  ],
+  "occurs_at": [
+   "OPEN.12",
+   "CH3.45"
+  ]
+ },
+ {
+  "key": "avicen",
+  "spellings": [
+   "Avicen"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.31",
+   "CH5.78"
+  ],
+  "occurs_at": [
+   "CH3.31",
+   "CH5.78"
+  ]
+ },
+ {
+  "key": "cabala",
+  "spellings": [
+   "Cabala"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.10"
+  ],
+  "occurs_at": [
+   "OPEN.10",
+   "CH5.20"
+  ]
+ },
+ {
+  "key": "cabalists",
+  "spellings": [
+   "Cabalists"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.15"
+  ],
+  "occurs_at": [
+   "CH2.15",
+   "CH6.64"
+  ]
+ },
+ {
+  "key": "christian anhaltin",
+  "spellings": [
+   "CHRISTIAN ANHALTIN"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "OPEN.0",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "dane",
+  "spellings": [
+   "Dane"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.13"
+  ],
+  "occurs_at": [
+   "CH1.13",
+   "MICRO.45"
+  ]
+ },
+ {
+  "key": "david",
+  "spellings": [
+   "David"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.2"
+  ],
+  "occurs_at": [
+   "MICRO.2",
+   "CH5.20"
+  ]
+ },
+ {
+  "key": "diana",
+  "spellings": [
+   "Diana"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.21"
+  ],
+  "occurs_at": [
+   "OPEN.21",
+   "CH6.31"
+  ]
+ },
+ {
+  "key": "e limo terrae",
+  "spellings": [
+   "è limo terrae",
+   "è Limo Terrae"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.11",
+   "MICRO.22"
+  ],
+  "occurs_at": [
+   "MICRO.11",
+   "MICRO.22"
+  ]
+ },
+ {
+  "key": "ecclesiastic",
+  "spellings": [
+   "Eccleſiaſtic"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N237",
+   "N260"
+  ],
+  "occurs_at": [
+   "N237",
+   "N260"
+  ]
+ },
+ {
+  "key": "ecclesiasticus",
+  "spellings": [
+   "Eccleſiaſticus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.4"
+  ],
+  "occurs_at": [
+   "N017",
+   "CH3.4"
+  ]
+ },
+ {
+  "key": "elias",
+  "spellings": [
+   "Elias"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.10"
+  ],
+  "occurs_at": [
+   "OPEN.10",
+   "CH2.22"
+  ]
+ },
+ {
+  "key": "eve",
+  "spellings": [
+   "Eve"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.31",
+   "N121"
+  ],
+  "occurs_at": [
+   "MICRO.31",
+   "N121"
+  ]
+ },
+ {
+  "key": "exod",
+  "spellings": [
+   "Exod"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N276",
+   "N303"
+  ],
+  "occurs_at": [
+   "N276",
+   "N303"
+  ]
+ },
+ {
+  "key": "fourthly",
+  "spellings": [
+   "Fourthly"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.71"
+  ],
+  "occurs_at": [
+   "CH3.25",
+   "CH5.71"
+  ]
+ },
+ {
+  "key": "gamahaea",
+  "spellings": [
+   "Gamahaea"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.35"
+  ],
+  "occurs_at": [
+   "MICRO.35",
+   "CH2.21"
+  ]
+ },
+ {
+  "key": "grecians",
+  "spellings": [
+   "Grecians"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.2",
+   "CH5.60"
+  ],
+  "occurs_at": [
+   "OPEN.2",
+   "CH5.60"
+  ]
+ },
+ {
+  "key": "homer",
+  "spellings": [
+   "Homer"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.26",
+   "CH3.5"
+  ],
+  "occurs_at": [
+   "CH2.26",
+   "CH3.5"
+  ]
+ },
+ {
+  "key": "levit",
+  "spellings": [
+   "Levit"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N265",
+   "N272"
+  ],
+  "occurs_at": [
+   "N265",
+   "N272"
+  ]
+ },
+ {
+  "key": "lullius",
+  "spellings": [
+   "Lullius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N180",
+   "CH6.44"
+  ],
+  "occurs_at": [
+   "N180",
+   "CH6.44"
+  ]
+ },
+ {
+  "key": "lyons",
+  "spellings": [
+   "Lyons"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "OPEN.21",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "marke",
+  "spellings": [
+   "Marke"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N249"
+  ],
+  "occurs_at": [
+   "CH5.77",
+   "N249"
+  ]
+ },
+ {
+  "key": "minerva",
+  "spellings": [
+   "Minerva"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "N253",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "morienes",
+  "spellings": [
+   "Morienes"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.36"
+  ],
+  "occurs_at": [
+   "CH3.36",
+   "N264"
+  ]
+ },
+ {
+  "key": "orpheus",
+  "spellings": [
+   "Orpheus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.30",
+   "N301"
+  ],
+  "occurs_at": [
+   "CH3.30",
+   "N301"
+  ]
+ },
+ {
+  "key": "paraces",
+  "spellings": [
+   "Paraceſ"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N096"
+  ],
+  "occurs_at": [
+   "N096",
+   "N122"
+  ]
+ },
+ {
+  "key": "pet",
+  "spellings": [
+   "Pet"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N104"
+  ],
+  "occurs_at": [
+   "N104",
+   "CH5.17"
+  ]
+ },
+ {
+  "key": "phil",
+  "spellings": [
+   "Phil"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N210",
+   "N297"
+  ],
+  "occurs_at": [
+   "N210",
+   "N297"
+  ]
+ },
+ {
+  "key": "picus",
+  "spellings": [
+   "Picus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N124"
+  ],
+  "occurs_at": [
+   "N124",
+   "CH5.3"
+  ]
+ },
+ {
+  "key": "plato's",
+  "spellings": [
+   "Plato's"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.18"
+  ],
+  "occurs_at": [
+   "CH1.18",
+   "N051"
+  ]
+ },
+ {
+  "key": "pythagoras",
+  "spellings": [
+   "Pythagoras"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.21"
+  ],
+  "occurs_at": [
+   "OPEN.21",
+   "CH1.18"
+  ]
+ },
+ {
+  "key": "riplaeus",
+  "spellings": [
+   "Riplaeus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.38"
+  ],
+  "occurs_at": [
+   "CH3.37",
+   "CH3.38"
+  ]
+ },
+ {
+  "key": "roger bacon",
+  "spellings": [
+   "Roger Bacon"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.3",
+   "N254"
+  ],
+  "occurs_at": [
+   "CH3.3",
+   "N254"
+  ]
+ },
+ {
+  "key": "sabbath",
+  "spellings": [
+   "Sabbath"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.20"
+  ],
+  "occurs_at": [
+   "CH5.20",
+   "CH6.68"
+  ]
+ },
+ {
+  "key": "samaritan",
+  "spellings": [
+   "Samaritan"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.8"
+  ],
+  "occurs_at": [
+   "OPEN.8",
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "sol",
+  "spellings": [
+   "ſol"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N295"
+  ],
+  "occurs_at": [
+   "N231",
+   "N295"
+  ]
+ },
+ {
+  "key": "sound body",
+  "spellings": [
+   "Sound Body"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.46"
+  ],
+  "occurs_at": [
+   "CH1.40",
+   "CH6.46"
+  ]
+ },
+ {
+  "key": "spagyrik",
+  "spellings": [
+   "Spagyrik"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.9"
+  ],
+  "occurs_at": [
+   "OPEN.3",
+   "OPEN.9"
+  ]
+ },
+ {
+  "key": "sulphur mercury",
+  "spellings": [
+   "Sulphur, Mercury"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.33"
+  ],
+  "occurs_at": [
+   "CH1.29",
+   "CH5.33"
+  ]
+ },
+ {
+  "key": "the fulnesse",
+  "spellings": [
+   "The Fulneſſe"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.18"
+  ],
+  "occurs_at": [
+   "CH2.18",
+   "CH6.68"
+  ]
+ },
+ {
+  "key": "theologicall",
+  "spellings": [
+   "Theologicall"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.18"
+  ],
+  "occurs_at": [
+   "CH5.13",
+   "CH5.18"
+  ]
+ },
+ {
+  "key": "theophrastus paracelsus",
+  "spellings": [
+   "Theophraſtus Paracelſus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.20",
+   "CH5.17"
+  ],
+  "occurs_at": [
+   "CH2.20",
+   "CH5.17"
+  ]
+ },
+ {
+  "key": "tob",
+  "spellings": [
+   "Tob"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N272",
+   "N273"
+  ],
+  "occurs_at": [
+   "N272",
+   "N273"
+  ]
+ },
+ {
+  "key": "zech",
+  "spellings": [
+   "Zech"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N210"
+  ],
+  "occurs_at": [
+   "N017",
+   "N210"
+  ]
+ },
+ {
+  "key": "& c viz",
+  "spellings": [
+   "c. Viz"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.39"
+  ],
+  "occurs_at": [
+   "CH1.39"
+  ]
+ },
+ {
+  "key": "1 27 28",
+  "spellings": [
+   "1.27, 28"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N264"
+  ],
+  "occurs_at": [
+   "N264"
+  ]
+ },
+ {
+  "key": "aaistotle",
+  "spellings": [
+   "Aaiſtotle"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.1"
+  ],
+  "occurs_at": [
+   "CH5.1"
+  ]
+ },
+ {
+  "key": "achates",
+  "spellings": [
+   "Achates"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.45"
+  ],
+  "occurs_at": [
+   "MICRO.45"
+  ]
+ },
+ {
+  "key": "actaeon",
+  "spellings": [
+   "Actaeon"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.2"
+  ],
+  "occurs_at": [
+   "OPEN.2"
+  ]
+ },
+ {
+  "key": "adams",
+  "spellings": [
+   "Adams"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.71"
+  ],
+  "occurs_at": [
+   "CH6.71"
+  ]
+ },
+ {
+  "key": "admonitary preface",
+  "spellings": [
+   "Admonitary Preface"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.23"
+  ],
+  "occurs_at": [
+   "OPEN.23"
+  ]
+ },
+ {
+  "key": "admonitory preface of",
+  "spellings": [
+   "Admonitory Preface OF"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.0"
+  ],
+  "occurs_at": [
+   "OPEN.0"
+  ]
+ },
+ {
+  "key": "aegypt",
+  "spellings": [
+   "Aegypt"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.18"
+  ],
+  "occurs_at": [
+   "CH1.18"
+  ]
+ },
+ {
+  "key": "aegyptian",
+  "spellings": [
+   "Aegyptian"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N258"
+  ],
+  "occurs_at": [
+   "N258"
+  ]
+ },
+ {
+  "key": "aelianus",
+  "spellings": [
+   "Aelianus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.71"
+  ],
+  "occurs_at": [
+   "CH5.71"
+  ]
+ },
+ {
+  "key": "aeschylus",
+  "spellings": [
+   "Aeſchylus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.6"
+  ],
+  "occurs_at": [
+   "OPEN.6"
+  ]
+ },
+ {
+  "key": "aesop's",
+  "spellings": [
+   "Aeſop's"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "agryppa de vanit te scientiam cap de medicina",
+  "spellings": [
+   "Agryppa de vanit te Scientiam. cap. de medicina"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N222"
+  ],
+  "occurs_at": [
+   "N222"
+  ]
+ },
+ {
+  "key": "albertus magnus",
+  "spellings": [
+   "Albertus Magnus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.34"
+  ],
+  "occurs_at": [
+   "CH3.34"
+  ]
+ },
+ {
+  "key": "almost forgotten and unknown",
+  "spellings": [
+   "almoſt forgotten and unknown"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.24"
+  ],
+  "occurs_at": [
+   "OPEN.24"
+  ]
+ },
+ {
+  "key": "alphidius",
+  "spellings": [
+   "Alphidius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.25"
+  ],
+  "occurs_at": [
+   "CH6.25"
+  ]
+ },
+ {
+  "key": "altomarus",
+  "spellings": [
+   "Altomarus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.48"
+  ],
+  "occurs_at": [
+   "CH5.48"
+  ]
+ },
+ {
+  "key": "america",
+  "spellings": [
+   "America"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.12"
+  ],
+  "occurs_at": [
+   "CH1.12"
+  ]
+ },
+ {
+  "key": "anathema",
+  "spellings": [
+   "Anathema"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N281"
+  ],
+  "occurs_at": [
+   "N281"
+  ]
+ },
+ {
+  "key": "anathema's",
+  "spellings": [
+   "Anathema's"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.44"
+  ],
+  "occurs_at": [
+   "CH6.44"
+  ]
+ },
+ {
+  "key": "angerona",
+  "spellings": [
+   "Angerona"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.2"
+  ],
+  "occurs_at": [
+   "OPEN.2"
+  ]
+ },
+ {
+  "key": "anwalding panacaea",
+  "spellings": [
+   "Anwalding Panacaea"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.77"
+  ],
+  "occurs_at": [
+   "CH5.77"
+  ]
+ },
+ {
+  "key": "archid",
+  "spellings": [
+   "Archid"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N307"
+  ],
+  "occurs_at": [
+   "N307"
+  ]
+ },
+ {
+  "key": "argenterius",
+  "spellings": [
+   "Argenterius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.48"
+  ],
+  "occurs_at": [
+   "CH5.48"
+  ]
+ },
+ {
+  "key": "aristotelians",
+  "spellings": [
+   "Ariſtotelians"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.17"
+  ],
+  "occurs_at": [
+   "CH5.17"
+  ]
+ },
+ {
+  "key": "asa",
+  "spellings": [
+   "Aſa"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.12"
+  ],
+  "occurs_at": [
+   "CH2.12"
+  ]
+ },
+ {
+  "key": "astrers",
+  "spellings": [
+   "Aſtrers"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N065"
+  ],
+  "occurs_at": [
+   "N065"
+  ]
+ },
+ {
+  "key": "athenian thrasos",
+  "spellings": [
+   "Athenian Thraſos"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.45"
+  ],
+  "occurs_at": [
+   "CH3.45"
+  ]
+ },
+ {
+  "key": "athenians",
+  "spellings": [
+   "Athenians"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.40"
+  ],
+  "occurs_at": [
+   "CH6.40"
+  ]
+ },
+ {
+  "key": "august",
+  "spellings": [
+   "Auguſt"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N082"
+  ],
+  "occurs_at": [
+   "N082"
+  ]
+ },
+ {
+  "key": "bappenheimie",
+  "spellings": [
+   "BAPPENHEIMIE"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "bloody judgement of the son",
+  "spellings": [
+   "Bloody Judgement of the Son"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.10"
+  ],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "bohemian",
+  "spellings": [
+   "Bohemian"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.26"
+  ],
+  "occurs_at": [
+   "CH3.26"
+  ]
+ },
+ {
+  "key": "brandeburge",
+  "spellings": [
+   "Brandeburge"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH4.13"
+  ],
+  "occurs_at": [
+   "CH4.13"
+  ]
+ },
+ {
+  "key": "cadmus",
+  "spellings": [
+   "Cadmus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.45"
+  ],
+  "occurs_at": [
+   "CH5.45"
+  ]
+ },
+ {
+  "key": "caldeans",
+  "spellings": [
+   "Caldeans"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.31"
+  ],
+  "occurs_at": [
+   "CH3.31"
+  ]
+ },
+ {
+  "key": "calid",
+  "spellings": [
+   "Calid"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.36"
+  ],
+  "occurs_at": [
+   "CH3.36"
+  ]
+ },
+ {
+  "key": "call upon me in the day of thy trouble i will deliver thee and thou shalt glorifie me",
+  "spellings": [
+   "Call upon me in the day of thy trouble, I will deliver thee, and thou ſhalt glorifie me"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.62"
+  ],
+  "occurs_at": [
+   "CH5.62"
+  ]
+ },
+ {
+  "key": "capernaum",
+  "spellings": [
+   "Capernaum"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.80"
+  ],
+  "occurs_at": [
+   "CH5.80"
+  ]
+ },
+ {
+  "key": "celsus",
+  "spellings": [
+   "Celſus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.7"
+  ],
+  "occurs_at": [
+   "CH2.7"
+  ]
+ },
+ {
+  "key": "chap i",
+  "spellings": [
+   "CHAP. I"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.0"
+  ],
+  "occurs_at": [
+   "CH1.0"
+  ]
+ },
+ {
+  "key": "chap ii",
+  "spellings": [
+   "CHAP. II"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.0"
+  ],
+  "occurs_at": [
+   "CH2.0"
+  ]
+ },
+ {
+  "key": "chap iii",
+  "spellings": [
+   "CHAP. III"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.0"
+  ],
+  "occurs_at": [
+   "CH3.0"
+  ]
+ },
+ {
+  "key": "chap iv",
+  "spellings": [
+   "CHAP. IV"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH4.0"
+  ],
+  "occurs_at": [
+   "CH4.0"
+  ]
+ },
+ {
+  "key": "chap v",
+  "spellings": [
+   "CHAP. V"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.0"
+  ],
+  "occurs_at": [
+   "CH5.0"
+  ]
+ },
+ {
+  "key": "chap vi",
+  "spellings": [
+   "CHAP. VI"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.0"
+  ],
+  "occurs_at": [
+   "CH6.0"
+  ]
+ },
+ {
+  "key": "chro",
+  "spellings": [
+   "Chro"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N143"
+  ],
+  "occurs_at": [
+   "N143"
+  ]
+ },
+ {
+  "key": "chymicks",
+  "spellings": [
+   "Chymicks"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.10"
+  ],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "col",
+  "spellings": [
+   "Col"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N229"
+  ],
+  "occurs_at": [
+   "N229"
+  ]
+ },
+ {
+  "key": "coleine",
+  "spellings": [
+   "Coleine"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.54"
+  ],
+  "occurs_at": [
+   "CH5.54"
+  ]
+ },
+ {
+  "key": "colossians",
+  "spellings": [
+   "Coloſſians"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.62"
+  ],
+  "occurs_at": [
+   "CH5.62"
+  ]
+ },
+ {
+  "key": "comaedian",
+  "spellings": [
+   "Comaedian"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.13"
+  ],
+  "occurs_at": [
+   "OPEN.13"
+  ]
+ },
+ {
+  "key": "conradus",
+  "spellings": [
+   "Conradus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "created word",
+  "spellings": [
+   "Created Word"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.18"
+  ],
+  "occurs_at": [
+   "CH2.18"
+  ]
+ },
+ {
+  "key": "cui in aeternum bene sit & cumprimis egregium helioch antharum bor ealem nunc in christo quiescentem cujusmodi lentis denique consueverunt latitare temporum curricvlis",
+  "spellings": [
+   "Cui in aeternum bene ſIt, & Cumprimis egregium Helioch Antharum bor EaLem, nunc in Chriſto quieſcentem: cujuSmodi lENtis DenIque conſueVerunt latitare tempOrum currIcVlis"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.37"
+  ],
+  "occurs_at": [
+   "CH6.37"
+  ]
+ },
+ {
+  "key": "cyclopean",
+  "spellings": [
+   "Cyclopean"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.13"
+  ],
+  "occurs_at": [
+   "OPEN.13"
+  ]
+ },
+ {
+  "key": "d peter vrsin a rosis",
+  "spellings": [
+   "D. Peter Ʋrſin à Roſis"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.32"
+  ],
+  "occurs_at": [
+   "CH3.32"
+  ]
+ },
+ {
+  "key": "damascen let thy medicines be few whose vertue and operations thou hast often tryed",
+  "spellings": [
+   "Damaſcen, Let thy Medicines be few, whoſe vertue and operations thou haſt often tryed"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.6"
+  ],
+  "occurs_at": [
+   "OPEN.6"
+  ]
+ },
+ {
+  "key": "david psal",
+  "spellings": [
+   "David, Pſal"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.20"
+  ],
+  "occurs_at": [
+   "CH5.20"
+  ]
+ },
+ {
+  "key": "dayly bread",
+  "spellings": [
+   "Dayly Bread"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.19"
+  ],
+  "occurs_at": [
+   "CH2.19"
+  ]
+ },
+ {
+  "key": "de origine morbor cap",
+  "spellings": [
+   "de origine morbor. cap"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.16"
+  ],
+  "occurs_at": [
+   "CH1.16"
+  ]
+ },
+ {
+  "key": "delphos",
+  "spellings": [
+   "Delphos"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.1"
+  ],
+  "occurs_at": [
+   "MICRO.1"
+  ]
+ },
+ {
+  "key": "democritus pythagoras plato apollonius",
+  "spellings": [
+   "Democritus, Pythagoras, Plato, Apollonius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.18"
+  ],
+  "occurs_at": [
+   "CH1.18"
+  ]
+ },
+ {
+  "key": "den",
+  "spellings": [
+   "Den"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N246"
+  ],
+  "occurs_at": [
+   "N246"
+  ]
+ },
+ {
+  "key": "depestiliae",
+  "spellings": [
+   "depeſtiliae"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N242"
+  ],
+  "occurs_at": [
+   "N242"
+  ]
+ },
+ {
+  "key": "diogenes",
+  "spellings": [
+   "Diogenes"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.18"
+  ],
+  "occurs_at": [
+   "OPEN.18"
+  ]
+ },
+ {
+  "key": "dionysius",
+  "spellings": [
+   "Dionyſius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.5"
+  ],
+  "occurs_at": [
+   "MICRO.5"
+  ]
+ },
+ {
+  "key": "div dionys",
+  "spellings": [
+   "Div. Dionyſ"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N209"
+  ],
+  "occurs_at": [
+   "N209"
+  ]
+ },
+ {
+  "key": "divine word onely",
+  "spellings": [
+   "Divine Word onely"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.18"
+  ],
+  "occurs_at": [
+   "CH2.18"
+  ]
+ },
+ {
+  "key": "do all in the name of the lord jhsvh christ giving thanks to him and to god by him",
+  "spellings": [
+   "do all in the NAME of the LORD JHSƲH Chriſt, giving thanks to him and to God by him"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.62"
+  ],
+  "occurs_at": [
+   "CH5.62"
+  ]
+ },
+ {
+  "key": "ecel",
+  "spellings": [
+   "Ecel"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N230"
+  ],
+  "occurs_at": [
+   "N230"
+  ]
+ },
+ {
+  "key": "eden",
+  "spellings": [
+   "Eden"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.21"
+  ],
+  "occurs_at": [
+   "CH5.21"
+  ]
+ },
+ {
+  "key": "eightly",
+  "spellings": [
+   "Eightly"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.81"
+  ],
+  "occurs_at": [
+   "CH5.81"
+  ]
+ },
+ {
+  "key": "elias elisha",
+  "spellings": [
+   "Elias, Eliſha"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.22"
+  ],
+  "occurs_at": [
+   "CH2.22"
+  ]
+ },
+ {
+  "key": "epist ad vesp",
+  "spellings": [
+   "Epiſt. ad Veſp"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N006"
+  ],
+  "occurs_at": [
+   "N006"
+  ]
+ },
+ {
+  "key": "epist c",
+  "spellings": [
+   "Epiſt. c"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N033"
+  ],
+  "occurs_at": [
+   "N033"
+  ]
+ },
+ {
+  "key": "ernestus",
+  "spellings": [
+   "Ernestus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.54"
+  ],
+  "occurs_at": [
+   "CH5.54"
+  ]
+ },
+ {
+  "key": "esne",
+  "spellings": [
+   "ESNE"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "ex limo terrae",
+  "spellings": [
+   "ex LIMO TERRAE"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.31"
+  ],
+  "occurs_at": [
+   "MICRO.31"
+  ]
+ },
+ {
+  "key": "excelency",
+  "spellings": [
+   "Excelency"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.0"
+  ],
+  "occurs_at": [
+   "MICRO.0"
+  ]
+ },
+ {
+  "key": "exemplumque dei quisque est in imagine parva manilus",
+  "spellings": [
+   "Exemplumque Dei quiſque eſt in imagine parvâ, Manilus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N116"
+  ],
+  "occurs_at": [
+   "N116"
+  ]
+ },
+ {
+  "key": "ezek",
+  "spellings": [
+   "Ezek"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N268"
+  ],
+  "occurs_at": [
+   "N268"
+  ]
+ },
+ {
+  "key": "fabius",
+  "spellings": [
+   "Fabius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.4"
+  ],
+  "occurs_at": [
+   "CH5.4"
+  ]
+ },
+ {
+  "key": "fallopius",
+  "spellings": [
+   "Fallopius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.48"
+  ],
+  "occurs_at": [
+   "CH5.48"
+  ]
+ },
+ {
+  "key": "fernelius",
+  "spellings": [
+   "Fernelius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.48"
+  ],
+  "occurs_at": [
+   "CH5.48"
+  ]
+ },
+ {
+  "key": "fifthly",
+  "spellings": [
+   "Fifthly"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.72"
+  ],
+  "occurs_at": [
+   "CH5.72"
+  ]
+ },
+ {
+  "key": "firmianus",
+  "spellings": [
+   "Firmianus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.2"
+  ],
+  "occurs_at": [
+   "CH3.2"
+  ]
+ },
+ {
+  "key": "florianis mathis",
+  "spellings": [
+   "Florianis Mathis"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH4.13"
+  ],
+  "occurs_at": [
+   "CH4.13"
+  ]
+ },
+ {
+  "key": "for without me",
+  "spellings": [
+   "For without me"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.25"
+  ],
+  "occurs_at": [
+   "CH2.25"
+  ]
+ },
+ {
+  "key": "francaneianus rondelatius",
+  "spellings": [
+   "Francaneianus, Rondelatius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.48"
+  ],
+  "occurs_at": [
+   "CH5.48"
+  ]
+ },
+ {
+  "key": "france italy germany hungary poland bohemia",
+  "spellings": [
+   "France, Italy, Germany, Hungary, Poland, Bohemia"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.3"
+  ],
+  "occurs_at": [
+   "OPEN.3"
+  ]
+ },
+ {
+  "key": "francis",
+  "spellings": [
+   "Francis"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.32"
+  ],
+  "occurs_at": [
+   "CH6.32"
+  ]
+ },
+ {
+  "key": "friendly reader",
+  "spellings": [
+   "Friendly Reader"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.3"
+  ],
+  "occurs_at": [
+   "OPEN.3"
+  ]
+ },
+ {
+  "key": "fuchsius",
+  "spellings": [
+   "Fuchſius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.48"
+  ],
+  "occurs_at": [
+   "CH5.48"
+  ]
+ },
+ {
+  "key": "gabalis homo",
+  "spellings": [
+   "Gabalis Homo"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.32"
+  ],
+  "occurs_at": [
+   "MICRO.32"
+  ]
+ },
+ {
+  "key": "gabalis socius angelorum",
+  "spellings": [
+   "Gabalis ſocius Angelorum"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.26"
+  ],
+  "occurs_at": [
+   "MICRO.26"
+  ]
+ },
+ {
+  "key": "galen galen",
+  "spellings": [
+   "Galen, Galen"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.47"
+  ],
+  "occurs_at": [
+   "CH5.47"
+  ]
+ },
+ {
+  "key": "generation dignity",
+  "spellings": [
+   "Generation, Dignity"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.0"
+  ],
+  "occurs_at": [
+   "MICRO.0"
+  ]
+ },
+ {
+  "key": "give something and take something",
+  "spellings": [
+   "Give ſomething, and take ſomething"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.3"
+  ],
+  "occurs_at": [
+   "OPEN.3"
+  ]
+ },
+ {
+  "key": "great doctors",
+  "spellings": [
+   "great Doctors"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.57"
+  ],
+  "occurs_at": [
+   "CH5.57"
+  ]
+ },
+ {
+  "key": "grecian",
+  "spellings": [
+   "Grecian"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.1"
+  ],
+  "occurs_at": [
+   "CH5.1"
+  ]
+ },
+ {
+  "key": "hab",
+  "spellings": [
+   "Hab"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N210"
+  ],
+  "occurs_at": [
+   "N210"
+  ]
+ },
+ {
+  "key": "have it indeed",
+  "spellings": [
+   "have it indeed"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.45"
+  ],
+  "occurs_at": [
+   "CH6.45"
+  ]
+ },
+ {
+  "key": "heb",
+  "spellings": [
+   "Heb"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N153"
+  ],
+  "occurs_at": [
+   "N153"
+  ]
+ },
+ {
+  "key": "heraclitus",
+  "spellings": [
+   "Heraclitus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.5"
+  ],
+  "occurs_at": [
+   "CH3.5"
+  ]
+ },
+ {
+  "key": "herines",
+  "spellings": [
+   "Herines"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N178"
+  ],
+  "occurs_at": [
+   "N178"
+  ]
+ },
+ {
+  "key": "herms",
+  "spellings": [
+   "Herms"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.10"
+  ],
+  "occurs_at": [
+   "MICRO.10"
+  ]
+ },
+ {
+  "key": "his table",
+  "spellings": [
+   "his Table"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N264"
+  ],
+  "occurs_at": [
+   "N264"
+  ]
+ },
+ {
+  "key": "hoc opus hic labor est",
+  "spellings": [
+   "Hoc opus, hic labor eſt"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.7"
+  ],
+  "occurs_at": [
+   "CH3.7"
+  ]
+ },
+ {
+  "key": "holyes",
+  "spellings": [
+   "Holyes"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.38"
+  ],
+  "occurs_at": [
+   "MICRO.38"
+  ]
+ },
+ {
+  "key": "homers",
+  "spellings": [
+   "Homers"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N051"
+  ],
+  "occurs_at": [
+   "N051"
+  ]
+ },
+ {
+  "key": "horace",
+  "spellings": [
+   "Horace"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.1"
+  ],
+  "occurs_at": [
+   "CH5.1"
+  ]
+ },
+ {
+  "key": "i am fearfully and wonderfully made marvellous are thy works",
+  "spellings": [
+   "I am fearfully and wonderfully made, marvellous are thy works"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.2"
+  ],
+  "occurs_at": [
+   "MICRO.2"
+  ]
+ },
+ {
+  "key": "i e the errors of the artists are imputed to the art",
+  "spellings": [
+   "i. e.) The errors of the Artiſts are imputed to the Art"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.7"
+  ],
+  "occurs_at": [
+   "OPEN.7"
+  ]
+ },
+ {
+  "key": "icarus",
+  "spellings": [
+   "Icarus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N184"
+  ],
+  "occurs_at": [
+   "N184"
+  ]
+ },
+ {
+  "key": "in fragm medicis fol",
+  "spellings": [
+   "in fragm. Medicis. fol"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N025"
+  ],
+  "occurs_at": [
+   "N025"
+  ]
+ },
+ {
+  "key": "in lib de anima",
+  "spellings": [
+   "In lib. de Anima"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N248"
+  ],
+  "occurs_at": [
+   "N248"
+  ]
+ },
+ {
+  "key": "india",
+  "spellings": [
+   "India"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.12"
+  ],
+  "occurs_at": [
+   "CH1.12"
+  ]
+ },
+ {
+  "key": "indies",
+  "spellings": [
+   "Indies"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.18"
+  ],
+  "occurs_at": [
+   "CH1.18"
+  ]
+ },
+ {
+  "key": "isa holand",
+  "spellings": [
+   "Iſa. Holand"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N269"
+  ],
+  "occurs_at": [
+   "N269"
+  ]
+ },
+ {
+  "key": "jacobs",
+  "spellings": [
+   "Jacobs"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.40"
+  ],
+  "occurs_at": [
+   "MICRO.40"
+  ]
+ },
+ {
+  "key": "james",
+  "spellings": [
+   "James"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N206"
+  ],
+  "occurs_at": [
+   "N206"
+  ]
+ },
+ {
+  "key": "jer",
+  "spellings": [
+   "Jer"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N268"
+  ],
+  "occurs_at": [
+   "N268"
+  ]
+ },
+ {
+  "key": "jerusalem",
+  "spellings": [
+   "Jeruſalem"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.21"
+  ],
+  "occurs_at": [
+   "CH5.21"
+  ]
+ },
+ {
+  "key": "jewes",
+  "spellings": [
+   "Jewes"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.68"
+  ],
+  "occurs_at": [
+   "CH6.68"
+  ]
+ },
+ {
+  "key": "joh",
+  "spellings": [
+   "Joh"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N085"
+  ],
+  "occurs_at": [
+   "N085"
+  ]
+ },
+ {
+  "key": "john dee",
+  "spellings": [
+   "John Dee"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N254"
+  ],
+  "occurs_at": [
+   "N254"
+  ]
+ },
+ {
+  "key": "joseph quercetan",
+  "spellings": [
+   "Joſeph Quercetan"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.45"
+  ],
+  "occurs_at": [
+   "MICRO.45"
+  ]
+ },
+ {
+  "key": "jupiter",
+  "spellings": [
+   "Jupiter"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.12"
+  ],
+  "occurs_at": [
+   "OPEN.12"
+  ]
+ },
+ {
+  "key": "know thy selfe",
+  "spellings": [
+   "KNOW THY SELFE"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.1"
+  ],
+  "occurs_at": [
+   "MICRO.1"
+  ]
+ },
+ {
+  "key": "lactantias",
+  "spellings": [
+   "Lactantias"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N301"
+  ],
+  "occurs_at": [
+   "N301"
+  ]
+ },
+ {
+  "key": "lactantius",
+  "spellings": [
+   "Lactantius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.71"
+  ],
+  "occurs_at": [
+   "CH6.71"
+  ]
+ },
+ {
+  "key": "lar domesticus",
+  "spellings": [
+   "Lar domeſticus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.32"
+  ],
+  "occurs_at": [
+   "MICRO.32"
+  ]
+ },
+ {
+  "key": "lazarus",
+  "spellings": [
+   "Lazarus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "linum caelorum",
+  "spellings": [
+   "Linum Caelorum"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.22"
+  ],
+  "occurs_at": [
+   "MICRO.22"
+  ]
+ },
+ {
+  "key": "locrians",
+  "spellings": [
+   "Locrians"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.71"
+  ],
+  "occurs_at": [
+   "CH5.71"
+  ]
+ },
+ {
+  "key": "london",
+  "spellings": [
+   "London"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N254"
+  ],
+  "occurs_at": [
+   "N254"
+  ]
+ },
+ {
+  "key": "lucifer",
+  "spellings": [
+   "Lucifer"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.10"
+  ],
+  "occurs_at": [
+   "MICRO.10"
+  ]
+ },
+ {
+  "key": "lully arnold zachary",
+  "spellings": [
+   "Lully; Arnold, Zachary"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.28"
+  ],
+  "occurs_at": [
+   "CH5.28"
+  ]
+ },
+ {
+  "key": "magicians",
+  "spellings": [
+   "Magicians"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.16"
+  ],
+  "occurs_at": [
+   "CH2.16"
+  ]
+ },
+ {
+  "key": "manuel",
+  "spellings": [
+   "Manuel"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N175"
+  ],
+  "occurs_at": [
+   "N175"
+  ]
+ },
+ {
+  "key": "mar",
+  "spellings": [
+   "Mar"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N249"
+  ],
+  "occurs_at": [
+   "N249"
+  ]
+ },
+ {
+  "key": "mareschal",
+  "spellings": [
+   "Mareſchal"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "mareschall",
+  "spellings": [
+   "Mareſchall"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "mathew",
+  "spellings": [
+   "Mathew"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH4.13"
+  ],
+  "occurs_at": [
+   "CH4.13"
+  ]
+ },
+ {
+  "key": "maximilian",
+  "spellings": [
+   "MAXIMILIAN"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "misnia",
+  "spellings": [
+   "Miſnia"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.77"
+  ],
+  "occurs_at": [
+   "CH5.77"
+  ]
+ },
+ {
+  "key": "nazianzen",
+  "spellings": [
+   "Nazianzen"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.11"
+  ],
+  "occurs_at": [
+   "MICRO.11"
+  ]
+ },
+ {
+  "key": "nicodemus",
+  "spellings": [
+   "Nicodemus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.12"
+  ],
+  "occurs_at": [
+   "OPEN.12"
+  ]
+ },
+ {
+  "key": "noe's",
+  "spellings": [
+   "Noe's"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.12"
+  ],
+  "occurs_at": [
+   "CH5.12"
+  ]
+ },
+ {
+  "key": "norimberge valentinus weigelius",
+  "spellings": [
+   "Norimberge, Valentinus Weigelius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.20"
+  ],
+  "occurs_at": [
+   "CH5.20"
+  ]
+ },
+ {
+  "key": "nostoch",
+  "spellings": [
+   "Nostoch"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.28"
+  ],
+  "occurs_at": [
+   "CH1.28"
+  ]
+ },
+ {
+  "key": "num",
+  "spellings": [
+   "Num"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N273"
+  ],
+  "occurs_at": [
+   "N273"
+  ]
+ },
+ {
+  "key": "numen & lumen",
+  "spellings": [
+   "Numen & Lumen"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N209"
+  ],
+  "occurs_at": [
+   "N209"
+  ]
+ },
+ {
+  "key": "of the universall and chiefe medicine or phisick of the most ancient philosophers commended of many possessed yea seen or believed of very few",
+  "spellings": [
+   "Of the univerſall and chiefe Medicine or Phiſick of the most Ancient Philoſophers, commended of many, poſſeſſed, yea ſeen, or believed of very few"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.29"
+  ],
+  "occurs_at": [
+   "OPEN.29"
+  ]
+ },
+ {
+  "key": "one word",
+  "spellings": [
+   "One Word"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.18"
+  ],
+  "occurs_at": [
+   "CH2.18"
+  ]
+ },
+ {
+  "key": "opere minerali rom",
+  "spellings": [
+   "opere minerali. Rom"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N269"
+  ],
+  "occurs_at": [
+   "N269"
+  ]
+ },
+ {
+  "key": "p ramus",
+  "spellings": [
+   "P. Ramus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.1"
+  ],
+  "occurs_at": [
+   "CH5.1"
+  ]
+ },
+ {
+  "key": "p severinus",
+  "spellings": [
+   "P. Severinus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.13"
+  ],
+  "occurs_at": [
+   "CH1.13"
+  ]
+ },
+ {
+  "key": "pactolus",
+  "spellings": [
+   "Pactolus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.31"
+  ],
+  "occurs_at": [
+   "CH6.31"
+  ]
+ },
+ {
+  "key": "pandora",
+  "spellings": [
+   "Pandora"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.25"
+  ],
+  "occurs_at": [
+   "CH6.25"
+  ]
+ },
+ {
+  "key": "parac chap",
+  "spellings": [
+   "Parac. chap"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N304"
+  ],
+  "occurs_at": [
+   "N304"
+  ]
+ },
+ {
+  "key": "paracels de fundamento saientia",
+  "spellings": [
+   "Paracelſ. de Fundamento Saientia"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N207"
+  ],
+  "occurs_at": [
+   "N207"
+  ]
+ },
+ {
+  "key": "paracels in pram de ent",
+  "spellings": [
+   "Paracelſ. in Pram. de Ent"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N064"
+  ],
+  "occurs_at": [
+   "N064"
+  ]
+ },
+ {
+  "key": "paracels tom",
+  "spellings": [
+   "Paracelſ. Tom"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N025"
+  ],
+  "occurs_at": [
+   "N025"
+  ]
+ },
+ {
+  "key": "paracels tract",
+  "spellings": [
+   "Paracelſ. tract"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N242"
+  ],
+  "occurs_at": [
+   "N242"
+  ]
+ },
+ {
+  "key": "paracelsians",
+  "spellings": [
+   "Paracelſians"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.31"
+  ],
+  "occurs_at": [
+   "CH5.31"
+  ]
+ },
+ {
+  "key": "paracelsus petrus severinus",
+  "spellings": [
+   "Paracelſus, Petrus Severinus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.45"
+  ],
+  "occurs_at": [
+   "MICRO.45"
+  ]
+ },
+ {
+  "key": "paracis",
+  "spellings": [
+   "Paracis"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N066"
+  ],
+  "occurs_at": [
+   "N066"
+  ]
+ },
+ {
+  "key": "paragr",
+  "spellings": [
+   "Paragr"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N183"
+  ],
+  "occurs_at": [
+   "N183"
+  ]
+ },
+ {
+  "key": "paramiro de eme astroum",
+  "spellings": [
+   "Paramiro de eme Aſtroum"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N047"
+  ],
+  "occurs_at": [
+   "N047"
+  ]
+ },
+ {
+  "key": "paramiro lib",
+  "spellings": [
+   "Paramiro lib"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.16"
+  ],
+  "occurs_at": [
+   "CH1.16"
+  ]
+ },
+ {
+  "key": "paris",
+  "spellings": [
+   "Paris"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.28"
+  ],
+  "occurs_at": [
+   "CH5.28"
+  ]
+ },
+ {
+  "key": "paul",
+  "spellings": [
+   "Paul"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N114"
+  ],
+  "occurs_at": [
+   "N114"
+  ]
+ },
+ {
+  "key": "paulus brawn",
+  "spellings": [
+   "Paulus Brawn"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.20"
+  ],
+  "occurs_at": [
+   "CH5.20"
+  ]
+ },
+ {
+  "key": "penates",
+  "spellings": [
+   "Penates"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.32"
+  ],
+  "occurs_at": [
+   "MICRO.32"
+  ]
+ },
+ {
+  "key": "per angusta iu ad angusta",
+  "spellings": [
+   "Per Anguſta iu ad Anguſta"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N272"
+  ],
+  "occurs_at": [
+   "N272"
+  ]
+ },
+ {
+  "key": "pet ramus",
+  "spellings": [
+   "Pet. Ramus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.17"
+  ],
+  "occurs_at": [
+   "CH5.17"
+  ]
+ },
+ {
+  "key": "petrus winzius",
+  "spellings": [
+   "Petrus Winzius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.20"
+  ],
+  "occurs_at": [
+   "CH5.20"
+  ]
+ },
+ {
+  "key": "philosophia sagaci",
+  "spellings": [
+   "Philoſophia Sagaci"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.73"
+  ],
+  "occurs_at": [
+   "CH6.73"
+  ]
+ },
+ {
+  "key": "pic miand cant",
+  "spellings": [
+   "Pic Miand. Cant"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N209"
+  ],
+  "occurs_at": [
+   "N209"
+  ]
+ },
+ {
+  "key": "picus mirandula",
+  "spellings": [
+   "Picus Mirandula"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.3"
+  ],
+  "occurs_at": [
+   "CH5.3"
+  ]
+ },
+ {
+  "key": "plin",
+  "spellings": [
+   "Plin"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N006"
+  ],
+  "occurs_at": [
+   "N006"
+  ]
+ },
+ {
+  "key": "pliny",
+  "spellings": [
+   "Pliny"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.8"
+  ],
+  "occurs_at": [
+   "CH2.8"
+  ]
+ },
+ {
+  "key": "plutarch",
+  "spellings": [
+   "Plutarch"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.69"
+  ],
+  "occurs_at": [
+   "CH5.69"
+  ]
+ },
+ {
+  "key": "porta",
+  "spellings": [
+   "Porta"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N304"
+  ],
+  "occurs_at": [
+   "N304"
+  ]
+ },
+ {
+  "key": "pracel",
+  "spellings": [
+   "Pracel"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N047"
+  ],
+  "occurs_at": [
+   "N047"
+  ]
+ },
+ {
+  "key": "prague anno",
+  "spellings": [
+   "Prague, Anno"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH4.13"
+  ],
+  "occurs_at": [
+   "CH4.13"
+  ]
+ },
+ {
+  "key": "pratensis",
+  "spellings": [
+   "Pratenſis"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.45"
+  ],
+  "occurs_at": [
+   "MICRO.45"
+  ]
+ },
+ {
+  "key": "prosapia",
+  "spellings": [
+   "Proſapia"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "proteus",
+  "spellings": [
+   "Proteus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.10"
+  ],
+  "occurs_at": [
+   "MICRO.10"
+  ]
+ },
+ {
+  "key": "pythaorean",
+  "spellings": [
+   "Pythaorean"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.10"
+  ],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "quantum luminis tantum numinis",
+  "spellings": [
+   "Quantum Luminis, tantum Numinis"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N270"
+  ],
+  "occurs_at": [
+   "N270"
+  ]
+ },
+ {
+  "key": "raymund lully",
+  "spellings": [
+   "Raymund Lully"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.36"
+  ],
+  "occurs_at": [
+   "CH3.36"
+  ]
+ },
+ {
+  "key": "rhasis",
+  "spellings": [
+   "Rhaſis"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.38"
+  ],
+  "occurs_at": [
+   "CH3.38"
+  ]
+ },
+ {
+  "key": "rhunrad",
+  "spellings": [
+   "Rhunrad"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N114"
+  ],
+  "occurs_at": [
+   "N114"
+  ]
+ },
+ {
+  "key": "riplaeus a portis",
+  "spellings": [
+   "Riplaeus à Portis"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.37"
+  ],
+  "occurs_at": [
+   "CH3.37"
+  ]
+ },
+ {
+  "key": "rodargirus",
+  "spellings": [
+   "Rodargirus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N268"
+  ],
+  "occurs_at": [
+   "N268"
+  ]
+ },
+ {
+  "key": "rog bacon",
+  "spellings": [
+   "Rog. Bacon"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.17"
+  ],
+  "occurs_at": [
+   "CH2.17"
+  ]
+ },
+ {
+  "key": "romans",
+  "spellings": [
+   "Romans"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.2"
+  ],
+  "occurs_at": [
+   "OPEN.2"
+  ]
+ },
+ {
+  "key": "rondeletius",
+  "spellings": [
+   "Rondeletius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.48"
+  ],
+  "occurs_at": [
+   "CH5.48"
+  ]
+ },
+ {
+  "key": "rudolph",
+  "spellings": [
+   "Rudolph"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N004"
+  ],
+  "occurs_at": [
+   "N004"
+  ]
+ },
+ {
+  "key": "salisburg",
+  "spellings": [
+   "Salisburg"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.41"
+  ],
+  "occurs_at": [
+   "CH6.41"
+  ]
+ },
+ {
+  "key": "sasm corda",
+  "spellings": [
+   "Saſm Corda"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N207"
+  ],
+  "occurs_at": [
+   "N207"
+  ]
+ },
+ {
+  "key": "schekius",
+  "spellings": [
+   "Schekius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.48"
+  ],
+  "occurs_at": [
+   "CH5.48"
+  ]
+ },
+ {
+  "key": "seeme",
+  "spellings": [
+   "ſeeme"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.45"
+  ],
+  "occurs_at": [
+   "CH6.45"
+  ]
+ },
+ {
+  "key": "seneca",
+  "spellings": [
+   "Seneca"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N212"
+  ],
+  "occurs_at": [
+   "N212"
+  ]
+ },
+ {
+  "key": "seventhly",
+  "spellings": [
+   "Seventhly"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.74"
+  ],
+  "occurs_at": [
+   "CH5.74"
+  ]
+ },
+ {
+  "key": "sidus",
+  "spellings": [
+   "Sidus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.13"
+  ],
+  "occurs_at": [
+   "CH1.13"
+  ]
+ },
+ {
+  "key": "silesiac",
+  "spellings": [
+   "Sileſiac"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.32"
+  ],
+  "occurs_at": [
+   "CH3.32"
+  ]
+ },
+ {
+  "key": "silesian",
+  "spellings": [
+   "Sileſian"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH4.14"
+  ],
+  "occurs_at": [
+   "CH4.14"
+  ]
+ },
+ {
+  "key": "sixthly",
+  "spellings": [
+   "Sixthly"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.73"
+  ],
+  "occurs_at": [
+   "CH5.73"
+  ]
+ },
+ {
+  "key": "socrates",
+  "spellings": [
+   "Socrates"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N026"
+  ],
+  "occurs_at": [
+   "N026"
+  ]
+ },
+ {
+  "key": "sol 295",
+  "spellings": [
+   "ſol. 295"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N231"
+  ],
+  "occurs_at": [
+   "N231"
+  ]
+ },
+ {
+  "key": "solomon",
+  "spellings": [
+   "Solomon"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.6"
+  ],
+  "occurs_at": [
+   "CH6.6"
+  ]
+ },
+ {
+  "key": "some thing in defence of the published truth as an epilogue or conclusion",
+  "spellings": [
+   "Some thing in defence of the publiſhed Truth, as an Epilogue or Concluſion"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.30"
+  ],
+  "occurs_at": [
+   "OPEN.30"
+  ]
+ },
+ {
+  "key": "specie",
+  "spellings": [
+   "ſpecie"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.39"
+  ],
+  "occurs_at": [
+   "CH6.39"
+  ]
+ },
+ {
+  "key": "strabe",
+  "spellings": [
+   "Strabe"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N002"
+  ],
+  "occurs_at": [
+   "N002"
+  ]
+ },
+ {
+  "key": "suchtenius",
+  "spellings": [
+   "Suchtenius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.56"
+  ],
+  "occurs_at": [
+   "CH6.56"
+  ]
+ },
+ {
+  "key": "summum bonum",
+  "spellings": [
+   "Summum Bonum"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.13"
+  ],
+  "occurs_at": [
+   "MICRO.13"
+  ]
+ },
+ {
+  "key": "tat",
+  "spellings": [
+   "Tat"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.1"
+  ],
+  "occurs_at": [
+   "MICRO.1"
+  ]
+ },
+ {
+  "key": "th bovius",
+  "spellings": [
+   "Th: Bovius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.45"
+  ],
+  "occurs_at": [
+   "MICRO.45"
+  ]
+ },
+ {
+  "key": "th muffet",
+  "spellings": [
+   "Th: Muffet"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.45"
+  ],
+  "occurs_at": [
+   "MICRO.45"
+  ]
+ },
+ {
+  "key": "that it is to be fetcht out and prepared truly by fire",
+  "spellings": [
+   "That it is to be fetcht out, and prepared truly, by fire"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.26"
+  ],
+  "occurs_at": [
+   "OPEN.26"
+  ]
+ },
+ {
+  "key": "theophraestus",
+  "spellings": [
+   "Theophraeſtus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH3.40"
+  ],
+  "occurs_at": [
+   "CH3.40"
+  ]
+ },
+ {
+  "key": "theophrast",
+  "spellings": [
+   "Theophraſt"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N175"
+  ],
+  "occurs_at": [
+   "N175"
+  ]
+ },
+ {
+  "key": "theophrastaeans",
+  "spellings": [
+   "Theophraſtaeans"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH1.21"
+  ],
+  "occurs_at": [
+   "CH1.21"
+  ]
+ },
+ {
+  "key": "theophrastvs paracelsvs",
+  "spellings": [
+   "THEOPHRASTƲS PARACELSƲS"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.12"
+  ],
+  "occurs_at": [
+   "CH5.12"
+  ]
+ },
+ {
+  "key": "thes",
+  "spellings": [
+   "Theſ"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N114"
+  ],
+  "occurs_at": [
+   "N114"
+  ]
+ },
+ {
+  "key": "this is life eternall to know the father the true god and jesvs christ viz",
+  "spellings": [
+   "This is life eternall to know the Father the true God and JESƲS CHRIST, viz"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.7"
+  ],
+  "occurs_at": [
+   "MICRO.7"
+  ]
+ },
+ {
+  "key": "thraso's",
+  "spellings": [
+   "Thraſo's"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.19"
+  ],
+  "occurs_at": [
+   "CH6.19"
+  ]
+ },
+ {
+  "key": "timon",
+  "spellings": [
+   "Timon"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.76"
+  ],
+  "occurs_at": [
+   "CH6.76"
+  ]
+ },
+ {
+  "key": "to dig they are ashamed",
+  "spellings": [
+   "to dig they are aſhamed"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.57"
+  ],
+  "occurs_at": [
+   "CH5.57"
+  ]
+ },
+ {
+  "key": "to impart sacred things to sacred persons",
+  "spellings": [
+   "To impart ſacred things to ſacred perſons"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.10"
+  ],
+  "occurs_at": [
+   "OPEN.10"
+  ]
+ },
+ {
+  "key": "trimethius",
+  "spellings": [
+   "Trimethius"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N124"
+  ],
+  "occurs_at": [
+   "N124"
+  ]
+ },
+ {
+  "key": "trine",
+  "spellings": [
+   "Trine"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.20"
+  ],
+  "occurs_at": [
+   "MICRO.20"
+  ]
+ },
+ {
+  "key": "trismegistus",
+  "spellings": [
+   "Triſmegiſtus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.1"
+  ],
+  "occurs_at": [
+   "MICRO.1"
+  ]
+ },
+ {
+  "key": "trophilus",
+  "spellings": [
+   "Trophilus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.69"
+  ],
+  "occurs_at": [
+   "CH5.69"
+  ]
+ },
+ {
+  "key": "verona",
+  "spellings": [
+   "Verona"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "MICRO.45"
+  ],
+  "occurs_at": [
+   "MICRO.45"
+  ]
+ },
+ {
+  "key": "victor",
+  "spellings": [
+   "Victor"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N003"
+  ],
+  "occurs_at": [
+   "N003"
+  ]
+ },
+ {
+  "key": "vid agrip lib",
+  "spellings": [
+   "Vid: Agrip: lib"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N033"
+  ],
+  "occurs_at": [
+   "N033"
+  ]
+ },
+ {
+  "key": "vide paraces in phylsp ag acelsus",
+  "spellings": [
+   "vide Paraceſ. in Phylſp. ag. acelſus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N122"
+  ],
+  "occurs_at": [
+   "N122"
+  ]
+ },
+ {
+  "key": "vnhappines",
+  "spellings": [
+   "Ʋnhappines"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.68"
+  ],
+  "occurs_at": [
+   "CH6.68"
+  ]
+ },
+ {
+  "key": "what manner of phisitian that phisick doth require for its minister",
+  "spellings": [
+   "What manner of Phiſitian that Phiſick doth require for its Miniſter"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.28"
+  ],
+  "occurs_at": [
+   "OPEN.28"
+  ]
+ },
+ {
+  "key": "what that phisick is which cureth mens diseases and few phisitians know it whereunto is added a perfect philosophicall description of the little world",
+  "spellings": [
+   "What that Phiſick is which cureth mens diſeaſes, and few Phiſitians know it. Whereunto is added a perfect Philoſophicall Deſcription of the little World"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.24"
+  ],
+  "occurs_at": [
+   "OPEN.24"
+  ]
+ },
+ {
+  "key": "whatsoever yee do in word or deed",
+  "spellings": [
+   "Whatſoever yee do in word or deed"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.62"
+  ],
+  "occurs_at": [
+   "CH5.62"
+  ]
+ },
+ {
+  "key": "where that true phisick lyeth hid and may be found",
+  "spellings": [
+   "Where that True Phiſick lyeth hid, and may be found"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.25"
+  ],
+  "occurs_at": [
+   "OPEN.25"
+  ]
+ },
+ {
+  "key": "which that holy triunity grant whose unspeakable name be blessed for ever and ever",
+  "spellings": [
+   "Which that holy Triunity grant, whoſe unſpeakable Name be bleſſed for ever and ever"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH6.77"
+  ],
+  "occurs_at": [
+   "CH6.77"
+  ]
+ },
+ {
+  "key": "wifd",
+  "spellings": [
+   "Wifd"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N156"
+  ],
+  "occurs_at": [
+   "N156"
+  ]
+ },
+ {
+  "key": "wimpeneus",
+  "spellings": [
+   "Wimpeneus"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH5.31"
+  ],
+  "occurs_at": [
+   "CH5.31"
+  ]
+ },
+ {
+  "key": "with what vertue and after what manner that phisick worketh on mans body and expelleth his diseases",
+  "spellings": [
+   "With what vertue, and after what manner, that Phiſick worketh on mans body, and expelleth his diſeaſes"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "OPEN.27"
+  ],
+  "occurs_at": [
+   "OPEN.27"
+  ]
+ },
+ {
+  "key": "word written",
+  "spellings": [
+   "Word written"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.16"
+  ],
+  "occurs_at": [
+   "CH2.16"
+  ]
+ },
+ {
+  "key": "wsd",
+  "spellings": [
+   "Wſd"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N090"
+  ],
+  "occurs_at": [
+   "N090"
+  ]
+ },
+ {
+  "key": "ye can nothing",
+  "spellings": [
+   "ye can nothing"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "CH2.25"
+  ],
+  "occurs_at": [
+   "CH2.25"
+  ]
+ },
+ {
+  "key": "zach",
+  "spellings": [
+   "Zach"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N112"
+  ],
+  "occurs_at": [
+   "N112"
+  ]
+ },
+ {
+  "key": "zodico pisciu",
+  "spellings": [
+   "Zodico Piſciu"
+  ],
+  "read_at": [],
+  "italic_at": [
+   "N268"
+  ],
+  "occurs_at": [
+   "N268"
+  ]
+ }
+]

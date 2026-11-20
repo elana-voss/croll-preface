@@ -1,0 +1,1026 @@
+{
+ "items": [
+  {
+   "n": 1,
+   "ref": "OPEN.0",
+   "type": "marking",
+   "quote": "THE Admonitory Preface OF OSWALD CROLLIE, Physitian",
+   "what": "THE Admonitory Preface",
+   "note": "The heading names this writing an Admonitory Preface, gives its author as Oswald Crollie, Physitian, and addresses it to Prince Christian Anhaltin.",
+   "term": "Admonitory Preface"
+  },
+  {
+   "n": 2,
+   "ref": "OPEN.1",
+   "type": "internal conflict",
+   "quote": "COURTEOUS READER;",
+   "with": "OPEN.0",
+   "note": "The salutation speaks to the reader, while the heading addresses the preface to the Prince. The lines given do not explain the two addressees."
+  },
+  {
+   "n": 3,
+   "ref": "OPEN.2",
+   "type": "concealment",
+   "quote": "the Romans extolled Angerona, and the Grecians admired Hapocrotes for their silence",
+   "note": "The preface opens with two names praised for silence; the lines given say no more of who they are.",
+   "term": "Angerona"
+  },
+  {
+   "n": 4,
+   "ref": "OPEN.2",
+   "type": "voice",
+   "quote": "all the ancient Philosophers, by the example of Actaeon, have strictly forbidden to prophane the Secrets, and rashly to prostitute the Treasures of Nature to unworthy and filthy minded men",
+   "name": "all the ancient Philosophers",
+   "note": "A ban on making the Secrets and Treasures of Nature known to the unworthy is given to the ancient Philosophers, with Actaeon as their example. The author reports it under ALTHOUGH and goes on to act otherwise.",
+   "term": "Secrets"
+  },
+  {
+   "n": 5,
+   "ref": "OPEN.2",
+   "type": "local signal",
+   "quote": "our Heavenly Father who is that Sun which richly preventeth us all with his gifts",
+   "note": "Stated: the Sun here is the Heavenly Father; the text itself says so.",
+   "term": "Sun"
+  },
+  {
+   "n": 6,
+   "ref": "OPEN.2",
+   "type": "position",
+   "quote": "for he communicateth his light, without respect or envy, to the good and bad, to the thankfull and unkind",
+   "note": "The author holds that God gives his light to good and bad alike."
+  },
+  {
+   "n": 7,
+   "ref": "OPEN.2",
+   "type": "position",
+   "quote": "We are bound to immitate him whose Children we ought to be",
+   "note": "The author's ground for publishing: men are bound to imitate the Father who gives to all."
+  },
+  {
+   "n": 8,
+   "ref": "OPEN.2",
+   "type": "local signal",
+   "quote": "recovered from the dark Labyrinth and Circumference of toyle and error, to the plain and clear path and Centre of Rest and Truth",
+   "note": "Figurative pairing stated by the text: Labyrinth and Circumference stand with toyle and error, path and Centre with Rest and Truth. Those so brought back are said to be bound most of all to imitate God.",
+   "term": "Centre"
+  },
+  {
+   "n": 9,
+   "ref": "OPEN.2",
+   "type": "concealment",
+   "quote": "I thought it not good by a kind of inhumane ill will, any longer to hide as in a Napkin, the Talent committed to me by the Father of Lights, by an impious silence",
+   "note": "The author says he has been hiding what was committed to him and will hide it no longer; he calls further silence impious.",
+   "term": "Talent"
+  },
+  {
+   "n": 10,
+   "ref": "OPEN.2",
+   "type": "position",
+   "quote": "the Gates of Wisdome ought alwayes to stand open to ingenious men",
+   "note": "The author holds that wisdom should stand open; the words name ingenious men as those it stands open to.",
+   "term": "Gates of Wisdome"
+  },
+  {
+   "n": 11,
+   "ref": "OPEN.2",
+   "type": "position",
+   "quote": "though the doores of the Muses have never been unlockt, but envy hath indeavoured to shut them again",
+   "note": "The author says envy has always tried to shut again what was opened.",
+   "term": "envy"
+  },
+  {
+   "n": 12,
+   "ref": "OPEN.2",
+   "type": "position",
+   "quote": "It is, doubtlesse, a most civil and humane Office, willingly to instruct and guide our erring neighbor",
+   "note": "The author calls instructing an erring neighbour a civil and humane duty."
+  },
+  {
+   "n": 13,
+   "ref": "N001",
+   "type": "voice",
+   "quote": "Psal. 145.9. Mat. 5. Luke 19. John 1.5.",
+   "name": "Psal. 145.9. Mat. 5. Luke 19. John 1.5.",
+   "note": "The margin names four places of scripture beside the words on the Heavenly Father as Sun shining on all.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 14,
+   "ref": "N002",
+   "type": "voice",
+   "quote": "men imitate God, when they do good. Strabe.",
+   "name": "Strabe",
+   "note": "The margin gives a saying on imitating God by doing good and names Strabe beside it. A letter in the note is illegible.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 15,
+   "ref": "N003",
+   "type": "voice",
+   "quote": "The gifts of God grow, & are improved by communicating. Victor.",
+   "name": "Victor",
+   "note": "The margin gives a saying that God's gifts grow by being shared and names Victor beside it.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 16,
+   "ref": "OPEN.3",
+   "type": "position",
+   "quote": "whose Instrument or pen, at least, in the publishing hereof, I both desire, and hope to be",
+   "note": "The author presents himself as the instrument or pen of the Divine Majesty in publishing this."
+  },
+  {
+   "n": 17,
+   "ref": "OPEN.3",
+   "type": "position",
+   "quote": "for the profit and advantage of my neighbor in the study and profession of Chymistry",
+   "note": "The author names a second aim beside God's praise: the profit of his neighbour in Chymistry.",
+   "term": "Chymistry"
+  },
+  {
+   "n": 18,
+   "ref": "OPEN.3",
+   "type": "marking",
+   "quote": "I doe here out of the most deep secret of my heart, set before thee two of the most excellent Spagyrik Mysteries",
+   "what": "two of the most excellent Spagyrik Mysteries",
+   "note": "The text announces what it sets before the reader as two things under one name, brought out of the deep secret of the author's heart. The lines given do not say what the two are.",
+   "term": "Spagyrik Mysteries"
+  },
+  {
+   "n": 19,
+   "ref": "OPEN.3",
+   "type": "position",
+   "quote": "whose preparations, after the mistakes of expence, time and labour, have all of them been first proved by my own handy experience",
+   "note": "The author says every preparation of the two Mysteries was first proved by his own hands.",
+   "term": "preparations"
+  },
+  {
+   "n": 20,
+   "ref": "OPEN.3",
+   "type": "position",
+   "quote": "which neither by report nor ancient Records, I could yet understand that they have together and at once been published unto this very day",
+   "note": "The author says that, as far as he could learn, the two have never before been published together."
+  },
+  {
+   "n": 21,
+   "ref": "OPEN.3",
+   "type": "position",
+   "quote": "It hath ever been far from me to overcharge the Reader with trifles and falshoods",
+   "note": "The author says he does not load the reader with trifles and falsehoods, of which he calls his age fruitful."
+  },
+  {
+   "n": 22,
+   "ref": "OPEN.3",
+   "type": "concealment",
+   "quote": "much lesse to fill up a huge Volume with the copies of large Receipts (though I have many lying by me, which with great labour and paines I have got together)",
+   "note": "The author says he holds many Receipts which he does not print here.",
+   "term": "Receipts"
+  },
+  {
+   "n": 23,
+   "ref": "OPEN.3",
+   "type": "position",
+   "quote": "with which hodg-podg-Physitians are already so intangled and overwhelmed",
+   "note": "The author's judgement of physicians who work from many Receipts.",
+   "term": "hodg-podg-Physitians"
+  },
+  {
+   "n": 24,
+   "ref": "OPEN.3",
+   "type": "position",
+   "quote": "for the space of almost twenty years, in many troubles and painfull peregrinations of various fortune through France, Italy, Germany, Hungary, Poland, Bohemia",
+   "note": "The author says what he offers was gathered over almost twenty years of travel through six named countries."
+  },
+  {
+   "n": 25,
+   "ref": "OPEN.3",
+   "type": "position",
+   "quote": "I have obtained from men of greatest learning and experience in Chymistry, partly by intreaty, partly by purchase and permutation",
+   "note": "The author says he got these things from other men, by asking, buying and exchange."
+  },
+  {
+   "n": 26,
+   "ref": "OPEN.3",
+   "type": "position",
+   "quote": "those things, being not a few, which by the blessing of God upon my endeavours, I have found out in the practice of Physick",
+   "note": "The author says a further part is of his own finding in practice, of which he says nothing here."
+  },
+  {
+   "n": 27,
+   "ref": "OPEN.3",
+   "type": "position",
+   "quote": "preferring the publick good before my own private advantage, being moved also by Charity, Christian compassion, and the necessity of sick people",
+   "note": "The author's stated motives for publishing."
+  },
+  {
+   "n": 28,
+   "ref": "OPEN.3",
+   "type": "local signal",
+   "quote": "I would first take my eyes in my hand, as I may so say, and by the help of Vulcan search and diligently examine the chief and choycest things",
+   "note": "The words 'as I may so say' mark the phrase as a figure. The author says he examined the choicest things himself, by the help of Vulcan, before commending them to public use. This paragraph does not say what Vulcan is.",
+   "term": "Vulcan"
+  },
+  {
+   "n": 29,
+   "ref": "OPEN.3",
+   "type": "marking",
+   "quote": "the Children of knowledge, those searchers out and lovers of Truth",
+   "what": "the Children of knowledge",
+   "note": "The text names those who are to gain cheaply what cost the author dear.",
+   "term": "Children of knowledge"
+  },
+  {
+   "n": 30,
+   "ref": "OPEN.3",
+   "type": "position",
+   "quote": "but the truth it self so long desired, by many experiments most certainly found out and known",
+   "note": "The author says he gives not fallacious opinions but truth found by many experiments."
+  },
+  {
+   "n": 31,
+   "ref": "OPEN.3",
+   "type": "position",
+   "quote": "many things after the revolution of the Platonick year have been returned gratis, and with usury to their owners, whole and entire, and far more compleat",
+   "note": "The author says he gave things back to those he had them from, more complete than he received them. The lines given do not say what the Platonick year is.",
+   "term": "Platonick year"
+  },
+  {
+   "n": 32,
+   "ref": "OPEN.3",
+   "type": "position",
+   "quote": "those things which they bragged of as great secrets, seemed to me either common, or so faulty and defective",
+   "note": "The author says many secrets he travelled for proved common or faulty."
+  },
+  {
+   "n": 33,
+   "ref": "OPEN.3",
+   "type": "operation",
+   "quote": "the imperfection of their many descriptions, was to be made up by me, being all reduced into one onely, and that same first proved by my own Chymicall triall",
+   "note": "How the author says he worked: several faulty descriptions were made good, brought into a single one, and that one tried by him.",
+   "term": "Chymicall triall"
+  },
+  {
+   "n": 34,
+   "ref": "OPEN.3",
+   "type": "voice",
+   "quote": "according to that common Chymicall custome, Give something, and take something",
+   "name": "common Chymicall custome",
+   "note": "A saying given as a common custom among chymists: exchange of one thing for another."
+  },
+  {
+   "n": 35,
+   "ref": "OPEN.3",
+   "type": "local signal",
+   "quote": "they got an Egg for a Nut, which when I had crackt with long and fruitlesse paines, I found at last nothing but a worm-eaten kernel",
+   "note": "A figure for the exchanges: the author gave the better thing and got something that proved empty after long work."
+  },
+  {
+   "n": 36,
+   "ref": "N004",
+   "type": "position",
+   "quote": "Some of these have beene prepared by others for the Emperor Rudolph to whom I voluntarily imparted them.",
+   "note": "The margin says the author gave some of these to the Emperor Rudolph of his own will and that others prepared them for him.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 37,
+   "ref": "N005",
+   "type": "position",
+   "quote": "The greatest Receipts the greatest Deceits for the most part.",
+   "note": "The margin beside the words on Receipts: large Receipts are for the most part deceits.",
+   "term": "Receipts",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 38,
+   "ref": "N006",
+   "type": "voice",
+   "quote": "It is a Civil thing, and full of ingenious modesty, to acknowledge by whom we gained any thing. Plin in Epist. ad Vesp.",
+   "name": "Plin in Epist. ad Vesp.",
+   "note": "The margin gives a saying on acknowledging one's sources and names a writing beside it.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 39,
+   "ref": "OPEN.4",
+   "type": "voice",
+   "quote": "Nature's Vulcan, which the Poets commend as the most true Inventer and Teacher of Arts Mysteries",
+   "name": "the Poets",
+   "note": "The praise of Vulcan as inventor and teacher of the mysteries of art is given to the Poets. The text calls it Nature's Vulcan.",
+   "term": "Vulcan"
+  },
+  {
+   "n": 40,
+   "ref": "OPEN.4",
+   "type": "position",
+   "quote": "who have written in our time of the more secret Spagyrical preparations from other mens relation & not their own handy experience",
+   "note": "The author says most writers of his time on these preparations wrote from what others told them, not from their own trial.",
+   "term": "Spagyrical preparations"
+  },
+  {
+   "n": 41,
+   "ref": "OPEN.4",
+   "type": "position",
+   "quote": "after great cost bestowed in vain, they have in the end ascribed to them the cause of their lost labour, and long spent time",
+   "note": "The author says students have laid their lost cost and time to those writers."
+  },
+  {
+   "n": 42,
+   "ref": "OPEN.5",
+   "type": "own definition",
+   "quote": "by the help of Pyrotechnye, or the Art of Fire and Chymistry",
+   "note": "The text glosses Pyrotechnye as the Art of Fire and Chymistry.",
+   "term": "Pyrotechnye"
+  },
+  {
+   "n": 43,
+   "ref": "OPEN.5",
+   "type": "position",
+   "quote": "as many things are spoken of which are never done, so many things fall out between the Theory and the Practice",
+   "note": "The author holds that much is said that is never done and that practice departs from theory."
+  },
+  {
+   "n": 44,
+   "ref": "OPEN.5",
+   "type": "position",
+   "quote": "in this study no man is further to be believed, then as every one findeth by his own proper experience, handling and seeing by the due approved triall of fire",
+   "note": "The author's rule of belief: no one is to be believed beyond what each finds by his own trial of fire.",
+   "term": "triall of fire"
+  },
+  {
+   "n": 45,
+   "ref": "OPEN.5",
+   "type": "position",
+   "quote": "which discerneth and separateth that which is false, from that which is true",
+   "note": "The text says what the trial of fire does: it parts false from true."
+  },
+  {
+   "n": 46,
+   "ref": "N007",
+   "type": "position",
+   "quote": "Learn by other mens warnings to beware",
+   "note": "The margin urges learning from the warnings of others. Two letters in the note are illegible.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 47,
+   "ref": "OPEN.6",
+   "type": "voice",
+   "quote": "Not he that knowes many things, but he that knowes those things that are most profitable, is to be accounted a wise man",
+   "name": "Aeschylus",
+   "note": "A saying given to Aeschylus, used as ground for offering few things. A margin note in a script not transcribed (N008) stands at the head of the paragraph."
+  },
+  {
+   "n": 48,
+   "ref": "OPEN.6",
+   "type": "position",
+   "quote": "I had rather present but few things which are rare and choice",
+   "note": "The author chooses to give few things, rare and choice."
+  },
+  {
+   "n": 49,
+   "ref": "OPEN.6",
+   "type": "voice",
+   "quote": "Let thy Medicines be few, whose vertue and operations thou hast often tryed",
+   "name": "Damascen",
+   "note": "A saying given to Damascen: few Medicines, often tried.",
+   "term": "Medicines"
+  },
+  {
+   "n": 50,
+   "ref": "OPEN.6",
+   "type": "position",
+   "quote": "there doth not lye hid any more choyce and efficacious, then these chief secrets of the more hidden Medicines here offered",
+   "note": "The author affirms that nothing more choice or effective lies hid in Nature than the secrets offered here; he goes on to except one thing.",
+   "term": "hidden Medicines"
+  },
+  {
+   "n": 51,
+   "ref": "OPEN.6",
+   "type": "marking",
+   "quote": "except only that universall and most famous Medicine which the most ancient wise Philosophers had from the beginning of the world",
+   "what": "that universall and most famous Medicine",
+   "note": "The text sets one Medicine apart from what it offers and above it, as had by the most ancient Philosophers.",
+   "term": "universall and most famous Medicine"
+  },
+  {
+   "n": 52,
+   "ref": "OPEN.6",
+   "type": "concealment",
+   "quote": "have extoll'd it as a miracle to their just and lawfull Heirs",
+   "note": "The universal Medicine is said to have been praised by the ancient Philosophers to their just and lawful Heirs.",
+   "term": "Heirs"
+  },
+  {
+   "n": 53,
+   "ref": "OPEN.6",
+   "type": "position",
+   "quote": "for that which is good is not alway to be found in that which is great, but that which is great in that which is good",
+   "note": "The author's maxim on good and great, given as ground for what goes before."
+  },
+  {
+   "n": 54,
+   "ref": "OPEN.6",
+   "type": "position",
+   "quote": "shall sincerely and as he ought come to the inner rooms of Nature by a holy assiduitie of preparations, joining thereto a diligent contemplation of naturall causes",
+   "note": "The author says how one comes to the inner rooms of Nature: steady work at preparations joined with contemplation of natural causes.",
+   "term": "inner rooms of Nature"
+  },
+  {
+   "n": 55,
+   "ref": "OPEN.6",
+   "type": "position",
+   "quote": "if the grace of the most high favour be infused into him",
+   "note": "The author makes the result depend on grace given from above."
+  },
+  {
+   "n": 56,
+   "ref": "OPEN.6",
+   "type": "local signal",
+   "quote": "bring forth far greater things out of this open bosome of Nature, than they seem to promise at the first sight",
+   "note": "The text says the things offered hold more than they appear to promise at first sight, to be brought out by the worker's own hands."
+  },
+  {
+   "n": 57,
+   "ref": "N009",
+   "type": "voice",
+   "quote": "See Anaxagoras in his Book",
+   "name": "Anaxagoras",
+   "note": "The margin sends the reader to a book of Anaxagoras beside the words on the riches of Nature; its title is in a script not transcribed.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 58,
+   "ref": "N011",
+   "type": "position",
+   "quote": "The fruit and great gaine will over and above recompeuce the labour & paines of the Artist.",
+   "note": "The margin promises that the gain will more than repay the Artist's labour.",
+   "term": "Artist",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 59,
+   "ref": "OPEN.7",
+   "type": "position",
+   "quote": "I have proved but some of those virtues and operations which are assigned to every one in order",
+   "note": "The author says he has himself proved only some of the virtues and operations assigned to each Medicine.",
+   "term": "virtues and operations"
+  },
+  {
+   "n": 60,
+   "ref": "OPEN.7",
+   "type": "internal conflict",
+   "quote": "And although I have proved but some of those virtues and operations",
+   "with": "OPEN.3",
+   "note": "Here only some are said to be proved by the author; OPEN.3 says the preparations have all of them been first proved by his own handy experience. OPEN.3 speaks of preparations, this place of virtues and operations."
+  },
+  {
+   "n": 61,
+   "ref": "OPEN.7",
+   "type": "cross-reference",
+   "quote": "as I have set down and shewed their preparations in the work it self",
+   "note": "The preface points to the work itself as the place where the preparations are set down.",
+   "term": "the work it self"
+  },
+  {
+   "n": 62,
+   "ref": "OPEN.7",
+   "type": "position",
+   "quote": "because in the use of Phisick I have found the chiefest part true",
+   "note": "The author's ground for trusting the rest: in practice he found the chief part true."
+  },
+  {
+   "n": 63,
+   "ref": "OPEN.7",
+   "type": "own definition",
+   "quote": "the Spagyriks, or those who know how to discern between true and false, who are well grown and exercised in Chymicall employments",
+   "note": "The text says who the Spagyriks are: those who can tell true from false and are practised in chymical work.",
+   "term": "Spagyriks"
+  },
+  {
+   "n": 64,
+   "ref": "OPEN.7",
+   "type": "own definition",
+   "quote": "I mean the Sons of Art, who know the tearms and bounds thereof, and have bathed themselves in the springs of true Philosophy",
+   "note": "The text says whom it means by the Sons of Art: those who know the terms and bounds of the Art.",
+   "term": "Sons of Art"
+  },
+  {
+   "n": 65,
+   "ref": "OPEN.7",
+   "type": "concealment",
+   "quote": "who can even by a glance and sight only make a good construction and easily guesse of these things",
+   "note": "The readers meant are those who can construe and guess these things from a glance."
+  },
+  {
+   "n": 66,
+   "ref": "OPEN.7",
+   "type": "concealment",
+   "quote": "these preparations doe require such an Artist, and not one of a froward and sottish disposition",
+   "note": "The preparations are said to need a certain kind of Artist and not another.",
+   "term": "Artist"
+  },
+  {
+   "n": 67,
+   "ref": "OPEN.7",
+   "type": "position",
+   "quote": "who have nothing to doe with the common rabble of Alchymists",
+   "note": "The author sets the Artists he means apart from the common rabble of Alchymists.",
+   "term": "Alchymists"
+  },
+  {
+   "n": 68,
+   "ref": "OPEN.7",
+   "type": "voice",
+   "quote": "that unworthy reproach and slander (i. e.) The errors of the Artists are imputed to the Art.",
+   "name": "that unworthy reproach and slander",
+   "note": "A reproach the author reports and calls a slander; the lines given do not name who utters it."
+  },
+  {
+   "n": 69,
+   "ref": "OPEN.7",
+   "type": "position",
+   "quote": "other operations also which have been proved by the long practice and certain experiments of most expert Chymists and now published in one work",
+   "note": "The author says the operations he has not proved himself were proved by expert Chymists and are published together with the rest in one work."
+  },
+  {
+   "n": 70,
+   "ref": "OPEN.7",
+   "type": "internal conflict",
+   "quote": "will satisfie the desire and earnest expectation, by an undoubted performance of the desired effect",
+   "with": "OPEN.5",
+   "note": "Here the reader is told that operations proved by other Chymists will perform without doubt; OPEN.5 says no man is to be believed further than each finds by his own experience."
+  },
+  {
+   "n": 71,
+   "ref": "N012",
+   "type": "position",
+   "quote": "He that misseth his end for want of wit, let him thank his own ignorance, & not lay the fault on Nature, or me.",
+   "note": "The margin lays failure to the worker's own ignorance, not to Nature or the author.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 72,
+   "ref": "OPEN.8",
+   "type": "marking",
+   "quote": "the true and more profound Phisitians, who have been Divinely inspired, moved with a Samaritan-compassion toward their sick neighbors",
+   "what": "the true and more profound Phisitians",
+   "note": "The text names the physicians it has in view and how they are marked."
+  },
+  {
+   "n": 73,
+   "ref": "OPEN.8",
+   "type": "position",
+   "quote": "who in the fear of God also shall use these Medicines rightly prepared by their own labour, in a convenient and artificiall method",
+   "note": "The author's condition: the Medicines are to be prepared by the physician's own labour and used with method."
+  },
+  {
+   "n": 74,
+   "ref": "OPEN.8",
+   "type": "position",
+   "quote": "not trusting (unlesse they would be succeslesse) as many doe, to the Sophistical and fraudulent preparations of others",
+   "note": "The author warns against relying on preparations made by others, which he calls Sophistical and fraudulent.",
+   "term": "Sophistical"
+  },
+  {
+   "n": 75,
+   "ref": "OPEN.8",
+   "type": "concealment",
+   "quote": "they will know by experience far greater efficacies and operations by the cures they doe, then I can or ought to set down and assign",
+   "note": "The author says the Medicines do more than he can or ought to write down; the rest is left to the user's experience."
+  },
+  {
+   "n": 76,
+   "ref": "OPEN.8",
+   "type": "position",
+   "quote": "especially if they be administred according to the nature of the diseased, and with the approbation of a Phisitian present",
+   "note": "The author's condition for use: fitted to the patient and approved by a physician who is present."
+  },
+  {
+   "n": 77,
+   "ref": "OPEN.8",
+   "type": "position",
+   "quote": "all which by Gods help Truth the daughter of time, will make manifest",
+   "note": "The author leaves the proof to time: Truth, called the daughter of time, will make it manifest."
+  },
+  {
+   "n": 78,
+   "ref": "OPEN.9",
+   "type": "position",
+   "quote": "But to what danger doe I now expose my self by this publick service?",
+   "note": "The author says publishing puts him in danger and calls it a public service."
+  },
+  {
+   "n": 79,
+   "ref": "OPEN.9",
+   "type": "position",
+   "quote": "I shall oppose all with the buckler of my sincerity and earnest endeavour of deserving well",
+   "note": "The author's defence against critics is his sincerity, called a buckler.",
+   "term": "buckler"
+  },
+  {
+   "n": 80,
+   "ref": "OPEN.9",
+   "type": "position",
+   "quote": "anger, evill speaking, envie, scornfull contempt, the truest testimony of ignorance",
+   "note": "The author names the adversary's darts and calls them the surest sign of ignorance."
+  },
+  {
+   "n": 81,
+   "ref": "N013",
+   "type": "position",
+   "quote": "Ignorance is the inseparable companion of pride and mischief.",
+   "note": "The margin beside the words on carping Criticks ties ignorance to pride and mischief.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 82,
+   "ref": "OPEN.10",
+   "type": "marking",
+   "quote": "1 The Mysticall Hermetick Philosophers who heretofore in part have pryed into these excellent secrets, will rise against me",
+   "what": "The Mysticall Hermetick Philosophers",
+   "note": "The text numbers this group 1, the first of those the author expects to rise against him, and says they have in part looked into these secrets before.",
+   "term": "Mysticall Hermetick Philosophers"
+  },
+  {
+   "n": 83,
+   "ref": "OPEN.10",
+   "type": "concealment",
+   "quote": "which with greatest industry and long spent time have been found out and hitherto concealed in deep silence; should so soon be brought to light, and made common to every one",
+   "note": "The complaint the author expects from these Philosophers: things kept in deep silence until now are made common. The words report their complaint, not his own view."
+  },
+  {
+   "n": 84,
+   "ref": "OPEN.10",
+   "type": "voice",
+   "quote": "They will accuse me for breaking open the seale of Chymistry",
+   "name": "The Mysticall Hermetick Philosophers",
+   "note": "The charge the author puts in the mouth of the Mysticall Hermetick Philosophers.",
+   "term": "seale of Chymistry"
+  },
+  {
+   "n": 85,
+   "ref": "OPEN.10",
+   "type": "concealment",
+   "quote": "the close Pytha{G007: 1 letter illegible}orean silence",
+   "note": "A silence the accusers will say the author was never taught; one letter of the name is illegible. A margin note in a script not transcribed (N014) stands here."
+  },
+  {
+   "n": 86,
+   "ref": "OPEN.10",
+   "type": "voice",
+   "quote": "the Rule of Hippocrates, which is, To impart sacred things to sacred persons",
+   "name": "Hippocrates",
+   "note": "A rule given to Hippocrates, which the accusers will say the author forgot: sacred things for sacred persons only."
+  },
+  {
+   "n": 87,
+   "ref": "OPEN.10",
+   "type": "concealment",
+   "quote": "brought the truth of Chymistry, till this time held captive in the prison of shadowes and envy, freely communicating it to posterity",
+   "note": "Within the charge the author reports: the truth of Chymistry is said to have been held in shadows and envy until now and to be freely given to posterity by him.",
+   "term": "shadowes"
+  },
+  {
+   "n": 88,
+   "ref": "OPEN.10",
+   "type": "position",
+   "quote": "these are the heires of true wisedome, Citizens of the Philosophicall Kingdome, alwayes lovers of God and their neighbor, without envy, or at least ought so to be",
+   "note": "The author's view of these Philosophers: heirs of true wisdom who are, or ought to be, without envy.",
+   "term": "Philosophicall Kingdome"
+  },
+  {
+   "n": 89,
+   "ref": "OPEN.10",
+   "type": "marking",
+   "quote": "in the true Cabala, Magick and Woarchadumie, there are laid up far better Treasures",
+   "what": "the true Cabala, Magick and Woarchadumie",
+   "note": "The text names three things together in which far better Treasures than those published here are laid up. The lines given do not say what any of the three is.",
+   "term": "Woarchadumie"
+  },
+  {
+   "n": 90,
+   "ref": "OPEN.10",
+   "type": "own definition",
+   "quote": "with the help of the Oratory and Laboratory, I mean by asking, seeking, and knocking with unwearied paines and watchfullnesse",
+   "note": "The text says what it means by Oratory and Laboratory: asking, seeking and knocking with unwearied pains.",
+   "term": "Oratory and Laboratory"
+  },
+  {
+   "n": 91,
+   "ref": "OPEN.10",
+   "type": "concealment",
+   "quote": "which Treasures are to be manifest indifferently to all in due time by the light of Grace and Nature",
+   "note": "The better Treasures are said to be not yet manifest; they are to be made manifest to all alike in due time.",
+   "term": "light of Grace and Nature"
+  },
+  {
+   "n": 92,
+   "ref": "OPEN.10",
+   "type": "marking",
+   "quote": "after the Bloody Judgement of the Son is first finished, which undoubtedly will follow the Watry (Judgement) of the Father, then in the third Age of the Holy Spirit",
+   "what": "the third Age of the Holy Spirit",
+   "note": "The text sets out three in order: a Watry Judgement of the Father, a Bloody Judgement of the Son, and a third Age of the Holy Spirit, in which the Treasures are to be manifest.",
+   "term": "third Age of the Holy Spirit"
+  },
+  {
+   "n": 93,
+   "ref": "OPEN.10",
+   "type": "concealment",
+   "quote": "who to make that manifest which was hid, is wont to renew by fire",
+   "note": "Said of the Holy Spirit: what was hid is made manifest by a renewing by fire.",
+   "term": "fire"
+  },
+  {
+   "n": 94,
+   "ref": "OPEN.10",
+   "type": "marking",
+   "quote": "Elias the Artist",
+   "what": "Elias the Artist",
+   "note": "The text names one who is to come in the third Age and, in the words that follow the margin mark, is to restore all things.",
+   "term": "Elias the Artist"
+  },
+  {
+   "n": 95,
+   "ref": "OPEN.10",
+   "type": "position",
+   "quote": "For every person of the Divinity hath his own proper and appointed Age, ministry or dispensation, as may plainly be gathered out of the twelve Articles of the Apostles Creed, divided into three parts",
+   "note": "The author holds that each person of the Divinity has his own Age and draws this from the Apostles Creed divided in three."
+  },
+  {
+   "n": 96,
+   "ref": "OPEN.10",
+   "type": "own definition",
+   "quote": "so many houres of the great and One Day, viz. The continuance of this world",
+   "note": "The text says what the great and One Day is: the continuance of this world; the three parts answer to its hours.",
+   "term": "great and One Day"
+  },
+  {
+   "n": 97,
+   "ref": "OPEN.10",
+   "type": "marking",
+   "quote": "And thus they wil not with me begrudge these present crums to our thankfull posterity",
+   "what": "these present crums",
+   "note": "The author calls what he publishes now 'these present crums', set beside the far better Treasures laid up elsewhere.",
+   "term": "crums"
+  },
+  {
+   "n": 98,
+   "ref": "OPEN.10",
+   "type": "internal conflict",
+   "quote": "these present crums",
+   "with": "OPEN.6",
+   "note": "Here what is published is called crums beside far better Treasures; OPEN.6 says nothing more choice and efficacious lies hid in Nature than the secrets here offered, the universal Medicine alone excepted. The lines given do not say whether the better Treasures are that Medicine."
+  },
+  {
+   "n": 99,
+   "ref": "OPEN.10",
+   "type": "concealment",
+   "quote": "who by the light of Nature shall be skillfull in the Chymicks, and stirred up of God to the preparation hereof",
+   "note": "The posterity for whom the publication is meant: those skilled by the light of Nature and stirred up by God to prepare these things.",
+   "term": "light of Nature"
+  },
+  {
+   "n": 100,
+   "ref": "OPEN.10",
+   "type": "concealment",
+   "quote": "these Chymicall secrets will never be finger'd by those sluggish, slothfull, or sottish despisers of them, by reason of their indisposition and unfitnesse to manuall operation",
+   "note": "The author says the slothful will never reach these secrets, because they are unfit for work with the hands.",
+   "term": "manuall operation"
+  },
+  {
+   "n": 101,
+   "ref": "OPEN.10",
+   "type": "concealment",
+   "quote": "there will be little danger of their apprehending and discerning these Divine revealed Mysteries, which are mingled together in a fit place",
+   "note": "The author says the unworthy are unlikely to grasp the Mysteries, which he says are 'mingled together in a fit place'. The lines given do not say which place or how they are mingled.",
+   "term": "mingled together"
+  },
+  {
+   "n": 102,
+   "ref": "OPEN.10",
+   "type": "concealment",
+   "quote": "are not quick of understanding in these things which the wise-hearted can apprehend in few words",
+   "note": "The author says few words suffice for the wise-hearted and that the profane lack the understanding for them.",
+   "term": "wise-hearted"
+  },
+  {
+   "n": 103,
+   "ref": "OPEN.10",
+   "type": "internal conflict",
+   "quote": "these Chymicall secrets will never be finger'd by those sluggish, slothfull, or sottish despisers of them",
+   "with": "OPEN.2",
+   "note": "Here the secrets are said to stay out of reach of the unfit and the unworthy; OPEN.2 gives as the pattern to imitate a Father who gives his light to the good and bad alike. OPEN.2 speaks of giving, this place of who will grasp."
+  },
+  {
+   "n": 104,
+   "ref": "N015",
+   "type": "local signal",
+   "quote": "A word I doe not understand.",
+   "note": "A margin note at the mark after 'far better Treasures' says a word is not understood. The note does not name the word, and the lines given do not show who speaks in it.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 105,
+   "ref": "N016",
+   "type": "voice",
+   "quote": "Eccl. 43.33.",
+   "name": "Eccl. 43.33.",
+   "note": "The margin names a place of scripture beside the words on Treasures made manifest by the light of Grace and Nature.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 106,
+   "ref": "N017",
+   "type": "voice",
+   "quote": "Zeph. 3.9. Mal. 4.5, 6. Zech 14.9. Ecclesiasticus 48.1,",
+   "name": "Zeph. 3.9. Mal. 4.5, 6. Zech 14.9. Ecclesiasticus 48.1,",
+   "note": "The margin names four places of scripture beside the name Elias the Artist.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 107,
+   "ref": "N018",
+   "type": "concealment",
+   "quote": "Only they that are worthy shall understand these things, viz. They whose humane reason God hath inlightned by the mind.",
+   "note": "The margin says only the worthy shall understand, and says who they are: those whose reason God has enlightened.",
+   "term": "worthy",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 108,
+   "ref": "N018",
+   "type": "position",
+   "quote": "Let none therefore judge rashly, passing sentence before he know the truth of the cause.",
+   "note": "The margin warns against judging before knowing the matter.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 109,
+   "ref": "OPEN.11",
+   "type": "marking",
+   "quote": "2 As for the spurious and adulterous Theophrasteans (the worst and wickedest sort of men)",
+   "what": "the spurious and adulterous Theophrasteans",
+   "note": "The text numbers this group 2, the second of those the author expects against him, and names them.",
+   "term": "Theophrasteans"
+  },
+  {
+   "n": 110,
+   "ref": "OPEN.11",
+   "type": "position",
+   "quote": "they will not forbear to accuse my fincerity with all outragiousnesse",
+   "note": "The author expects this group to attack him with outrage."
+  },
+  {
+   "n": 111,
+   "ref": "OPEN.11",
+   "type": "position",
+   "quote": "they may not carry their cheating impostures up and downe the Country to put them off by their feigned experience, counterfeit friendship, disguised piety, various and vain promises at a great rate",
+   "note": "The author's account of why they will be angry: the publication stops them selling impostures dearly under feigned experience and piety.",
+   "term": "impostures"
+  },
+  {
+   "n": 112,
+   "ref": "OPEN.11",
+   "type": "concealment",
+   "quote": "hunt after a name of learning, wisedome, and prudence among great men, concealing their Authors",
+   "note": "The author says some pick up sentences from others and seek a name by them while hiding whom they had them from."
+  },
+  {
+   "n": 113,
+   "ref": "OPEN.11",
+   "type": "position",
+   "quote": "their forged Cachochymicall and Sophisticall Arts, which have not so much as a spark of truth in them",
+   "note": "The author's name and judgement for the arts this group sells.",
+   "term": "Cachochymicall"
+  },
+  {
+   "n": 114,
+   "ref": "OPEN.11",
+   "type": "concealment",
+   "quote": "their Pharisaicall skin which hideth the Fox-like and cursed mind would be pluckt off",
+   "note": "The author says these men wear a skin that hides their mind and fear its being pulled off."
+  },
+  {
+   "n": 115,
+   "ref": "OPEN.11",
+   "type": "position",
+   "quote": "are wont not only falsly to accuse many innocent men of upright, vertuous and blamelesse life, but also to bring their honest and commendable name into hatred and hazard",
+   "note": "The author says these Impostors falsely accuse blameless men and endanger their good name.",
+   "term": "Impostors"
+  },
+  {
+   "n": 116,
+   "ref": "OPEN.11",
+   "type": "position",
+   "quote": "This leud and dishonest Generation, which delighteth to deceive and cheat, had rather have a great then a good report",
+   "note": "The author says this group prefers a great name to a good one."
+  },
+  {
+   "n": 117,
+   "ref": "OPEN.11",
+   "type": "position",
+   "quote": "it is truly praise-worthy to displease and vex these Cheaters that are for ever banished the society of all true Philosophers",
+   "note": "The author counts it praiseworthy to displease them and says they are shut out of the company of true Philosophers.",
+   "term": "true Philosophers"
+  },
+  {
+   "n": 118,
+   "ref": "OPEN.11",
+   "type": "concealment",
+   "quote": "as ignorant and unworthy of the mysteries of God, and the secrets of Nature",
+   "note": "The Cheaters are called ignorant and unworthy of the mysteries of God and the secrets of Nature.",
+   "term": "secrets of Nature"
+  },
+  {
+   "n": 119,
+   "ref": "OPEN.11",
+   "type": "position",
+   "quote": "by reason of whom the most laudable and honourable name of true and noble Alchymistry, hath been unworthily made infamous and odious",
+   "note": "The author holds the name of Alchymistry to be honourable and blames this group for its ill repute.",
+   "term": "Alchymistry"
+  },
+  {
+   "n": 120,
+   "ref": "OPEN.11",
+   "type": "position",
+   "quote": "among learned men, who yet have judged of others knowledge by their own ignorance",
+   "note": "The author says learned men too have despised Alchymistry, judging by their own ignorance."
+  },
+  {
+   "n": 121,
+   "ref": "OPEN.11",
+   "type": "own definition",
+   "quote": "that Spagyricall or Divinely-distinguishing Sanctuary",
+   "note": "The text sets 'Divinely-distinguishing' beside 'Spagyricall' as its other name.",
+   "term": "Spagyricall",
+   "tags": [
+    "wording-dependent"
+   ]
+  },
+  {
+   "n": 122,
+   "ref": "OPEN.11",
+   "type": "position",
+   "quote": "whose commendation is oftentimes to be suspected, who never hate any but the best and most learned of men",
+   "note": "The author holds that to be dispraised by these men is to one's credit, and their praise suspect."
+  },
+  {
+   "n": 123,
+   "ref": "N019",
+   "type": "position",
+   "quote": "These seek the commendation of ingenuity from the theft and calumny of their benefactors.",
+   "note": "The margin says these men seek a name by stealing from and slandering those who helped them.",
+   "tags": [
+    "note-only"
+   ]
+  },
+  {
+   "n": 124,
+   "ref": "N020",
+   "type": "position",
+   "quote": "These are not the vices of the Art, but of men abusing the Art.",
+   "note": "The margin lays the vices to men who abuse the Art, not to the Art.",
+   "term": "Art",
+   "tags": [
+    "note-only"
+   ]
+  }
+ ],
+ "sections_read": [
+  "OPEN"
+ ],
+ "end_marker": "END OF OUTPUT"
+}
