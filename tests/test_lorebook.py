@@ -29,6 +29,17 @@ class RulesTest(unittest.TestCase):
             'Seed: unknown headword seed', 'wise: in Wisdom and Seed', 'key on 2 subjects: wisdom (Wisdom, Seed)',
             'key on 2 subjects: wise (Wisdom, Seed)'])
 
+    def test_a_gated_subject_with_nothing_to_gate_it_is_named(self):
+        bare = {'context': ['medicine'], 'entries': [RULES['entries'][0]]}
+        self.assertEqual(lorebook.check_rules(bare, ['medicine', 'Damascen']), ['Medicine: gated, but nothing gates it'])
+        self.assertEqual(lorebook.st_entries(bare, {'Medicine': 'm'})[0]['keysecondary'], [])
+
+
+class TriggerTest(unittest.TestCase):
+    def test_a_wanted_subject_that_is_not_in_the_rules_is_named(self):
+        self.assertEqual(lorebook.line_problems('Seeds; Medicine', 'a line', ['Medicine'], [], {'Medicine': 1}),
+                         ['not a subject: Seeds: a line'])
+
 
 class BuildTest(unittest.TestCase):
     def test_gated_entries_need_context_or_an_open_key_and_only_core_is_recursive(self):

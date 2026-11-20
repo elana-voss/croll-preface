@@ -104,8 +104,8 @@ def check_rules(rules, headwords):
             problems.append(f'{name}: no keys')
         if e.get('tier') not in ORDER:
             problems.append(f'{name}: tier')
-        if e.get('gated') and not rules.get('context'):
-            problems.append(f'{name}: gated without context words')
+        if e.get('gated') and not _secondary(rules, e):
+            problems.append(f'{name}: gated, but nothing gates it')
         problems += st_world.key_problems(name, e['keys'], rules.get('no_plural', []))
         for k in e['keys']:
             keys.setdefault(k.lower(), []).append(name)
@@ -201,6 +201,13 @@ def checker(number):
 
 # ---- the lorebook
 
+def _secondary(rules, e):
+    """A gated subject's secondary keys: the context words that are not its own keys, and its own open keys."""
+    own, open_keys = {k.lower() for k in e['keys']}, {o.lower() for o in rules.get('open_keys', [])}
+    return ([c for c in rules.get('context', []) if c.lower() not in own]
+            + [k for k in e['keys'] if k.lower() in open_keys])
+
+
 def st_entries(rules, content):
     """The SillyTavern entries: order by tier; a gated subject needs a context word or one of its open keys; only
     ungated core subjects are reached by recursion, and only core content is scanned."""
@@ -208,9 +215,8 @@ def st_entries(rules, content):
                 useProbability=False, depth=4, selectiveLogic=0, disable=False)
     out = []
     for e in rules['entries']:
-        gated, own = bool(e.get('gated')), {k.lower() for k in e['keys']}
-        secondary = ([c for c in rules['context'] if c.lower() not in own]
-                     + [k for k in e['keys'] if k.lower() in {o.lower() for o in rules['open_keys']}]) if gated else []
+        gated = bool(e.get('gated'))
+        secondary = _secondary(rules, e) if gated else []
         out.append(dict(base, key=e['keys'], keysecondary=secondary, selective=gated, order=ORDER[e['tier']],
                         comment=f"{e['name']} (word list: {', '.join(e['headwords'])})", content=content[e['name']],
                         excludeRecursion=gated or e['tier'] != 1, preventRecursion=e['tier'] != 1))
@@ -238,8 +244,9 @@ def build(placeholder=False):
     book = {'name': 'Croll, Admonitory Preface', 'description': "Subjects of Croll's Admonitory Preface (1657), "
             'as the Preface itself explains them.',
             'entries': {str(uid): dict(e, uid=uid) for uid, e in enumerate([readme] + entries)}}
-    paths.write(OUT if not placeholder else path('placeholder.json'), json.dumps(book, ensure_ascii=False, indent=1)
-                + '\n')
+    if not problems:  # a lorebook with a failure is never written
+        paths.write(OUT if not placeholder else path('placeholder.json'),
+                    json.dumps(book, ensure_ascii=False, indent=1) + '\n')
     words = [len(e['content'].split()) for e in entries]
     return problems, (f"{len(entries)} entries, {sum(len(e['key']) for e in entries)} keys, "
                       f"{sum(e['selective'] for e in entries)} gated, {sum(words):,} words")
@@ -253,6 +260,17 @@ def lines_bundle():
                                                      for title, names in groups))
     return _build_bundle('lorebook_lines', [prompt('lorebook_lines.md')], [('SUBJECT NAMES',
                                                                             path('subject_names.txt'))])
+
+
+def line_problems(wanted, text, inserted, cut, tier):
+    """A test line's failures: a subject it names that is not one, a core or secondary one not inserted."""
+    problems = []
+    for name in (w.strip() for w in wanted.split(';')):
+        if name not in tier:
+            problems.append(f'not a subject: {name}: {text}')
+        elif name not in inserted and tier[name] < 3:
+            problems.append(f"{'cut by budget' if name in cut else 'does not fire'}: {name}: {text}")
+    return problems
 
 
 def trigger_test(built):
@@ -271,9 +289,7 @@ def trigger_test(built):
         if wanted == '-':
             problems += [f'everyday line fires {n}: {text}' for n in inserted + cut]
             continue
-        for name in (w.strip() for w in wanted.split(';')):
-            if name not in inserted and tier.get(name, 3) < 3:
-                problems.append(f"{'cut by budget' if name in cut else 'does not fire'}: {name}: {text}")
+        problems += line_problems(wanted, text, inserted, cut, tier)
     paths.write(path('fire_report.txt'), '\n'.join(report + ['', '# Failures'] + problems) + '\n')
     counts.sort()
     return problems, f'{len(counts)} lines, entries per line: median {counts[len(counts) // 2]}, most {counts[-1]}'

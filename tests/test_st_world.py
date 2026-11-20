@@ -15,6 +15,10 @@ class MatchTest(unittest.TestCase):
         self.assertFalse(st_world.st_match('seed', 'the seeds'))
         self.assertTrue(st_world.st_match('/seeds?/i', 'the Seeds'))
 
+    def test_a_key_of_several_words_matches_anywhere_in_the_text(self):
+        self.assertTrue(st_world.st_match('prime matter', 'the prime matters'))
+        self.assertTrue(st_world.st_match('red lion', 'a tired lion'))
+
 
 class FireTest(unittest.TestCase):
     def test_gating_recursion_and_budget(self):
@@ -26,6 +30,14 @@ class FireTest(unittest.TestCase):
         self.assertEqual(st_world.fire(entries, 'the art of fire and seed'), (['gated', 'core', 'reached'], []))
         self.assertEqual(st_world.fire(entries, 'a seed', budget=50), (['core'], ['reached']))
 
+    def test_selective_without_secondary_keys_fires_on_the_primary_key(self):
+        self.assertEqual(st_world.fire([entry('open', ['art'], gated=True)], 'the art'), (['open'], []))
+
+    def test_recursion_scans_the_chat_with_the_inserted_content_one_level_deep(self):
+        entries = [entry('a', ['seed'], content='stone'), entry('b', ['art'], gated=True, secondary=['stone'],
+                                                                content='salt'), entry('c', ['salt'])]
+        self.assertEqual(st_world.fire(entries, 'the art of seed'), (['a', 'b'], []))
+
 
 class ProblemsTest(unittest.TestCase):
     def test_bad_keys_are_named(self):
@@ -33,6 +45,10 @@ class ProblemsTest(unittest.TestCase):
         self.assertEqual(found, ['S: key starts with an article: the stone', 'S: comma in key: salt, sulphur',
                                  'S: no plural for: seed'])
         self.assertEqual(st_world.key_problems('S', ['seed', 'seeds', 'physic'], no_plural=['physic']), [])
+
+    def test_keys_ending_in_s_empty_keys_and_keys_of_several_words(self):
+        self.assertEqual(st_world.key_problems('S', ['glass', 'basis', 'medicines', '', 'prime matter']),
+                         ['S: empty key', 'S: no plural for: glass', 'S: no plural for: basis'])
 
     def test_content_with_references_labels_or_wrong_length_is_named(self):
         good = ' '.join(['word'] * 50)
@@ -42,6 +58,7 @@ class ProblemsTest(unittest.TestCase):
         self.assertEqual(st_world.content_problems('S', 'Stated: ' + good), ['S: label'])
         self.assertEqual(st_world.content_problems('S', good + ' says the author'), ['S: label'])
         self.assertEqual(st_world.content_problems('S', 'too short'), ['S: 2 words'])
+        self.assertEqual(st_world.content_problems('S', good + ' his meaning is plain. As he quoted.'), [])
 
 
 if __name__ == '__main__':
