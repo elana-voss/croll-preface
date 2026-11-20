@@ -1,0 +1,1772 @@
+{
+ "observations": [
+  {
+   "ref": "CH6.29",
+   "type": "position",
+   "quote": "shall remaine like a pure, cleare, incorruptible and fixed Essence in a serene resplendent Chrystalin Earth",
+   "term": "Essence",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A1",
+    "B1"
+   ],
+   "note": "What is of the Virtues, pure Truth and Nature of the Elements and fears not the Fire of Heaven will remain a pure, incorruptible, fixed Essence in a crystalline Earth, at rest with the saved."
+  },
+  {
+   "ref": "CH6.29",
+   "type": "local signal",
+   "quote": "carryed upward like an Eagle, or as Smoak excited by the Fire",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B2"
+   ],
+   "note": "Two likenesses, marked by 'like' and 'as', for how this Essence is carried upward: an Eagle, and smoke raised by fire."
+  },
+  {
+   "ref": "CH6.29",
+   "type": "position",
+   "quote": "when God shall change all things by making them new according to his will, and shall make them all like Christall, then the motions of the Supernaturall Nature shall abide in those things without corruption",
+   "term": "Supernaturall Nature",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A2",
+    "B3"
+   ],
+   "note": "When God makes all things new and like crystal, the motions of the Supernaturall Nature will abide in them without corruption."
+  },
+  {
+   "ref": "CH6.30",
+   "type": "position",
+   "quote": "would bestow some part of their wealth upon men piously and consciensciously learned and skilfull in Chymistry",
+   "term": "Chymistry",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A3",
+    "B4"
+   ],
+   "note": "Croll wishes the Great Ones of his time would spend part of their wealth on pious men skilled in Chymistry, each set the task he is fit for."
+  },
+  {
+   "ref": "CH6.30",
+   "type": "marking",
+   "quote": "to find out one out of those Three Families of Nature, that out of the same things in which all Physick is founded, viz. Animalls, Vegetables, and Mineralls",
+   "what": "those Three Families of Nature",
+   "term": "Three Families of Nature",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A4",
+    "B5"
+   ],
+   "note": "The text names the Three Families of Nature and lists them at once: Animalls, Vegetables, Mineralls, in which all Physick is founded. Each man's task is one of the three."
+  },
+  {
+   "ref": "CH6.30",
+   "type": "operation",
+   "quote": "separating them by Fire into their Three First (things.)",
+   "term": "Three First",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A5",
+    "B6"
+   ],
+   "note": "The work named: the choicest Physicall Mysteries fetched out of the three families are separated by Fire into their Three First. '(things.)' stands in brackets in the text."
+  },
+  {
+   "ref": "N270",
+   "type": "own definition",
+   "quote": "All beauty, corporeal and incorporeall is nothing else but the splendor of the Divine countenance and Light set in created things",
+   "term": "beauty",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A6",
+    "B7"
+   ],
+   "note": "With 'nothing else but' the note says what beauty is: the Divine Light set in created things, shining out through fair bodies."
+  },
+  {
+   "ref": "N270",
+   "type": "position",
+   "quote": "For so much Light as a King hath in him, so much Majesty hath he.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A7",
+    "B8"
+   ],
+   "note": "A King's Majesty is measured by the Light in him; the Latin line Quantum Luminis, tantum Numinis follows, left in Latin."
+  },
+  {
+   "ref": "CH6.31",
+   "type": "marking",
+   "quote": "The Phylosophicall Conclave of any Prince furnished with such most precious and wholesome a Treasure",
+   "what": "The Phylosophicall Conclave of any Prince",
+   "term": "Phylosophicall Conclave",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A8",
+    "B9"
+   ],
+   "note": "A prince's store of the separated preparations is named a Phylosophicall Conclave and set beside the riches of Pactolus."
+  },
+  {
+   "ref": "CH6.31",
+   "type": "concealment",
+   "quote": "to contemplate the open riches of secret Nature",
+   "term": "secret Nature",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A9",
+    "B10"
+   ],
+   "note": "Nature is called secret; the Conclave would lay her riches open to the eyes of those who look."
+  },
+  {
+   "ref": "CH6.31",
+   "type": "position",
+   "quote": "what admirable elevation of the mind would it cause to the Creator himselfe",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B11"
+   ],
+   "note": "Beholding this beauty would refresh the eyes and lift the mind to the Creator."
+  },
+  {
+   "ref": "CH6.31",
+   "type": "local signal",
+   "quote": "the Vegetables answering to the members of our body by an Harmonicall Anatomy",
+   "term": "Harmonicall Anatomy",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A10",
+    "B12"
+   ],
+   "note": "The Vegetables are said to answer to the members of the body; the correspondence is named an Harmonicall Anatomy."
+  },
+  {
+   "ref": "CH6.31",
+   "type": "local signal",
+   "quote": "in their Three First (principles) with their garments put off; made naked and visible",
+   "term": "Three First",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A11",
+    "B13"
+   ],
+   "note": "The separated Three First are spoken of as unclothed, garments put off, made naked and visible: a figure of clothing for what covers them. '(principles)' stands in brackets."
+  },
+  {
+   "ref": "CH6.31",
+   "type": "marking",
+   "quote": "the TRIUNE naked DIANA shining with so many colours of variety and alwayes with a Triple Form in every classis or distribution",
+   "what": "the TRIUNE naked DIANA",
+   "term": "DIANA",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A12",
+    "B14"
+   ],
+   "note": "With 'viz.' the text names what is seen in the Three First the TRIUNE naked DIANA. Several defensible readings: the name follows 'Mineralls and Mettalls' directly (A), or, with 'in every classis', it covers Vegetables, Animalls and Mineralls alike (B). Interpreted: Diana stands as a figure for the three separated forms, since the text at once names those forms as hers."
+  },
+  {
+   "ref": "CH6.31",
+   "type": "own definition",
+   "quote": "a most limpid or clear MERCURIAL, a most garnished SULPHUREAN or oyly, and a most bright pure SALINE form",
+   "term": "Triple Form",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A13",
+    "B15"
+   ],
+   "note": "The Triple Form is spelled out: a MERCURIAL (limpid or clear), a SULPHUREAN (or oyly) and a SALINE (bright, pure) form."
+  },
+  {
+   "ref": "CH6.31",
+   "type": "concealment",
+   "quote": "who otherwise covereth her selfe from the dishonest looks of mortalls",
+   "term": "veile",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A14",
+    "B16"
+   ],
+   "note": "Diana otherwise covers herself from the dishonest looks of mortals and does not wish to come among men in this worldly scene with her veile."
+  },
+  {
+   "ref": "CH6.31",
+   "type": "position",
+   "quote": "A work truly becoming a great King and Prince.",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B17"
+   ],
+   "note": "Croll judges this work fit for a great King and Prince."
+  },
+  {
+   "ref": "CH6.32",
+   "type": "position",
+   "quote": "Francis the First King of France, the greatest Favorer of Phylosophers and learned men, intended to go about one of the Three, but was prevented by death.",
+   "term": "Francis the First",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A15",
+    "B18"
+   ],
+   "note": "Croll reports that Francis the First meant to undertake one of the Three and died first; 'one of the Three' takes up the Three Families of CH6.30."
+  },
+  {
+   "ref": "CH6.33",
+   "type": "local signal",
+   "quote": "the sole fountaine being reserved to it selfe for its own uses, but by drawing forth spare streams",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A16",
+    "B19"
+   ],
+   "note": "A figure of a fountain and its spare streams: the one source is kept reserved for its own uses and only spare streams are drawn off for giving. The lines given do not say plainly what the fountain is."
+  },
+  {
+   "ref": "CH6.33",
+   "type": "position",
+   "quote": "to do good to God, with this Talent, in our poor neighbour and his members",
+   "term": "Talent",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A17",
+    "B20"
+   ],
+   "note": "Put as a question: it is a work of Humanity and an Almoner's duty to do good with this Talent to the poor neighbour."
+  },
+  {
+   "ref": "CH6.34",
+   "type": "position",
+   "quote": "the Father of Lights (from onely as from the Efficient, Principall, and Finall Cause of all Creatures and Operations, every good Gift upon amendment of Life is by asking, seeking, and knocking, to be obtained)",
+   "term": "Father of Lights",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A18",
+    "B21"
+   ],
+   "note": "God is named the Father of Lights and the Efficient, Principall and Finall Cause; every good Gift is had from him upon amendment of life, by asking, seeking and knocking."
+  },
+  {
+   "ref": "CH6.34",
+   "type": "position",
+   "quote": "would load this pious and laudable purpose heap upon heap with far greater and perhaps unlookt for blessings",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B22"
+   ],
+   "note": "God would add far greater blessings to those who go this way in the Fear of God and love of their neighbour."
+  },
+  {
+   "ref": "N271",
+   "type": "concealment",
+   "quote": "By the Light of God, secret and hidden things are revealed and made manifest.",
+   "term": "Light of God",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A19",
+    "B23"
+   ],
+   "note": "Secret and hidden things are made manifest by the Light of God; without him nothing good and perfect is attained."
+  },
+  {
+   "ref": "N271",
+   "type": "voice",
+   "quote": "Psal. 145.19. Prov. 10.24.",
+   "name": "Psal.; Prov.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A20",
+    "B24"
+   ],
+   "note": "The note names two places of scripture beside CH6.34."
+  },
+  {
+   "ref": "CH6.35",
+   "type": "marking",
+   "quote": "For this onely is the Kings high-way, not onely to come all the desired Secrets of Nature",
+   "what": "the Kings high-way",
+   "term": "Kings high-way",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A21",
+    "B25"
+   ],
+   "note": "The way just described (in the Fear of God and love of the neighbour, CH6.34) is named the only Kings high-way, to the Secrets of Nature and to the workmaster of the universe. The name returns in CH6.48 (Rode or Kings Highway)."
+  },
+  {
+   "ref": "CH6.35",
+   "type": "local signal",
+   "quote": "by which ONE infinite OCEAN of all Divine GOODNES through Regeneration (alterity being swallowed up of unity)",
+   "term": "Regeneration",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A22",
+    "B26"
+   ],
+   "note": "Regeneration is used of the return to God, otherness swallowed up by unity, in the Sabath of Sabbaths or eternal Jubile; the same word is used of the medicine in CH6.38."
+  },
+  {
+   "ref": "CH6.35",
+   "type": "local signal",
+   "quote": "just like a miserable Exile and pilgrim (tossed up and down through various hazards, hardships, streights, and miserable sufferings) restord againe to his rightful Country",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B27"
+   ],
+   "note": "A likeness marked by 'just like': the one who attains is as an exile and pilgrim restored to his rightful country."
+  },
+  {
+   "ref": "CH6.35",
+   "type": "position",
+   "quote": "There is no recovering or returning to what we have lost but by the Crosse and Death",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A23",
+    "B28"
+   ],
+   "note": "What was lost is recovered only by the Crosse and Death."
+  },
+  {
+   "ref": "CH6.35",
+   "type": "position",
+   "quote": "but through the Fire of Temptation and Tribulation, with a sad and sharpe death, because the Coronation and wiping away of all teares is after the victory",
+   "term": "Fire",
+   "voice": "CROLL",
+   "tags": [
+    "wording-dependent"
+   ],
+   "from": [
+    "B29"
+   ],
+   "note": "God will not have man come to blessedness by a delicate journey but through the Fire of Temptation and Tribulation; Fire is here the text's word for temptation and tribulation."
+  },
+  {
+   "ref": "N272",
+   "type": "voice",
+   "quote": "He that knows One knows All things, he that Earneth many things learneth nothing Eccl. 34.12, 13, 14.",
+   "name": "Eccl.",
+   "voice": "UNCLEAR",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A24",
+    "B30"
+   ],
+   "note": "A saying that knowledge of the One is knowledge of all, with a place of scripture named straight after it; the note does not say outright that the saying is taken from that place."
+  },
+  {
+   "ref": "N272",
+   "type": "own definition",
+   "quote": "Blessednesse consisteth in the apprehension of the chiefest good.",
+   "term": "Blessednesse",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "B31"
+   ],
+   "note": "The note says what Blessednesse consists in: apprehending the chiefest good."
+  },
+  {
+   "ref": "N272",
+   "type": "position",
+   "quote": "God is the Immutable Rest, after which every Creature doth gaspe and groan with all its endeavor.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "B32"
+   ],
+   "note": "God is called the Immutable Rest that every creature strives after."
+  },
+  {
+   "ref": "N272",
+   "type": "voice",
+   "quote": "Levit. 25. Tob. 12.13. Eccl. 2.5. Prov 17.3.",
+   "name": "Levit.; Tob.; Eccl.; Prov",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A26",
+    "B33"
+   ],
+   "note": "Places of scripture named beside CH6.35 (with Eccl. 34.12, 13, 14 earlier in the same note)."
+  },
+  {
+   "ref": "N272",
+   "type": "position",
+   "quote": "We cannot get the Victory and Crown of Patience without striving & fighting.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A25",
+    "B34"
+   ],
+   "note": "Victory and the crown of patience come only by striving; a Latin line follows, left in Latin, with two letters the transcription could not read."
+  },
+  {
+   "ref": "CH6.36",
+   "type": "cross-reference",
+   "quote": "But, to returne to the supream",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B35"
+   ],
+   "note": "Croll returns to 'the supream', a matter taken up earlier; the lines given do not show the earlier place."
+  },
+  {
+   "ref": "CH6.36",
+   "type": "marking",
+   "quote": "to enter into the inner rooms of that supream Phylosophicall Oratory",
+   "what": "that supream Phylosophicall Oratory",
+   "term": "Phylosophicall Oratory",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A27",
+    "B36"
+   ],
+   "note": "The highest attainment is named a Phylosophicall Oratory with inner rooms; Croll says he long desired to enter them, in vain."
+  },
+  {
+   "ref": "CH6.36",
+   "type": "position",
+   "quote": "not to the end that I might make Gold and Silver",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A28",
+    "B37"
+   ],
+   "note": "Croll says his aim was not to make Gold and Silver; they are rich enough who are content with a little."
+  },
+  {
+   "ref": "CH6.36",
+   "type": "position",
+   "quote": "but with an exceeding love to find out the True Physick and upright desire of the wonderfull works of God",
+   "term": "True Physick",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B38"
+   ],
+   "note": "Croll gives his aim: love of finding the True Physick and desire of the works of God."
+  },
+  {
+   "ref": "CH6.36",
+   "type": "position",
+   "quote": "by so much the more bitterly have I been worryed hitherto by the slanderous Envy of malevolent men, and waves or fruits of of Fortune",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B39"
+   ],
+   "note": "The more he followed these most secret Studies, the more he was troubled by the envy of malevolent men and by Fortune."
+  },
+  {
+   "ref": "CH6.36",
+   "type": "position",
+   "quote": "though I cannot proceed further as yet, I comfort my selfe with the cogitation onely",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A29",
+    "B40"
+   ],
+   "note": "Croll says of himself that he cannot go further as yet and has only the thought of so great a Thing."
+  },
+  {
+   "ref": "CH6.36",
+   "type": "position",
+   "quote": "God himselfe knoweth what, to whom, when and how is fit",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A30",
+    "B41"
+   ],
+   "note": "God decides what is given, to whom, when and how, and turns away what might hurt."
+  },
+  {
+   "ref": "CH6.36",
+   "type": "position",
+   "quote": "on whom God bestoweth somethings as a punishment when he is angry, which he denies as a blessing when he is pleased",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B42"
+   ],
+   "note": "God gives some things as punishment and withholds them as a blessing; the life of those whose felicity is their ruin is not to be desired."
+  },
+  {
+   "ref": "N273",
+   "type": "voice",
+   "quote": "Num. 11.33. Psal. 78.30, 31, & 104. & 105. Tob. 12.7.",
+   "name": "Num.; Psal.; Tob.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A31",
+    "B43"
+   ],
+   "note": "Places of scripture named beside CH6.36."
+  },
+  {
+   "ref": "CH6.37",
+   "type": "position",
+   "quote": "the works of God are to be published and celebrated",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B44"
+   ],
+   "note": "The works of God are to be made public and praised; Croll gives this as his reason for telling what follows."
+  },
+  {
+   "ref": "CH6.37",
+   "type": "marking",
+   "quote": "by this monument here left it may hereafter appear that that Divine Benificence hath not been denyed to men of our age also",
+   "what": "this monument here left",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B45"
+   ],
+   "note": "What is here left is called a monument, to show later times that the Divine Benificence was not denied to men of his age."
+  },
+  {
+   "ref": "CH6.37",
+   "type": "position",
+   "quote": "was shewed to me as an eye-witnesse in my travells",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A32",
+    "B46"
+   ],
+   "note": "Croll says that in his travels, at some Great mans house, he saw and tasted it as an eye-witness, in attestation of the Truth; it was denied to many others."
+  },
+  {
+   "ref": "CH6.37",
+   "type": "concealment",
+   "quote": "Which I forbear to English.",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "A33",
+    "B47"
+   ],
+   "note": "Where the great man would be named the text goes into Latin, and these words say it is left untranslated on purpose. The lines given do not show whose 'I' this is."
+  },
+  {
+   "ref": "CH6.37",
+   "type": "local signal",
+   "quote": "cujuSmodi lENtis DenIque consueVerunt latitare tempOrum currIcVlis",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A34",
+    "B48"
+   ],
+   "note": "Capital letters stand inside words in the Latin (also sIt and EaLem before this), unlike the printing around them. Several defensible readings: they mark letters to be read apart (a covered name or number), or they are printing irregularities; the text does not say which."
+  },
+  {
+   "ref": "CH6.38",
+   "type": "marking",
+   "quote": "the greatest miracle of Nature wrought by Art",
+   "what": "the greatest miracle of Nature wrought by Art",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A35",
+    "B49"
+   ],
+   "note": "What Croll witnessed is named the greatest miracle of Nature wrought by Art."
+  },
+  {
+   "ref": "CH6.38",
+   "type": "marking",
+   "quote": "the various and manifold metamorphosis of the Inferior Astronomy made in the cold",
+   "what": "the Inferior Astronomy",
+   "term": "Inferior Astronomy",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A36",
+    "B50"
+   ],
+   "note": "The changes of the work are named an Inferior Astronomy, made in the cold."
+  },
+  {
+   "ref": "CH6.38",
+   "type": "marking",
+   "quote": "the Moyst way of the Ancients not as yet intensly exalted to the eye of the Basilisk",
+   "what": "the Moyst way of the Ancients",
+   "term": "Moyst way",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A37",
+    "B51"
+   ],
+   "note": "A named way of working, the Moyst way of the Ancients, said in what he saw not yet raised to 'the eye of the Basilisk', a further degree not explained in this paragraph."
+  },
+  {
+   "ref": "CH6.38",
+   "type": "own definition",
+   "quote": "that Latex or liquor",
+   "term": "Latex",
+   "voice": "CROLL",
+   "tags": [
+    "wording-dependent"
+   ],
+   "from": [
+    "A38"
+   ],
+   "note": "Latex is glossed as liquor."
+  },
+  {
+   "ref": "CH6.38",
+   "type": "operation",
+   "quote": "by giving one onely drop of that Latex or liquor",
+   "term": "Latex",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B52",
+    "A39"
+   ],
+   "note": "One single drop of the liquor given to a man at the point of death restored him to health in one night."
+  },
+  {
+   "ref": "CH6.38",
+   "type": "own definition",
+   "quote": "in which as in a storehouse the dispersed vertues of all Celestiall and Terrestriall bodies were by a wonderfull artifice invisibly gathered together in an heap, nay, in which the whole world was centred",
+   "term": "Latex",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A40",
+    "B53"
+   ],
+   "note": "What the liquor is: a storehouse in which the scattered virtues of all heavenly and earthly bodies are gathered invisibly by art; the whole world is centred in it."
+  },
+  {
+   "ref": "CH6.38",
+   "type": "position",
+   "quote": "a man desperately sick and at the point of death was recovered by its Fiery, Astrall, and Celestiall Invisible Nature conveying to the Heart a beam of the Naturall Life",
+   "term": "Naturall Life",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B54"
+   ],
+   "note": "The liquor's Fiery, Astrall, Celestiall Invisible Nature brought a beam of the Naturall Life to the heart, renewing the organs of life."
+  },
+  {
+   "ref": "CH6.38",
+   "type": "marking",
+   "quote": "For this Kingly medicine, and the Empresse of all other",
+   "what": "this Kingly medicine, and the Empresse of all other",
+   "term": "Kingly medicine",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A41",
+    "B55"
+   ],
+   "note": "The medicine is given two titles, Kingly medicine and Empresse of all other; it raises human bodies from any desperate disease."
+  },
+  {
+   "ref": "CH6.38",
+   "type": "position",
+   "quote": "for many diseases are a Divine innate punishment, for which there is no cure in Nature",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A42",
+    "B56"
+   ],
+   "note": "A limit: the medicine does not cure where God has decreed otherwise; many diseases are divine punishment with no cure in Nature."
+  },
+  {
+   "ref": "CH6.38",
+   "type": "local signal",
+   "quote": "this whole new regenerate world is able by vertue of its Regeneration to renew the little old corruptible world Man",
+   "term": "Regeneration",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A43",
+    "B57"
+   ],
+   "note": "The medicine is called a whole new regenerate world and Man the little old corruptible world (the Microcosm) it renews: world is used of both, not in its plain sense."
+  },
+  {
+   "ref": "CH6.38",
+   "type": "position",
+   "quote": "reduce the whole Microcosm into a true Temperament, and preserve it therein till the appointed Terme of death imposed on mortalls for their sin",
+   "term": "Microcosm",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B58"
+   ],
+   "note": "It brings the whole Microcosm to a true Temperament and keeps it so only until the appointed term of death."
+  },
+  {
+   "ref": "N274",
+   "type": "marking",
+   "quote": "The Physophycall Basilisk like Lightning suddenly and unawares burneth up any imperfect mettall whatsoever",
+   "what": "The Physophycall Basilisk",
+   "term": "Basilisk",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A44",
+    "B59"
+   ],
+   "note": "The note says what the Basilisk named in the paragraph does: like lightning it burns up any imperfect metal and on a sudden produces another new form."
+  },
+  {
+   "ref": "N274",
+   "type": "position",
+   "quote": "Therefore the searching it out is most to be commended to all that are studious of the Truth.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "B60"
+   ],
+   "note": "The note commends searching it out to all who study the Truth."
+  },
+  {
+   "ref": "N275",
+   "type": "position",
+   "quote": "There is no Physitian can cure death, but Christ.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A45",
+    "B61"
+   ],
+   "note": "The medicine's limit: no physician but Christ cures death."
+  },
+  {
+   "ref": "CH6.39",
+   "type": "position",
+   "quote": "Imperfect and impure mettalls are cleansed from their infirmities and accidents by the same spirit of the world, by the same Heat of Sun and Moon as mens bodies are",
+   "term": "Heat of Sun and Moon",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B62"
+   ],
+   "note": "Impure metals are cleansed by the same spirit of the world and Heat of Sun and Moon as men's bodies."
+  },
+  {
+   "ref": "CH6.39",
+   "type": "own definition",
+   "quote": "they are restored to their True Health, which is aureity or goldness",
+   "term": "aureity",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A46",
+    "B63"
+   ],
+   "note": "For metals, True Health is said to be aureity or goldness."
+  },
+  {
+   "ref": "CH6.39",
+   "type": "operation",
+   "quote": "without a new motion of generation and corruption, by way of alteration onely, and remotion of accidents",
+   "term": "accidents",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A47",
+    "B64"
+   ],
+   "note": "The restoring is by alteration only and removal of accidents, with no new generation and corruption."
+  },
+  {
+   "ref": "CH6.39",
+   "type": "position",
+   "quote": "for mettals doe not differ in specie but onely in accidents",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A48",
+    "B65"
+   ],
+   "note": "The stated ground: metals differ only in accidents, not in kind."
+  },
+  {
+   "ref": "CH6.40",
+   "type": "concealment",
+   "quote": "justly not to be made known (though it be truer then true) to our Vulgar sort",
+   "term": "Vulgar sort",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A49",
+    "B66"
+   ],
+   "note": "The secret will seem incredible to the Vulgar sort and is justly not made known to them, though truer than true."
+  },
+  {
+   "ref": "CH6.40",
+   "type": "local signal",
+   "quote": "because they never heard any thing in all their life of the Heat of the Sun and Moon",
+   "term": "Heat of the Sun and Moon",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A50",
+    "B67"
+   ],
+   "note": "The Vulgar are ignorant because they never heard of the Heat of the Sun and Moon (also in CH6.39). Interpreted: the phrase names an agent of the work, not plainly the weather."
+  },
+  {
+   "ref": "CH6.40",
+   "type": "marking",
+   "quote": "who know not these Vulcanean metamorphoses and this Power of GOD joyned to Nature, but admire the Heathenish Physick",
+   "what": "these Vulcanean metamorphoses",
+   "term": "Vulcanean metamorphoses",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B68"
+   ],
+   "note": "The changes spoken of are named Vulcanean metamorphoses and a Power of GOD joined to Nature, set against the Heathenish Physick the Vulgar admire."
+  },
+  {
+   "ref": "CH6.40",
+   "type": "voice",
+   "quote": "account the sayings of Prudent men but as fables and fictions",
+   "name": "our Vulgar sort",
+   "voice": "QUOTED: our Vulgar sort",
+   "tags": [],
+   "from": [
+    "B69"
+   ],
+   "note": "A judgement reported of the Vulgar sort in order to reject it ('foolishly enough')."
+  },
+  {
+   "ref": "CH6.40",
+   "type": "position",
+   "quote": "the understanding of the intelligent, clouded with no precepts or traditions of foolish men, can hardly apprehend it",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B70"
+   ],
+   "note": "Even the intelligent can hardly grasp it."
+  },
+  {
+   "ref": "CH6.40",
+   "type": "local signal",
+   "quote": "that the Element of EARTH should by the help of Mechanick Magick swim upon the water",
+   "term": "Mechanick Magick",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A51",
+    "B71"
+   ],
+   "note": "A harder marvel set beside the first: Earth made to swim upon water by Mechanick Magick; the lines given do not explain it."
+  },
+  {
+   "ref": "N276",
+   "type": "concealment",
+   "quote": "This incredulous doubtfulnesse will fall out to the gaine rather than to the losse",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "B72"
+   ],
+   "note": "The general disbelief is counted a gain: few believe the Art is true."
+  },
+  {
+   "ref": "N276",
+   "type": "concealment",
+   "quote": "for upon that account God provideth for the security of those that give themselves truly to the study of Phylosophy",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A52",
+    "B73"
+   ],
+   "note": "By this disbelief God provides for the safety of those who truly study Phylosophy."
+  },
+  {
+   "ref": "N276",
+   "type": "voice",
+   "quote": "Exod. 32.20. Job 14.19.",
+   "name": "Exod.; Job",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A53",
+    "B74"
+   ],
+   "note": "Places of scripture named at the end of the note beside CH6.40."
+  },
+  {
+   "ref": "CH6.41",
+   "type": "position",
+   "quote": "To know this Phylosophicall Secret truly is principally necessary to an Astrall Physitian",
+   "term": "Astrall Physitian",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B75"
+   ],
+   "note": "An Astrall Physitian must know this Phylosophicall Secret, or he cannot be certain in his Art."
+  },
+  {
+   "ref": "CH6.41",
+   "type": "marking",
+   "quote": "the four Monarchs of all diseases, the Epilepsie, Gout, Dropsie, Leprosie",
+   "what": "the four Monarchs of all diseases",
+   "term": "Monarchs of all diseases",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A54",
+    "B76"
+   ],
+   "note": "Four diseases are named the four Monarchs of all diseases and listed."
+  },
+  {
+   "ref": "CH6.41",
+   "type": "voice",
+   "quote": "proving in some of his works that God taught him the medicine",
+   "name": "Paracelsus",
+   "voice": "QUOTED: Paracelsus",
+   "tags": [],
+   "from": [
+    "A55",
+    "B77"
+   ],
+   "note": "Paracelsus is said to have cured the four by a wonderful Art, by the help of Christ not of the Devill, and to prove in some of his works, not named here, that God taught him the medicine."
+  },
+  {
+   "ref": "CH6.41",
+   "type": "concealment",
+   "quote": "by Restoring or regenerating ones, which are known to very few",
+   "term": "regenerating",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A56",
+    "B78"
+   ],
+   "note": "The medicines he used are called Restoring or regenerating ones, not common ones, and are known to very few."
+  },
+  {
+   "ref": "CH6.41",
+   "type": "position",
+   "quote": "by which Nature being renewed afterward of her own accord she expelleth all things that offend her",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B79"
+   ],
+   "note": "How these medicines work: Nature is renewed and then of herself drives out what offends her."
+  },
+  {
+   "ref": "CH6.41",
+   "type": "cross-reference",
+   "quote": "as his Epitaph at Salisburg doth truly and sufficiently witnesse to posterity",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A57",
+    "B80"
+   ],
+   "note": "Points to Paracelsus's Epitaph at Salisburg as witness; its words are not given."
+  },
+  {
+   "ref": "N277",
+   "type": "position",
+   "quote": "It is not Christian-like to ascribe to the Devill a greater possibility and power, than to the Infinite divine Wisdome & omnipotence.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "B81"
+   ],
+   "note": "The note argues against ascribing such cures to the Devil."
+  },
+  {
+   "ref": "N277",
+   "type": "local signal",
+   "quote": "it is not the first but second birth that produceth it",
+   "term": "second birth",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A58",
+    "B82"
+   ],
+   "note": "The chief Foundation and Scope of true Physitians is said to be produced by the second birth, not the first."
+  },
+  {
+   "ref": "CH6.42",
+   "type": "marking",
+   "quote": "All diseases proceeding from the corruption of humors, how great and desperate soever their cures be, are healed by this universall medicine",
+   "what": "this universall medicine",
+   "term": "universall medicine",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B83"
+   ],
+   "note": "It is named this universall medicine, healing all diseases from the corruption of humors."
+  },
+  {
+   "ref": "CH6.42",
+   "type": "local signal",
+   "quote": "as a Carpenter that squareth all kind of timber",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B84"
+   ],
+   "note": "A likeness marked by 'as': the one medicine for all diseases is like a carpenter who squares every kind of timber."
+  },
+  {
+   "ref": "CH6.42",
+   "type": "position",
+   "quote": "except the party be at the utmost Terme appointed him by the supream Being; or the disease be inflicted by God, besides Nature, as a punishment and speciall affliction",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A59",
+    "B85"
+   ],
+   "note": "Two exceptions: the appointed end of life, and a disease sent by God as punishment."
+  },
+  {
+   "ref": "CH6.43",
+   "type": "cross-reference",
+   "quote": "as hath been said",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A60",
+    "B86"
+   ],
+   "note": "Points back to an earlier place where it was said that only those God gives it to can use the Gift; the lines given do not show which."
+  },
+  {
+   "ref": "CH6.43",
+   "type": "position",
+   "quote": "can make use of this peculiar and celestiall Gift, but he on whom God himselfe hath bestowed it",
+   "term": "Gift",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B87"
+   ],
+   "note": "Only one to whom God has given this Gift can make use of it."
+  },
+  {
+   "ref": "CH6.43",
+   "type": "concealment",
+   "quote": "who onely both inlightneth the obscurity, and darkneth the clearnesse of these mysteries",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A61",
+    "B88"
+   ],
+   "note": "God alone makes these mysteries clear or dark: none understands the plainest unless he enlighten them, nor is ignorant of the darkest if he illustrate them."
+  },
+  {
+   "ref": "CH6.44",
+   "type": "voice",
+   "quote": "between the Artist and God the first cause, there ought to be an agreement without contrariety",
+   "name": "Lullius",
+   "term": "Artist",
+   "voice": "QUOTED: Lullius",
+   "tags": [],
+   "from": [
+    "A62",
+    "B89"
+   ],
+   "note": "A conclusion given to Lullius and approved ('rightly concluded'): Artist and God the first cause must agree, the first mover moving the Artist's soul to understanding."
+  },
+  {
+   "ref": "CH6.44",
+   "type": "concealment",
+   "quote": "that he may open to him what is hid in the magistery of this Art",
+   "term": "magistery",
+   "voice": "QUOTED: Lullius",
+   "tags": [],
+   "from": [
+    "A63",
+    "B90"
+   ],
+   "note": "Within what is given to Lullius: what is hidden in the magistery of this Art is opened to the Artist by God."
+  },
+  {
+   "ref": "CH6.44",
+   "type": "position",
+   "quote": "Blessed will he be to whom the Lord God shall be pleased to inspire the Gifts of his Grace",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "B91"
+   ],
+   "note": "Blessed is the one whom God inspires with the Gifts of his Grace."
+  },
+  {
+   "ref": "CH6.44",
+   "type": "position",
+   "quote": "but also against their undeserving neighbour by strange devices not becoming an Aedpt Phylosopher",
+   "term": "Aedpt Phylosopher",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B92"
+   ],
+   "note": "Men sometimes offend against God by ingratitude and against their neighbour by devices not fitting an Adept Phylosopher (the text prints 'Aedpt')."
+  },
+  {
+   "ref": "CH6.44",
+   "type": "position",
+   "quote": "some eminent men heretofore and two publick Phylosophers of divers Nations in our time abusing the Gifts of God against those most horrid Anathema's of Phylosophers",
+   "term": "publick Phylosophers",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A65",
+    "B93"
+   ],
+   "note": "Some eminent men of the past and two unnamed publick Phylosophers of Croll's time abused the Gifts of God against the Anathema's of Phylosophers; the words of those curses are not given."
+  },
+  {
+   "ref": "CH6.44",
+   "type": "position",
+   "quote": "every man according to his dexterity which the sydereall spirit causeth and exciteth is the forger of his own fortune",
+   "term": "sydereall spirit",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A67",
+    "B94"
+   ],
+   "note": "A bracketed view with 'doubtlesse': each man forges his own fortune by the dexterity the sydereall spirit stirs in him."
+  },
+  {
+   "ref": "CH6.44",
+   "type": "concealment",
+   "quote": "answerable to the unworthy publishing of this most True Phylosophicall Art",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A64",
+    "B95"
+   ],
+   "note": "These men came to a doleful end, a reproach to their Name, answering to their unworthy making public of the Art."
+  },
+  {
+   "ref": "CH6.44",
+   "type": "concealment",
+   "quote": "their cheating Impostures of the first Hapocraticall silence",
+   "term": "Hapocraticall silence",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A66",
+    "B97"
+   ],
+   "note": "They are punished both for 'provoking loquacity' and for cheating Impostures of the first Hapocraticall silence, done by turns to cloak the matter for their safety."
+  },
+  {
+   "ref": "N278",
+   "type": "marking",
+   "quote": "The originall of the Philosophicall Magistery.",
+   "what": "The originall of the Philosophicall Magistery",
+   "term": "Magistery",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A68",
+    "B98"
+   ],
+   "note": "The note heads the passage as the origin of the Philosophicall Magistery."
+  },
+  {
+   "ref": "N278",
+   "type": "position",
+   "quote": "when it is only but imaginary",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A69",
+    "B99"
+   ],
+   "note": "Most now boast of a clear knowledge of it that is only imagined, and so hinder themselves from learning more."
+  },
+  {
+   "ref": "CH6.45",
+   "type": "marking",
+   "quote": "the children of Hermes who first found out the science",
+   "what": "the children of Hermes",
+   "term": "children of Hermes",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A70",
+    "B100"
+   ],
+   "note": "The more ancient Phylosophers are named the children of Hermes, who first found out the science."
+  },
+  {
+   "ref": "CH6.45",
+   "type": "concealment",
+   "quote": "to have it indeed without the witnesse of a sottish ignorant multitude, then seeme or be supposed onely to have it",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A71",
+    "B101"
+   ],
+   "note": "They judged it safer to have it in fact, without the multitude as witness, than to seem to have it."
+  },
+  {
+   "ref": "CH6.45",
+   "type": "voice",
+   "quote": "not as many too credulous imagine, that being deceived with their own vaine imaginations they would deceive others in like manner",
+   "name": "many too credulous",
+   "voice": "QUOTED: many too credulous",
+   "tags": [],
+   "from": [
+    "B102"
+   ],
+   "note": "A view reported in order to reject it: that the ancient Phylosophers, themselves deceived, meant to deceive others."
+  },
+  {
+   "ref": "CH6.46",
+   "type": "marking",
+   "quote": "these private not publick Secretaries of Nature",
+   "what": "private not publick Secretaries of Nature",
+   "term": "Secretaries of Nature",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A72",
+    "B103"
+   ],
+   "note": "The ancient adepts are named private, not publick, Secretaries of Nature."
+  },
+  {
+   "ref": "CH6.46",
+   "type": "position",
+   "quote": "who have, in the Naturall Light fresh and flourishing in them, followed Reason the best guide, according to the ability God gave them",
+   "term": "Naturall Light",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B104"
+   ],
+   "note": "They followed Reason as the best guide, in the Naturall Light fresh in them."
+  },
+  {
+   "ref": "CH6.46",
+   "type": "concealment",
+   "quote": "accounting nothing more glorious than that they might peaceably rejoyce prudently and in Quiet Silence, with a Mind truly Sound in a Sound Body",
+   "term": "Quiet Silence",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B105"
+   ],
+   "note": "Their aim: to rejoice peaceably and in Quiet Silence, sound in mind and body, in the Fear of God and Love of their Neighbour."
+  },
+  {
+   "ref": "N279",
+   "type": "position",
+   "quote": "In the first age of the world God made it known by the Light of Nature.",
+   "term": "Light of Nature",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A73",
+    "B106"
+   ],
+   "note": "God made it known in the first age of the world by the Light of Nature."
+  },
+  {
+   "ref": "CH6.47",
+   "type": "voice",
+   "quote": "This is Phylosophy Adept, which Paracelsus in the Tincture of Physicks explaineth them to be Long Life and free from all infirmity",
+   "name": "Paracelsus",
+   "term": "Phylosophy Adept",
+   "voice": "QUOTED: Paracelsus",
+   "tags": [],
+   "from": [
+    "A74",
+    "B107"
+   ],
+   "note": "Phylosophy Adept is named and said, on the word of Paracelsus in a writing named the Tincture of Physicks, to be long life free from all infirmity until the natural death."
+  },
+  {
+   "ref": "CH6.47",
+   "type": "voice",
+   "quote": "an honest support of that long life in this vale of miseries, that we might serve God without poverty and prejudice of our Neighbour",
+   "name": "Paracelsus",
+   "voice": "QUOTED: Paracelsus",
+   "tags": [],
+   "from": [
+    "B108"
+   ],
+   "note": "The second part of what is given to Paracelsus: an honest support of that long life, to serve God without poverty."
+  },
+  {
+   "ref": "CH6.48",
+   "type": "position",
+   "quote": "a wonderfull and most abstruse comprehending of all the vertues of the whole Creation flowing and running together in one certaine masse",
+   "term": "masse",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "A75",
+    "B109"
+   ],
+   "note": "The happiness is said to be reached by no other means or arts than a most abstruse gathering of all the virtues of Creation into one mass; the text does not show who was so persuaded."
+  },
+  {
+   "ref": "CH6.48",
+   "type": "marking",
+   "quote": "in this Rode or Kings Highway and Phylosophical Reason is to be accomplished",
+   "what": "this Rode or Kings Highway",
+   "term": "Kings Highway",
+   "voice": "UNCLEAR",
+   "tags": [],
+   "from": [
+    "B110"
+   ],
+   "note": "The name Kings Highway stands here again, joined with Phylosophical Reason; at CH6.35 'the Kings high-way' names the way of the Fear of God and love of the neighbour."
+  },
+  {
+   "ref": "CH6.49",
+   "type": "operation",
+   "quote": "being by great help of ingenuity and Art like the lesser world heaped up together and concentred into one masse",
+   "term": "lesser world",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A76",
+    "B111"
+   ],
+   "note": "All the spiritual virtues and active qualities are heaped together and concentred into one mass by ingenuity and Art, 'like the lesser world'."
+  },
+  {
+   "ref": "CH6.49",
+   "type": "position",
+   "quote": "for the Light of Nature is glittering in the Darknesse of the world",
+   "term": "Light of Nature",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B112"
+   ],
+   "note": "A bracketed remark beside the illustration of the Mind: the Light of Nature shines in the darkness of the world."
+  },
+  {
+   "ref": "CH6.49",
+   "type": "position",
+   "quote": "a kind of sweetest and admirable illustration of the Mind",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A77",
+    "B113"
+   ],
+   "note": "Those who have it gain illumination of mind, knowledge of all natural things and heavenly secrets, and a perfect operation."
+  },
+  {
+   "ref": "CH6.49",
+   "type": "marking",
+   "quote": "they have even miraculously use of this choycest and admirable Magisterie, together with a flowing plenty and Abundance of all Things",
+   "what": "this choycest and admirable Magisterie",
+   "term": "Magisterie",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B114"
+   ],
+   "note": "It is named this choicest Magisterie; those who have its use have with it abundance of all things."
+  },
+  {
+   "ref": "N280",
+   "type": "position",
+   "quote": "The defect of Nature must be supplyed by the industry of Art",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A78",
+    "B115"
+   ],
+   "note": "Art must supply what Nature lacks, since Nature always strives toward perfection."
+  },
+  {
+   "ref": "N280",
+   "type": "voice",
+   "quote": "Prov. 3.16.",
+   "name": "Prov.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A79",
+    "B116"
+   ],
+   "note": "A place of scripture named beside CH6.49."
+  },
+  {
+   "ref": "CH6.50",
+   "type": "marking",
+   "quote": "the Phylosophers our predecessors that have been train'd up in Hermes school",
+   "what": "Hermes school",
+   "term": "Hermes school",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B117"
+   ],
+   "note": "The earlier Phylosophers are named as trained in Hermes school."
+  },
+  {
+   "ref": "CH6.50",
+   "type": "concealment",
+   "quote": "though they have been altogether dumb in keeping close the secret of the Art by a constant Taciturnity",
+   "term": "Taciturnity",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "A80",
+    "B118"
+   ],
+   "note": "These Phylosophers kept the secret of the Art closed by constant silence."
+  },
+  {
+   "ref": "CH6.50",
+   "type": "concealment",
+   "quote": "knowing to what dangers the searchers out of difficult Arts and the publick Secretaries of Nature are obnoxious",
+   "term": "Secretaries of Nature",
+   "voice": "CROLL",
+   "tags": [],
+   "from": [
+    "B119"
+   ],
+   "note": "The reason for their silence: the dangers searchers of difficult Arts and publick Secretaries of Nature are exposed to, so that they have been compelled to deny it."
+  },
+  {
+   "ref": "CH6.50",
+   "type": "voice",
+   "quote": "yet usually give this Reason: because the greatest Medicine, being artificially prepared with the help of wise Nature the Mistresse of Science, should be (or is) the Life and inlightning Light",
+   "name": "Phylosophers our predecessors that have been train'd up in Hermes school",
+   "term": "greatest Medicine",
+   "voice": "QUOTED: Phylosophers our predecessors that have been train'd up in Hermes school",
+   "tags": [],
+   "from": [
+    "A81",
+    "B120"
+   ],
+   "note": "The Reason that follows is given as the one these Phylosophers usually give: the greatest Medicine, prepared by art with Nature's help, is the Life and inlightning Light."
+  },
+  {
+   "ref": "CH6.50",
+   "type": "own definition",
+   "quote": "our Balsom, that is, the spirit or celestiall",
+   "term": "Balsom",
+   "voice": "QUOTED: Phylosophers our predecessors that have been train'd up in Hermes school",
+   "tags": [],
+   "from": [
+    "A82",
+    "B121"
+   ],
+   "note": "With 'that is' the text says what our Balsom means: the spirit or celestial, not visible vapour of life, which the Medicine quickens."
+  },
+  {
+   "ref": "CH6.50",
+   "type": "position",
+   "quote": "it may be the Essence of our Life",
+   "term": "Essence",
+   "voice": "QUOTED: Phylosophers our predecessors that have been train'd up in Hermes school",
+   "tags": [],
+   "from": [
+    "B122"
+   ],
+   "note": "A hedged statement ('it may be'): the Medicine may be the Essence of our Life."
+  },
+  {
+   "ref": "CH6.50",
+   "type": "own definition",
+   "quote": "the Fift Essence compounded of the four Elements, in which are all the Elements actually, and all their arts, with greatest agreement made equall with true equation according to all possibility of Nature",
+   "term": "Fift Essence",
+   "voice": "QUOTED: Phylosophers our predecessors that have been train'd up in Hermes school",
+   "tags": [],
+   "from": [
+    "A83",
+    "B123"
+   ],
+   "note": "What the Fift Essence is: compounded of the four Elements, all actually in it, made equal in the greatest agreement."
+  },
+  {
+   "ref": "CH6.50",
+   "type": "local signal",
+   "quote": "bound together with a golden chaine without any contrariety",
+   "voice": "QUOTED: Phylosophers our predecessors that have been train'd up in Hermes school",
+   "tags": [],
+   "from": [
+    "B124"
+   ],
+   "note": "A figure: the Elements in it are bound together with a golden chain."
+  },
+  {
+   "ref": "CH6.50",
+   "type": "local signal",
+   "quote": "like as in Lightning and the eye of a Basilisk",
+   "term": "Basilisk",
+   "voice": "QUOTED: Phylosophers our predecessors that have been train'd up in Hermes school",
+   "tags": [],
+   "from": [
+    "A84",
+    "B125"
+   ],
+   "note": "The subtle Matter and Form act in curing diseases and changing metals as Lightning and the eye of a Basilisk; Basilisk is used as a likeness, as in CH6.38 and N274, and Experience is called as proof."
+  },
+  {
+   "ref": "CH6.50",
+   "type": "position",
+   "quote": "as the Heaven is incorruptible in respect of the four Elements",
+   "voice": "QUOTED: Phylosophers our predecessors that have been train'd up in Hermes school",
+   "tags": [],
+   "from": [
+    "A85",
+    "B126"
+   ],
+   "note": "A proportion: this stands to the four qualities of the body as the incorruptible Heaven to the four Elements."
+  },
+  {
+   "ref": "N281",
+   "type": "concealment",
+   "quote": "They durst not under paine of Anathema to speak of it, but in a picture of Aenigmaticall words",
+   "term": "Aenigmaticall words",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A86",
+    "B127"
+   ],
+   "note": "They dared speak of it only in a picture of Aenigmaticall words, under pain of Anathema, the Master of Nature not giving leave."
+  },
+  {
+   "ref": "N281",
+   "type": "concealment",
+   "quote": "lest they should indanger themselves, and give an occasion to others of a wicked & hurtfull study or practice",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "B128"
+   ],
+   "note": "Two reasons for the covered speech: their own danger, and giving others occasion for a wicked and hurtful practice."
+  },
+  {
+   "ref": "N281",
+   "type": "voice",
+   "quote": "Prov. 10.10.",
+   "name": "Prov.",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A88",
+    "B129"
+   ],
+   "note": "A place of scripture named after the words on covered speech."
+  },
+  {
+   "ref": "N281",
+   "type": "position",
+   "quote": "It exciteth motion in our bodies and reviveth the Elements",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "B130"
+   ],
+   "note": "The Medicine stirs motion in the body and revives the Elements."
+  },
+  {
+   "ref": "N281",
+   "type": "own definition",
+   "quote": "the Naturall life is nothing else but the actings of the Elements",
+   "term": "Naturall life",
+   "voice": "CROLL",
+   "tags": [
+    "note-only"
+   ],
+   "from": [
+    "A87",
+    "B131"
+   ],
+   "note": "Natural life is said to be nothing else but the actings of the Elements."
+  }
+ ],
+ "dropped": [
+  {
+   "from": "B96",
+   "reason": "No conflict shown: CH6.44 calls this publishing 'unworthy', while CH6.37 speaks of publishing the works of God."
+  }
+ ],
+ "voices": [
+  {
+   "ref": "N272",
+   "voice": "UNCLEAR",
+   "quote": "He that knows One knows All things",
+   "basis": "A saying with 'Eccl. 34.12, 13, 14.' named straight after it; the note does not say the words are taken from there."
+  },
+  {
+   "ref": "CH6.37",
+   "voice": "UNCLEAR",
+   "quote": "Which I forbear to English.",
+   "basis": "An 'I' declines to put the Latin into English; the text does not show whether this is the author or one who Englished him."
+  },
+  {
+   "ref": "CH6.40",
+   "voice": "QUOTED: our Vulgar sort",
+   "quote": "account the sayings of Prudent men but as fables and fictions",
+   "basis": "A judgement reported of the Vulgar sort and rejected ('foolishly enough')."
+  },
+  {
+   "ref": "CH6.41",
+   "voice": "QUOTED: Paracelsus",
+   "quote": "proving in some of his works that God taught him the medicine",
+   "basis": "Reported from 'some of his works'."
+  },
+  {
+   "ref": "CH6.44",
+   "voice": "QUOTED: Lullius",
+   "quote": "between the Artist and God the first cause",
+   "basis": "'Lullius ... rightly concluded, that'; runs to 'magistery of this Art'."
+  },
+  {
+   "ref": "CH6.44",
+   "voice": "UNCLEAR",
+   "quote": "Blessed will he be to whom the Lord God",
+   "basis": "Follows Lullius' conclusion with no mark of where his words end; 'Notwithstanding we see' after it is the author's."
+  },
+  {
+   "ref": "CH6.45",
+   "voice": "QUOTED: many too credulous",
+   "quote": "that being deceived with their own vaine imaginations",
+   "basis": "'as many too credulous imagine', reported in order to reject it ('not')."
+  },
+  {
+   "ref": "CH6.47",
+   "voice": "QUOTED: Paracelsus",
+   "quote": "Long Life and free from all infirmity",
+   "basis": "'which Paracelsus in the Tincture of Physicks explaineth'."
+  },
+  {
+   "ref": "CH6.48",
+   "voice": "UNCLEAR",
+   "quote": "yet have been perswaded that they should never attaine the same",
+   "basis": "'have been perswaded' shows no one who was persuaded or who persuaded; runs to the end of the paragraph."
+  },
+  {
+   "ref": "CH6.50",
+   "voice": "QUOTED: Phylosophers our predecessors that have been train'd up in Hermes school",
+   "quote": "because the greatest Medicine",
+   "basis": "'yet usually give this Reason:'; the text does not mark where the Reason ends, so taken to the end of the paragraph."
+  }
+ ],
+ "sections_read": [
+  "CH6"
+ ],
+ "end_marker": "END OF OUTPUT"
+}
