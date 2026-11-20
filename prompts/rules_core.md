@@ -21,7 +21,7 @@ You work on one old printed book in English translation. Everything you need is 
 - A script checks every quote against its reference. A quote it cannot find there is removed, with whatever rests on it.
 
 ## Whose words
-- Every passage has a voice: `CROLL` for the author speaking for himself; `QUOTED: <name>` for words the text gives to a named person, writing or group, the name as the book spells it; `UNCLEAR` where the text does not show whose words they are.
+- Every passage has a voice: `CROLL` for the author speaking for himself; `QUOTED: <name>` for words the text gives to a named person, writing or group, the name as the book spells it; `UNCLEAR` where the text does not show whose words they are. `CROLL` is a label only: in prose he is "the author".
 - Words the author reports in order to reject them are `QUOTED`, not his.
 
 ## Two tags

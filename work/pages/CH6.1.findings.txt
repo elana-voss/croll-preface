@@ -1,0 +1,5 @@
+all quotes pass
+
+## Words found neither in the book nor in plain English
+croll 10
+latin 1
