@@ -1,0 +1,30 @@
+### Chapter II. Where that true Physick is to be found
+
+Lower things have two natures, “a fift Essence and the dreggs”, which fire can separate [CH2.1]; the medicine lies wrapped as a kernel in its rind and must be got out by the Chymists’ art [CH2.1]. It is a specific virtue planted in the Seeds by the Word [CH2.2], and cures come from Spirits, not bodies [CH2.3; CH2.7]. Remedies are drawn from the three shops of Vegetable, Animal and Mineral [CH2.4], with gold first, though its virtue is disclosed to few [CH2.5]. Every disease has its medicine, except disease sent by God’s anger [CH2.8].
+
+The chapter then rises: herbs are “but a signe onely of the Word signified” [CH2.13], and the Word of God alone “is that which healeth all things” [CH2.13]. The Magus heals by Characters and Stones, the true Cabalist by the Word through Mind, Faith and Prayer [CH2.21; CH2.22]. The page records that the medicine is placed in the kernel, the Seeds, the Spirits, the Word and God; our reading is, narrowest, that the medicine in the herbs belongs to the Visible Physick and the medicine hid in God to the Invisible [CH2.14]. The chapter ends by giving honour to God and to the Physitian as his minister [CH2.23–28].
+
+### Chapter III. How the True Physic is got out and prepared by Fire
+
+Nothing in the lower world is so noble that it has no poison, yet where there is venom there is virtue [CH3.1]. The margin names the two: God’s severe Justice is the venom, and his Mercy the Physick [N163]. Physicians are ministers “to seperate, not masters to compose” [CH3.6], and “Physick and Chymistry cannot be separated” [CH3.7]. Bodies are sorted into Animals, Vegetables and Minerals, and the Three First sought in each [CH3.9]. Impurity came into things with the fall, so Nature now gives nothing pure [CH3.11; CH3.12].
+
+The Separatory art parts the kernel and Quint-Essence from the husks, which are enemies to man’s body [CH3.14]. Three advantages follow from medicines so prepared [CH3.16–19], and minerals and stones, rightly prepared, excel vegetables [CH3.21]. All things come from one seed and one Spirit of the world [CH3.28–31]. Witnesses say where the matter lies, and the page gives two readings: in man, or in every thing with man as one case [CH3.34–38]. Galen lacked the art of separation, while Paracelsus would have shown more had he been borne with [CH3.40; CH3.41]. The chapter closes on the judgement that “this wicked generation is not worthy of such medicines” [CH3.42], and a prayer [CH3.46].
+
+### Chapter IV. How Physick works upon the body
+
+The chapter opens with a dispute: should contraries be cured by contraries, as Hippocrates holds, or like by like, as Paracelsus holds [CH4.1]? The author answers that both maxims may be received [CH4.2]; his quarrel is with Galen, who referred cures to bare qualities [CH4.2]. Nature does the cure, and “the Physitian is but the minister or servant” [CH4.3]; the medicine helps the body’s own Balsom “like a coadjutour or privy counsellour” [CH4.3]. The ground is that “Nature is not a quality but a vertue” [CH4.6]. Diseases spring from the Seed or Astra’s, not from the humours [CH4.6], and “Physick is a Spirit (not a body) which the Magician or wise man only can discerne” [CH4.6].
+
+The Salt, Sulphur and Mercury of man are preserved by those of the great world [CH4.7], and diseases are sorted by these three substances [CH4.7–10]. The page gives two readings where ulcers are cured by Salts in one place and by Mercury in the next: the rules disagree, or, wording-dependent, they name one remedy under two words [CH4.9–10]. The chapter ends with two stories from Prague, of a swallowed knife and of swallowed flints [CH4.13; CH4.14].
+
+### Chapter V. The Duty of Nature’s Minister, the Physician
+
+The physician must be “free from every kind of Sect” [CH5.1], yet no sect is to be slighted [CH5.3]. More secrets remain concealed, to be found by wise men in their times [CH5.5], so neither the Ancients nor Theophrastus is wholly to be rejected or embraced [CH5.7]. The physician is first an interpreter of Nature [CH5.8] and second a good Spagirus, one who separates the pure from the impure [CH5.12]. Paracelsus is praised above all [CH5.12; CH5.14] and defended against the charge that his cures were the Devil’s, a charge the author reports to reject [CH5.15]. The Light of Grace and the Light of Nature make one man both theologian and philosopher [CH5.19].
+
+A long turn on Tartar, the excrement of food coagulated in man, explains the first of three respects in which the Paracelsians cure better [CH5.31; CH5.32; CH5.35; CH5.44]. Paracelsus is to be read, but not as an oracle [CH5.51]; he wrote in a magical style for the children of Wisdom [CH5.54]. Physician and surgeon should be one [CH5.56], and the Old and New Physick may be reconciled [CH5.61]. Eight causes are given why even the best medicine fails [CH5.68–81], and diseases from God’s wrath are cured only by repentance [CH5.82].
+
+### Chapter VI. Of that one only chief Medicine
+
+The author calls the chief Medicine “this most secret Secret of secret Secrets” [CH6.1]. It is promised only to the pious philosophers [CH6.2], and seekers must want wisdom, not wealth [CH6.6; CH6.12]. Few reach it, and only by God’s will [CH6.17; CH6.18]. The philosophers write of it in covers and swore never to write it plainly [CH6.21]. The author attacks impostors who promise gold [CH6.22–25] and says he once saw and tasted the Medicine at a great man’s house [CH6.37]. One drop of a liquor saved a dying man in one night [CH6.38].
+
+The Medicine is then named a Fift Essence, “the root of life in Nature” [CH6.51]. It cures by bringing the Three First back to equality [CH6.53; CH6.54], and it can keep a man sound to his natural death [CH6.54]. Paracelsus is cleared of the scoff that he sought bodily immortality [CH6.62]. The true long life is then given a second sense: union with God, the Centre [CH6.63; CH6.64]. The chapter weighs how life is prolonged and shortened [CH6.69–74] and ends the Preface with a prayer to the Triunity [CH6.77].
+

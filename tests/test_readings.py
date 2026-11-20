@@ -70,6 +70,9 @@ class OutsideCheckTest(unittest.TestCase):
                 return {"noe's"}
         self.assertEqual(outside_check.outside(Book(), "Noe's time", {'time'}), {})
 
+    def test_a_link_target_is_not_prose(self):
+        self.assertEqual(outside_check.prose('[Medicines](units/qwerty.md)'), '[Medicines]')
+
 
 if __name__ == '__main__':
     unittest.main()

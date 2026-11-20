@@ -1,0 +1,8 @@
+all quotes pass
+
+## Words found neither in the book nor in plain English
+cabalistical 1
+gabalistical 1
+
+## Length
+The page has 3430 words against about 3,000: trim repeated detail; cut no point.

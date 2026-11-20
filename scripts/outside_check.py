@@ -23,6 +23,11 @@ def text_of(data):
     return ''
 
 
+def prose(text):
+    """A page's text without its links' targets."""
+    return re.sub(r'\]\([^)]*\)', ']', text)
+
+
 def outside(book, data, plain):
     def stem(word):
         return re.split(r"['’]", word)[0]  # a possessive is listed by its stem
@@ -41,7 +46,7 @@ def main():
     if outputs.is_json(args.path):
         data = outputs.load_json(args.path)
     else:
-        data = outputs.REF_BRACKET.sub(' ', outputs.page_body(outputs.read(args.path)))
+        data = outputs.REF_BRACKET.sub(' ', prose(outputs.page_body(outputs.read(args.path))))
     found = outside(book, data, prompt_check.load(book).plain)
     outputs.report([f'{word} {count}' for word, count in found.items()], 'no outside words')
     return 0  # a list for the corrector to judge, not a failure
