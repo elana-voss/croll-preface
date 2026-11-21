@@ -1,0 +1,328 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>The True Physic in Plain Language - Croll&#x27;s Admonitory Preface — A Reading</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="Oswald Croll&#x27;s Admonitory Preface (English, 1657) read section by section from the book alone, with paired pages in plain terms and plain language, a synthesis and a word list; every claim referenced to the text.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon-de23e50b.svg">
+        <link rel="shortcut icon" href="../favicon-8114d1fc.png">
+        <link rel="stylesheet" href="../css/variables-8adf115d.css">
+        <link rel="stylesheet" href="../css/general-e96d0476.css">
+        <link rel="stylesheet" href="../css/chrome-d279d366.css">
+        <link rel="stylesheet" href="../css/print-9e4910d8.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../fonts/fonts-9644e21d.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="mdbook-highlight-css" href="../highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="../tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="../ayu-highlight-3fdfc3ac.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "../";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "../searchindex-53287361.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../toc-f2fdec6a.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="mdbook-body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../toc.html"></iframe>
+            </noscript>
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="mdbook-page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
+                        </label>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
+                        </button>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
+                        </ul>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Croll&#x27;s Admonitory Preface — A Reading</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="mdbook-content" class="content">
+                    <main>
+                        <h1 id="the-true-physic-in-plain-language"><a class="header" href="#the-true-physic-in-plain-language">The True Physic in Plain Language</a></h1>
+<p>This page tells what the author’s preface says about the True Physic: the medicine that cures people’s diseases and that few physicians know. It draws on this book alone and retells it in everyday words; the page titled <a href="U1.html">The True Physic in Plain Terms</a> gives the evidence for each point.</p>
+<h2 id="is-this-a-process"><a class="header" href="#is-this-a-process">Is this a process?</a></h2>
+<p>A reading of the whole preface finds that the book marks a process here. A chapter is headed by how the True Physic, wrapped in bark and rind, is got out and prepared by fire, as the preface’s headings also announce. The book names an art that separates the good from the bad, and three steps as one way: making fine, drawing out and separating. Their aim is a pure, clear matter to give our bodies. The finding is that reading’s, not a claim the book makes about itself.</p>
+<h2 id="in-brief"><a class="header" href="#in-brief">In brief</a></h2>
+<ol>
+<li>The True Physic has five headings: what it is, where it lies hidden, how it is got out by fire, how it works, what physician it needs.</li>
+<li>Every natural body has three parts.</li>
+<li>It is a power the Creator hid in the seeds of plants, animals and minerals, not a quality.</li>
+<li>Without chemistry all medicine is lifeless.</li>
+<li>Nature heals and the physician serves her, keeping only the medicine’s invisible body.</li>
+<li>There are three kinds of disease, each cured by one of the three parts.</li>
+<li>The physician must separate the pure from the impure.</li>
+<li>Our reading is that man, a little world made of all things, is described because the medicine works on him.</li>
+<li>Some things are left obscure on purpose.</li>
+</ol>
+<h2 id="what-the-author-offers-the-reader"><a class="header" href="#what-the-author-offers-the-reader">What the author offers the reader</a></h2>
+<p>The author offers two of the finest secrets of the art of separating, each preparation first tested with his own hands after mistakes that cost him money, time and work.</p>
+<p>He refuses to fill a huge volume with copies of long formulas; a margin note says the biggest formulas are mostly the biggest deceits. The many descriptions he gathered from the men he sought out he reduced to one, first tested by his own chemical trial.</p>
+<p>He examined it with the help of Vulcan. Vulcan may stand for the work of fire, as the book speaks of the alchemy of Vulcan and of a school of Vulcan beside medicines tried by fire; or, on a margin note alone, for one spirit with the invisible body of things and nature’s own art.</p>
+<p>Our reading is that his own tested preparations already point to the True Physic, as a later margin note sets medicine duly prepared by separation against the mixtures in the shops.</p>
+<p>He expects the philosophers who kept these secrets in silence to accuse him of breaking open the seal of chemistry. His answer: the true heirs of wisdom will find far better treasures by asking, seeking and knocking, with tireless work and watchfulness, while the lazy who despise these secrets, unfit for work with their hands, will never lay hands on them.</p>
+<p>He also says the mysteries are mixed together in a fitting place. What this means stays open.</p>
+<h2 id="what-the-true-physic-is"><a class="header" href="#what-the-true-physic-is">What the True Physic is</a></h2>
+<p>The first heading asks what the medicine is that cures diseases and few physicians know; the first chapter answers it as the True Physic. The book spells physic two ways.</p>
+<p>No natural body can be split, by any skill of dissolving, into more or fewer than three parts: mercury, or a liquid; sulphur, or an oil; and salt. The threefold God spoke a threefold word of making and so made all things threefold, as the art of separating plainly shows.</p>
+<p>A margin note explains this separating as parting purity from impurity, or truth from falsehood. Like words return in the physician’s duty to separate the pure from the impure.</p>
+<p>Those skilled in the art, the author says, can show this by plain experience and with certainty. Green wood has three moistures: fire consumes the watery and the oily one; the third, the salt, greasy, very small, thin and lasting, remains in the ashes.</p>
+<p>The salt sets bodies firm and gives solidity, colour and taste; the sulphur gives substance and change; the mercury gives things their powers. The earth, endowed with these three, is the cause of man’s material body.</p>
+<p>A margin note says that when the salt, or mummy, is spent, things come to nothing but worms; part of one word cannot be read. Mummy can be read two ways. In one, it is a second name for the salt, the lasting part, as the note joins the two. In the other, it is the preserving power in a body: the fourth chapter says nature heals herself by her inborn mummy, and calls nature herself the inward mummy or inward balm.</p>
+<p>Our reading is that mercury, sulphur and salt are not only the common substances but three parts every body has: the book explains them as a liquid, an oil and a lasting part, and finds them in green wood.</p>
+<h2 id="man-as-a-little-world-added-to-the-first-heading"><a class="header" href="#man-as-a-little-world-added-to-the-first-heading">Man as a little world, added to the first heading</a></h2>
+<p>The author adds to the first heading a description of man as a little world, almost forgotten and unknown.</p>
+<p>Man is made of all bodies and created things; the properties of animals, plants and minerals entered into him; and all outward things are nothing but man’s body.</p>
+<p>Adam had two bodies: a visible one of the elements, and an invisible one from the stars.</p>
+<p>What the book calls the stars are not the seven visible lights of heaven, only their bodies, but the invisible body of all things. The seed of a grain of wheat is such an invisible body; visible bodies are nothing but what these invisible bodies cast off.</p>
+<p>A margin note says these invisible bodies send the plague into us through our skin, as the sun sends its beams through glass.</p>
+<p>Our reading is that this description is added because it bears on the True Physic: the medicine is a power hidden in seeds, a seed is an invisible body, and in a cure only the medicine’s invisible body is taken. Man is called a little world, the book says, because the whole world keeps, feeds and cures him.</p>
+<h2 id="where-the-true-physic-lies-hidden"><a class="header" href="#where-the-true-physic-lies-hidden">Where the True Physic lies hidden</a></h2>
+<p>The second heading asks where the True Physic lies hidden and can be found; the second chapter answers.</p>
+<p>It lies in plants, animals and minerals, which commonly give medicines enough to keep health and cure all bodily diseases. In them is the true and particular medicine for bodily disorders.</p>
+<p>It does not lie in the four outward qualities, as Theophrastus learnedly shows. It is a particular power hidden in the very seeds, arising by nature without art, which the Creator planted in every growing thing at the beginning by the word that brought all things out of darkness into light.</p>
+<p>Our reading is that nature makes this power and the art only frees it from its cover: it arises without art, yet the next heading says it must be got out by fire.</p>
+<p>In the last chapter the author wishes each worker set to search one of these three kinds of things.</p>
+<p>Our reading is that man, made of the properties of animals, plants and minerals, is cured from the same three.</p>
+<h2 id="how-it-is-got-out-and-prepared-by-fire"><a class="header" href="#how-it-is-got-out-and-prepared-by-fire">How it is got out and prepared by fire</a></h2>
+<p>The third heading says the True Physic is covered with bark and rind and must be got out and rightly prepared by fire.</p>
+<p>Our reading, the narrowest, is that bark and rind are the outward body of a thing and the kernel its power: in Galen’s day they could not separate the bark and husk from the kernel, and the body of simple medicines is to be thrown away.</p>
+<p>Without chemical skill all medicine is lifeless. The author blames physicians who leave their medicines to a careless, greedy apothecary, to their patients’ great harm.</p>
+<p>Breaking bodies down brings to light the properties that lay in their make-up. So a physician should practise much at this true analysis and living anatomy of bodies, for every lasting quality of a body is found in its salt, mercury or sulphur.</p>
+<p>A margin note gives reasons to prefer medicine duly prepared by this art to the mixtures in the shops; the first is that many sick people will take it more easily and willingly.</p>
+<p>The way, making fine, drawing out and separating, was imperfect and little used in Galen’s day. Galen, as the author reports him, sought to separate the contrary parts of vinegar, as of milk, and could have done so had he known distilling.</p>
+<p>A margin note gives the three first things of milk as whey, butter and cheese, and says all that is earthy is salt. Galen, the author says, would gladly have served Theophrastus (Paracelsus) to learn to separate the three first parts of vinegar, and above all to make those high preparations and elixirs.</p>
+<p>The book calls these three first parts qualities, in brackets: two readings, both resting on a single English word of the translation. In one, the bracketed word is an added gloss and the three are the three parts of the first chapter, as the milk note’s earthy salt suggests. In the other, it means qualities, though the second chapter denies that the True Physic lies in qualities.</p>
+<p>Almost everyone burns to make gold but does not care to prepare medicines properly. A margin note names four pillars of medicine: philosophy, alchemy, astronomy, and the medicine’s own power.</p>
+<p>The author calls this art divine, most wonderful and proven. Rough people have much disparaged it, yet abuse does not condemn it: the better a thing, the more harmful its abuse.</p>
+<h2 id="how-medicine-works-on-the-body"><a class="header" href="#how-medicine-works-on-the-body">How medicine works on the body</a></h2>
+<p>The fourth heading asks how, and with what power, medicine works on the body and cures its diseases.</p>
+<p>Like cures like. Medicines should agree with the sick part: the medicine has outwardly the nature the part has inwardly, so the inner nature in need is strengthened by the abundance of the outer. When what earth, air, water and fire bring forth in man falls sick, it is restored by what they bring forth in the great world.</p>
+<p>Nature heals, and the physician serves her. She heals her own weaknesses by what the book calls her inborn mummy; when her inner strength fails, her servant the physician gives outward help, and sometimes it is best to leave the work to nature’s own art alone. A margin note adds that the inward physician does the work when the natural physician fails; this rests on the note alone and on its exact words.</p>
+<p>Power, not quality. Nature is a power, not a quality, and without power a quality is dead and merely accidental. Opium, very cold, saves some in the plague not by its coldness but by its particular poisonous power, stronger than the plague’s hidden poison. So nature destroys one poison by another, a weak evil by a stronger.</p>
+<p>Our reading is that contraries curing, because they make up what is lacking, does not clash with like curing like. The book itself parts power from quality: the medicine’s nature must not be contrary to the part’s, but one power may be set against the disease’s power, as with opium.</p>
+<p>Where diseases come from. Their roots are neither hot nor cold. The most harmful spring not from the body’s matter or the four humours, but from the nature of the seed, or invisible bodies, and from invisible spirits of the three parts that work like craftsmen, unknown to the ancients.</p>
+<p>So the medicine must be a spirit too, not a body, which only the wise can discern. The body of simple medicines is thrown away, for life must work on life and spirit on spirit once the impure body is separated off: the true and living anatomy.</p>
+<p>Our reading is that this is what the bark-and-rind heading promises, and the living anatomy of the third chapter.</p>
+<p>The cure goes to the root. When the centre, root and seed of a disease are pulled out, the work is done. A physician who cures by what the book calls complexion puts out the harmless flame and leaves the fire in the coals.</p>
+<p>Margin notes beside these sayings name Paracelsus and his writings, so they may be the author’s own, with the notes pointing to where Paracelsus says the same, or Paracelsus’s.</p>
+<p>The three parts return as a rule of cure: three kinds of disease, as all medicine comes from mercury, sulphur and salt. All ulcers are cured by mercury, all sticky running sores by salt, all inflammations by sulphur; this, the author says, needs no reasons.</p>
+<h2 id="what-kind-of-physician-this-medicine-needs"><a class="header" href="#what-kind-of-physician-this-medicine-needs">What kind of physician this medicine needs</a></h2>
+<p>The fifth heading asks what kind of physician this medicine requires to serve it.</p>
+<p>He must be skilled in separating the pure from the impure and restore the patient by a wise alchemical preparation. A margin note says the philosopher and the physician spring from one another.</p>
+<p>The art is older than Paracelsus, who was not its author. He sought to restore the true and philosophical medicine, which no one in his time tried to restore, lost and wiped out for many years.</p>
+<p>Others followed him. The author hopes their writings will help readers, by daily practice of piety, to draw out the great treasure hidden and shut up within themselves.</p>
+<p>This can be read two ways. In one, the inner treasure is a further good beside the medicine. In the other, it is the same course as drawing out the medicine, read in man, as the words drawing out and hidden echo the headings on the medicine.</p>
+<p>Who may give medicine. Many physicians cannot bear that medicine and its preparations be shared with all sorts of people. The author calls the belief behind their fear, that a secret loses its power once known, a foolish notion of the common crowd. Yet neither God nor nature has made every man a physician. A margin note adds that Paracelsus would not have medicine kept hidden.</p>
+<p>The ground beneath it all is faith: the same note calls faith in God and love of one’s neighbour the best foundation of medicine, without which all art is worth nothing.</p>
+<h2 id="the-work-the-author-wishes-for-and-his-closing-words"><a class="header" href="#the-work-the-author-wishes-for-and-his-closing-words">The work the author wishes for, and his closing words</a></h2>
+<p>The author wishes the great ones of his time would spend part of their wealth on men pious, conscientious and skilled in chemistry, each set to search one of the three kinds of natural things, to draw out the choicest medical secrets and separate them by fire into their three first parts.</p>
+<p>Our reading is that this wish repeats the whole course of the True Physic: three kinds of things, drawing out by fire, three parts. It speaks of secrets in the plural, not of the one chief medicine of its chapter.</p>
+<p>The work is costly: the Prince paid the author’s necessary expenses, as he could not bear alone the burden of all these medicines, which must be prepared and tried by fire.</p>
+<p>Medicine has not yet reached perfection; much remains for later ages to find. Of the secrets by which life was once lengthened, the author says we lack only the knowledge of them and their use.</p>
+<p>He holds some things back: he has shared only as far as was lawful and allowed by God, has not dealt with everything, to avoid being long-winded, and by the law of philosophers some hard things are left obscure to young students, for the wise to find out.</p>
+<p>He hopes the ancient, true and philosophical medicine, not yet fully known through the long wear of time, may be restored. Our reading is that it is either the True Physic, as the book calls what Paracelsus sought to restore the true and philosophical medicine, or the chief medicine, which has its own heading in the last chapter.</p>
+<h2 id="what-the-book-leaves-open"><a class="header" href="#what-the-book-leaves-open">What the book leaves open</a></h2>
+<ul>
+<li>What the mysteries mixed together in a fitting place are, and where they are mixed.</li>
+<li>Whether Vulcan means the work of fire or the spirit a margin note makes one with the invisible body of things and nature’s own art.</li>
+<li>Whether mummy is a second name for the salt or nature’s own healing power.</li>
+<li>Whether the three first parts of vinegar are the three parts of every body or qualities.</li>
+<li>Whose words the sayings about the root of disease are, the author’s or Paracelsus’s.</li>
+<li>How the inner treasure readers draw out of themselves relates to getting the medicine out of things.</li>
+<li>Whether the ancient, true and philosophical medicine of the closing hope is the True Physic or the chief medicine.</li>
+<li>What the author holds back, having shared only as far as was lawful and not having dealt with everything.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../units/U1.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                            </a>
+
+                            <a rel="next prefetch" href="../units/U2.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../units/U1.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                    </a>
+
+                    <a rel="next prefetch" href="../units/U2.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                    </a>
+            </nav>
+
+        </div>
+
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr-ef4e11c1.min.js"></script>
+        <script src="../mark-09e88c2c.min.js"></script>
+        <script src="../searcher-09f2665d.js"></script>
+
+        <script src="../clipboard-1626706a.min.js"></script>
+        <script src="../highlight-abc7f01d.js"></script>
+        <script src="../book-609e4cb8.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>
