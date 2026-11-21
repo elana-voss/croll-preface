@@ -2,6 +2,12 @@
 
 A close reading, in English, of Oswald Croll's *Admonitory Preface* as printed in *Philosophy Reformed & Improved in Four Profound Tractates* (London 1657, Englished by H. Pinnell): from its title to the end of its sixth chapter. The book is the only source; nothing from outside it enters the pages.
 
+Read the book online: <https://elana-voss.github.io/croll-preface/>
+
+## Lorebook
+
+[`lorebook/Croll_Admonitory_Preface.json`](https://raw.githubusercontent.com/elana-voss/croll-preface/main/lorebook/Croll_Admonitory_Preface.json): the worldbook, built from the word list. Download it and import it in SillyTavern under World Info, Import.
+
 ## What is here
 
 - `src/`: the site, an [mdBook](https://rust-lang.github.io/mdBook/): one page per section of the Preface, a page on the Preface as a whole, two subjects each on a *Plain Terms* page (every point with its quotes and references) and a *Plain Language* page (the same in everyday words), and a word list. `src/introduction.md` explains the references.
